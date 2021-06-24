@@ -35,10 +35,10 @@ const connectTODB = () : Promise<any> => {
       };
 
       // Create an objectStore for this database
-      objectStore = db.createObjectStore("questions", { keyPath: "labels" });
+      objectStore = db.createObjectStore("questions", { keyPath: "qId" });
 
       // define what data items the objectStore will contain
-      objectStore.createIndex("qId", "qId", { unique: false });
+      objectStore.createIndex("qId", "qId", { unique: true });
       objectStore.createIndex("qName", "qName", { unique: false });
       objectStore.createIndex("description", "description", { unique: false });
       objectStore.createIndex("labels", "labels", { unique: false });

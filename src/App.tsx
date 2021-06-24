@@ -15,8 +15,8 @@ const App : React.FunctionComponent= function() {
         </p>
         
       </header>
-      <main>
-        {isDBPresent && <p>Index DB is supported in your browser</p>}
+      <main style={{margin:'20px'}}>
+        {/* {isDBPresent && <p>Index DB is supported in your browser</p>} */}
         {isDBPresent && <MainComponent/>}
       </main>
     </div>
