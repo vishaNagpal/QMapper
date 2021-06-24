@@ -36,6 +36,21 @@ const questionsData : IDBModel []= [
         if n = 2 then number of duplicates is 1 (Today is)
         if n = 1 then number of duplicates is (Today, is)
         if n = 3 duplicates is 0"`
+    },
+    {
+        qId:"4",
+        qName:'Closest Matching word',
+        description:'',
+        labels:['string' ,'matching', 'pattern','closest', 'suggestions','search'],
+        level_of_difficulty:'',
+        gist_link:'',
+        detailed_desc:`"find nearest word from the given non-english dictionary which is one off character. (could be non ascii characters)
+        for eg. dictionary contains { apple, pineapple, banana, orange }
+        
+        if given word ""applx"" then return true, as applx matches with apple and only one character is off.
+        aplpe returns false
+        
+        "`
     }
 ]
 
