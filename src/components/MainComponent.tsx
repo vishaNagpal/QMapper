@@ -42,8 +42,9 @@ const MainComponent: React.FunctionComponent = function () {
                         return <tr key={`ques-${ques.qId}`}>
                             <td>{ques.qId}</td>
                             <td>{ques.qName}</td>
-                            <td>{ques.description}
-                                <p className='detailed'>{ques.detailed_desc}</p>
+                            <td>
+                                <pre>{ques.description}
+                                <p className='detailed'>{ques.detailed_desc}</p></pre>
                             </td>
                             <td>{ques.level_of_difficulty}</td>
                             <td>{ques.labels.toString()}</td>
