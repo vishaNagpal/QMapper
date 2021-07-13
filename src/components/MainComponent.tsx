@@ -1,9 +1,11 @@
 import React, {useEffect, useState } from 'react';
+// import ResumeParser from 'simple-resume-parser';
 import { getValueFromDb } from '../db/dbConnection';
 import { IDBModel } from '../db/dbInterface';
 
 const MainComponent: React.FunctionComponent = function () {
     const searchRef = React.useRef<HTMLInputElement>(null);
+    const uploadRef = React.useRef<HTMLInputElement>(null);
     const [list, setQList] = useState<IDBModel[] | []>([]);
     const [filteredList, updateFilteredList] = useState<IDBModel[] | []>([]);
 
@@ -11,6 +13,16 @@ const MainComponent: React.FunctionComponent = function () {
         const dataReq = getValueFromDb();  // make your request
         dataReq.then(val => setQList(val));
     }, []);
+
+    useEffect(()=>{
+        var xhr = new XMLHttpRequest();
+        xhr.open("GET", "careercup.py", true);
+        // xhr.responseType = "JSON";
+        xhr.onload = function(e) {
+          console.log(xhr.response);
+        }
+        xhr.send();
+    },[]);
 
     const filterLabels = (event:any)=>{
         if(event.target){
@@ -23,8 +35,16 @@ const MainComponent: React.FunctionComponent = function () {
         }
     }
 
+    const uploadResume = (event:any)=>{
+        console.log(uploadRef.current?.files);
+        // ResumeParser.
+    }
+
     const listToLoop = filteredList.length ? filteredList : list;
     return (<>
+        <section>
+        <input ref={uploadRef} type='file' placeholder='Upload CV' id='upload' name='upload' style={{height: '25px',width: '300px'}} onChange={uploadResume}/>
+        </section>
         <section style={{ padding: '20px', margin: '20px' }}>
             <input ref={searchRef} placeholder='Search keywords' id='search' name='search' style={{height: '25px',width: '300px'}} onChange={filterLabels}/>
         </section>

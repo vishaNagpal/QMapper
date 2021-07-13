@@ -20,11 +20,15 @@ const connectTODB = () : Promise<any> => {
     let objectStore : IDBObjectStore;
     const dataPromise = new Promise((resolve)=>{
       DBOpenRequest.onsuccess = async function(event) {
-        db = DBOpenRequest.result;
+        try{
+          db = DBOpenRequest.result;
         const transaction = db.transaction("questions", 'readwrite');
         objectStore = transaction.objectStore("questions");
         const response =  await getData(objectStore);
         resolve(response);
+        }catch(e){
+          console.log(e.message);
+        }
       };
 
 
