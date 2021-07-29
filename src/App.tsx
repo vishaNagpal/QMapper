@@ -9,7 +9,6 @@ const App : React.FunctionComponent= function() {
     <div className="App">
       <header className="App-header">
       <span style={{float:'right'}}>Hi Vishakha</span>
-        {/* <img style={{float:'left'}} src={logo} className="App-logo" alt="logo" /> */}
         <p>
           Question Mapper (Type a keyword and get matching questions)
         </p>

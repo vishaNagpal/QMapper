@@ -1,0 +1,30 @@
+{"i": "6355315606421504", "t": "3)\tWhat is static polymorphism?", "k": ["static polymorphism", "polymorphism", "static"]}
+{"i": "5931430117376000", "t": "2)\tWhat is polymorphism?", "k": ["polymorphism"]}
+{"i": "6632504675532800", "t": "1)\tWhat is a superclass?", "k": ["superclass"]}
+{"i": "4926031020949504", "t": ". ___________Procedure in marketing which consists of enlisting opinion leaders as \u201cbrand ambassadors\u201d is called", "k": ["brand ambassadors", "procedure in marketing", "enlisting opinion leaders", "procedure", "marketing which consists"]}
+{"i": "5302222928216064", "t": ".__________ behavior Highly involved consumer buying behavior while perceiving significant differences between brands", "k": ["highly involved consumer", "behavior highly involved", "involved consumer buying", "perceiving significant differences", "consumer buying behavior"]}
+{"i": "5772721814765568", "t": "which Products like as \u201cVHS tapes\u201d", "k": ["vhs tapes", "vhs", "products", "tapes"]}
+{"i": "5199112574599168", "t": "Which way of consumers feel or perceive towards an actual product or potential market offering", "k": ["potential market offering", "market offering", "consumers feel", "feel or perceive", "actual product"]}
+{"i": "4646821907922944", "t": ". Product development comes from_________ source of idea.", "k": ["source of idea", "product development", "product", "source", "idea"]}
+{"i": "4649902741651456", "t": ". Which Of The Following Factors Can Impact The Open Rate Of Your Email Campaigns?", "k": ["email campaigns", "factors can impact", "impact the open", "open rate", "campaigns"]}
+{"i": "5897335324803072", "t": "A Robust Social Media Plan Includes Which Of The Following?", "k": ["robust social media", "social media plan", "media plan includes", "robust social", "social media"]}
+{"i": "6629472629948416", "t": ".________ is the new content management tool for SWEET ?", "k": ["tool for sweet", "content management tool", "sweet", "content management", "management tool"]}
+{"i": "4978996289208320", "t": "._________ name of the Hosting Company that is used for all external consumer-facing sites?", "k": ["external consumer-facing sites", "hosting company", "consumer-facing sites", "external consumer-facing", "hosting"]}
+{"i": "6069554722111488", "t": ". which name is the latest major change in functionality?", "k": ["latest major change", "change in functionality", "latest major", "major change", "functionality"]}
+{"i": "5520835605954560", "t": ". SEO stand for?", "k": ["seo stand", "seo", "stand"]}
+{"i": "5621678283948032", "t": "which is keeping someone on your website and encouraging them to come back?", "k": ["website and encouraging", "back", "keeping", "website", "encouraging"]}
+{"i": "5229804259901440", "t": "the possibility of website visitors following through on contacting you is", "k": ["possibility of website", "website visitors", "possibility", "website", "visitors"]}
+{"i": "5865172881637376", "t": "the best way to make money \u201cwhile you sleep\u201d?", "k": ["make money", "money", "sleep", "make"]}
+{"i": "6473016769249280", "t": "is it most ideal to send a press release?", "k": ["press release", "ideal to send", "send a press", "release", "ideal"]}
+{"i": "6146133921890304", "t": "Which marketing techniques are most likely to pay you?", "k": ["marketing techniques", "marketing", "techniques", "pay"]}
+{"i": "6184628237369344", "t": "which main objective of branding is?", "k": ["main objective", "objective of branding", "main", "objective", "branding"]}
+{"i": "6589599428640768", "t": "The best way to improve search engine ranking is with", "k": ["improve search engine", "search engine ranking", "improve search", "search engine", "engine ranking"]}
+{"i": "5910634036723712", "t": "search page engine optimization refers to_________", "k": ["search page engine", "page engine optimization", "engine optimization refers", "search page", "page engine"]}
+{"i": "5058728330526720", "t": "Way promote a business with social media is__________", "k": ["promote a business", "business with social", "social media", "promote", "business"]}
+{"i": "6534425741885440", "t": "website functions, which are the most important?", "k": ["website functions", "website", "functions", "important"]}
+{"i": "4784734129881088", "t": "where technology will not feature in the development of these relationships, this is known as a ______ relationship.", "k": ["relationships", "technology", "feature", "development"]}
+{"i": "4587913747103744", "t": "In a market where companies build close connective relationships where Internet technology will not feature strongly in the development of these relationships, this is known as a ______ relationship. | Digital Marketing Mcqs", "k": ["companies build close", "build close connective", "digital marketing mcqs", "close connective relationships", "internet technology"]}
+{"i": "6627589421006848", "t": "Which production is related to procurement?", "k": ["related to procurement", "production is related", "procurement", "production", "related"]}
+{"i": "5503572723105792", "t": "By bulk buying of items, One aim of e-procurement is to increase savings", "k": ["buying of items", "increase savings", "bulk buying", "aim of e-procurement", "items"]}
+{"i": "6479490090270720", "t": "Content Marketing is a type of Digital Marketing.", "k": ["digital marketing", "content marketing", "type of digital", "marketing", "digital"]}
+{"i": "6652364604309504", "t": ".  Is Social Media Marketing is a type of Digital Marketing?", "k": ["social media marketing", "social media", "media marketing", "digital marketing", "type of digital"]}

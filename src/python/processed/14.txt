@@ -1,0 +1,30 @@
+{"i": "5745174498508800", "t": "What is pointer to pointer in C?", "k": ["pointer", "pointer to pointer"]}
+{"i": "5857891620225024", "t": "how to source best photo editing company", "k": ["photo editing company", "editing company", "source best photo", "photo editing", "company"]}
+{"i": "6290013313040384", "t": "Design a graph problem, given an function getFriend(int user) which returns all the users 1st degree friends, write a function to check:\r 1. whether two users are first-level, second-level and third-level connections\r2. function that outputs a users 2nd degree and 3rd degree friends", "k": ["degree friends", "design a graph", "graph problem", "second-level and third-level", "third-level connections"]}
+{"i": "5465724934422528", "t": "Can I use int datatype to store 32768 value?", "k": ["datatype to store", "int datatype", "store", "int", "datatype"]}
+{"i": "4951923633946624", "t": "What is the main difference between the Compiler and the Interpreter?", "k": ["main difference", "interpreter", "compiler", "main", "difference"]}
+{"i": "6217561778159616", "t": "Mention the features of C Programming Language.", "k": ["programming language", "mention the features", "language", "programming", "mention"]}
+{"i": "6359628223348736", "t": "What is Preprocessor?", "k": ["preprocessor"]}
+{"i": "4802918266437632", "t": "What is a C Token?", "k": ["token"]}
+{"i": "6049635536207872", "t": "What do you mean by a Nested Structure?", "k": ["nested structure", "structure", "nested"]}
+{"i": "5116093004251136", "t": "Can a C program be compiled or executed in the absence of a main()?", "k": ["program be compiled", "compiled or executed", "main", "program", "compiled"]}
+{"i": "5203176670625792", "t": "Differentiate between Actual Parameters and Formal Parameters?", "k": ["differentiate between actual", "actual parameters", "formal parameters", "parameters and formal", "parameters"]}
+{"i": "6298687939018752", "t": "How can we store a negative integer?", "k": ["negative integer", "store a negative", "integer", "store", "negative"]}
+{"i": "6601642516938752", "t": "What are the valid places where the programmer can apply Break Control Statement?", "k": ["break control statement", "apply break control", "control statement", "break control", "apply break"]}
+{"i": "4691911078576128", "t": "Differentiate between calloc() and malloc()", "k": ["differentiate between calloc", "differentiate", "calloc", "malloc"]}
+{"i": "4641572585472000", "t": "What are static variables and functions?", "k": ["variables and functions", "static variables", "functions", "static", "variables"]}
+{"i": "5172788032176128", "t": "What do you mean by the Scope of the variable? What is the scope of the variables in C?", "k": ["scope", "variable", "variables"]}
+{"i": "4858705663754240", "t": "How is a Function declared in C Language?", "k": ["function declared", "language", "function", "declared"]}
+{"i": "5207595655102464", "t": "What is dangling pointer in C?", "k": ["dangling pointer", "dangling", "pointer"]}
+{"i": "5405950398169088", "t": "What is a far pointer in C?", "k": ["pointer"]}
+{"i": "6312483977953280", "t": "What is a NULL pointer in C?", "k": ["null pointer", "null", "pointer"]}
+{"i": "6187623373078528", "t": "What is a pointer in C?", "k": ["pointer"]}
+{"i": "4923735629365248", "t": "What is an array in C?", "k": ["array"]}
+{"i": "6359298517499904", "t": "9.What is the output of the following program?", "k": ["program", "output"]}
+{"i": "4833400320425984", "t": "8.What is the use of the function in C?", "k": ["function"]}
+{"i": "5041504169492480", "t": "7.What is the use of printf() and scanf() functions?", "k": ["functions", "printf", "scanf"]}
+{"i": "5882570569416704", "t": "6.What are the features of the C language?", "k": ["language", "features"]}
+{"i": "4663750269861888", "t": "5.When was C language developed?", "k": ["language developed", "developed", "language"]}
+{"i": "5015314532663296", "t": "4.Who is the founder of C language?", "k": ["language", "founder"]}
+{"i": "5779688855699456", "t": "3.Why is C called a mid-level programming language?", "k": ["mid-level programming language", "programming language", "called a mid-level", "mid-level programming", "language"]}
+{"i": "5941880443895808", "t": "2.Why is C known as a mother language?", "k": ["mother language", "language", "mother"]}

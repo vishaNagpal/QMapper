@@ -1,0 +1,30 @@
+{"i": "6476409256542208", "t": "Businesses leverage digital channels such as _____ to connect with current and prospective customers", "k": ["businesses leverage digital", "leverage digital channels", "businesses leverage", "prospective customers", "leverage digital"]}
+{"i": "5792754213322752", "t": ". Digital marketing revolves around these 5Ds:", "k": ["digital marketing revolves", "digital marketing", "digital", "marketing revolves", "marketing"]}
+{"i": "5501689514164224", "t": "Digital marketing is any form of marketing products or services that involves ___.", "k": ["services that involves", "digital marketing", "products or services", "marketing products", "digital"]}
+{"i": "5740552174174208", "t": "15)\tWhy is OOPs so popular?", "k": ["oops so popular", "popular", "oops"]}
+{"i": "5686289020485632", "t": "14)\tWhat is meant by Structured Programming?", "k": ["structured programming", "meant by structured", "programming", "structured", "meant"]}
+{"i": "4805530210533376", "t": "13)\tWhat is hybrid inheritance?", "k": ["hybrid inheritance", "inheritance", "hybrid"]}
+{"i": "6351029698822144", "t": "12)\tWhat is the difference between multiple and multilevel inheritance?", "k": ["multilevel inheritance", "difference between multiple", "multiple and multilevel", "inheritance", "difference"]}
+{"i": "5162234290896896", "t": "11)\tWhat are the different types of inheritance?", "k": ["types of inheritance", "inheritance", "types"]}
+{"i": "5730939768930304", "t": "10)\tWhat is inheritance?", "k": ["inheritance"]}
+{"i": "5723569068179456", "t": "9)\tWhat is the difference between a class and an object?", "k": ["object", "difference", "class"]}
+{"i": "5650623343624192", "t": "8)\tCan you call the base class method without creating an instance?", "k": ["base class method", "creating an instance", "call the base", "base class", "class method"]}
+{"i": "5704166368870400", "t": "7)\tWhat is the difference between a class and a structure?", "k": ["structure", "difference", "class"]}
+{"i": "5723346870730752", "t": "6)\tWhat is a class?", "k": ["class"]}
+{"i": "5778606456832000", "t": "5)\tWhat is an object?", "k": ["object"]}
+{"i": "5690729546907648", "t": "4)\tWhat are the main features of OOPs?", "k": ["features of oops", "main features", "oops", "main", "features"]}
+{"i": "5708044640452608", "t": "3)\tWhy use OOPs?", "k": ["oops"]}
+{"i": "5803105017397248", "t": "2)\tWhat is OOPs?", "k": ["oops"]}
+{"i": "5683583123980288", "t": "1)\tWhat is the difference between OOP and SOP?", "k": ["oop and sop", "difference between oop", "sop", "oop", "difference"]}
+{"i": "5526464697466880", "t": "The main objective of digital marketing is to _________", "k": ["main objective", "objective of digital", "digital marketing", "main", "objective"]}
+{"i": "5229415699578880", "t": "the customer review of a product on an E-Commerce website.", "k": ["e-commerce website", "customer review", "website", "customer", "review"]}
+{"i": "5890823617511424", "t": ".___________ is classified An idea for a possible product that company will offer", "k": ["company will offer", "classified an idea", "product that company", "offer", "classified"]}
+{"i": "6628607328256000", "t": "\u2019Maslow\u2019s hierarchy of needs", "k": ["\u2019maslow\u2019s hierarchy", "\u2019maslow\u2019s", "hierarchy"]}
+{"i": "6702068448886784", "t": "media and message are considered as_____________ in communication process", "k": ["media and message", "communication process", "message are considered", "media", "process"]}
+{"i": "4705964144459776", "t": "stage in which purchase intention is transformed in to purchase decision is called", "k": ["decision is called", "intention is transformed", "purchase intention", "purchase decision", "stage"]}
+{"i": "5347116862406656", "t": ".____________communication process, receiver and sender are classified as", "k": ["communication process", "receiver and sender", "sender are classified", "communication", "process"]}
+{"i": "5762062528020480", "t": "When the new developed product concept is tested, the next immediate step is to", "k": ["developed product concept", "concept is tested", "developed product", "product concept", "tested"]}
+{"i": "6496441655099392", "t": "Stages such as conviction stage, liking stage, preference stage, and actual purchase stage are all of the process called", "k": ["actual purchase stage", "process called", "actual purchase", "liking stage", "preference stage"]}
+{"i": "6140292363714560", "t": "customer is _________, If customer\u2019s expectations and products performance matches", "k": ["products performance matches", "performance matches", "expectations and products", "products performance", "matches"]}
+{"i": "4571893787525120", "t": "which is an online platform operated by a third party and is open to buyers or sellers in a particular industry.\rA.vertical and horizontal e-marketplace.", "k": ["online platform operated", "online platform", "platform operated", "open to buyers", "buyers or sellers"]}
+{"i": "4764923710668800", "t": "which is normally run by a consortium of buyers in order to establish an efficient purchasing environment.", "k": ["efficient purchasing environment", "purchasing environment", "consortium of buyers", "buyers in order", "order to establish"]}

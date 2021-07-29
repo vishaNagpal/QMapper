@@ -16,7 +16,7 @@ const MainComponent: React.FunctionComponent = function () {
 
     useEffect(()=>{
         var xhr = new XMLHttpRequest();
-        xhr.open("GET", "careercup.py", true);
+        xhr.open("GET", "../careercup.py", true);
         // xhr.responseType = "JSON";
         xhr.onload = function(e) {
           console.log(xhr.response);

@@ -1,0 +1,30 @@
+{"i": "5383425979056128", "t": "8)\tHow to comment multiple lines in python?", "k": ["comment multiple lines", "lines in python", "comment multiple", "multiple lines", "python"]}
+{"i": "5074558523015168", "t": "7)\tHow will you convert a string to all lowercase?", "k": ["convert a string", "lowercase", "convert", "string"]}
+{"i": "4806584574672896", "t": "8) How will you capitalize the first letter of string?", "k": ["letter of string", "string", "capitalize", "letter"]}
+{"i": "6474266806059008", "t": "5)\tWhat are the generators in python?", "k": ["generators in python", "python", "generators"]}
+{"i": "5971475788464128", "t": "4)\tWhat is pickling and unpickling?", "k": ["pickling and unpickling", "unpickling", "pickling"]}
+{"i": "5943842505752576", "t": "3)\tWhat is the difference between range & xrange?", "k": ["xrange", "difference between range", "range", "difference"]}
+{"i": "4652706549989376", "t": "2) How can you generate random numbers in Python?", "k": ["numbers in python", "generate random numbers", "python", "generate random", "random numbers"]}
+{"i": "6139118495465472", "t": "1)\tWhat are python iterators?", "k": ["python iterators", "iterators", "python"]}
+{"i": "6568860323414016", "t": "18) Define encapsulation in Python?", "k": ["define encapsulation", "encapsulation in python", "define", "python", "encapsulation"]}
+{"i": "5013218588622848", "t": "17)\tWhat is the \u2018with statement\u2019?", "k": ["statement\u2019"]}
+{"i": "4683554347286528", "t": "16)\tWhat is the bytes() function?", "k": ["function", "bytes"]}
+{"i": "4817942598909952", "t": "15)\tWhat is a classifier?", "k": ["classifier"]}
+{"i": "6690401707098112", "t": "14)\tWhat is __init__?", "k": ["init"]}
+{"i": "5933491701678080", "t": "13)\t Explain how to delete a file in Python?", "k": ["file in python", "explain", "python", "delete a file", "delete"]}
+{"i": "5564501800255488", "t": "12)\tWhat are iterators in Python?", "k": ["iterators in python", "python", "iterators"]}
+{"i": "4738759038337024", "t": "11)\tWhat are generators in Python?", "k": ["generators in python", "python", "generators"]}
+{"i": "5365867280334848", "t": "10)\tWhat is break, continue and pass in Python?", "k": ["pass in python", "continue and pass", "python", "break", "continue"]}
+{"i": "4777253353816064", "t": "9)\tWhat is self in Python?", "k": ["python"]}
+{"i": "6421767340425216", "t": "8) How do you copy an object in Python?", "k": ["object in python", "python", "copy an object", "copy", "object"]}
+{"i": "6346114444296192", "t": "7)\tWhat is pass in Python?", "k": ["pass in python", "python", "pass"]}
+{"i": "4998035610796032", "t": "6)\tWhat is Scope in Python?", "k": ["scope in python", "python", "scope"]}
+{"i": "4680699737538560", "t": "5)\tHow is memory managed in Python?", "k": ["managed in python", "python", "memory managed", "memory", "managed"]}
+{"i": "4988006342066176", "t": "4)\tWhat are the benefits of using Python?", "k": ["python", "benefits"]}
+{"i": "6513141695905792", "t": "3)\tWhat are the benefits of using Python?", "k": ["python", "benefits"]}
+{"i": "5488421571657728", "t": "2)\tWhat is Python?", "k": ["python"]}
+{"i": "5294693565333504", "t": "1)\tWhat are the key features of Python?", "k": ["features of python", "python", "key features", "key", "features"]}
+{"i": "6510287086157824", "t": "30)\tDoes constructor return any value?", "k": ["constructor return", "constructor", "return"]}
+{"i": "6584882078154752", "t": "29)\tHow many types of constructors are used in Java?", "k": ["java", "types of constructors", "types", "constructors"]}
+{"i": "5933103141355520", "t": "28)\tGive an example of Pointers use in Java class.", "k": ["java class", "give", "pointers", "java", "class"]}
+{"i": "4898034545065984", "t": "27)\tWhat is the advantage of using inheritance?", "k": ["inheritance", "advantage"]}
