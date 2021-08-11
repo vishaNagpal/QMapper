@@ -27,11 +27,18 @@ def upload_resume():
         print("Error opening or reading input file: ", path)
 
 
-@app.route('/fetchQuestions')
+@app.route('/fetchSimilarity')
 @cross_origin(supports_credentials=True)
 def fetch_questions():
     words = request.args.get('words');
     responseData = getSimilarityFromWords(words);
+    return jsonify(responseData)
+
+@app.route('/fetchQuestions')
+@cross_origin(supports_credentials=True)
+def fetch_questions():
+    words = request.args.get('words');
+    responseData = getMatchingQuestionsFromWords(words);
     return jsonify(responseData)
 
 
