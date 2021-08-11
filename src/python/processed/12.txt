@@ -1,0 +1,30 @@
+{"i": "6287385346703360", "t": "How to create a new column in pandas by using values from other columns?", "k": ["column in pandas", "create", "pandas", "column", "columns"]}
+{"i": "4799885281329152", "t": "What is the difference between NumPy and SciPy?", "k": ["numpy and scipy", "difference between numpy", "scipy", "difference", "numpy"]}
+{"i": "6198015113560064", "t": "What is docstring in Python?", "k": ["docstring in python", "python", "docstring"]}
+{"i": "6505998024441856", "t": "How can you initialize a 5*5 NumPy array with only zeroes?", "k": ["numpy array", "numpy", "zeroes", "initialize", "array"]}
+{"i": "6330815502352384", "t": "Find out the mean, median and standard deviation of this numpy array -> np.array([1,5,3,100,4,48])", "k": ["np.array", "median and standard", "numpy array", "standard deviation", "find"]}
+{"i": "6183376657055744", "t": "What are the key features of Python?", "k": ["features of python", "python", "key features", "key", "features"]}
+{"i": "6207260164882432", "t": "What is the difference between JDK, JRE, and JVM?", "k": ["difference between jdk", "jre", "jdk", "jvm", "difference"]}
+{"i": "6536118713974784", "t": "How to count the number of occurrences of a character in a string in java?", "k": ["string in java", "count the number", "number of occurrences", "java", "count"]}
+{"i": "4900749568376832", "t": "How to run a java program in the command prompt?", "k": ["command prompt", "run a java", "java program", "prompt", "run"]}
+{"i": "6511627115954176", "t": "What is dao in java?", "k": ["dao in java", "java", "dao"]}
+{"i": "5663089083547648", "t": "How to set classpath in java?", "k": ["classpath in java", "set classpath", "java", "set", "classpath"]}
+{"i": "5410218807132160", "t": "What is autoboxing and unboxing in java?", "k": ["unboxing in java", "autoboxing and unboxing", "java", "autoboxing", "unboxing"]}
+{"i": "6319547789869056", "t": "How to convert string to date in java in yyyy-mm-dd format?", "k": ["convert string", "string to date", "date in java", "format", "convert"]}
+{"i": "6575220096237568", "t": "what is mvc in java?", "k": ["mvc in java", "java", "mvc"]}
+{"i": "6286871410245632", "t": "When to use comparable and comparator in java with example?", "k": ["comparable and comparator", "comparator in java", "comparable", "comparator", "java"]}
+{"i": "5420248075862016", "t": "Which class contains the clone method? Cloneable or Object?", "k": ["clone method", "cloneable or object", "method", "object", "class"]}
+{"i": "5161485439860736", "t": "Is ++ operator is thread-safe in Java?", "k": ["thread-safe in java", "operator is thread-safe", "java", "operator", "thread-safe"]}
+{"i": "6305837398622208", "t": "What are object serialization and deserialization?", "k": ["serialization and deserialization", "object serialization", "deserialization", "object", "serialization"]}
+{"i": "5177507194601472", "t": "What is servlet in java?", "k": ["servlet in java", "java", "servlet"]}
+{"i": "5079477049098240", "t": "How to create immutable class in java?", "k": ["create immutable class", "class in java", "create immutable", "immutable class", "java"]}
+{"i": "6332279280893952", "t": "What is serialization in java?", "k": ["serialization in java", "java", "serialization"]}
+{"i": "4846701632815104", "t": "How to use getline in C++?", "k": ["getline"]}
+{"i": "5973168760553472", "t": "How to split a string in C++?", "k": ["split a string", "split", "string"]}
+{"i": "6279855983820800", "t": "How to call base class constructor from derived class in C++?", "k": ["call base class", "base class constructor", "call base", "constructor from derived", "base class"]}
+{"i": "5943048071020544", "t": "What is oops in C++?", "k": ["oops"]}
+{"i": "6464851633766400", "t": "What is runtime polymorphism in C++?", "k": ["runtime polymorphism", "runtime", "polymorphism"]}
+{"i": "5948677162532864", "t": "How is modularity introduced in C++?", "k": ["modularity introduced", "modularity", "introduced"]}
+{"i": "5074919015055360", "t": "How to remove segmentation fault in C++?", "k": ["remove segmentation fault", "remove segmentation", "segmentation fault", "remove", "segmentation"]}
+{"i": "5153956076978176", "t": "What is friend function in C++?", "k": ["friend function", "friend", "function"]}
+{"i": "5449320189394944", "t": "What is inline function in C++?", "k": ["inline function", "inline", "function"]}

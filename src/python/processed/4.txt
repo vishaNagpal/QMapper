@@ -1,0 +1,30 @@
+{"i": "4931377718362112", "t": "13)\tWhat are design patterns?", "k": ["design patterns", "patterns", "design"]}
+{"i": "6495091424755712", "t": "12)\tWhat is a control?", "k": ["control"]}
+{"i": "6054196791476224", "t": "11)\tWhat is a component?", "k": ["component"]}
+{"i": "5334385371381760", "t": "10)\tWhat is business logic?", "k": ["business logic", "logic", "business"]}
+{"i": "6184442412924928", "t": "9)\tWhat is an Interface?", "k": ["interface"]}
+{"i": "5628591839117312", "t": "8)\tWhat is inheritance hierarchy?", "k": ["inheritance hierarchy", "hierarchy", "inheritance"]}
+{"i": "6646735512797184", "t": "7)\tDefine Overriding?", "k": ["define overriding", "define", "overriding"]}
+{"i": "5951529893232640", "t": "6)\tWhat is implementation and interface inheritance?", "k": ["interface inheritance", "implementation and interface", "inheritance", "implementation", "interface"]}
+{"i": "5368480163954688", "t": "5)\tWhat is inheritance?", "k": ["inheritance"]}
+{"i": "5058542506082304", "t": "4)\tWhat is an application server?", "k": ["application server", "server", "application"]}
+{"i": "6342390707650560", "t": "3)\tHow is .NET able to support multiple languages?", "k": ["support multiple languages", "multiple languages", "net", "support multiple", "languages"]}
+{"i": "5038772033421312", "t": "2)\tHow many languages .NET is supporting now?", "k": ["net is supporting", "net", "languages", "supporting"]}
+{"i": "6229488633905152", "t": "1)\tWhat is .NET?", "k": ["net"]}
+{"i": "6333529317703680", "t": "20)\tDefine exception handling.", "k": ["define exception handling", "define exception", "exception handling", "define", "handling"]}
+{"i": "6591867171373056", "t": "19)\tWhat is meant by an exception?", "k": ["exception", "meant"]}
+{"i": "5775802648494080", "t": "18)\tWhat is a final variable?", "k": ["final variable", "variable", "final"]}
+{"i": "4611671023157248", "t": "17)\t Should you always use Object-oriented programming? Are there any limitations of Object-oriented programming?", "k": ["object-oriented programming", "programming", "object-oriented", "limitations of object-oriented", "limitations"]}
+{"i": "4928296884633600", "t": "16)\t What is a try-catch block?", "k": ["try-catch block", "block", "try-catch"]}
+{"i": "5803826571902976", "t": "15)\tWhat is Garbage Collection(GC)?", "k": ["garbage collection", "collection", "garbage"]}
+{"i": "6073840629710848", "t": "14)\tWhat is the use of \u2018finalize\u2019?", "k": ["finalize\u2019"]}
+{"i": "6305365606531072", "t": "13)\tWhat is a constructor?", "k": ["constructor"]}
+{"i": "6233004869943296", "t": "12)\tWhat are pure virtual functions?", "k": ["pure virtual functions", "virtual functions", "pure virtual", "functions", "pure"]}
+{"i": "6260743647789056", "t": "11)\tWhat are virtual functions?", "k": ["virtual functions", "functions", "virtual"]}
+{"i": "6393833544220672", "t": "10)\tCan you create an instance of an abstract class?", "k": ["abstract class", "create an instance", "class", "create", "instance"]}
+{"i": "4947940722868224", "t": "9)\tWhat is an abstract class?", "k": ["abstract class", "class", "abstract"]}
+{"i": "5602149956845568", "t": "8)\tWhat is data abstraction?", "k": ["data abstraction", "abstraction", "data"]}
+{"i": "5107104963100672", "t": "7)\tWhat are \u2018access specifiers\u2019?", "k": ["access specifiers\u2019", "access", "specifiers\u2019"]}
+{"i": "6028917217951744", "t": "6)\tWhat is encapsulation?", "k": ["encapsulation"]}
+{"i": "4962174714249216", "t": "5)\tWhat is operator overloading?", "k": ["operator overloading", "overloading", "operator"]}
+{"i": "5267933637378048", "t": "4)\tWhat is dynamic polymorphism?", "k": ["dynamic polymorphism", "polymorphism", "dynamic"]}

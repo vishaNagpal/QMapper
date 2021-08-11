@@ -1,0 +1,30 @@
+{"i": "6718140484943872", "t": "26)\tHow can we create copy of a Java object?", "k": ["java object", "create copy", "java", "object", "create"]}
+{"i": "5913459303120896", "t": "25)\tThere are two types of classes named classA and classB. Both the classes contain in the same package. Can classA private member can be accessed by an object of classB?", "k": ["classes named classa", "classes named", "classb", "named classa", "classes"]}
+{"i": "6365260536086528", "t": "24)\tCan a class have two methods with the same name?", "k": ["class", "methods"]}
+{"i": "5911316852637696", "t": "23)\tHow have the objects of a class been created if no constructor is defined in the class?", "k": ["constructor is defined", "class been created", "class", "objects", "created"]}
+{"i": "6051371525079040", "t": "22)\tWhat is the reason for using Break in each case of a Switch statement?", "k": ["switch statement", "break", "switch", "statement", "reason"]}
+{"i": "5597178582532096", "t": "21)\tHow can we implement any code before the main method?", "k": ["main method", "implement any code", "method", "implement", "code"]}
+{"i": "4782703130443776", "t": "20)\tWhat are the two methods of executing multi-threading in Java?", "k": ["multi-threading in java", "java", "methods of executing", "executing multi-threading", "methods"]}
+{"i": "5857643518754816", "t": "19)\tIn java why strings are known as Immutable?", "k": ["immutable", "java why strings", "java", "strings"]}
+{"i": "6209764936122368", "t": "18)\tWhat is the difference between Vector and an array?", "k": ["difference between vector", "vector", "array", "difference"]}
+{"i": "5320674980134912", "t": "17)\tCan string be a data type in Java?", "k": ["type in java", "java", "data type", "string", "data"]}
+{"i": "5928817233756160", "t": "16)\tIs it possible for us to override static methods of a class?", "k": ["override static methods", "override static", "static methods", "class", "override"]}
+{"i": "5384387179315200", "t": "15)\tWhen is the class constructor invoked?", "k": ["class constructor invoked", "constructor invoked", "class constructor", "invoked", "class"]}
+{"i": "5409651586236416", "t": "14)\tDoes main() method in java return any data?", "k": ["method in java", "return any data", "java return", "main", "method"]}
+{"i": "4818664153415680", "t": "13)\tWhat are known as Java Packages? What is the significance of packages?", "k": ["java packages", "packages", "java", "significance of packages", "significance"]}
+{"i": "6395381225619456", "t": "12)\tWhat is known as the base class in Java from which all the classes are derived?", "k": ["class in java", "classes are derived", "base class", "java", "derived"]}
+{"i": "5947337132736512", "t": "11)\tWhat is known as a ternary operator? Provide an example.", "k": ["ternary operator", "operator", "ternary", "provide"]}
+{"i": "5747442241241088", "t": "10)\tHow will you generate random numbers in Java?", "k": ["numbers in java", "generate random numbers", "java", "generate random", "random numbers"]}
+{"i": "6606840702435328", "t": "9)\tExplain the difference between float and double variables in Java?", "k": ["explain the difference", "variables in java", "explain", "java", "difference between float"]}
+{"i": "4732917480161280", "t": "8)\tWhat is known as a final keyword in Java? Give an example", "k": ["keyword in java", "java", "final keyword", "final", "keyword"]}
+{"i": "5592240578101248", "t": "7)\tWhat is known as infinite loop? Explain how infinite loop is declared?", "k": ["infinite loop", "infinite", "loop", "explain how infinite", "loop is declared"]}
+{"i": "6488735141593088", "t": "6)\tExplain the difference between break and continue statement?", "k": ["explain the difference", "continue statement", "explain", "difference between break", "break and continue"]}
+{"i": "4731743611912192", "t": "5)\tWhat is a singleton class? Give an example", "k": ["singleton class", "class", "singleton", "give"]}
+{"i": "5883624933556224", "t": "4)\tWhat is the purpose of static variables and static methods?", "k": ["static methods", "static variables", "methods", "purpose of static", "variables and static"]}
+{"i": "6043704924569600", "t": "3)\tWhat is known as data encapsulation and explain it\u2019s significance?", "k": ["data encapsulation", "encapsulation and explain", "significance", "data", "encapsulation"]}
+{"i": "6225317482463232", "t": "2)\tWhat is the difference between an Inner class and a Subclass?", "k": ["subclass", "difference", "class"]}
+{"i": "6527108661116928", "t": "1)\tWhat are the different access specifiers for Java classes?", "k": ["java classes", "specifiers for java", "access specifiers", "java", "classes"]}
+{"i": "6370889627598848", "t": "15)\tWhat is called Loops in Java? What are the three types of loops?", "k": ["loops in java", "java", "called loops", "loops", "called"]}
+{"i": "5269481318776832", "t": "14)\tWhat are the advantages of Packages in Java?", "k": ["packages in java", "advantages of packages", "java", "packages", "advantages"]}
+{"i": "4893925603540992", "t": "13)\tWhat are the various access specifiers in Java?", "k": ["specifiers in java", "java", "access specifiers", "access", "specifiers"]}
+{"i": "6226039036968960", "t": "12)\tWhat is the default value of the local variables?", "k": ["local variables", "variables", "default", "local"]}

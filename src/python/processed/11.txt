@@ -1,0 +1,30 @@
+{"i": "5221232444702720", "t": "11)\tWhat are the best ways to increase website traffic?", "k": ["increase website traffic", "website traffic", "increase website", "traffic", "increase"]}
+{"i": "4790640230006784", "t": "10)\tmention what are the key elements to optimize the conversion rates per PPC?", "k": ["rates per ppc", "key elements", "elements to optimize", "optimize the conversion", "conversion rates"]}
+{"i": "5088678211223552", "t": "9)\tMention what is an effective PPC keyword should be like?", "k": ["effective ppc keyword", "effective ppc", "ppc keyword", "mention", "ppc"]}
+{"i": "4824291835641856", "t": "8)\tExplain what is Google Adwords?", "k": ["google adwords", "explain", "adwords", "google"]}
+{"i": "5998381007110144", "t": "7)\tMention what are the primary models for determining Pay-Per-Click ?", "k": ["models for determining", "mention", "primary models", "determining", "primary"]}
+{"i": "5401208754274304", "t": "6)\tExplain what is PPC or Pay Per Click advertising?", "k": ["ppc or pay", "pay per click", "click advertising", "explain", "ppc"]}
+{"i": "5279510587506688", "t": "5)\tMention what are the key areas where you can use keywords to optimize the site ranking", "k": ["site ranking", "key areas", "keywords to optimize", "optimize the site", "mention"]}
+{"i": "6019391047598080", "t": "4)\tExplain what is a keyword in digital marketing ? How important is it from the point of SEO?", "k": ["point of seo", "digital marketing", "keyword in digital", "explain", "seo"]}
+{"i": "5911193439436800", "t": "3)\tExplain what is SEO?", "k": ["explain", "seo"]}
+{"i": "6021932124733440", "t": "2)\tHow can you categorize the digital marketing?", "k": ["digital marketing", "categorize the digital", "marketing", "categorize", "digital"]}
+{"i": "6024362421911552", "t": "1)\tExplain what is digital marketing?", "k": ["digital marketing", "explain", "marketing", "digital"]}
+{"i": "6710347602329600", "t": "What are the state management techniques used in .NET?", "k": ["net", "state management techniques", "state management", "management techniques", "state"]}
+{"i": "4787559396278272", "t": "What are the parameters that control connection pooling behaviors in .NET?", "k": ["net", "control connection pooling", "connection pooling behaviors", "parameters that control", "control connection"]}
+{"i": "6213959458226176", "t": "What are some of the templates that are present in Repeater control?", "k": ["repeater control", "present in repeater", "repeater", "control", "templates"]}
+{"i": "5066891922505728", "t": "What are the types of cookies available in ASP.NET?", "k": ["types of cookies", "asp.net", "types", "cookies"]}
+{"i": "4720076870123520", "t": "How many elements can a tuple hold in .NET?", "k": ["net", "tuple hold", "elements", "tuple", "hold"]}
+{"i": "4893491140755456", "t": "What is meant by Managed and Unmanaged code?", "k": ["managed and unmanaged", "unmanaged code", "meant by managed", "managed", "unmanaged"]}
+{"i": "4716560634085376", "t": "How can you assign an RGB color to a System.Drawing.Color object?", "k": ["object", "assign an rgb", "rgb color", "rgb", "assign"]}
+{"i": "6281029852069888", "t": "Choosing between HTTP and TCP for protocols and Binary and SOAP for formatters, what are the trade-offs?", "k": ["http and tcp", "binary and soap", "choosing between http", "soap for formatters", "tcp for protocols"]}
+{"i": "6005396433534976", "t": "Explain what relationship is between a Process, Application Domain, and Application?", "k": ["application domain", "explain what relationship", "process", "domain", "application"]}
+{"i": "5480940795592704", "t": "What is .NET?", "k": ["net"]}
+{"i": "4785293532594176", "t": "Explain the file processing modes that Python supports.", "k": ["python supports", "file processing modes", "modes that python", "explain the file", "file processing"]}
+{"i": "6300866024308736", "t": "What do you understand by object-oriented programming in Python?", "k": ["programming in python", "python", "understand by object-oriented", "object-oriented programming", "understand"]}
+{"i": "4682039767334912", "t": "Write a program to print out the 2-table using while loop", "k": ["write a program", "program to print", "write", "loop", "program"]}
+{"i": "5155129945227264", "t": "If you have a dictionary like this -> d1={\u201ck1\u2033:10,\u201dk2\u2033:20,\u201dk3\u201d:30}. How would you increment values of all the keys ?", "k": ["dictionary", "keys", "increment"]}
+{"i": "5088059551383552", "t": "Print the following pattern:\rA\rB C\rD E F\rG H I J\rK L M N O\rP Q R S T U", "k": ["print", "pattern"]}
+{"i": "6746326610477056", "t": "How can you find the minimum and maximum values present in a tuple?", "k": ["find the minimum", "minimum and maximum", "maximum values present", "tuple", "find"]}
+{"i": "5964158707695616", "t": "Implement a probability plot using numpy and matplotlib:", "k": ["implement a probability", "numpy and matplotlib", "probability plot", "plot using numpy", "implement"]}
+{"i": "5099417575620608", "t": "What are the different functions that can be used by grouby in pandas ?", "k": ["grouby in pandas", "pandas", "functions", "grouby"]}
+{"i": "5620426703634432", "t": "How to delete a column or group of columns in pandas? Given the below dataframe drop column \u201ccol1\u201d.", "k": ["pandas", "columns in pandas", "dataframe drop column", "delete", "group"]}

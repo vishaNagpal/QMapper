@@ -1,0 +1,30 @@
+{"i": "5118771704889344", "t": "3)\t Describe HTML.", "k": ["describe html", "describe", "html"]}
+{"i": "5549408614088704", "t": "2)\tWhat does HTML stand for?", "k": ["html stand", "html", "stand"]}
+{"i": "6473583990145024", "t": "1)\tWhat is HTML5?", "k": []}
+{"i": "5125787131314176", "t": "20)\tList the events in the page life cycle.", "k": ["page life cycle", "list the events", "life cycle", "page life", "list"]}
+{"i": "5778245964791808", "t": "19)\tWhat are EXE and DLL?", "k": ["exe and dll", "dll", "exe"]}
+{"i": "5681721658310656", "t": "18)\tDifference between interface and abstract class in .NET?", "k": ["difference between interface", "net", "difference", "interface and abstract", "abstract class"]}
+{"i": "6023890629820416", "t": "17)\tWhat is delegate in .NET?", "k": ["net", "delegate"]}
+{"i": "5497131480121344", "t": "16)\tExplain MVC.", "k": ["explain mvc", "explain", "mvc"]}
+{"i": "4704838393266176", "t": "15)\tWhat is caching?", "k": ["caching"]}
+{"i": "5721996908822528", "t": "14)\tWhat is the difference between custom and user control?", "k": ["user control", "difference between custom", "custom and user", "control", "difference"]}
+{"i": "5527979277418496", "t": "13)\tWhat are MDI and SDI?", "k": ["mdi and sdi", "sdi", "mdi"]}
+{"i": "5150863700525056", "t": "12)\tWhat are the different types of constructors in c#?", "k": ["types of constructors", "types", "constructors"]}
+{"i": "6060081433542656", "t": "11)\tHow do you prevent a class from being inherited?", "k": ["prevent a class", "inherited", "prevent", "class"]}
+{"i": "4588779048796160", "t": "10)\tExplain the different parts of the assembly.", "k": ["explain", "assembly", "parts"]}
+{"i": "5494327671783424", "t": "9)\tFrom which base class all web Forms are inherited?", "k": ["forms are inherited", "web forms", "base class", "class all web", "forms"]}
+{"i": "4853368764235776", "t": "8)\tWhat is LINQ?", "k": ["linq"]}
+{"i": "4652346057949184", "t": "7)\tWhat are the different versions of the .NET framework?", "k": ["net framework", "net", "framework", "versions"]}
+{"i": "6090929230839808", "t": "6)\tWhat is BCL?", "k": ["bcl"]}
+{"i": "4504341199716352", "t": "5)\tDifferentiate between constants and read-only variables.", "k": ["differentiate between constants", "read-only variables", "differentiate", "constants and read-only", "variables"]}
+{"i": "5688737084735488", "t": "4)\tWhat do you know about boxing and unboxing?", "k": ["boxing and unboxing", "unboxing", "boxing"]}
+{"i": "6428122835058688", "t": "3)\tWhat are EXE and DLL?", "k": ["exe and dll", "dll", "exe"]}
+{"i": "6057277625204736", "t": "2)\tWhat are ASP.NET security controls?", "k": ["asp.net security controls", "security controls", "asp.net security", "controls", "asp.net"]}
+{"i": "4948329283190784", "t": "1)\t What is a cross-page posting?", "k": ["cross-page posting", "posting", "cross-page"]}
+{"i": "5844831362875392", "t": "20)\tWhat is the application domain?", "k": ["application domain", "domain", "application"]}
+{"i": "5052910394671104", "t": "19)\tHow ASP .NET different from ASP?", "k": ["asp", "net"]}
+{"i": "6754491745959936", "t": "18)\tWhat is localization?", "k": ["localization"]}
+{"i": "6112358567510016", "t": "17)\tWhat is globalization?", "k": ["globalization"]}
+{"i": "5242688490700800", "t": "16)\tWhat is Boxing/Unboxing?", "k": ["unboxing", "boxing"]}
+{"i": "6088074621091840", "t": "15)\tWhat is a flat file?", "k": ["flat file", "file", "flat"]}
+{"i": "4897990722977792", "t": "14)\tWhat is a connection pool?", "k": ["connection pool", "pool", "connection"]}

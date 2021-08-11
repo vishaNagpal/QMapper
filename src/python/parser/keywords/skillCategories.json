@@ -1,0 +1,15 @@
+[{
+    "database": ["postgress", "sql","mysql","mysql-python","mysqlclient","oursql","pymysql","postgresql","psycopg2","queries","txpostgres","apsw","pymssql","nosql","database","cassandra-python-driver","python-sql","hbase","hadoop","casandra","graphql","grapghQl","dynamo","dynamoDB","mongodb","aurora","Voldemort","oracle"]
+  },
+  {
+    "backendServices": ["django-activity-stream","pip","conda","python","django","java","springboot","rest","micro services","microservices","reddis","kafka","consumer","publisher","spark","storm","rabbitmq","customer service","eventbus","service","Service","aws","aws-cli","azure","google cloud","cloud","shell","bash","script","config","lambda","Heroku","aws Amplify","azure","Kumulos","Rackspace","AnyPresence","feedhenry","CloudBoost","cloudbase.io","cloud","codemesh","Graphcool","Fat Fractal"]
+  },
+  {
+    "automation":["jupyter","ptpython","babel","pyicu","apscheduler","life cycle","webpack","jenkins","lambda","kubernetes","deployment","scaling","docker","container","jenkins"]
+  },
+  {
+    "frontend":["js","javascript","typescript","angular","react","pywebview","jquery","reactjs","scala","swift","ruby","perl","ruby","rubyonrails","html","css","sass","scss","less","vue","next.js","nextjs","ionic","bootstrap","page performace","html5","coffeescript","flutter","reactnative","preact","codekit","meteor","pwa","amp"]
+  },{
+      "management":["management","lead","mentor","scrum","Scrum Master"]
+  }
+  ]

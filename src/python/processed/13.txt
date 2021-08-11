@@ -1,0 +1,30 @@
+{"i": "5066768509304832", "t": "Which is the best C++ compiler?", "k": ["compiler"]}
+{"i": "5101951002345472", "t": "How to maximize turbo C++ window?", "k": ["window", "maximize turbo", "maximize", "turbo"]}
+{"i": "5310765601390592", "t": "How to write to a file in C++?", "k": ["write", "file"]}
+{"i": "5160971503403008", "t": "How to find the length of the string in C++?", "k": ["find the length", "find", "length", "string"]}
+{"i": "6043890749014016", "t": "What is :: in C++?", "k": []}
+{"i": "5716906030399488", "t": "What is conio.h in C++?", "k": ["conio.h"]}
+{"i": "5664900955766784", "t": "How to find absolute value in C++?", "k": ["find absolute", "find", "absolute"]}
+{"i": "5338951726923776", "t": "How to generate random numbers in C++ with a range?", "k": ["generate random numbers", "generate random", "random numbers", "range", "generate"]}
+{"i": "5531309420576768", "t": "How to use goto statement in C++ ?", "k": ["goto statement", "goto", "statement"]}
+{"i": "4539962249183232", "t": "What is iostream in C++?", "k": ["iostream"]}
+{"i": "4838258800852992", "t": "How to clear screen in C++?", "k": ["clear screen", "clear", "screen"]}
+{"i": "6224523047731200", "t": "What is type casting in C++?", "k": ["type casting", "type", "casting"]}
+{"i": "5662367529041920", "t": "How to run a C++ program in cmd?", "k": ["program in cmd", "program", "cmd", "run"]}
+{"i": "6487869839900672", "t": "How to convert integer to string in C++?", "k": ["convert integer", "integer to string", "convert", "integer", "string"]}
+{"i": "5705239288610816", "t": "What is namespace in C++?", "k": ["namespace"]}
+{"i": "4536467622199296", "t": "What is C++?", "k": []}
+{"i": "4591006123556864", "t": "Can I declare the same variable name to the variables which have different scopes?", "k": ["scopes", "declare", "variable", "variables"]}
+{"i": "5098623140888576", "t": "Write a C program to print hello world without using a semicolon (;).", "k": ["program to print", "print hello world", "write", "semicolon", "program"]}
+{"i": "5769896548368384", "t": "Write a program to swap two numbers without using the third variable.", "k": ["write a program", "program to swap", "swap two numbers", "write", "variable"]}
+{"i": "6686208946601984", "t": "Write a program to reverse a given number in C?", "k": ["write a program", "program to reverse", "write", "program", "reverse"]}
+{"i": "5138773099151360", "t": "Write a program to check Armstrong number in C?", "k": ["check armstrong number", "check armstrong", "armstrong number", "write a program", "program to check"]}
+{"i": "5531353242664960", "t": "Write a program to print factorial of a given number using recursion?", "k": ["write a program", "number using recursion", "program to print", "print factorial", "write"]}
+{"i": "5901901680345088", "t": "Write a program to print factorial of a given number without using recursion?", "k": ["write a program", "program to print", "print factorial", "write", "recursion"]}
+{"i": "4847268853710848", "t": "Which variable can be used to access Union data members if the Union variable is declared as a pointer variable?", "k": ["access union data", "union data members", "access union", "union data", "data members"]}
+{"i": "5127196149022720", "t": "When should we use the register storage specifier?", "k": ["register storage specifier", "storage specifier", "register storage", "specifier", "register"]}
+{"i": "5182224545087488", "t": "Which statement is efficient and why? x=x+1; or x++; ?", "k": ["statement is efficient", "statement", "efficient"]}
+{"i": "6094303196086272", "t": "What is the difference between declaring a header file with < > and \u201d \u201c?", "k": ["difference between declaring", "declaring a header", "header file", "difference", "declaring"]}
+{"i": "5723921456824320", "t": "Where can we not use &(address operator in C)?", "k": ["address operator", "address", "operator"]}
+{"i": "5873715554811904", "t": "Can I create a customized Head File in C language?", "k": ["customized head file", "head file", "customized head", "create a customized", "head"]}
+{"i": "5642427002519552", "t": "What is the structure?", "k": ["structure"]}

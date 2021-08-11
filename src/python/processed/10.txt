@@ -1,0 +1,30 @@
+{"i": "5470701543227392", "t": "11) What if I write static public void instead of public static void?", "k": ["write static public", "static public void", "public static void", "write static", "static public"]}
+{"i": "6486851932651520", "t": "10)\tIs Empty .java file name a valid source file name?", "k": ["valid source file", "java file", "valid source", "source file", "empty"]}
+{"i": "6405410494349312", "t": "9)\tWhat gives Java its 'write once and run anywhere' nature?", "k": ["nature", "java", "write", "run"]}
+{"i": "5646814982701056", "t": "8)\tWhat is the platform?", "k": ["platform"]}
+{"i": "5832431272198144", "t": "7)\tWhat is JIT compiler?", "k": ["jit compiler", "jit", "compiler"]}
+{"i": "6534571032576000", "t": "6)\tHow many types of memory areas are allocated by JVM?", "k": ["allocated by jvm", "jvm", "types of memory", "memory areas", "areas are allocated"]}
+{"i": "4821437225893888", "t": "5)\tWhat is the difference between JDK, JRE, and JVM?", "k": ["difference between jdk", "jre", "jdk", "jvm", "difference"]}
+{"i": "5487854350761984", "t": "4)\tWhat do you understand by Java virtual machine?", "k": ["java virtual machine", "understand by java", "java virtual", "virtual machine", "java"]}
+{"i": "4807203234512896", "t": "3)\tList the features of Java Programming language.", "k": ["java programming language", "java programming", "programming language", "list the features", "features of java"]}
+{"i": "6561330960531456", "t": "2)\tWhat are the differences between C++ and Java?", "k": ["java", "differences"]}
+{"i": "6038072813158400", "t": "1)\tWhat is Java?", "k": ["java"]}
+{"i": "6582341001019392", "t": "17)\tWhat are the most efficient and useful Digital Marketing tools?", "k": ["digital marketing tools", "digital marketing", "marketing tools", "digital", "marketing"]}
+{"i": "5690000811753472", "t": "16)\tHow can you drive traffic to our site immediately?", "k": ["site immediately", "drive traffic", "immediately", "drive", "traffic"]}
+{"i": "5871532654460928", "t": "15)\tWhat social media platforms do you think would be best for our brand?", "k": ["social media platforms", "social media", "media platforms", "brand", "social"]}
+{"i": "4912172906315776", "t": "14)\tExplain how you know a digital marketing campaign is not successful.", "k": ["digital marketing campaign", "explain", "digital marketing", "marketing campaign", "successful"]}
+{"i": "5950191742484480", "t": "13)\tTell us about your experience with creating digital marketing budgets.", "k": ["digital marketing budgets", "creating digital marketing", "marketing budgets", "experience with creating", "creating digital"]}
+{"i": "5442446480113664", "t": "12)\tExplain an effective sales funnel you built.", "k": ["explain an effective", "effective sales funnel", "funnel you built", "explain", "effective sales"]}
+{"i": "4520915075858432", "t": "11)\tHow would you measure the success of a marketing email?", "k": ["marketing email", "measure the success", "email", "measure", "success"]}
+{"i": "5802310582665216", "t": "10)\tWhat are the hallmarks of a successful marketing email?", "k": ["successful marketing email", "marketing email", "successful marketing", "email", "hallmarks"]}
+{"i": "4621542334398464", "t": "9)\tHow would you go about building an effective email marketing strategy?", "k": ["email marketing strategy", "effective email marketing", "marketing strategy", "building an effective", "effective email"]}
+{"i": "4873654968516608", "t": "8)\tWhat do you think is the next major trend in digital marketing?", "k": ["digital marketing", "major trend", "trend in digital", "marketing", "major"]}
+{"i": "6192791829348352", "t": "7)\tWhat do you think is the biggest challenge in digital marketing?", "k": ["digital marketing", "biggest challenge", "challenge in digital", "marketing", "biggest"]}
+{"i": "4880010463150080", "t": "6)\tDescribe a digital marketing campaign you worked on from start to finish. What approaches did you take, what challenges did you face, and how were you successful?", "k": ["digital marketing campaign", "describe a digital", "start to finish", "digital marketing", "marketing campaign"]}
+{"i": "6033651496648704", "t": "5)\tWhat are some digital marketing tools you have experience with?", "k": ["digital marketing tools", "digital marketing", "marketing tools", "digital", "marketing"]}
+{"i": "6210292210466816", "t": "4)\tHow do you pick effective digital marketing KPIs, and how do you track them?", "k": ["digital marketing kpis", "pick effective digital", "effective digital marketing", "marketing kpis", "pick effective"]}
+{"i": "4806241564491776", "t": "3)\tWhat is on-page and off-page optimization?", "k": ["off-page optimization", "on-page and off-page", "optimization", "on-page", "off-page"]}
+{"i": "5435431053688832", "t": "2)\tList the most popular local SEO ranking factors.", "k": ["seo ranking factors", "popular local seo", "local seo ranking", "local seo", "seo ranking"]}
+{"i": "4905661199024128", "t": "1)\tWhy is digital marketing preferred over traditional marketing?", "k": ["digital marketing preferred", "preferred over traditional", "digital marketing", "marketing preferred", "traditional marketing"]}
+{"i": "4616515746267136", "t": "13)\tDo you have experience with marketing automation?", "k": ["marketing automation", "experience with marketing", "automation", "experience", "marketing"]}
+{"i": "5923901979230208", "t": "12)\tHow would you develop a social media campaign?", "k": ["social media campaign", "media campaign", "develop a social", "social media", "campaign"]}
