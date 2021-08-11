@@ -6,8 +6,11 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import math
 print('line S1')
-from getQuestions import *
+# from getQuestions import *
 print('line S9')
+
+
+categorList = ['database','backendServices','automation','frontend','management'];
 
 def getSimilarity(skills):
     print('reading categories json file')
@@ -33,17 +36,17 @@ def getSimilarity(skills):
     # plotChart(similarityList,categoryList)
     # fetchQuestions(skillCategories[0]['backendServices'],6);
     file.close();
-    return {'similarityList':similarityList,'categoryList':categoryList}
+    return {'similarityList':similarityList,'categoryList':categorList}
 
 def plotChart(similarityList,categoryList):
     data = {'Similarities': similarityList}
-    df = pd.DataFrame(data,columns=['Similarities'],index = ['database','backendServices','automation','frontend','management'])
+    df = pd.DataFrame(data,columns=['Similarities'],index = categorList)
     df.plot.pie(y='Similarities',figsize=(5, 5),autopct='%1.1f%%', startangle=90)
     plt.show()
 
 def getSimilarityFromWords(words):
     wordsList = words.split(",");
-    responseObject = similarityList = getSimilarity(['Vmware', 'Analysis', 'Python', 'Watchdog', 'Architecture', 'Aws', 'Cloud', 'Api', 'Design', 'Agile', 'Saas', 'Security', 'Cisco', 'Mysql', 'Service', 'Product owner', 'Inventory', 'Java', 'Scala', 'Technical', 'Health', 'Rest', 'Algorithms', 'System', 'Oracle', 'Coding']);
+    responseObject = getSimilarity(wordsList);
     return responseObject;
 
 

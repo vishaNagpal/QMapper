@@ -1,5 +1,4 @@
 {"i": "5759558880854016", "t": "What makes the best parental control app?", "k": ["parental control app", "control app", "parental control", "app", "makes"]}
-{"i": "5765498384416768", "t": "Cheap Escort Service in Lajpat Nagar 8447779280 Call Girls", "k": ["cheap escort service", "call girls", "lajpat nagar", "escort service", "service in lajpat"]}
 {"i": "4865693240000512", "t": "If you get outOFMemoryException then how would you troubleshoot it? and asked me about the memory, is it class level or instance level", "k": ["class level", "instance level", "level or instance", "memory", "level"]}
 {"i": "6198944202227712", "t": "Tell me when you did something beyond client expectations", "k": ["client expectations", "expectations", "client"]}
 {"i": "6496585066741760", "t": ".Tell me test strategy for amazon product search functionality\rDescribe to me the test plan for the same scenario\rwrite the automation code for this functionality", "k": ["search functionality describe", "amazon product search", "product search functionality", "functionality describe", "strategy for amazon"]}

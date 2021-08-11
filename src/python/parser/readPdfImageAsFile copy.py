@@ -1,5 +1,5 @@
 from PIL import Image
-import pytesseract
+from pytesseract import image_to_string
 from pdf2image import convert_from_path
 import os
   
@@ -17,7 +17,7 @@ def readPdfFile(filePath):
   
     for i in range(1, filelimit + 1):
         filename = "page_"+str(i)+".jpg"
-        text = str(((pytesseract.image_to_string(Image.open(filename)))))
+        text = str(((image_to_string(Image.open(filename)))))
         text = text.replace('-\n', '')    
 
     #Part 3 - Remove those temp files
