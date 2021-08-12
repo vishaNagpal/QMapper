@@ -1,12 +1,3 @@
-{"i": "6393688253530112", "t": "13)\tWhat is the \u2018class\u2019 attribute in HTML?", "k": ["attribute in html", "class\u2019 attribute", "html", "class\u2019", "attribute"]}
-{"i": "5634872423481344", "t": "12)\tWhat is the difference between <meter> tag and <progress> tag?", "k": ["meter", "progress", "tag", "difference"]}
-{"i": "5168991885066240", "t": "11)\t How to specify the link in HTML and explain the target attribute?", "k": ["link in html", "html and explain", "target attribute", "explain the target", "html"]}
-{"i": "4613185603108864", "t": "10)\t Is it possible to change an inline element into a block level element?", "k": ["block level element", "change an inline", "block level", "inline element", "level element"]}
-{"i": "5480587551309824", "t": "9)\tHow can we club two or more rows or columns into a single row or column in an HTML table?", "k": ["html table", "single row", "rows or columns", "row or column", "html"]}
-{"i": "5365340005990400", "t": "8)\tHow is Cell Padding different from Cell Spacing?", "k": ["cell spacing", "cell padding", "spacing", "cell", "padding"]}
-{"i": "5385063703773184", "t": "7)\tConvert the below data into Tabular format in HTML?", "k": ["format in html", "data into tabular", "tabular format", "convert", "html"]}
-{"i": "6651024574513152", "t": "6)\tInline and block elements in HTML?", "k": ["inline and block", "elements in html", "inline", "html", "block elements"]}
-{"i": "5737570929999872", "t": "5)\tWhat are void elements in HTML?", "k": ["elements in html", "html", "void elements", "void", "elements"]}
 {"i": "5369534528094208", "t": "4)\tInline and block elements in HTML?", "k": ["inline and block", "elements in html", "inline", "html", "block elements"]}
 {"i": "5630241106558976", "t": "3)\tWhat are void elements in HTML?", "k": ["elements in html", "html", "void elements", "void", "elements"]}
 {"i": "6280660954644480", "t": "2)\tAre the HTML tags and elements the same thing?", "k": ["html tags", "tags and elements", "html", "thing", "tags"]}
@@ -28,3 +19,12 @@
 {"i": "5215296011370496", "t": "6)\tWrite an HTML code to form a table to show the below values in a tabular form with heading as Roll No., Student name, Subject Name, and values as", "k": ["write an html", "html code", "heading as roll", "table to show", "tabular form"]}
 {"i": "6113339028013056", "t": "5)\tName some new features which were not present in HTML but are added to HTML5?", "k": ["present in html", "html", "features", "present", "added"]}
 {"i": "6735248547643392", "t": "4)\tWrite the basic structure of the HTML template?", "k": ["html template", "write the basic", "basic structure", "write", "html"]}
+{"i": "5118771704889344", "t": "3)\t Describe HTML.", "k": ["describe html", "describe", "html"]}
+{"i": "5549408614088704", "t": "2)\tWhat does HTML stand for?", "k": ["html stand", "html", "stand"]}
+{"i": "6473583990145024", "t": "1)\tWhat is HTML5?", "k": []}
+{"i": "5125787131314176", "t": "20)\tList the events in the page life cycle.", "k": ["page life cycle", "list the events", "life cycle", "page life", "list"]}
+{"i": "5778245964791808", "t": "19)\tWhat are EXE and DLL?", "k": ["exe and dll", "dll", "exe"]}
+{"i": "5681721658310656", "t": "18)\tDifference between interface and abstract class in .NET?", "k": ["difference between interface", "net", "difference", "interface and abstract", "abstract class"]}
+{"i": "6023890629820416", "t": "17)\tWhat is delegate in .NET?", "k": ["net", "delegate"]}
+{"i": "5497131480121344", "t": "16)\tExplain MVC.", "k": ["explain mvc", "explain", "mvc"]}
+{"i": "4704838393266176", "t": "15)\tWhat is caching?", "k": ["caching"]}

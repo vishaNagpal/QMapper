@@ -1,0 +1,30 @@
+{"i": "5974525148135424", "t": "How do you keep up-to-date with current hiring trends?", "k": ["current hiring trends", "hiring trends", "current hiring", "trends", "current"]}
+{"i": "4638551679959040", "t": "What are you looking for when you screen resumes?", "k": ["screen resumes", "resumes", "screen"]}
+{"i": "5610117322506240", "t": "What are your favorite sourcing techniques?", "k": ["favorite sourcing techniques", "sourcing techniques", "favorite sourcing", "techniques", "favorite"]}
+{"i": "5183973334974464", "t": "Tell us about your onboarding experience.", "k": ["onboarding experience", "experience", "onboarding"]}
+{"i": "5297511063879680", "t": "Tell me about a time when you made a mistake that cost you a great candidate.", "k": ["great candidate", "made a mistake", "mistake that cost", "candidate", "time"]}
+{"i": "4553143050829824", "t": "Have you ever encountered problems dealing with recruitment agencies? How did you resolve them?", "k": ["encountered problems dealing", "recruitment agencies", "encountered problems", "problems dealing", "dealing with recruitment"]}
+{"i": "6173067275927552", "t": "Name the sourcing techniques you use.", "k": ["sourcing techniques", "sourcing", "techniques"]}
+{"i": "5114875297136640", "t": "What KPIs have you found useful in the past? What have you done to improve them?\rHow do you assess current employees to discover\u00a0fits to open positions?", "k": ["past", "kpis", "found", "open positions", "assess current employees"]}
+{"i": "4902774981001216", "t": "What are key\u00a0elements that affect an employment brand? How important do you think networking is?\u00a0What are your preferred networking methods?", "k": ["employment brand", "key elements", "elements that affect", "affect an employment", "brand"]}
+{"i": "5025200473636864", "t": "How do you\u00a0build a talent pipeline?", "k": ["talent pipeline", "build a talent", "pipeline", "build", "talent"]}
+{"i": "4885768118468608", "t": "What questions would you ask when conducting a phone interview?", "k": ["phone interview", "conducting a phone", "interview", "questions", "conducting"]}
+{"i": "5766126624047104", "t": "How would you decide between two candidates with similar qualifications?", "k": ["similar qualifications", "candidates with similar", "qualifications", "decide", "candidates"]}
+{"i": "5204489051570176", "t": "What resources do you use to find qualified candidates?", "k": ["find qualified candidates", "qualified candidates", "find qualified", "candidates", "resources"]}
+{"i": "6366703645097984", "t": "What are the steps of your talent acquisition process?", "k": ["talent acquisition process", "acquisition process", "talent acquisition", "process", "steps"]}
+{"i": "6422689416216576", "t": "How would your previous employer describe you?", "k": ["previous employer describe", "previous employer", "employer describe", "previous", "employer"]}
+{"i": "5061723466235904", "t": "Explain UNION, MINUS, UNION ALL, INTERSECT ?", "k": ["explain union", "minus", "intersect", "union", "explain"]}
+{"i": "5958548473774080", "t": "Write a Query to display minimum salary of an employee?", "k": ["write a query", "display minimum salary", "query to display", "display minimum", "minimum salary"]}
+{"i": "5296789509373952", "t": "Write a Query to count the number of employees working in the company?", "k": ["write a query", "query to count", "count the number", "number of employees", "employees working"]}
+{"i": "5703130593886208", "t": "Write a Query to display minimum & maximum salary of employee?", "k": ["write a query", "query to display", "display minimum", "maximum salary", "salary of employee"]}
+{"i": "6474233050300416", "t": "Write a Query to display the total salary of employee based on dept_name?", "k": ["write a query", "query to display", "based on dept", "display the total", "total salary"]}
+{"i": "4653788948856832", "t": "Write a Query to display the total salary of all employees based on city whose average salary >= 23000?", "k": ["write a query", "query to display", "display the total", "employees based", "based on city"]}
+{"i": "4815980537053184", "t": "How to fetch common records from two tables?", "k": ["fetch common records", "fetch common", "common records", "tables", "fetch"]}
+{"i": "5767439004991488", "t": "How can you create an empty table from an existing table?", "k": ["create an empty", "empty table", "existing table", "table", "create"]}
+{"i": "5796678269927424", "t": "What are aggregate and scalar functions?", "k": ["scalar functions", "aggregate and scalar", "functions", "aggregate", "scalar"]}
+{"i": "4577230687043584", "t": "What is the difference between TRUNCATE and DROP statements?", "k": ["truncate and drop", "drop statements", "difference between truncate", "truncate", "drop"]}
+{"i": "6018669493092352", "t": "What is an ALIAS command?", "k": ["alias command", "alias", "command"]}
+{"i": "5556366259781632", "t": "What is Union, minus and Interact commands?", "k": ["minus and interact", "interact commands", "union", "interact", "minus"]}
+{"i": "5233398610657280", "t": "What is CLAUSE?", "k": ["clause"]}
+{"i": "4639285582495744", "t": "What is Online Transaction Processing (OLTP)?", "k": ["online transaction processing", "transaction processing", "online transaction", "oltp", "processing"]}
+{"i": "4888553136324608", "t": "What are all types of user defined functions?", "k": ["user defined functions", "defined functions", "types of user", "user defined", "functions"]}

@@ -1,0 +1,30 @@
+{"i": "6241739961008128", "t": "What is the APK format?", "k": ["apk format", "apk", "format"]}
+{"i": "5047328145145856", "t": "What is An Activity?", "k": ["activity"]}
+{"i": "4814758098763776", "t": "Describe Android application Architecture?", "k": ["android application architecture", "describe android application", "describe android", "application architecture", "android application"]}
+{"i": "5180622052524032", "t": "What is Android?", "k": ["android"]}
+{"i": "5697791815319552", "t": "As an HR Executive, what qualities do you possess that will help you drive results in our company?", "k": ["drive results", "executive", "company", "qualities", "possess"]}
+{"i": "5464142037647360", "t": "What is your recruiting strategy as an HR employee?", "k": ["recruiting strategy", "employee", "recruiting", "strategy"]}
+{"i": "5172354173370368", "t": "How do you win the cooperation of members of a team you are leading?", "k": ["win the cooperation", "cooperation of members", "leading", "win", "cooperation"]}
+{"i": "5108514383462400", "t": "What is the difference between a group and a team? Do you consider yourself a team player?", "k": ["team player", "team", "difference", "group", "player"]}
+{"i": "4898147824828416", "t": "How would your current and previous managers describe you?", "k": ["previous managers describe", "current and previous", "previous managers", "managers describe", "current"]}
+{"i": "5722609746968576", "t": "Why do you want to work for our company?", "k": ["company", "work"]}
+{"i": "5083835434270720", "t": "What human resources subjects interested you the most during your college days?", "k": ["human resources subjects", "resources subjects interested", "college days", "human resources", "resources subjects"]}
+{"i": "5174715667185664", "t": "Who is your mentor in the human resources field?", "k": ["human resources field", "resources field", "human resources", "field", "mentor"]}
+{"i": "5649354784768000", "t": "What do you see as a major event, trend or change that will change human resources in the next five years?", "k": ["change human resources", "major event", "human resources", "change human", "trend or change"]}
+{"i": "5607047746289664", "t": "What questions would you ask me if you were the interviewer?", "k": ["interviewer", "questions"]}
+{"i": "5734536602714112", "t": "What made you consider HR as a profession?", "k": ["profession", "made"]}
+{"i": "5093744662020096", "t": "What are your future goals as an HR employee?", "k": ["future goals", "employee", "future", "goals"]}
+{"i": "4834740350222336", "t": "Can you give a short description of an ideal HR workplace for you?", "k": ["give a short", "short description", "ideal hr workplace", "give", "short"]}
+{"i": "5735304126791680", "t": "What do you like most about working in human resources?", "k": ["human resources", "working in human", "resources", "working", "human"]}
+{"i": "4857585214160896", "t": "What is your recruiting strategy as an HR employee?", "k": ["recruiting strategy", "employee", "recruiting", "strategy"]}
+{"i": "5712257869152256", "t": "How do you win the cooperation of members of a team you are leading?", "k": ["win the cooperation", "cooperation of members", "leading", "win", "cooperation"]}
+{"i": "5116215326932992", "t": "Have you handled or led a team comprised of workers from different backgrounds? If you have, can you share your experience with us?", "k": ["handled or led", "led a team", "team comprised", "comprised of workers", "backgrounds"]}
+{"i": "5179622801539072", "t": "As an HR employee, how do you deal effectively with challenges within a team you are leading?", "k": ["deal effectively", "effectively with challenges", "employee", "leading", "deal"]}
+{"i": "5123898889207808", "t": "Have you dealt with an unethical situation in your previous roles? If you have, share an example.", "k": ["previous roles", "unethical situation", "roles", "dealt", "unethical"]}
+{"i": "5743572005945344", "t": "Have you ever deviated from the company's policy while carrying out your duties as an HR employee?", "k": ["company policy", "policy while carrying", "employee", "deviated", "company"]}
+{"i": "6311316350828544", "t": "What can you tell us about job elimination based on your work experience in HR?", "k": ["job elimination based", "job elimination", "elimination based", "work experience", "job"]}
+{"i": "6308566967779328", "t": "What experience do you have handling conflict in an organization?", "k": ["handling conflict", "organization", "experience", "handling", "conflict"]}
+{"i": "6195711803129856", "t": "How versatile are you working with software systems in HR?", "k": ["working with software", "software systems", "versatile", "working", "software"]}
+{"i": "5751015586922496", "t": "What experience do you have leading a project team as an HR Executive?", "k": ["executive", "leading a project", "project team", "experience", "leading"]}
+{"i": "6209301683634176", "t": "How many years of experience do you have in HR?", "k": ["years of experience", "years", "experience"]}
+{"i": "5671832361893888", "t": "What educational background do you have that qualifies you for this HR position in our company?", "k": ["educational background", "company", "educational", "background", "qualifies"]}

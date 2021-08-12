@@ -1,0 +1,30 @@
+{"i": "6739148713492480", "t": "Can True = False be possible in Python?", "k": ["true", "false", "python"]}
+{"i": "6680920298356736", "t": "Do you think Python has a complier?", "k": ["python", "complier"]}
+{"i": "6135222087712768", "t": "Is Python platform independent?", "k": ["python platform independent", "python platform", "platform independent", "python", "independent"]}
+{"i": "5594566638436352", "t": "What is the output of ['Hi!'] * 4?", "k": ["output"]}
+{"i": "6096392378908672", "t": "What is the output of len([1, 2, 3])?", "k": ["output of len", "len", "output"]}
+{"i": "4531967771541504", "t": "What is the output of print str[0] if str = 'Hello World!'?", "k": ["print str", "output of print", "world", "str", "output"]}
+{"i": "4972867102441472", "t": "What are the supported data types in Python?", "k": ["types in python", "supported data types", "python", "supported data", "data types"]}
+{"i": "4890628494721024", "t": "Is python a case sensitive language?", "k": ["case sensitive language", "sensitive language", "python a case", "case sensitive", "language"]}
+{"i": "6157516591857664", "t": "Name some of the features of Python.", "k": ["features of python", "python", "features"]}
+{"i": "6380241985994752", "t": "What are the applications of Python?", "k": ["applications of python", "python", "applications"]}
+{"i": "5837807749169152", "t": "What is Python?", "k": ["python"]}
+{"i": "6730991027093504", "t": "Find the error in this code and what will be the output?", "k": ["find the error", "find", "output", "error", "code"]}
+{"i": "5834820330979328", "t": "What is lambda function in python?", "k": ["function in python", "lambda function", "python", "lambda", "function"]}
+{"i": "4513051460501504", "t": "What is the difference between del() and remove() methods of list? Give Examples.", "k": ["methods of list", "difference between del", "del", "remove", "methods"]}
+{"i": "6473408416579584", "t": "How will you check in a string that all characters are alphanumeric?", "k": ["characters are alphanumeric", "alphanumeric", "check", "string", "characters"]}
+{"i": "4963138330427392", "t": "How will you randomizes the items of a list in place?", "k": ["list in place", "randomizes the items", "place", "randomizes", "items"]}
+{"i": "4709654326673408", "t": "Write a function to give the sum of all the numbers in list?", "k": ["write a function", "numbers in list", "function to give", "give the sum", "write"]}
+{"i": "5254342079152128", "t": "Write a program to calculate number of upper case letters and number\u00a0of lower case letters?", "k": ["upper case letters", "lower case letters", "write a program", "case letters", "program to calculate"]}
+{"i": "6150447008579584", "t": "How will you get all the keys from the dictionary?", "k": ["dictionary", "keys"]}
+{"i": "5038885313183744", "t": "How will you create a dictionary in python?", "k": ["dictionary in python", "create a dictionary", "python", "create", "dictionary"]}
+{"i": "4591254225027072", "t": "What are Python's dictionaries?", "k": ["python dictionaries", "python", "dictionaries"]}
+{"i": "4900766681137152", "t": "What is the output of print tuple + tinytuple if tuple = ( 'abcd', 786 , 2.23, 'john', 70.2 ) and tinytuple = (123, 'john')?", "k": ["john", "print tuple", "output of print", "abcd", "tuple"]}
+{"i": "5092990828150784", "t": "What is the difference between tuples and lists in Python?", "k": ["lists in python", "python", "difference between tuples", "tuples and lists", "difference"]}
+{"i": "6081395493961728", "t": "What is the basic difference between Python version 2 and Python\u00a0version 3?", "k": ["python version", "basic difference", "version", "difference between python", "python"]}
+{"i": "6094044826959872", "t": "What is the purpose of PYTHONHOME environment variable?", "k": ["pythonhome environment variable", "purpose of pythonhome", "pythonhome environment", "environment variable", "pythonhome"]}
+{"i": "6298003378274304", "t": "What is the purpose of PYTHONCASEOK environment variable?", "k": ["pythoncaseok environment variable", "purpose of pythoncaseok", "pythoncaseok environment", "environment variable", "pythoncaseok"]}
+{"i": "4765692392374272", "t": "What is the purpose of PYTHONSTARTUP environment variable?", "k": ["pythonstartup environment variable", "purpose of pythonstartup", "pythonstartup environment", "environment variable", "pythonstartup"]}
+{"i": "4874577044307968", "t": "What is the purpose of PYTHONPATH environment variable?", "k": ["pythonpath environment variable", "purpose of pythonpath", "pythonpath environment", "environment variable", "pythonpath"]}
+{"i": "5612563088277504", "t": "4)Why are you interested in a human resources role?", "k": ["human resources role", "resources role", "human resources", "role", "interested"]}
+{"i": "6656626755371008", "t": "3)What are your weakness?", "k": ["weakness"]}

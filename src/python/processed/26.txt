@@ -1,0 +1,30 @@
+{"i": "5776089740214272", "t": "What is /0 character?", "k": ["character"]}
+{"i": "6447589153570816", "t": "Why is C called the Mother of all Languages?", "k": ["called the mother", "languages", "mother", "called"]}
+{"i": "5797432103796736", "t": "Differentiate between calloc() and malloc()", "k": ["differentiate between calloc", "differentiate", "calloc", "malloc"]}
+{"i": "4661622969204736", "t": "What do you mean by the Scope of the variable? What is the scope of the variables in C?", "k": ["scope", "variable", "variables"]}
+{"i": "4737447328481280", "t": "Are comments included during the compilation stage and placed in the EXE file as well?", "k": ["exe file", "comments included", "compilation stage", "exe", "comments"]}
+{"i": "6257766698582016", "t": "The % symbol has a special use in a printf statement. How would you place this character as part of the output on the screen", "k": ["printf statement", "symbol", "statement", "special", "printf"]}
+{"i": "4686301918396416", "t": "What is gets() function?", "k": ["function"]}
+{"i": "5041929572581376", "t": "What are pointers?", "k": ["pointers"]}
+{"i": "5383894264709120", "t": "What is dynamic data structure?", "k": ["dynamic data structure", "data structure", "dynamic data", "structure", "dynamic"]}
+{"i": "4694002861867008", "t": "What are structure types in C?", "k": ["structure types", "structure", "types"]}
+{"i": "5405373865918464", "t": "What is the difference between functions getch() and getche()?", "k": ["functions getch", "difference between functions", "getch", "getche", "difference"]}
+{"i": "5944529633411072", "t": "What are global variables and how do you declare them?", "k": ["global variables", "global", "variables", "declare"]}
+{"i": "6449304456134656", "t": "What are run-time errors?", "k": ["run-time errors", "errors", "run-time"]}
+{"i": "5884639200149504", "t": "What is an endless loop?", "k": ["endless loop", "loop", "endless"]}
+{"i": "6515889267015680", "t": "What are binary trees?", "k": ["binary trees", "trees", "binary"]}
+{"i": "5395079567507456", "t": "Why is C language being considered a middle level language?", "k": ["middle level language", "considered a middle", "middle level", "level language", "language being considered"]}
+{"i": "5789370718617600", "t": "What is wrong with this statement? myName = \"Robin\";", "k": ["robin", "myname", "statement", "wrong"]}
+{"i": "6567034677100544", "t": "What are logical errors and how does it differ from syntax errors?", "k": ["differ from syntax", "logical errors", "syntax errors", "errors", "logical"]}
+{"i": "4758739293306880", "t": "What could possibly be the problem if a valid function name such as tolower() is being reported by the C compiler as undefined?", "k": ["compiler as undefined", "valid function", "tolower", "undefined", "possibly"]}
+{"i": "5096874351001600", "t": "What are compound statements?", "k": ["compound statements", "statements", "compound"]}
+{"i": "6009709520224256", "t": "What is syntax error?", "k": ["syntax error", "error", "syntax"]}
+{"i": "5397690303643648", "t": "What is a nested loop?", "k": ["nested loop", "loop", "nested"]}
+{"i": "6491210317824000", "t": "What is the equivalent code of the following statement in WHILE LOOP format?\rfor (a=1; a<=100; a++)\rprintf (\"%d\\n\", a * a);", "k": ["loop format", "equivalent code", "loop", "format", "equivalent"]}
+{"i": "6597725506764800", "t": "instead of deleting it. How does this aid in debugging?", "k": ["deleting", "aid in debugging", "debugging", "aid"]}
+{"i": "5307054749646848", "t": "What it the return value of a relational operator if it returns any?", "k": ["relational operator", "relational", "operator", "return", "returns"]}
+{"i": "6378510308868096", "t": "What are enumerations?", "k": ["enumerations"]}
+{"i": "6479777181990912", "t": "Which key word is used to perform unconditional branching?", "k": ["perform unconditional branching", "unconditional branching", "key word", "perform unconditional", "branching"]}
+{"i": "5392704937132032", "t": "When to use -> (arrow) operator.", "k": ["arrow", "operator"]}
+{"i": "6501119545573376", "t": "What is a preprocessor?", "k": ["preprocessor"]}
+{"i": "6516257292025856", "t": "Does a built-in header file contains built-in function definition?", "k": ["built-in function definition", "built-in header file", "function definition", "header file", "built-in header"]}

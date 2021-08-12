@@ -1,0 +1,30 @@
+{"i": "6438991568568320", "t": "2)What are your biggest strength?", "k": ["biggest strength", "strength", "biggest"]}
+{"i": "6477186779840512", "t": "1)Can you tell us something about yourself?", "k": []}
+{"i": "5313091661725696", "t": "Write a java code to add two numbers.", "k": ["write a java", "add two numbers", "java code", "code to add", "write"]}
+{"i": "5172103471431680", "t": "How to swap two numbers without using a third variable?", "k": ["swap two numbers", "variable", "swap", "numbers"]}
+{"i": "5793122238332928", "t": "What is meant by Abstract class?", "k": ["abstract class", "meant by abstract", "abstract", "class", "meant"]}
+{"i": "5165937961992192", "t": "Can main() method in Java can return any data?", "k": ["method in java", "java can return", "return any data", "java", "main"]}
+{"i": "6117970344935424", "t": "What is the difference between double and float variables in Java?", "k": ["variables in java", "java", "difference between double", "double and float", "float variables"]}
+{"i": "5655611075723264", "t": "What are Loops in Java? What are three types of loops?", "k": ["loops in java", "java", "loops", "types of loops", "types"]}
+{"i": "6363511746199552", "t": "What is Java?", "k": ["java"]}
+{"i": "4667222331490304", "t": "What are checked and unchecked exceptions in java?", "k": ["exceptions in java", "checked and unchecked", "unchecked exceptions", "java", "checked"]}
+{"i": "6631947806179328", "t": "What is cloning in java?", "k": ["cloning in java", "java", "cloning"]}
+{"i": "5910458463158272", "t": "What is garbage collection in java?", "k": ["collection in java", "garbage collection", "java", "garbage", "collection"]}
+{"i": "6496809680109568", "t": "What is\u00a0static binding and dynamic binding in java?", "k": ["static binding", "dynamic binding", "binding in java", "java", "binding and dynamic"]}
+{"i": "4959367214923776", "t": "What is the use of final keyword in java?", "k": ["keyword in java", "final keyword", "java", "final", "keyword"]}
+{"i": "5182241657847808", "t": "What is synchronization in java?", "k": ["synchronization in java", "java", "synchronization"]}
+{"i": "4955495587119104", "t": "What are the different ways of creating threads in java?", "k": ["threads in java", "creating threads", "java", "creating", "threads"]}
+{"i": "6538507772755968", "t": "What are the differences between method overloading and method overriding?", "k": ["method overriding", "method overloading", "overriding", "differences between method", "overloading and method"]}
+{"i": "4529711168880640", "t": "What are the differences between static and non-static methods?", "k": ["non-static methods", "differences between static", "static and non-static", "methods", "differences"]}
+{"i": "6370513213980672", "t": "What is multithreaded programming? / What is multi-threading?", "k": ["multithreaded programming", "programming", "multithreaded", "multi-threading"]}
+{"i": "5237611839356928", "t": "What are PATH and CLASSPATH?", "k": ["path and classpath", "classpath", "path"]}
+{"i": "5009322180870144", "t": "How the exceptions are handled in java? OR Explain try, catch and finally blocks in java?", "k": ["handled in java", "exceptions are handled", "java", "blocks in java", "exceptions"]}
+{"i": "6369056683196416", "t": "Can we overload the main() method?", "k": ["method", "overload the main", "main", "overload"]}
+{"i": "6707772165455872", "t": "What is the difference between constructor and method?.", "k": ["constructor and method", "difference between constructor", "method", "difference", "constructor"]}
+{"i": "6078907080507392", "t": "Does java supports multiple inheritance?", "k": ["supports multiple inheritance", "java supports multiple", "multiple inheritance", "java supports", "supports multiple"]}
+{"i": "6375519803670528", "t": "What is the method overriding?", "k": ["method overriding", "overriding", "method"]}
+{"i": "4609153518010368", "t": "What is the method overloading in java?", "k": ["overloading in java", "method overloading", "java", "method", "overloading"]}
+{"i": "5506047899336704", "t": "What is polymorphism in java?", "k": ["polymorphism in java", "java", "polymorphism"]}
+{"i": "5412607865913344", "t": "What is constructor overloading? What is the use of constructor overloading?", "k": ["constructor overloading", "overloading", "constructor"]}
+{"i": "5521871833923584", "t": "What\u00a0do you mean by inheritance in java?", "k": ["inheritance in java", "java", "inheritance"]}
+{"i": "6446260196737024", "t": "What are\u00a0the fundamental principles of object oriented programming? / What are the OOPS concepts?", "k": ["object oriented programming", "oriented programming", "fundamental principles", "principles of object", "object oriented"]}

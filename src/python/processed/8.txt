@@ -1,12 +1,3 @@
-{"i": "5383425979056128", "t": "8)\tHow to comment multiple lines in python?", "k": ["comment multiple lines", "lines in python", "comment multiple", "multiple lines", "python"]}
-{"i": "5074558523015168", "t": "7)\tHow will you convert a string to all lowercase?", "k": ["convert a string", "lowercase", "convert", "string"]}
-{"i": "4806584574672896", "t": "8) How will you capitalize the first letter of string?", "k": ["letter of string", "string", "capitalize", "letter"]}
-{"i": "6474266806059008", "t": "5)\tWhat are the generators in python?", "k": ["generators in python", "python", "generators"]}
-{"i": "5971475788464128", "t": "4)\tWhat is pickling and unpickling?", "k": ["pickling and unpickling", "unpickling", "pickling"]}
-{"i": "5943842505752576", "t": "3)\tWhat is the difference between range & xrange?", "k": ["xrange", "difference between range", "range", "difference"]}
-{"i": "4652706549989376", "t": "2) How can you generate random numbers in Python?", "k": ["numbers in python", "generate random numbers", "python", "generate random", "random numbers"]}
-{"i": "6139118495465472", "t": "1)\tWhat are python iterators?", "k": ["python iterators", "iterators", "python"]}
-{"i": "6568860323414016", "t": "18) Define encapsulation in Python?", "k": ["define encapsulation", "encapsulation in python", "define", "python", "encapsulation"]}
 {"i": "5013218588622848", "t": "17)\tWhat is the \u2018with statement\u2019?", "k": ["statement\u2019"]}
 {"i": "4683554347286528", "t": "16)\tWhat is the bytes() function?", "k": ["function", "bytes"]}
 {"i": "4817942598909952", "t": "15)\tWhat is a classifier?", "k": ["classifier"]}
@@ -28,3 +19,12 @@
 {"i": "6584882078154752", "t": "29)\tHow many types of constructors are used in Java?", "k": ["java", "types of constructors", "types", "constructors"]}
 {"i": "5933103141355520", "t": "28)\tGive an example of Pointers use in Java class.", "k": ["java class", "give", "pointers", "java", "class"]}
 {"i": "4898034545065984", "t": "27)\tWhat is the advantage of using inheritance?", "k": ["inheritance", "advantage"]}
+{"i": "6718140484943872", "t": "26)\tHow can we create copy of a Java object?", "k": ["java object", "create copy", "java", "object", "create"]}
+{"i": "5913459303120896", "t": "25)\tThere are two types of classes named classA and classB. Both the classes contain in the same package. Can classA private member can be accessed by an object of classB?", "k": ["classes named classa", "classes named", "classb", "named classa", "classes"]}
+{"i": "6365260536086528", "t": "24)\tCan a class have two methods with the same name?", "k": ["class", "methods"]}
+{"i": "5911316852637696", "t": "23)\tHow have the objects of a class been created if no constructor is defined in the class?", "k": ["constructor is defined", "class been created", "class", "objects", "created"]}
+{"i": "6051371525079040", "t": "22)\tWhat is the reason for using Break in each case of a Switch statement?", "k": ["switch statement", "break", "switch", "statement", "reason"]}
+{"i": "5597178582532096", "t": "21)\tHow can we implement any code before the main method?", "k": ["main method", "implement any code", "method", "implement", "code"]}
+{"i": "4782703130443776", "t": "20)\tWhat are the two methods of executing multi-threading in Java?", "k": ["multi-threading in java", "java", "methods of executing", "executing multi-threading", "methods"]}
+{"i": "5857643518754816", "t": "19)\tIn java why strings are known as Immutable?", "k": ["immutable", "java why strings", "java", "strings"]}
+{"i": "6209764936122368", "t": "18)\tWhat is the difference between Vector and an array?", "k": ["difference between vector", "vector", "array", "difference"]}

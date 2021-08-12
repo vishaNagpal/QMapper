@@ -1,12 +1,3 @@
-{"i": "5066768509304832", "t": "Which is the best C++ compiler?", "k": ["compiler"]}
-{"i": "5101951002345472", "t": "How to maximize turbo C++ window?", "k": ["window", "maximize turbo", "maximize", "turbo"]}
-{"i": "5310765601390592", "t": "How to write to a file in C++?", "k": ["write", "file"]}
-{"i": "5160971503403008", "t": "How to find the length of the string in C++?", "k": ["find the length", "find", "length", "string"]}
-{"i": "6043890749014016", "t": "What is :: in C++?", "k": []}
-{"i": "5716906030399488", "t": "What is conio.h in C++?", "k": ["conio.h"]}
-{"i": "5664900955766784", "t": "How to find absolute value in C++?", "k": ["find absolute", "find", "absolute"]}
-{"i": "5338951726923776", "t": "How to generate random numbers in C++ with a range?", "k": ["generate random numbers", "generate random", "random numbers", "range", "generate"]}
-{"i": "5531309420576768", "t": "How to use goto statement in C++ ?", "k": ["goto statement", "goto", "statement"]}
 {"i": "4539962249183232", "t": "What is iostream in C++?", "k": ["iostream"]}
 {"i": "4838258800852992", "t": "How to clear screen in C++?", "k": ["clear screen", "clear", "screen"]}
 {"i": "6224523047731200", "t": "What is type casting in C++?", "k": ["type casting", "type", "casting"]}
@@ -28,3 +19,12 @@
 {"i": "5723921456824320", "t": "Where can we not use &(address operator in C)?", "k": ["address operator", "address", "operator"]}
 {"i": "5873715554811904", "t": "Can I create a customized Head File in C language?", "k": ["customized head file", "head file", "customized head", "create a customized", "head"]}
 {"i": "5642427002519552", "t": "What is the structure?", "k": ["structure"]}
+{"i": "5745174498508800", "t": "What is pointer to pointer in C?", "k": ["pointer", "pointer to pointer"]}
+{"i": "5857891620225024", "t": "how to source best photo editing company", "k": ["photo editing company", "editing company", "source best photo", "photo editing", "company"]}
+{"i": "6290013313040384", "t": "Design a graph problem, given an function getFriend(int user) which returns all the users 1st degree friends, write a function to check:\r 1. whether two users are first-level, second-level and third-level connections\r2. function that outputs a users 2nd degree and 3rd degree friends", "k": ["degree friends", "design a graph", "graph problem", "second-level and third-level", "third-level connections"]}
+{"i": "5465724934422528", "t": "Can I use int datatype to store 32768 value?", "k": ["datatype to store", "int datatype", "store", "int", "datatype"]}
+{"i": "4951923633946624", "t": "What is the main difference between the Compiler and the Interpreter?", "k": ["main difference", "interpreter", "compiler", "main", "difference"]}
+{"i": "6217561778159616", "t": "Mention the features of C Programming Language.", "k": ["programming language", "mention the features", "language", "programming", "mention"]}
+{"i": "6359628223348736", "t": "What is Preprocessor?", "k": ["preprocessor"]}
+{"i": "4802918266437632", "t": "What is a C Token?", "k": ["token"]}
+{"i": "6049635536207872", "t": "What do you mean by a Nested Structure?", "k": ["nested structure", "structure", "nested"]}

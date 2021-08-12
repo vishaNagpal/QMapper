@@ -1,0 +1,30 @@
+{"i": "88676", "t": "Code a function to shuffle a pack of cards", "k": ["code a function", "pack of cards", "function to shuffle", "shuffle a pack", "code"]}
+{"i": "75825", "t": "Given an integer array {1, -20, 29, 9, 1, 100, ..., 29), please return the index of the first non-repetitive element in the array.\r Manager mentioned that HashTable was allowed.", "k": ["integer array", "return the index", "non-repetitive element", "array", "manager mentioned"]}
+{"i": "84815", "t": "How was your overall experience working at your last job?", "k": ["experience working", "job", "experience", "working"]}
+{"i": "83782", "t": "What was the software engineering process at your last job?", "k": ["software engineering process", "software engineering", "engineering process", "job", "software"]}
+{"i": "84814", "t": "Describe the different programming languages you have used.", "k": ["programming languages", "describe", "programming", "languages"]}
+{"i": "84813", "t": "Who are virus writers? Why do they write viruses?", "k": ["virus writers", "writers", "virus", "write viruses", "viruses"]}
+{"i": "83781", "t": "How can a virtual memory environment be implemented to run multiple programs to prevent one program from accessing another program's memory space? Is the solution viable?", "k": ["program memory space", "virtual memory environment", "run multiple programs", "memory space", "environment be implemented"]}
+{"i": "83780", "t": "If you were designing new anti-virus technology, what would you implement?", "k": ["anti-virus technology", "designing new anti-virus", "technology", "implement", "designing"]}
+{"i": "84811", "t": "How can a virtual OS can be compromised?", "k": ["compromised", "virtual"]}
+{"i": "84810", "t": "What sort of test setup would you require for understanding a virus?", "k": ["understanding a virus", "sort of test", "test setup", "require for understanding", "virus"]}
+{"i": "84809", "t": "What sort of behavioral patterns would you be looking at when designing a behavioral engine?  What is the difference between a heuristical and a behavioral engine?", "k": ["behavioral engine", "behavioral patterns", "engine", "behavioral", "designing a behavioral"]}
+{"i": "84808", "t": "What are the characteristics that you look for in an anti-virus engine?", "k": ["anti-virus engine", "engine", "characteristics", "anti-virus"]}
+{"i": "83778", "t": "Can Linux be compromised? How secure is Linux? How would you compromise a *NIX system?", "k": ["linux be compromised", "linux", "compromised", "nix system", "nix"]}
+{"i": "83777", "t": "What is the difference between a heuristical and a behavioral engine?", "k": ["behavioral engine", "engine", "difference", "heuristical", "behavioral"]}
+{"i": "84807", "t": "What sort of behavioral patterns would you be looking at when designing a behavioral engine?", "k": ["behavioral engine", "behavioral patterns", "engine", "sort of behavioral", "designing a behavioral"]}
+{"i": "83776", "t": "What are the characteristics that you look for in an anti-virus engine?", "k": ["anti-virus engine", "engine", "characteristics", "anti-virus"]}
+{"i": "84806", "t": "Can Linux be compromised? How secure is Linux? How would you compromise a *NIX system?", "k": ["linux be compromised", "linux", "compromised", "nix system", "nix"]}
+{"i": "84805", "t": "Describe your experiences using different anti-virus technologies.", "k": ["describe your experiences", "anti-virus technologies", "describe", "technologies", "experiences"]}
+{"i": "83774", "t": "Have you had any experience with assembly languages, particularly ASM?", "k": ["assembly languages", "asm", "experience with assembly", "languages", "experience"]}
+{"i": "84804", "t": "Can a 32-bit PE execute on a 16-bit DOS? If not how will DOS determine that?", "k": ["dos", "dos determine", "execute", "determine"]}
+{"i": "84803", "t": "How is COM and SYS files infected?", "k": ["sys files infected", "sys files", "files infected", "sys", "infected"]}
+{"i": "83772", "t": "Please explain the Windows PE executable standard and how a virus infects it.", "k": ["explain the windows", "windows pe executable", "executable standard", "virus infects", "windows"]}
+{"i": "83771", "t": "What are some of the short comings in your role as a researcher?", "k": ["short comings", "researcher", "short", "comings", "role"]}
+{"i": "83769", "t": "What makes you a good researcher?", "k": ["good researcher", "researcher", "makes", "good"]}
+{"i": "83768", "t": "Describe the concept behind your current software projects.", "k": ["current software projects", "describe the concept", "software projects", "current software", "describe"]}
+{"i": "84801", "t": "What would make you an effective Virus Researcher?", "k": ["effective virus researcher", "virus researcher", "effective virus", "researcher", "virus"]}
+{"i": "83747", "t": "What is a fact table and dimension table?", "k": ["fact table", "dimension table", "table and dimension", "table", "fact"]}
+{"i": "83745", "t": "How would you eliminate duplicates in a linked list(singly) without using extra memory. You can use new variables for storing pointers but cannot go on to have a pointer for each node in the list. \r- The values in the node are unicode characters. \r- for eg: a->b->c->a->d->NULL\rshould be transformed to:\ra->b->c->d->NULL", "k": ["extra memory", "eliminate duplicates", "linked list", "singly", "list"]}
+{"i": "85665", "t": "Write the function Itoa. This is the most common question asked.", "k": ["function itoa", "write the function", "itoa", "common question asked", "write"]}
+{"i": "86663", "t": "You have an arbitrary sequence of space separated characters. Example, \"a bc defga dcbaifk\". Generate a new sequence with \"(\" and \")\" added before and after the characters. The space should be eliminated.", "k": ["separated characters", "space separated characters", "characters", "arbitrary sequence", "space separated"]}

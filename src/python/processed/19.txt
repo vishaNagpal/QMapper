@@ -1,0 +1,30 @@
+{"i": "6191933439868928", "t": "What is Magic Tables in SQL Server?", "k": ["sql server", "magic tables", "tables in sql", "server", "magic"]}
+{"i": "6661993585442816", "t": "What Is the Difference Between OSQL And Query Analyzer?", "k": ["query analyzer", "difference between osql", "osql and query", "analyzer", "difference"]}
+{"i": "6220817631805440", "t": "Write down the general syntax for a SELECT statements covering all the options.", "k": ["select statements covering", "select statements", "general syntax", "statements covering", "select"]}
+{"i": "6400757702590464", "t": "What are user-defined data types and when you should go for them?", "k": ["user-defined data types", "user-defined data", "data types", "user-defined", "data"]}
+{"i": "5536093678600192", "t": "How important do you consider cursors or while loops for a transactional database?", "k": ["transactional database", "database", "important", "cursors", "loops"]}
+{"i": "5094917724962816", "t": "How do you generate file output from SQL?", "k": ["output from sql", "generate file output", "sql", "generate file", "file output"]}
+{"i": "5773499338063872", "t": "What is the Difference between COALESCE() & ISNULL()?", "k": ["difference between coalesce", "isnull", "coalesce", "difference"]}
+{"i": "6651988190691328", "t": "Can we add an identity column to decimal datatype?", "k": ["decimal datatype", "add an identity", "identity column", "column to decimal", "datatype"]}
+{"i": "5274857795747840", "t": "If we drop a table, does it also drop related objects like constraints, indexes, columns, defaults, Views and Stored Procedures?", "k": ["views and stored", "stored procedures", "drop related objects", "objects like constraints", "related objects"]}
+{"i": "5066033533026304", "t": "Can we write a distributed query and get some data which is located on other server and on Oracle Database ?", "k": ["oracle database", "write a distributed", "distributed query", "database", "oracle"]}
+{"i": "5749534024531968", "t": "What is a stored procedure?", "k": ["stored procedure", "procedure", "stored"]}
+{"i": "5638951367344128", "t": "What is a trigger?", "k": ["trigger"]}
+{"i": "6164785220026368", "t": "Advantages and Disadvantages of Stored Procedure?", "k": ["stored procedure", "disadvantages of stored", "advantages and disadvantages", "procedure", "disadvantages"]}
+{"i": "4811186145591296", "t": "What is recursive stored procedure?", "k": ["recursive stored procedure", "stored procedure", "recursive stored", "procedure", "recursive"]}
+{"i": "4811515851440128", "t": "What are aggregate and scalar functions?", "k": ["scalar functions", "aggregate and scalar", "functions", "aggregate", "scalar"]}
+{"i": "6682954233806848", "t": "Which operator is used in query for pattern matching?", "k": ["pattern matching", "query for pattern", "matching", "operator", "query"]}
+{"i": "6089038237270016", "t": "What is the command used to fetch first 5 characters of the string?", "k": ["characters", "string", "command", "fetch"]}
+{"i": "4607078159613952", "t": "What is a negative index in Python?", "k": ["index in python", "python", "negative index", "negative", "index"]}
+{"i": "4513737178873856", "t": "Name the tools which python uses to find bugs (if any).", "k": ["find bugs", "tools which python", "bugs", "tools", "python"]}
+{"i": "4623634117689344", "t": "Which programming Language is an implementation of Python programming language designed to run on Java Platform?", "k": ["python programming language", "java platform", "programming language designed", "programming language", "implementation of python"]}
+{"i": "4760029192781824", "t": "What is the purpose of not in operator?", "k": ["operator", "purpose"]}
+{"i": "4601163452776448", "t": "What is the purpose pass statement in python?", "k": ["purpose pass statement", "statement in python", "purpose pass", "pass statement", "python"]}
+{"i": "5741833081061376", "t": "What is the purpose continue statement in python?", "k": ["purpose continue statement", "statement in python", "purpose continue", "continue statement", "python"]}
+{"i": "5519086816067584", "t": "What is the purpose break statement in python?", "k": ["purpose break statement", "statement in python", "purpose break", "break statement", "python"]}
+{"i": "6647771740766208", "t": "What is the purpose of is operator?", "k": ["operator", "purpose"]}
+{"i": "5272604280094720", "t": "What is the purpose of // operator?", "k": ["operator", "purpose"]}
+{"i": "5453578448142336", "t": "What is the purpose of ** operator?", "k": ["operator", "purpose"]}
+{"i": "6589616541401088", "t": "What are tuples in Python?", "k": ["tuples in python", "python", "tuples"]}
+{"i": "5381541226610688", "t": "What is the output of print str + \"TEST\" if str = 'Hello World!'?", "k": ["print str", "test", "output of print", "world", "str"]}
+{"i": "5835554233516032", "t": "What is the output of print str if str = 'Hello World!'?", "k": ["output of print", "print str", "world", "str", "output"]}

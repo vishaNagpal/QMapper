@@ -1,0 +1,30 @@
+{"i": "57104", "t": "Suppose a code in verilog is synthesis by using a tool lets say Xilinx then what would \rif-elseif-else would result in?", "k": ["suppose a code", "code in verilog", "verilog is synthesis", "xilinx", "suppose"]}
+{"i": "57121", "t": "What is a Branch Target buffer? How is it helpful in reducing bubble cycles in case of\rbranch misprediction?", "k": ["branch target buffer", "target buffer", "branch target", "target", "branch misprediction"]}
+{"i": "57103", "t": "What would you do if you were given a 100 million dollars, expecting nothing in return?", "k": ["million dollars", "million", "dollars", "expecting", "return"]}
+{"i": "57100", "t": "Design an alarm for blind?  What if the blind person is in the other end of the room?", "k": ["design an alarm", "design", "alarm for blind", "blind", "blind person"]}
+{"i": "57099", "t": "There is 100mile length tunnel, and two trains whose speed 100mph on the opposite sides. A bee comes b/w two trains with the speed of 100mph.... You guys already know this problem! :)", "k": ["length tunnel", "opposite sides", "length", "tunnel", "sides"]}
+{"i": "57098", "t": "Write a function which reverses a singly linked list.", "k": ["singly linked list", "write a function", "linked list", "function which reverses", "reverses a singly"]}
+{"i": "57102", "t": "Swap two numbers without using a temporarily variable.", "k": ["swap two numbers", "temporarily variable", "swap", "variable", "numbers"]}
+{"i": "57101", "t": "Design an algorithm and write code to find the common ancestor of two nodes in a tree", "k": ["design an algorithm", "algorithm and write", "write code", "code to find", "find the common"]}
+{"i": "57080", "t": "Describe what a singleton is and when you would use it.", "k": ["describe", "singleton"]}
+{"i": "57078", "t": "What is inheritance and polymorphism? Difference between abstract amd interface?", "k": ["inheritance and polymorphism", "polymorphism", "inheritance", "difference between abstract", "amd interface"]}
+{"i": "57077", "t": "What is linked list? Write code to detect a loop in a single linked list.", "k": ["linked list", "single linked list", "list", "linked", "single linked"]}
+{"i": "57097", "t": "Write a function: you have an array, which consists of some number which are duplicated 2n times, only one number is duplicated 2n+1 times. Your input parameters are the array and the length of the array. Output the number which is duplicated 2n+1 times. I initially told about XOR, but he then told me XOR is not allowed.", "k": ["write a function", "times", "duplicated", "array", "number"]}
+{"i": "57076", "t": "You have a stream of lines in a text file. How would you randomly pick one line?", "k": ["text file", "file", "stream", "text", "stream of lines"]}
+{"i": "57096", "t": "Write a function to reverse a line (i.e \"How are you\" will become \"you are How\")", "k": ["write a function", "reverse a line", "function to reverse", "write", "line"]}
+{"i": "57095", "t": "How to delete the kth element from the end of a linked list?", "k": ["linked list", "delete the kth", "kth element", "list", "delete"]}
+{"i": "57094", "t": "Explain preorder, inorder, postorder and level order of a tree. What is topological sort?", "k": ["explain preorder", "inorder", "postorder and level", "level order", "explain"]}
+{"i": "57075", "t": "Design an algorithm to find the intersection of 2 sets", "k": ["sets", "design an algorithm", "algorithm to find", "find the intersection", "design"]}
+{"i": "57074", "t": "Design an algorithm to find the missing number in a set of sequential numbers", "k": ["design an algorithm", "algorithm to find", "find the missing", "set of sequential", "missing number"]}
+{"i": "57073", "t": "Find a median of two sorted integer arrays.", "k": ["sorted integer arrays", "find a median", "integer arrays", "sorted integer", "find"]}
+{"i": "57072", "t": "What's the difference between a vector vs array?", "k": ["vector vs array", "array", "difference", "vector"]}
+{"i": "57071", "t": "What's the difference between a thread vs process?", "k": ["thread vs process", "process", "difference", "thread"]}
+{"i": "57070", "t": "What's the difference between a mutex and a semaphore?", "k": ["semaphore", "difference", "mutex"]}
+{"i": "57092", "t": "What's the difference between const pointer and pointer to const.", "k": ["const pointer", "difference between const", "const", "pointer", "difference"]}
+{"i": "57091", "t": "Virtual functions. How does a compiler know which function to use(virtual funtion table)?", "k": ["virtual funtion table", "virtual", "virtual functions", "virtual funtion", "funtion table"]}
+{"i": "57090", "t": "Given an string that has an IP address, write a function to return an integer that has the four parts of the IP address in its bytes.", "k": ["write a function", "function to return", "return an integer", "address", "write"]}
+{"i": "57089", "t": "Implement atoi()", "k": ["implement atoi", "implement", "atoi"]}
+{"i": "57067", "t": "How do you check that a process doesn't access 'unauthorized' parts of the stack?\rwhile(*p++=*s++); // and some discussion on this", "k": ["unauthorized", "access", "parts", "stack", "check"]}
+{"i": "57066", "t": "Write a function to make a pointer point to a different object.", "k": ["write a function", "function to make", "make a pointer", "pointer point", "write"]}
+{"i": "57088", "t": "What is a copy constructor?  How do you use it?  What's the difference between shallow and deep copy? Why the significance of ambersand (&) in the copy constructor ? What will happen if there is no ambersand?", "k": ["copy constructor", "constructor", "copy", "ambersand", "deep copy"]}
+{"i": "57087", "t": "In unix, how do you kill all child processes of a particular parent?", "k": ["kill all child", "child processes", "unix", "parent", "kill"]}

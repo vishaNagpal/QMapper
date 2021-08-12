@@ -1,18 +1,20 @@
 from __future__ import absolute_import
 
-from flask import Flask,jsonify
+from flask import Flask, jsonify
 from flask import request
 from flask import Response
 from flask_cors import CORS, cross_origin
+import os
 
 from getSimilarity import getSimilarityFromWords
+from getQuestions import fetchQuestions
 
 app = Flask(__name__)
 CORS(app, support_credentials=True)
 
 
-################################################################################################
-# Route definition begin
+##########################################
+# Routes Config begin
 @app.route('/uploadResume', methods=['GET'])
 def upload_resume():
     try:
@@ -21,7 +23,7 @@ def upload_resume():
         content = file_extension == '.pdf' and readPdfFile(path) or extract(path)
         print('resume parsed successfully.. fetching skills now')
         keywords = extract_skills(content)
-        findSimilarity(keywords)
+        getSimilarityFromWords(keywords)
         return jsonify({'success': 'ok'})
     except IOError:
         print("Error opening or reading input file: ", path)
@@ -29,17 +31,19 @@ def upload_resume():
 
 @app.route('/fetchSimilarity')
 @cross_origin(supports_credentials=True)
-def fetch_questions():
+def fetch_similarity():
     words = request.args.get('words');
-    responseData = getSimilarityFromWords(words);
-    return jsonify(responseData)
+    response_data = getSimilarityFromWords(words);
+    return jsonify(response_data)
+
 
 @app.route('/fetchQuestions')
 @cross_origin(supports_credentials=True)
 def fetch_questions():
     words = request.args.get('words');
-    responseData = getMatchingQuestionsFromWords(words);
-    return jsonify(responseData)
+    response_data = fetchQuestions(words,5);
+    print('response_data')
+    return jsonify(response_data)
 
 
 @app.route('/')

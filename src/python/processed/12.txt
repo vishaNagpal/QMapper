@@ -1,12 +1,3 @@
-{"i": "6287385346703360", "t": "How to create a new column in pandas by using values from other columns?", "k": ["column in pandas", "create", "pandas", "column", "columns"]}
-{"i": "4799885281329152", "t": "What is the difference between NumPy and SciPy?", "k": ["numpy and scipy", "difference between numpy", "scipy", "difference", "numpy"]}
-{"i": "6198015113560064", "t": "What is docstring in Python?", "k": ["docstring in python", "python", "docstring"]}
-{"i": "6505998024441856", "t": "How can you initialize a 5*5 NumPy array with only zeroes?", "k": ["numpy array", "numpy", "zeroes", "initialize", "array"]}
-{"i": "6330815502352384", "t": "Find out the mean, median and standard deviation of this numpy array -> np.array([1,5,3,100,4,48])", "k": ["np.array", "median and standard", "numpy array", "standard deviation", "find"]}
-{"i": "6183376657055744", "t": "What are the key features of Python?", "k": ["features of python", "python", "key features", "key", "features"]}
-{"i": "6207260164882432", "t": "What is the difference between JDK, JRE, and JVM?", "k": ["difference between jdk", "jre", "jdk", "jvm", "difference"]}
-{"i": "6536118713974784", "t": "How to count the number of occurrences of a character in a string in java?", "k": ["string in java", "count the number", "number of occurrences", "java", "count"]}
-{"i": "4900749568376832", "t": "How to run a java program in the command prompt?", "k": ["command prompt", "run a java", "java program", "prompt", "run"]}
 {"i": "6511627115954176", "t": "What is dao in java?", "k": ["dao in java", "java", "dao"]}
 {"i": "5663089083547648", "t": "How to set classpath in java?", "k": ["classpath in java", "set classpath", "java", "set", "classpath"]}
 {"i": "5410218807132160", "t": "What is autoboxing and unboxing in java?", "k": ["unboxing in java", "autoboxing and unboxing", "java", "autoboxing", "unboxing"]}
@@ -28,3 +19,12 @@
 {"i": "5074919015055360", "t": "How to remove segmentation fault in C++?", "k": ["remove segmentation fault", "remove segmentation", "segmentation fault", "remove", "segmentation"]}
 {"i": "5153956076978176", "t": "What is friend function in C++?", "k": ["friend function", "friend", "function"]}
 {"i": "5449320189394944", "t": "What is inline function in C++?", "k": ["inline function", "inline", "function"]}
+{"i": "5066768509304832", "t": "Which is the best C++ compiler?", "k": ["compiler"]}
+{"i": "5101951002345472", "t": "How to maximize turbo C++ window?", "k": ["window", "maximize turbo", "maximize", "turbo"]}
+{"i": "5310765601390592", "t": "How to write to a file in C++?", "k": ["write", "file"]}
+{"i": "5160971503403008", "t": "How to find the length of the string in C++?", "k": ["find the length", "find", "length", "string"]}
+{"i": "6043890749014016", "t": "What is :: in C++?", "k": []}
+{"i": "5716906030399488", "t": "What is conio.h in C++?", "k": ["conio.h"]}
+{"i": "5664900955766784", "t": "How to find absolute value in C++?", "k": ["find absolute", "find", "absolute"]}
+{"i": "5338951726923776", "t": "How to generate random numbers in C++ with a range?", "k": ["generate random numbers", "generate random", "random numbers", "range", "generate"]}
+{"i": "5531309420576768", "t": "How to use goto statement in C++ ?", "k": ["goto statement", "goto", "statement"]}

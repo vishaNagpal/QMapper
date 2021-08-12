@@ -4,11 +4,11 @@ import yake
 import json
 
 #DIR_PATH = '/';
-DIR_PATH = '/Users/vishakha.nagpal/development/my_workspace';
+DIR_PATH = '/Users/vishakha.nagpal/development/my_workspace/QMapper/src/python';
 
-BASE_DATA_FILE = DIR_PATH+'/cc-search/data/{0}.txt'
-BASE_PROCESS_FILE = DIR_PATH+'/cc-search/processed/{0}.txt'
-KEY_WORDS_STAT = DIR_PATH+'/cc-search/processed/kw.json'
+BASE_DATA_FILE = DIR_PATH+'/data/{0}.txt'
+BASE_PROCESS_FILE = DIR_PATH+'/processed/{0}.txt'
+KEY_WORDS_STAT = DIR_PATH+'/processed/kw.json'
 
 LANGUAGE = 'en'
 MAX_N_GRAM_SIZE = 3
@@ -41,7 +41,7 @@ def analyze_file(page_num, key_words_dict):
 
 if __name__ == '__main__':
     kw = Counter()
-    for n in range(1, 15):
+    for n in range(590, 601):
         analyze_file(n, kw)
         print(n)
     kf = open(KEY_WORDS_STAT, 'w')

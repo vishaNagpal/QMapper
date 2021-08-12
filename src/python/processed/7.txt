@@ -1,12 +1,3 @@
-{"i": "4677926665060352", "t": ". ______ is an example of business-to-business services offered by Google application running as part of a customer\u2019s website.", "k": ["google application running", "offered by google", "google application", "services offered", "customer \u2019s website"]}
-{"i": "5792365653000192", "t": "the example of business-to-business services offered by Google which gains advertising revenue.\rA.Google AdWords pay per click sponsored", "k": ["gains advertising revenue", "offered by google", "google which gains", "services offered", "advertising revenue"]}
-{"i": "4793083546304512", "t": "Business-to business e-Commerce involves commercial transactions between other organizations and organizations.", "k": ["business-to business e-commerce", "business e-commerce involves", "e-commerce involves commercial", "involves commercial transactions", "business-to business"]}
-{"i": "4777067529371648", "t": "which goal of a business-to-business website involves gaining permission from a website visitor and other communications channels?", "k": ["involves gaining permission", "website involves gaining", "communications channels", "involves gaining", "gaining permission"]}
-{"i": "5340203307237376", "t": "Many consumer products are a key difference between B2C and B2B marketing which is reflected in web design through ______.", "k": ["consumer products", "key difference", "reflected in web", "web design", "marketing"]}
-{"i": "5246504300707840", "t": "which is reflected in web design through ______.", "k": ["reflected in web", "web design", "reflected", "web", "design"]}
-{"i": "4767014101450752", "t": "who is suspicious of change is classified as", "k": ["suspicious of change", "change is classified", "suspicious", "change", "classified"]}
-{"i": "6471552990707712", "t": "Product development process after analysis of business next step to be taken is", "k": ["product development process", "product development", "development process", "process after analysis", "analysis of business"]}
-{"i": "6427608898600960", "t": "Considering non-personal communication channels, magazines, direct mail and newspapers are considered as", "k": ["non-personal communication channels", "magazines", "communication channels", "direct mail", "non-personal communication"]}
 {"i": "5207629410861056", "t": "Customers in growth stage of life cycle of products are classified as", "k": ["customers in growth", "growth stage", "stage of life", "life cycle", "cycle of products"]}
 {"i": "5456875556962304", "t": "which triggers positive or negative emotions leads to purchase motivation", "k": ["negative emotions leads", "purchase motivation", "triggers positive", "positive or negative", "negative emotions"]}
 {"i": "5649955140665344", "t": "The tendency of difficult understanding related to the use of market offering is called", "k": ["difficult understanding related", "offering is called", "tendency of difficult", "difficult understanding", "understanding related"]}
@@ -28,3 +19,12 @@
 {"i": "4938739560742912", "t": "11)\t What are the built-in types available in Python?", "k": ["python", "built-in types", "built-in", "types"]}
 {"i": "6614321478500352", "t": "10)\tWhat does len() do?", "k": ["len"]}
 {"i": "6113906248908800", "t": "9)\tWhat is the purpose of is, not and in operators?", "k": ["operators", "purpose"]}
+{"i": "5383425979056128", "t": "8)\tHow to comment multiple lines in python?", "k": ["comment multiple lines", "lines in python", "comment multiple", "multiple lines", "python"]}
+{"i": "5074558523015168", "t": "7)\tHow will you convert a string to all lowercase?", "k": ["convert a string", "lowercase", "convert", "string"]}
+{"i": "4806584574672896", "t": "8) How will you capitalize the first letter of string?", "k": ["letter of string", "string", "capitalize", "letter"]}
+{"i": "6474266806059008", "t": "5)\tWhat are the generators in python?", "k": ["generators in python", "python", "generators"]}
+{"i": "5971475788464128", "t": "4)\tWhat is pickling and unpickling?", "k": ["pickling and unpickling", "unpickling", "pickling"]}
+{"i": "5943842505752576", "t": "3)\tWhat is the difference between range & xrange?", "k": ["xrange", "difference between range", "range", "difference"]}
+{"i": "4652706549989376", "t": "2) How can you generate random numbers in Python?", "k": ["numbers in python", "generate random numbers", "python", "generate random", "random numbers"]}
+{"i": "6139118495465472", "t": "1)\tWhat are python iterators?", "k": ["python iterators", "iterators", "python"]}
+{"i": "6568860323414016", "t": "18) Define encapsulation in Python?", "k": ["define encapsulation", "encapsulation in python", "define", "python", "encapsulation"]}

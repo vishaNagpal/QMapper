@@ -1,0 +1,30 @@
+{"i": "6098767009284096", "t": "11.How do you differentiate Personnel Management from HRM (human resource management)?", "k": ["differentiate personnel management", "human resource management", "personnel management", "differentiate personnel", "human resource"]}
+{"i": "5170028113035264", "t": "What makes you interested in an HR manager profile?", "k": ["manager profile", "makes you interested", "profile", "makes", "interested"]}
+{"i": "5730193048600576", "t": "9.As an HR manager, what will be your strategy to drive results?", "k": ["drive results", "strategy to drive", "manager", "results", "strategy"]}
+{"i": "5744548658020352", "t": "8.What is the one thing that you enjoy most about working in HR?", "k": ["thing", "enjoy", "working"]}
+{"i": "4677853784834048", "t": "7.Why should we hire you for this position?", "k": ["position", "hire"]}
+{"i": "5939342655094784", "t": "6.How do you stay up-to-date on country-specific labor laws and HR regulations?", "k": ["country-specific labor laws", "country-specific labor", "labor laws", "stay", "regulations"]}
+{"i": "5757217586806784", "t": "5.Can you tell me about a time when you had to convince a colleague that your idea was a good one?", "k": ["convince a colleague", "time", "convince", "colleague", "idea"]}
+{"i": "4604293141757952", "t": "4.Tell me about a time when you coached someone.", "k": ["time", "coached"]}
+{"i": "6117029210226688", "t": "3.Tell me about a time when you were overwhelmed by your workload and how you overcame it.", "k": ["time", "overwhelmed", "workload", "overcame"]}
+{"i": "6754883393290240", "t": "What HR systems are you familiar with?", "k": ["systems", "familiar"]}
+{"i": "4813442748252160", "t": "What do you think the biggest challenges of this role are?", "k": ["biggest challenges", "biggest", "challenges", "role"]}
+{"i": "5987195972747264", "t": "13)Would you like to ask us anything?", "k": []}
+{"i": "4960087360143360", "t": "12)Assuming that you\u2019re selected, what will be your strategy for next 60 days?", "k": ["days", "\u2019re selected", "assuming", "selected", "\u2019re"]}
+{"i": "5891592299216896", "t": "11)Where did you see yourself in 5 years?", "k": ["years"]}
+{"i": "5154204178448384", "t": "10)What are the day to day activities in recruitment?", "k": ["activities in recruitment", "day activities", "recruitment", "day", "activities"]}
+{"i": "5437526997729280", "t": "9)What is recruitment?", "k": ["recruitment"]}
+{"i": "4993382819037184", "t": "8)What are the roles and responsibilities of HR?", "k": ["roles and responsibilities", "roles", "responsibilities"]}
+{"i": "5607628909051904", "t": "7)What are the functions of HR?", "k": ["functions"]}
+{"i": "6397770284400640", "t": "6)What is HR?", "k": []}
+{"i": "5010539887984640", "t": "What interpersonal skills are important in this role?", "k": ["interpersonal skills", "skills are important", "role", "interpersonal", "skills"]}
+{"i": "6282673482366976", "t": "What is OSQL utility ?", "k": ["osql utility", "osql", "utility"]}
+{"i": "6240023450484736", "t": "What are all different types of collation sensitivity?", "k": ["collation sensitivity", "types of collation", "sensitivity", "types", "collation"]}
+{"i": "5639637085716480", "t": "What is collation?", "k": ["collation"]}
+{"i": "4618648751177728", "t": "Write a Query to display employee details who is working in ECE department & who his having more than 3 years of exp?", "k": ["display employee details", "write a query", "ece department", "years of exp", "query to display"]}
+{"i": "5114123543642112", "t": "Write a Query to display no.of males in each department?", "k": ["write a query", "display no.of males", "query to display", "display no.of", "no.of males"]}
+{"i": "5717154131869696", "t": "Write a Query to display odd records from student table?", "k": ["write a query", "display odd records", "query to display", "student table", "display odd"]}
+{"i": "4749891006365696", "t": "Write a Query to display even records from the table?", "k": ["write a query", "query to display", "display even records", "query", "write"]}
+{"i": "6417914771537920", "t": "Write a Query to display student details along with the row_no order by student name?", "k": ["display student details", "write a query", "query to display", "display student", "student details"]}
+{"i": "5178883127640064", "t": "How SQL Server executes a statement with nested subqueries?", "k": ["sql server executes", "sql server", "server executes", "nested subqueries", "executes a statement"]}
+{"i": "6713396962000896", "t": "Can we disable a triger?, if yes HOW?", "k": ["disable a triger", "triger", "disable"]}

@@ -1,0 +1,30 @@
+{"i": "4628666", "t": "How do you test function Add that adds two linked lists?", "k": ["test function add", "linked lists", "function add", "test function", "adds two linked"]}
+{"i": "4561898", "t": "Find the frequency of each letter in a string. then test it.", "k": ["find the frequency", "find", "string", "frequency", "letter"]}
+{"i": "4540889", "t": "Given a chocolate bar of size MxN and a list of pieces, determine if the chocolate can be divided into the specified pieces. Example: Given a chocolate bar of size 3x4, determine if it can be divided into pieces of sizes (areas) 1, 2, 3, and 6. (In this case the answer is 'true'.)", "k": ["chocolate bar", "bar of size", "size mxn", "determine", "chocolate"]}
+{"i": "4535878", "t": "Detect a cycle in a graph", "k": ["detect a cycle", "detect", "graph", "cycle"]}
+{"i": "4519850", "t": "What is the probability of a random generator generating 10 consecutive numbers in ascending order (assume it is a perfect random generator)", "k": ["random generator generating", "perfect random generator", "consecutive numbers", "ascending order", "random generator"]}
+{"i": "4526852", "t": "write a function to evaluate following expression\r  5+4-3*2", "k": ["write a function", "evaluate following expression", "function to evaluate", "write", "expression"]}
+{"i": "4589850", "t": "Given a denomination and an integer find out in how many ways can the number integer be written via denominations\r  int function (int [] ,int N){\r }\r  int denomination[] = [1,2,5,10]\r N=6\r  1+1+1+1+1+1\r 1+1+1+1+2\r 1+1+2+2\r 1+5\r 2+2+2\r answer 6", "k": ["denominations int function", "int function", "integer find", "number integer", "denominations int"]}
+{"i": "4570818", "t": "given a link list of form\r A1-A2-A3----An-B1-B2-B3---Bn\r convert it to following\r A1-B1-A2-B2-A3-B3---An-Bn", "k": ["an-bn", "list of form", "link list", "form", "link"]}
+{"i": "4501793", "t": "struct A\r{\rchar c;\rint i;\r};\rwhat is the size of structure? and why? And how  to make compiler to allocate exact 5 bytes to the structure object?", "k": ["struct", "char", "int", "structure object", "size of structure"]}
+{"i": "4562827", "t": "Implement a data structure similar to stack which supports Push, Pop and GetMin in O(1)", "k": ["supports push", "pop and getmin", "data structure similar", "implement a data", "push"]}
+{"i": "4582815", "t": "Compare pangrams with string and find missing letters.", "k": ["find missing letters", "compare pangrams", "missing letters", "pangrams with string", "string and find"]}
+{"i": "4604789", "t": "Provide animation of particles in string format.", "k": ["provide animation", "string format", "animation of particles", "particles in string", "provide"]}
+{"i": "4515765", "t": "BST depth of tree intuition.", "k": ["bst depth", "tree intuition", "bst", "depth of tree", "intuition"]}
+{"i": "4536764", "t": "The plane problem with 100 passenders one losing ticket. Probability of last guy sitting in right spot.", "k": ["passenders one losing", "losing ticket", "plane problem", "passenders", "ticket"]}
+{"i": "4533768", "t": "If there are 3 dots on a circle, whats the probability of 2 of them lying on the same side.", "k": ["dots", "circle", "side", "probability", "lying"]}
+{"i": "4608758", "t": "How would you choose m random numbers between 1-n.", "k": ["choose m random", "random numbers", "choose", "random", "numbers"]}
+{"i": "4580767", "t": "how would you find the missing numbers in 1-1M with least possible space complexity.", "k": ["space complexity", "find the missing", "missing numbers", "complexity", "find"]}
+{"i": "4535765", "t": "write code to reverse xyz___pqr___abc into \rzyxrqpcba. Give the most optimal solution.", "k": ["abc into zyxrqpcba", "pqr", "write code", "reverse xyz", "code to reverse"]}
+{"i": "4613702", "t": "How do you describe a printer to your Grandma?\rHow do you describe pointers to your Grandma?", "k": ["grandma", "describe", "describe a printer", "printer", "describe pointers"]}
+{"i": "4608750", "t": "Implement aligned memory allocation using the standard malloc function", "k": ["implement aligned memory", "standard malloc function", "aligned memory allocation", "implement aligned", "malloc function"]}
+{"i": "4492748", "t": "How do you implement a Mutex", "k": ["implement a mutex", "mutex", "implement"]}
+{"i": "4513767", "t": "What does the Static key word used in C qualify?", "k": ["static key word", "static key", "key word", "static", "qualify"]}
+{"i": "4574751", "t": "How do you make objects respond to events.", "k": ["make objects respond", "respond to events", "make objects", "objects respond", "events"]}
+{"i": "4588754", "t": "Your most proud achievements.", "k": ["proud achievements", "achievements", "proud"]}
+{"i": "4514761", "t": "design a class for bakery. Open ended problem, trick is to be consistent.", "k": ["design a class", "class for bakery", "design", "bakery", "open ended problem"]}
+{"i": "4607746", "t": "Write a program to find sqrt of x.", "k": ["write a program", "program to find", "find sqrt", "write", "program"]}
+{"i": "4557753", "t": "Can return type of an overloaded function be different. C++", "k": ["return type", "overloaded function", "return", "type", "overloaded"]}
+{"i": "4587760", "t": "const char *myfunc()\r{\r\tstring str(\"return this\");\r\treturn str.c_str();\r}", "k": ["const char", "string str", "return str.c", "myfunc", "str"]}
+{"i": "4569754", "t": "Write strcpy(char* src,char*dst). Given src points to a NULL terminated string.", "k": ["write strcpy", "char", "src,char", "dst", "write"]}
+{"i": "4576747", "t": "What is the output of the following?\r unsigned short us = 6;\runsigned short us1 = 7;\runsigned short us3 = 8;\r printf(?%d\\n?, us & 0x00 );\rprintf(?%d\\n?, us | 0xFF );\rprintf(?%x\\n?, ( us & us1 ) | us3 );\rprintf(?%d\\n?, ( ( us << 2 ) & us1 ) | us3 );*/", "k": ["printf", "unsigned short", "unsigned", "short", "output"]}

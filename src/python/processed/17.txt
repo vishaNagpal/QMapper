@@ -1,0 +1,30 @@
+{"i": "5460358104350720", "t": "What is DBMS?", "k": ["dbms"]}
+{"i": "6023308057772032", "t": "What do you mean by Fringe Benefits?", "k": ["fringe benefits", "benefits", "fringe"]}
+{"i": "5875790913208320", "t": "44.What is \u2018Span of Management\u2019?", "k": ["span of management\u2019", "span", "management\u2019"]}
+{"i": "5492024361353216", "t": "43.What is the difference between salary and incentive?", "k": ["salary and incentive", "difference between salary", "incentive", "difference", "salary"]}
+{"i": "5573489841405952", "t": "42.What do you mean by Management? Describe the essential functions of management.", "k": ["management", "functions of management", "describe the essential", "describe", "essential functions"]}
+{"i": "4621300004290560", "t": "41.What are the responsibilities of a personnel manager?", "k": ["personnel manager", "manager", "responsibilities", "personnel"]}
+{"i": "6648937220407296", "t": "40.Construct a professional statement about the role of HR strategic development pertaining to the organization\u2019s overall profitability.", "k": ["strategic development pertaining", "professional statement", "strategic development", "development pertaining", "profitability"]}
+{"i": "5939131060846592", "t": "39.Describe a difficult experience you had with an employer/manager/coworker and how you handled it.", "k": ["difficult experience", "manager", "employer", "coworker", "difficult"]}
+{"i": "4734561110458368", "t": "37.What questions would you ask me if you were the interviewer?", "k": ["questions", "interviewer"]}
+{"i": "5066858166747136", "t": "36.Are you happy with your career-to-date?", "k": ["happy"]}
+{"i": "6500365711704064", "t": "35.What is the most difficult situation you have had to face and how did you tackle it?", "k": ["difficult situation", "difficult", "situation", "face", "tackle"]}
+{"i": "5194267633385472", "t": "33.Describe your hiring strategy.", "k": ["hiring strategy", "strategy", "hiring"]}
+{"i": "5522317168345088", "t": "32.How well do you handle leading groups of individuals with diverse backgrounds?", "k": ["handle leading groups", "diverse backgrounds", "handle leading", "leading groups", "groups of individuals"]}
+{"i": "4990395400847360", "t": "31.How would you address dysfunction within a team you are leading?", "k": ["address dysfunction", "leading", "address", "dysfunction", "team"]}
+{"i": "6573312845545472", "t": "30.What is your experience with cost reduction efforts?", "k": ["cost reduction efforts", "reduction efforts", "experience with cost", "cost reduction", "efforts"]}
+{"i": "5727063359619072", "t": "29.Why do you want to leave your present job or company?", "k": ["job or company", "leave your present", "present job", "company", "leave"]}
+{"i": "6720466545278976", "t": "28.How long can you commit to working with us?", "k": ["commit to working", "long", "commit", "working"]}
+{"i": "5920426344054784", "t": "If you are allowed to change one thing about your last job, what would it be?", "k": ["allowed to change", "change one thing", "job", "allowed", "change"]}
+{"i": "5076687132295168", "t": "24.Where do you see the HR industry in the next years?", "k": ["years", "industry"]}
+{"i": "4948697308200960", "t": "23.List down your strengths and weaknesses as an HR professional?", "k": ["strengths and weaknesses", "professional", "strengths", "weaknesses"]}
+{"i": "6722828039094272", "t": "Share your thoughts on why HR is an important function in any organization?", "k": ["share your thoughts", "important function", "share", "organization", "thoughts"]}
+{"i": "4603651866230784", "t": "21.What was your motivation to get into HR?", "k": ["motivation"]}
+{"i": "4794526437212160", "t": "20.Explain the difference between salary and incentive?", "k": ["salary and incentive", "difference between salary", "incentive", "difference", "salary"]}
+{"i": "5693050171424768", "t": "19.What is your biggest achievement to date?", "k": ["achievement to date", "biggest achievement", "date", "biggest", "achievement"]}
+{"i": "5322979146203136", "t": "18.What makes you the ideal person for this\u00a0HR job?", "k": ["ideal person", "makes", "job", "ideal", "person"]}
+{"i": "5438248552235008", "t": "17.What is your understanding of management and what is your own management style?", "k": ["management style", "style", "understanding of management", "management", "understanding"]}
+{"i": "5535817055862784", "t": "16.What are the biggest challenges of working in HR in your opinion and how do you deal with them?", "k": ["biggest challenges", "challenges of working", "biggest", "challenges", "working"]}
+{"i": "4567150264582144", "t": "14.Give three areas that you feel need the most improvement, based on your understanding of common HR practices?", "k": ["common hr practices", "understanding of common", "improvement", "based", "practices"]}
+{"i": "4993416306360320", "t": "13.Describe a difficult HR situation you had with your previous employer/manager and your approach to handling the same?", "k": ["previous employer", "difficult hr situation", "approach to handling", "employer", "manager"]}
+{"i": "6136439794827264", "t": "12.What do you think are some of the essential qualities that a successful HR person should have?", "k": ["essential qualities", "successful hr person", "essential", "qualities", "successful"]}

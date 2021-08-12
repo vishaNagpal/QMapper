@@ -1,0 +1,30 @@
+{"i": "6093676801949696", "t": "What are the main features of Java?", "k": ["features of java", "java", "main features", "main", "features"]}
+{"i": "5800561792778240", "t": "What is default constructor?", "k": ["default constructor", "constructor", "default"]}
+{"i": "4593823622103040", "t": "What is difference between StringBuffer and StringBuilder in Java ?", "k": ["stringbuilder in java", "java", "difference between stringbuffer", "stringbuffer and stringbuilder", "difference"]}
+{"i": "5050298853228544", "t": "What is a Local class in Java?", "k": ["class in java", "local class", "java", "local", "class"]}
+{"i": "4674661885935616", "t": "How objects are stored in Java?", "k": ["stored in java", "java", "objects are stored", "objects", "stored"]}
+{"i": "5320360289894400", "t": "Give an example of use of Pointers in Java class.", "k": ["pointers in java", "java class", "pointers", "java", "give"]}
+{"i": "5705720996036608", "t": "What is default constructor?", "k": ["default constructor", "constructor", "default"]}
+{"i": "4849657912492032", "t": "What's the benefit of using inheritance?", "k": ["inheritance", "benefit"]}
+{"i": "6084821787344896", "t": "What is difference between StringBuffer and StringBuilder in Java ?", "k": ["stringbuilder in java", "java", "difference between stringbuffer", "stringbuffer and stringbuilder", "difference"]}
+{"i": "5415628771426304", "t": "Why Runnable Interface is used in Java?", "k": ["runnable interface", "java", "runnable", "interface"]}
+{"i": "6457673736781824", "t": "What is a Local class in Java?", "k": ["class in java", "local class", "java", "local", "class"]}
+{"i": "5202460954591232", "t": "What's the difference between an array and Vector?", "k": ["array and vector", "vector", "difference", "array"]}
+{"i": "5241562336854016", "t": "How objects are stored in Java?", "k": ["stored in java", "java", "objects are stored", "objects", "stored"]}
+{"i": "5719001974439936", "t": "How an object is serialized in java?", "k": ["serialized in java", "object is serialized", "java", "object", "serialized"]}
+{"i": "4992070438092800", "t": "Give an example of use of Pointers in Java class.", "k": ["pointers in java", "java class", "pointers", "java", "give"]}
+{"i": "4531756177293312", "t": "How can we pass argument to a function by reference instead of pass by value?", "k": ["function by reference", "pass argument", "pass", "argument", "function"]}
+{"i": "5876041615147008", "t": "What's the benefit of using inheritance?", "k": ["inheritance", "benefit"]}
+{"i": "5306022078447616", "t": "Why Runnable Interface is used in Java?", "k": ["runnable interface", "java", "runnable", "interface"]}
+{"i": "6168041073672192", "t": "What's the difference between an array and Vector?", "k": ["array and vector", "vector", "difference", "array"]}
+{"i": "5251967448776704", "t": "How an object is serialized in java?", "k": ["serialized in java", "object is serialized", "java", "object", "serialized"]}
+{"i": "5331773829939200", "t": "How can we pass argument to a function by reference instead of pass by value?", "k": ["function by reference", "pass argument", "pass", "argument", "function"]}
+{"i": "6541495190945792", "t": "Can main() method in Java can return any data?", "k": ["method in java", "java can return", "return any data", "java", "main"]}
+{"i": "6649847099162624", "t": "How can you generate random numbers in Java?", "k": ["numbers in java", "generate random numbers", "java", "generate random", "random numbers"]}
+{"i": "6080731636301824", "t": "What's the purpose of Static methods and static variables?", "k": ["static variables", "static methods", "purpose of static", "methods and static", "static"]}
+{"i": "5240842191634432", "t": "What is the load factor of HashMap means?", "k": ["load factor", "factor of hashmap", "load", "factor", "hashmap"]}
+{"i": "5523947192320000", "t": "Difference between notify and notifyAll in Java?", "k": ["notifyall in java", "difference between notify", "java", "notify and notifyall", "difference"]}
+{"i": "5765410908012544", "t": "From which base class all web Forms are inherited?", "k": ["forms are inherited", "web forms", "base class", "class all web", "forms"]}
+{"i": "5745191611269120", "t": "What is MSIL?", "k": ["msil"]}
+{"i": "4579821089193984", "t": "What is LINQ?", "k": ["linq"]}
+{"i": "4953007173664768", "t": "What is the difference between namespace and assembly?", "k": ["namespace and assembly", "difference between namespace", "assembly", "difference", "namespace"]}

@@ -1,12 +1,3 @@
-{"i": "6355315606421504", "t": "3)\tWhat is static polymorphism?", "k": ["static polymorphism", "polymorphism", "static"]}
-{"i": "5931430117376000", "t": "2)\tWhat is polymorphism?", "k": ["polymorphism"]}
-{"i": "6632504675532800", "t": "1)\tWhat is a superclass?", "k": ["superclass"]}
-{"i": "4926031020949504", "t": ". ___________Procedure in marketing which consists of enlisting opinion leaders as \u201cbrand ambassadors\u201d is called", "k": ["brand ambassadors", "procedure in marketing", "enlisting opinion leaders", "procedure", "marketing which consists"]}
-{"i": "5302222928216064", "t": ".__________ behavior Highly involved consumer buying behavior while perceiving significant differences between brands", "k": ["highly involved consumer", "behavior highly involved", "involved consumer buying", "perceiving significant differences", "consumer buying behavior"]}
-{"i": "5772721814765568", "t": "which Products like as \u201cVHS tapes\u201d", "k": ["vhs tapes", "vhs", "products", "tapes"]}
-{"i": "5199112574599168", "t": "Which way of consumers feel or perceive towards an actual product or potential market offering", "k": ["potential market offering", "market offering", "consumers feel", "feel or perceive", "actual product"]}
-{"i": "4646821907922944", "t": ". Product development comes from_________ source of idea.", "k": ["source of idea", "product development", "product", "source", "idea"]}
-{"i": "4649902741651456", "t": ". Which Of The Following Factors Can Impact The Open Rate Of Your Email Campaigns?", "k": ["email campaigns", "factors can impact", "impact the open", "open rate", "campaigns"]}
 {"i": "5897335324803072", "t": "A Robust Social Media Plan Includes Which Of The Following?", "k": ["robust social media", "social media plan", "media plan includes", "robust social", "social media"]}
 {"i": "6629472629948416", "t": ".________ is the new content management tool for SWEET ?", "k": ["tool for sweet", "content management tool", "sweet", "content management", "management tool"]}
 {"i": "4978996289208320", "t": "._________ name of the Hosting Company that is used for all external consumer-facing sites?", "k": ["external consumer-facing sites", "hosting company", "consumer-facing sites", "external consumer-facing", "hosting"]}
@@ -28,3 +19,12 @@
 {"i": "5503572723105792", "t": "By bulk buying of items, One aim of e-procurement is to increase savings", "k": ["buying of items", "increase savings", "bulk buying", "aim of e-procurement", "items"]}
 {"i": "6479490090270720", "t": "Content Marketing is a type of Digital Marketing.", "k": ["digital marketing", "content marketing", "type of digital", "marketing", "digital"]}
 {"i": "6652364604309504", "t": ".  Is Social Media Marketing is a type of Digital Marketing?", "k": ["social media marketing", "social media", "media marketing", "digital marketing", "type of digital"]}
+{"i": "6476409256542208", "t": "Businesses leverage digital channels such as _____ to connect with current and prospective customers", "k": ["businesses leverage digital", "leverage digital channels", "businesses leverage", "prospective customers", "leverage digital"]}
+{"i": "5792754213322752", "t": ". Digital marketing revolves around these 5Ds:", "k": ["digital marketing revolves", "digital marketing", "digital", "marketing revolves", "marketing"]}
+{"i": "5501689514164224", "t": "Digital marketing is any form of marketing products or services that involves ___.", "k": ["services that involves", "digital marketing", "products or services", "marketing products", "digital"]}
+{"i": "5740552174174208", "t": "15)\tWhy is OOPs so popular?", "k": ["oops so popular", "popular", "oops"]}
+{"i": "5686289020485632", "t": "14)\tWhat is meant by Structured Programming?", "k": ["structured programming", "meant by structured", "programming", "structured", "meant"]}
+{"i": "4805530210533376", "t": "13)\tWhat is hybrid inheritance?", "k": ["hybrid inheritance", "inheritance", "hybrid"]}
+{"i": "6351029698822144", "t": "12)\tWhat is the difference between multiple and multilevel inheritance?", "k": ["multilevel inheritance", "difference between multiple", "multiple and multilevel", "inheritance", "difference"]}
+{"i": "5162234290896896", "t": "11)\tWhat are the different types of inheritance?", "k": ["types of inheritance", "inheritance", "types"]}
+{"i": "5730939768930304", "t": "10)\tWhat is inheritance?", "k": ["inheritance"]}

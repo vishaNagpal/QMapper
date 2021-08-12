@@ -1,0 +1,30 @@
+{"i": "6502292608516096", "t": "What is user defined functions?", "k": ["user defined functions", "defined functions", "user defined", "functions", "user"]}
+{"i": "6432575357190144", "t": "What is Cross-Join?", "k": ["cross-join"]}
+{"i": "5086754736963584", "t": "What is Self-Join?", "k": ["self-join"]}
+{"i": "6223355420606464", "t": "What is Datawarehouse?", "k": ["datawarehouse"]}
+{"i": "5647343196569600", "t": "What is the difference between Cluster and Non-Cluster Index?", "k": ["non-cluster index", "difference between cluster", "cluster and non-cluster", "index", "cluster"]}
+{"i": "5097455513763840", "t": "What is Auto Increment?", "k": ["auto increment", "increment", "auto"]}
+{"i": "4609838078754816", "t": "What is data Integrity?", "k": ["data integrity", "integrity", "data"]}
+{"i": "5184249957711872", "t": "What is a constraint?", "k": ["constraint"]}
+{"i": "4640226717204480", "t": "What are local and global variables and their differences?", "k": ["local and global", "global variables", "differences", "local", "global"]}
+{"i": "5677825250557952", "t": "What is the difference between DELETE and TRUNCATE commands?", "k": ["delete and truncate", "truncate commands", "difference between delete", "delete", "truncate"]}
+{"i": "6256000124846080", "t": "What are the types of subquery?", "k": ["types of subquery", "subquery", "types"]}
+{"i": "6300144469803008", "t": "What is subquery?", "k": ["subquery"]}
+{"i": "6469098349789184", "t": "What is a query?", "k": ["query"]}
+{"i": "4912792656674816", "t": "What is a relationship and what are they?", "k": ["relationship"]}
+{"i": "6295928019877888", "t": "What is a Cursor?", "k": ["cursor"]}
+{"i": "5240803738255360", "t": "What are all the different types of indexes?", "k": ["types of indexes", "indexes", "types"]}
+{"i": "5859739462795264", "t": "What is an Index?", "k": ["index"]}
+{"i": "5174244562960384", "t": "What is a View?", "k": ["view"]}
+{"i": "5047167369084928", "t": "What are all the different normalizations?", "k": ["normalizations"]}
+{"i": "6331110512918528", "t": "What is Denormalization.", "k": ["denormalization"]}
+{"i": "5734143546097664", "t": "What is normalization?", "k": ["normalization"]}
+{"i": "5553345354268672", "t": "What are the types of join and explain each?", "k": ["types of join", "join and explain", "types", "join", "explain"]}
+{"i": "5343198442946560", "t": "What is a join?", "k": ["join"]}
+{"i": "4551925343715328", "t": "What is a foreign key?", "k": ["foreign key", "key", "foreign"]}
+{"i": "4608243639255040", "t": "What is a unique key?", "k": ["unique key", "key", "unique"]}
+{"i": "6116295307689984", "t": "What is a primary key?", "k": ["primary key", "key", "primary"]}
+{"i": "5167243095179264", "t": "What are tables and Fields?", "k": ["tables and fields", "fields", "tables"]}
+{"i": "4670778363084800", "t": "What is a Database?", "k": ["database"]}
+{"i": "4521443289726976", "t": "What is SQL?", "k": ["sql"]}
+{"i": "5869625403768832", "t": "What is RDBMS?", "k": ["rdbms"]}

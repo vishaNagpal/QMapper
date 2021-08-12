@@ -1,0 +1,30 @@
+{"i": "7979729", "t": "given a list of integers and a value K. Find all the pairs of numbers which sum up to K.", "k": ["list of integers", "list", "integers", "pairs of numbers", "numbers which sum"]}
+{"i": "7986691", "t": "given a link list of integers delete all nodes which have value  smaller than the value of any following nodes for example:-\r 7 4 5 2 3 6\ranswer will be 7 6", "k": ["link list", "list of integers", "integers delete", "delete all nodes", "answer"]}
+{"i": "7991662", "t": "Design a data structure that supports integer of unlimited size.Assume that you have unlimited memory. Implement functions to support addition and subtraction.", "k": ["design a data", "unlimited memory", "data structure", "unlimited size.assume", "supports integer"]}
+{"i": "7935669", "t": "you have a sequence where each number is a multiple of 2 or 5 (so: 2^i * 5^j). Given the beginning of the sequence as 1,2,4,5,8,10,16... and find a algorithm to calculate the next number in the sequence?", "k": ["sequence", "number", "multiple", "find a algorithm", "algorithm to calculate"]}
+{"i": "7993662", "t": "Convert Sorted Array to Balanced Binary Search Tree (BST)\r i tried but it not giving correct o/p\r for example u can take the array 12345 sorted...so can anybody help me in this\r BinaryTree* sortedArrayToBST(int arr[], int start, int end) {\rif (start > end) return NULL;\r// same as (start+end)/2, avoids overflow.\rint mid = start + (end - start) / 2;\rBinaryTree *node = new BinaryTree(arr[mid]);\rnode->left = sortedArrayToBST(arr, start, mid-1);\rnode->right = sortedArrayToBST(arr, mid+1, end);\rreturn node;\r}\r BinaryTree* sortedArrayToBST(int arr[], int n) {\rreturn sortedArrayToBST(arr, 0, n-1);\r}", "k": ["binary search tree", "balanced binary search", "convert sorted array", "search tree", "balanced binary"]}
+{"i": "7917679", "t": "How to define team hierarchy in one table? The main question was how we can define any hierarchy in single table, explain with team.", "k": ["table", "define team hierarchy", "hierarchy", "single table", "define"]}
+{"i": "7910687", "t": "if(a>5) printf(\"greater\");\relse if(a<5) printf(\"lesser\");\relse if(a==5) printf(\"equal\");\relse printf(\"unknown\");\r in the following program what a value should be passed so that it print 'unknown'", "k": ["unknown", "printf", "greater", "lesser", "equal"]}
+{"i": "7981690", "t": "Implement the tokenize function in C and how do you handle multiple spaces between words ?\r So if the string is \"abc def (2spaces)ghi\"  how do you separate out words in an array ??", "k": ["handle multiple spaces", "abc def", "implement the tokenize", "tokenize function", "handle multiple"]}
+{"i": "7979672", "t": "Select a product and tell me what improvement you would make to the product.", "k": ["select a product", "select", "product", "improvement", "make"]}
+{"i": "7986679", "t": "System call? What happens in low level.", "k": ["system call", "system", "call", "low level", "level"]}
+{"i": "7978686", "t": "Signal handling mechanism.", "k": ["signal handling mechanism", "signal handling", "handling mechanism", "signal", "mechanism"]}
+{"i": "7981689", "t": "Entry points into kernel?", "k": ["entry points", "points into kernel", "entry", "kernel", "points"]}
+{"i": "7978685", "t": "struct {\rchar c;\rint a;\rchar d;\r} \r What is the size here? What is the padding? Can we reorder these to reduce the padding? Why we need padding?", "k": ["char", "struct", "padding", "int", "size"]}
+{"i": "7986678", "t": "WHY (specifically WHY) do we have virtual functions (not just to access derived class methods using base class object. why we have to do that?\r Ans: Library implementation or force interface approach by declaring a pure virtual function where user is forced to implement it, as is the case with interface.", "k": ["base class object", "derived class methods", "access derived class", "class object", "access derived"]}
+{"i": "7873719", "t": "Difference between Java and C++?", "k": ["difference between java", "java", "difference"]}
+{"i": "7978684", "t": "Implement anagram. Eg: eitx is anagram to xite. \rie - Same letters, order changed.", "k": ["implement anagram", "implement", "anagram", "order changed", "eitx"]}
+{"i": "7988669", "t": "Did you see ICMP messages in TCP dump?", "k": ["tcp dump", "icmp messages", "messages in tcp", "icmp", "tcp"]}
+{"i": "7986677", "t": "Have you ever analysed TCP dump?", "k": ["analysed tcp dump", "tcp dump", "analysed tcp", "tcp", "dump"]}
+{"i": "7981688", "t": "How would you let other hosts know when there is a error? (I guess asked about ICMP header?)", "k": ["error", "icmp header", "asked about icmp", "hosts", "icmp"]}
+{"i": "7978683", "t": "What would happen when you press google.com? \r Ans: ARP, DNS, etc.?", "k": ["press google.com", "arp", "dns", "ans", "etc."]}
+{"i": "7944677", "t": "What would you do to test if another host is not responding? (Ping etc. etc. to test other host)", "k": ["responding", "ping etc.", "test", "ping etc. etc.", "ping"]}
+{"i": "7978682", "t": "How many lines of C, C++, Java, Perl etc. code you have written in your life time?", "k": ["java", "perl", "life time", "lines", "code"]}
+{"i": "7988668", "t": "Why NetApp", "k": ["netapp"]}
+{"i": "7978681", "t": "Implement strcpy function.", "k": ["implement strcpy function", "implement strcpy", "strcpy function", "implement", "function"]}
+{"i": "7888675", "t": "When would you use a hash table? Specific situations were asked", "k": ["hash table", "table", "hash", "specific situations", "situations were asked"]}
+{"i": "7981685", "t": "Write code for any pointer function.", "k": ["write code", "pointer function", "write", "function", "code"]}
+{"i": "7873718", "t": "Do you have any experience with graphics?", "k": ["experience with graphics", "graphics", "experience"]}
+{"i": "7981684", "t": "How do you debug?", "k": ["debug"]}
+{"i": "7873717", "t": "Explain about what you cannot do in a ISR.", "k": ["isr", "explain"]}
+{"i": "7888674", "t": "How would sleep in a kernel?", "k": ["kernel", "sleep"]}

@@ -1,0 +1,30 @@
+{"i": "5652384749977600", "t": "How to change application name after its deployment?", "k": ["change application", "deployment", "change", "application"]}
+{"i": "4760454595870720", "t": "How does android track the application on process?", "k": ["application on process", "android track", "track the application", "process", "android"]}
+{"i": "5960264984297472", "t": "Why can't you run java byte code on Android?", "k": ["code on android", "run java byte", "java byte code", "android", "run java"]}
+{"i": "6598411225137152", "t": "How is the use of web view in Android?", "k": ["view in android", "android", "web view", "web", "view"]}
+{"i": "5165284590092288", "t": "How to Translate in Android?", "k": ["translate in android", "android", "translate"]}
+{"i": "5938169592152064", "t": "What is a Sticky Intent in android?", "k": ["sticky intent", "intent in android", "sticky", "intent", "android"]}
+{"i": "5447792238002176", "t": "What are the different storage available in android?", "k": ["android", "storage"]}
+{"i": "6226724755341312", "t": "What is the order of dialog-box in android?", "k": ["dialog-box in android", "order of dialog-box", "android", "order", "dialog-box"]}
+{"i": "6224835842146304", "t": "What are the exceptions available in android?", "k": ["android", "exceptions"]}
+{"i": "4540925865361408", "t": "How many dialog boxes do support in android?", "k": ["support in android", "dialog boxes", "boxes do support", "android", "dialog"]}
+{"i": "6027303585316864", "t": "What is nine-patch images tool in android?", "k": ["nine-patch images tool", "tool in android", "nine-patch images", "images tool", "android"]}
+{"i": "5187904857440256", "t": "Where layouts are placed in android?", "k": ["android", "layouts"]}
+{"i": "4788336919576576", "t": "What does the intent filter do in android?", "k": ["intent filter", "android", "intent", "filter"]}
+{"i": "4899476781662208", "t": "What are the key components in android architecture?", "k": ["android architecture", "key components", "components in android", "architecture", "key"]}
+{"i": "6010742191423488", "t": "What is shared preferences in android?", "k": ["preferences in android", "shared preferences", "android", "shared", "preferences"]}
+{"i": "5472511318294528", "t": "What is an Adapter in android?", "k": ["adapter in android", "adapter", "android"]}
+{"i": "4903941467275264", "t": "What is ANR in android?", "k": ["anr in android", "anr", "android"]}
+{"i": "5393347890380800", "t": "What is ADB in android?", "k": ["adb in android", "adb", "android"]}
+{"i": "6221469124657152", "t": "What is container in android?", "k": ["container in android", "android", "container"]}
+{"i": "6025046982656000", "t": "What are the notifications available in android?", "k": ["android", "notifications"]}
+{"i": "6212304738189312", "t": "What is a content provider in android?", "k": ["provider in android", "content provider", "android", "content", "provider"]}
+{"i": "4834365077454848", "t": "What is a service in android?", "k": ["service in android", "android", "service"]}
+{"i": "5648633230262272", "t": "What is view Group in android?", "k": ["group in android", "view group", "group", "android", "view"]}
+{"i": "4899147075813376", "t": "What are the tools are placed in An Android SDK?", "k": ["android sdk", "sdk", "android", "tools"]}
+{"i": "6298254080212992", "t": "What do ADT stands for?", "k": ["adt stands", "adt", "stands"]}
+{"i": "5102419287998464", "t": "What language does android support to develop an application?", "k": ["develop an application", "language does android", "android support", "support to develop", "application"]}
+{"i": "6300615574028288", "t": "What is an android manifest file?", "k": ["android manifest file", "manifest file", "android manifest", "file", "android"]}
+{"i": "6306521959366656", "t": "What is an implicit Intent?", "k": ["implicit intent", "intent", "implicit"]}
+{"i": "5149307915730944", "t": "What is an explicit Intent?", "k": ["explicit intent", "intent", "explicit"]}
+{"i": "6687172562780160", "t": "What is An Intent?", "k": ["intent"]}

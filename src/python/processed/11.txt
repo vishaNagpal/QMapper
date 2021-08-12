@@ -1,12 +1,3 @@
-{"i": "5221232444702720", "t": "11)\tWhat are the best ways to increase website traffic?", "k": ["increase website traffic", "website traffic", "increase website", "traffic", "increase"]}
-{"i": "4790640230006784", "t": "10)\tmention what are the key elements to optimize the conversion rates per PPC?", "k": ["rates per ppc", "key elements", "elements to optimize", "optimize the conversion", "conversion rates"]}
-{"i": "5088678211223552", "t": "9)\tMention what is an effective PPC keyword should be like?", "k": ["effective ppc keyword", "effective ppc", "ppc keyword", "mention", "ppc"]}
-{"i": "4824291835641856", "t": "8)\tExplain what is Google Adwords?", "k": ["google adwords", "explain", "adwords", "google"]}
-{"i": "5998381007110144", "t": "7)\tMention what are the primary models for determining Pay-Per-Click ?", "k": ["models for determining", "mention", "primary models", "determining", "primary"]}
-{"i": "5401208754274304", "t": "6)\tExplain what is PPC or Pay Per Click advertising?", "k": ["ppc or pay", "pay per click", "click advertising", "explain", "ppc"]}
-{"i": "5279510587506688", "t": "5)\tMention what are the key areas where you can use keywords to optimize the site ranking", "k": ["site ranking", "key areas", "keywords to optimize", "optimize the site", "mention"]}
-{"i": "6019391047598080", "t": "4)\tExplain what is a keyword in digital marketing ? How important is it from the point of SEO?", "k": ["point of seo", "digital marketing", "keyword in digital", "explain", "seo"]}
-{"i": "5911193439436800", "t": "3)\tExplain what is SEO?", "k": ["explain", "seo"]}
 {"i": "6021932124733440", "t": "2)\tHow can you categorize the digital marketing?", "k": ["digital marketing", "categorize the digital", "marketing", "categorize", "digital"]}
 {"i": "6024362421911552", "t": "1)\tExplain what is digital marketing?", "k": ["digital marketing", "explain", "marketing", "digital"]}
 {"i": "6710347602329600", "t": "What are the state management techniques used in .NET?", "k": ["net", "state management techniques", "state management", "management techniques", "state"]}
@@ -28,3 +19,12 @@
 {"i": "5964158707695616", "t": "Implement a probability plot using numpy and matplotlib:", "k": ["implement a probability", "numpy and matplotlib", "probability plot", "plot using numpy", "implement"]}
 {"i": "5099417575620608", "t": "What are the different functions that can be used by grouby in pandas ?", "k": ["grouby in pandas", "pandas", "functions", "grouby"]}
 {"i": "5620426703634432", "t": "How to delete a column or group of columns in pandas? Given the below dataframe drop column \u201ccol1\u201d.", "k": ["pandas", "columns in pandas", "dataframe drop column", "delete", "group"]}
+{"i": "6287385346703360", "t": "How to create a new column in pandas by using values from other columns?", "k": ["column in pandas", "create", "pandas", "column", "columns"]}
+{"i": "4799885281329152", "t": "What is the difference between NumPy and SciPy?", "k": ["numpy and scipy", "difference between numpy", "scipy", "difference", "numpy"]}
+{"i": "6198015113560064", "t": "What is docstring in Python?", "k": ["docstring in python", "python", "docstring"]}
+{"i": "6505998024441856", "t": "How can you initialize a 5*5 NumPy array with only zeroes?", "k": ["numpy array", "numpy", "zeroes", "initialize", "array"]}
+{"i": "6330815502352384", "t": "Find out the mean, median and standard deviation of this numpy array -> np.array([1,5,3,100,4,48])", "k": ["np.array", "median and standard", "numpy array", "standard deviation", "find"]}
+{"i": "6183376657055744", "t": "What are the key features of Python?", "k": ["features of python", "python", "key features", "key", "features"]}
+{"i": "6207260164882432", "t": "What is the difference between JDK, JRE, and JVM?", "k": ["difference between jdk", "jre", "jdk", "jvm", "difference"]}
+{"i": "6536118713974784", "t": "How to count the number of occurrences of a character in a string in java?", "k": ["string in java", "count the number", "number of occurrences", "java", "count"]}
+{"i": "4900749568376832", "t": "How to run a java program in the command prompt?", "k": ["command prompt", "run a java", "java program", "prompt", "run"]}

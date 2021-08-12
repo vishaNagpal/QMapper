@@ -1,12 +1,3 @@
-{"i": "4931377718362112", "t": "13)\tWhat are design patterns?", "k": ["design patterns", "patterns", "design"]}
-{"i": "6495091424755712", "t": "12)\tWhat is a control?", "k": ["control"]}
-{"i": "6054196791476224", "t": "11)\tWhat is a component?", "k": ["component"]}
-{"i": "5334385371381760", "t": "10)\tWhat is business logic?", "k": ["business logic", "logic", "business"]}
-{"i": "6184442412924928", "t": "9)\tWhat is an Interface?", "k": ["interface"]}
-{"i": "5628591839117312", "t": "8)\tWhat is inheritance hierarchy?", "k": ["inheritance hierarchy", "hierarchy", "inheritance"]}
-{"i": "6646735512797184", "t": "7)\tDefine Overriding?", "k": ["define overriding", "define", "overriding"]}
-{"i": "5951529893232640", "t": "6)\tWhat is implementation and interface inheritance?", "k": ["interface inheritance", "implementation and interface", "inheritance", "implementation", "interface"]}
-{"i": "5368480163954688", "t": "5)\tWhat is inheritance?", "k": ["inheritance"]}
 {"i": "5058542506082304", "t": "4)\tWhat is an application server?", "k": ["application server", "server", "application"]}
 {"i": "6342390707650560", "t": "3)\tHow is .NET able to support multiple languages?", "k": ["support multiple languages", "multiple languages", "net", "support multiple", "languages"]}
 {"i": "5038772033421312", "t": "2)\tHow many languages .NET is supporting now?", "k": ["net is supporting", "net", "languages", "supporting"]}
@@ -28,3 +19,12 @@
 {"i": "6028917217951744", "t": "6)\tWhat is encapsulation?", "k": ["encapsulation"]}
 {"i": "4962174714249216", "t": "5)\tWhat is operator overloading?", "k": ["operator overloading", "overloading", "operator"]}
 {"i": "5267933637378048", "t": "4)\tWhat is dynamic polymorphism?", "k": ["dynamic polymorphism", "polymorphism", "dynamic"]}
+{"i": "6355315606421504", "t": "3)\tWhat is static polymorphism?", "k": ["static polymorphism", "polymorphism", "static"]}
+{"i": "5931430117376000", "t": "2)\tWhat is polymorphism?", "k": ["polymorphism"]}
+{"i": "6632504675532800", "t": "1)\tWhat is a superclass?", "k": ["superclass"]}
+{"i": "4926031020949504", "t": ". ___________Procedure in marketing which consists of enlisting opinion leaders as \u201cbrand ambassadors\u201d is called", "k": ["brand ambassadors", "procedure in marketing", "enlisting opinion leaders", "procedure", "marketing which consists"]}
+{"i": "5302222928216064", "t": ".__________ behavior Highly involved consumer buying behavior while perceiving significant differences between brands", "k": ["highly involved consumer", "behavior highly involved", "involved consumer buying", "perceiving significant differences", "consumer buying behavior"]}
+{"i": "5772721814765568", "t": "which Products like as \u201cVHS tapes\u201d", "k": ["vhs tapes", "vhs", "products", "tapes"]}
+{"i": "5199112574599168", "t": "Which way of consumers feel or perceive towards an actual product or potential market offering", "k": ["potential market offering", "market offering", "consumers feel", "feel or perceive", "actual product"]}
+{"i": "4646821907922944", "t": ". Product development comes from_________ source of idea.", "k": ["source of idea", "product development", "product", "source", "idea"]}
+{"i": "4649902741651456", "t": ". Which Of The Following Factors Can Impact The Open Rate Of Your Email Campaigns?", "k": ["email campaigns", "factors can impact", "impact the open", "open rate", "campaigns"]}

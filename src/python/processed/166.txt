@@ -1,0 +1,30 @@
+{"i": "5682881856798720", "t": "Given a file, read last n lines from the file\r string ReadNLines(sttring fileName, int n);", "k": ["file string readnlines", "sttring filename", "string readnlines", "file string", "read"]}
+{"i": "6292208195993600", "t": "Assume we have a very large file containing millions of lines of data. Only 2 lines are identical, rest are unique.\rEach line is long enough that they may not fit in memory.\rDesign an efficient algorithm to determine identical lines?\rAnd, then generalize it for 'n' identical lines.", "k": ["large file", "file containing millions", "lines", "identical", "assume"]}
+{"i": "5247564003672064", "t": "What is keyword stemming?", "k": ["keyword stemming", "stemming", "keyword"]}
+{"i": "6320481965703168", "t": "What is Cross linking and what are the function of Cross linking?", "k": ["cross linking", "function of cross", "cross", "linking", "function"]}
+{"i": "5088261485625344", "t": "What are the SEO tools do you use?", "k": ["seo tools", "seo", "tools"]}
+{"i": "5810513957093376", "t": "What do you mean by Backlink?", "k": ["backlink"]}
+{"i": "5651211439046656", "t": "What is SEO and introduce its types?", "k": ["seo and introduce", "introduce its types", "seo", "types", "introduce"]}
+{"i": "5693839526330368", "t": "Make use of an example to depict Singleton pattern. How would you make sure it works in Multithreaded environment.", "k": ["depict singleton pattern", "singleton pattern", "depict singleton", "singleton", "multithreaded environment"]}
+{"i": "6317786504626176", "t": "What's the use of concurrency list in java? What are various locking mechanism in java?", "k": ["list in java", "concurrency list", "java", "mechanism in java", "concurrency"]}
+{"i": "5703772980379648", "t": "Write code for reader writer (multi threading)", "k": ["multi threading", "write code", "reader writer", "code for reader", "write"]}
+{"i": "4834828920815616", "t": "How would you instantiate/start/stop thread in java.", "k": ["start", "stop thread", "thread in java", "instantiate", "stop"]}
+{"i": "6568081763598336", "t": "Explain diff between thread vs process.", "k": ["explain diff", "thread vs process", "diff between thread", "explain", "process"]}
+{"i": "4862011903049728", "t": "I think Bloomberg heavily expects candidates to have good knowledge of Multithreading concepts as they work in financial data. \r Explain multithreading.", "k": ["bloomberg heavily expects", "heavily expects candidates", "bloomberg heavily", "financial data", "heavily expects"]}
+{"i": "4889598880645120", "t": "inheritance vs composition?", "k": ["inheritance vs composition", "inheritance", "composition"]}
+{"i": "4888826558283776", "t": "Have you done debugging in JVM? How would you do it.", "k": ["debugging in jvm", "jvm", "debugging"]}
+{"i": "6296045480837120", "t": "what's use of equals and hashcode function?", "k": ["hashcode function", "equals and hashcode", "function", "equals", "hashcode"]}
+{"i": "4920016510124032", "t": "hashmap implementation?", "k": ["hashmap implementation", "hashmap", "implementation"]}
+{"i": "6330091585929216", "t": "vector vs arraylist", "k": ["vector vs arraylist", "vector", "arraylist"]}
+{"i": "6270198233432064", "t": "hashtable vs hashmap", "k": ["hashtable vs hashmap", "hashtable", "hashmap"]}
+{"i": "5733095527415808", "t": "Is memory leaks possible in Java?", "k": ["java", "memory leaks", "memory", "leaks"]}
+{"i": "5141082604044288", "t": "How Garbage collector know if something is not used and needs to be removed?", "k": ["garbage collector", "garbage", "removed", "collector"]}
+{"i": "6540289432879104", "t": "difference between java7 and java8?", "k": ["difference"]}
+{"i": "5204191679086592", "t": "asked if i know unix, linux scripting.\rif given 100 servers, you deploying your app in those servers. The server creates log. The logs can contain error messages. how would you group and count the error messages from all servers and receive them using unix commands.", "k": ["linux scripting", "asked", "linux", "scripting", "servers"]}
+{"i": "5707248280010752", "t": "java vs javascript", "k": ["java vs javascript", "java", "javascript"]}
+{"i": "6296973764198400", "t": "stack vs heap", "k": ["stack vs heap", "stack", "heap"]}
+{"i": "5066785306968064", "t": "Does JavaScript has inheritance? \rCan you override in JavaScript?", "k": ["inheritance", "javascript has inheritance", "javascript", "override", "override in javascript"]}
+{"i": "5446035113508864", "t": "What's difference between Javascript and JAVA in terms of OOP principles. Provide examples.", "k": ["javascript and java", "oop principles", "difference between javascript", "java in terms", "terms of oop"]}
+{"i": "6251837818667008", "t": "If given a binary file, with data like lat, long, weather, temp in key:value. It's a structured data how would u ingest it. what are the steps that are being taken before Hive process starts. \r- serde (serializartion deserialization). parque etc.", "k": ["temp in key", "binary file", "long", "weather", "hive process starts"]}
+{"i": "5175113408315392", "t": "Lets say if Mongo captures user views and oracle captures purchases. How would you design realtime system that answers question \"give me avg. no. of views of users by purchases\". \rSo if a user watch a trailer 10 times and then decides to buy a video. How would you calculate it. He was looking for QUEUE.\rHe could have gone on more details but stopped because i didn't give details on this.", "k": ["mongo captures user", "mongo captures", "oracle captures purchases", "oracle captures", "captures purchases"]}
+{"i": "6300350145363968", "t": "Write sql to get occurence of characters in given column\rRemove duplicate rows from sql table leaving one unique row.", "k": ["column remove duplicate", "remove duplicate rows", "sql table leaving", "column remove", "remove duplicate"]}

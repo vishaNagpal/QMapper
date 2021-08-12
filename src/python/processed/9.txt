@@ -1,12 +1,3 @@
-{"i": "6718140484943872", "t": "26)\tHow can we create copy of a Java object?", "k": ["java object", "create copy", "java", "object", "create"]}
-{"i": "5913459303120896", "t": "25)\tThere are two types of classes named classA and classB. Both the classes contain in the same package. Can classA private member can be accessed by an object of classB?", "k": ["classes named classa", "classes named", "classb", "named classa", "classes"]}
-{"i": "6365260536086528", "t": "24)\tCan a class have two methods with the same name?", "k": ["class", "methods"]}
-{"i": "5911316852637696", "t": "23)\tHow have the objects of a class been created if no constructor is defined in the class?", "k": ["constructor is defined", "class been created", "class", "objects", "created"]}
-{"i": "6051371525079040", "t": "22)\tWhat is the reason for using Break in each case of a Switch statement?", "k": ["switch statement", "break", "switch", "statement", "reason"]}
-{"i": "5597178582532096", "t": "21)\tHow can we implement any code before the main method?", "k": ["main method", "implement any code", "method", "implement", "code"]}
-{"i": "4782703130443776", "t": "20)\tWhat are the two methods of executing multi-threading in Java?", "k": ["multi-threading in java", "java", "methods of executing", "executing multi-threading", "methods"]}
-{"i": "5857643518754816", "t": "19)\tIn java why strings are known as Immutable?", "k": ["immutable", "java why strings", "java", "strings"]}
-{"i": "6209764936122368", "t": "18)\tWhat is the difference between Vector and an array?", "k": ["difference between vector", "vector", "array", "difference"]}
 {"i": "5320674980134912", "t": "17)\tCan string be a data type in Java?", "k": ["type in java", "java", "data type", "string", "data"]}
 {"i": "5928817233756160", "t": "16)\tIs it possible for us to override static methods of a class?", "k": ["override static methods", "override static", "static methods", "class", "override"]}
 {"i": "5384387179315200", "t": "15)\tWhen is the class constructor invoked?", "k": ["class constructor invoked", "constructor invoked", "class constructor", "invoked", "class"]}
@@ -28,3 +19,12 @@
 {"i": "5269481318776832", "t": "14)\tWhat are the advantages of Packages in Java?", "k": ["packages in java", "advantages of packages", "java", "packages", "advantages"]}
 {"i": "4893925603540992", "t": "13)\tWhat are the various access specifiers in Java?", "k": ["specifiers in java", "java", "access specifiers", "access", "specifiers"]}
 {"i": "6226039036968960", "t": "12)\tWhat is the default value of the local variables?", "k": ["local variables", "variables", "default", "local"]}
+{"i": "5470701543227392", "t": "11) What if I write static public void instead of public static void?", "k": ["write static public", "static public void", "public static void", "write static", "static public"]}
+{"i": "6486851932651520", "t": "10)\tIs Empty .java file name a valid source file name?", "k": ["valid source file", "java file", "valid source", "source file", "empty"]}
+{"i": "6405410494349312", "t": "9)\tWhat gives Java its 'write once and run anywhere' nature?", "k": ["nature", "java", "write", "run"]}
+{"i": "5646814982701056", "t": "8)\tWhat is the platform?", "k": ["platform"]}
+{"i": "5832431272198144", "t": "7)\tWhat is JIT compiler?", "k": ["jit compiler", "jit", "compiler"]}
+{"i": "6534571032576000", "t": "6)\tHow many types of memory areas are allocated by JVM?", "k": ["allocated by jvm", "jvm", "types of memory", "memory areas", "areas are allocated"]}
+{"i": "4821437225893888", "t": "5)\tWhat is the difference between JDK, JRE, and JVM?", "k": ["difference between jdk", "jre", "jdk", "jvm", "difference"]}
+{"i": "5487854350761984", "t": "4)\tWhat do you understand by Java virtual machine?", "k": ["java virtual machine", "understand by java", "java virtual", "virtual machine", "java"]}
+{"i": "4807203234512896", "t": "3)\tList the features of Java Programming language.", "k": ["java programming language", "java programming", "programming language", "list the features", "features of java"]}
