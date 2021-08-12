@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
-import MainComponent from './components/MainComponent';
+import MainComponent from './components/IndexDBDrivenComponent';
+import UploaderComponent from './components/UploaderComponent';
 
 const App : React.FunctionComponent= function() {
   const isDBPresent:boolean = 'indexedDB' in window;
@@ -8,15 +9,16 @@ const App : React.FunctionComponent= function() {
   return (
     <div className="App">
       <header className="App-header">
-      <span style={{float:'right'}}>Hi Vishakha</span>
+      <span style={{float:'right'}}>Hi Interviewer</span>
         <p>
           Question Mapper (Type a keyword and get matching questions)
         </p>
         
       </header>
-      <main style={{margin:'20px'}}>
+      <main>
         {/* {isDBPresent && <p>Index DB is supported in your browser</p>} */}
-        {isDBPresent && <MainComponent/>}
+        {!isDBPresent && <MainComponent/>}
+        <UploaderComponent/>
       </main>
     </div>
   );

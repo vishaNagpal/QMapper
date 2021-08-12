@@ -14,15 +14,15 @@ const MainComponent: React.FunctionComponent = function () {
         dataReq.then(val => setQList(val));
     }, []);
 
-    useEffect(()=>{
-        var xhr = new XMLHttpRequest();
-        xhr.open("GET", "../careercup.py", true);
-        // xhr.responseType = "JSON";
-        xhr.onload = function(e) {
-          console.log(xhr.response);
-        }
-        xhr.send();
-    },[]);
+    // useEffect(()=>{
+    //     var xhr = new XMLHttpRequest();
+    //     xhr.open("GET", "../python/parser.py", true);
+    //     // xhr.responseType = "JSON";
+    //     xhr.onload = function(e) {
+    //       console.log(xhr.response);
+    //     }
+    //     xhr.send();
+    // },[]);
 
     const filterLabels = (event:any)=>{
         if(event.target){
