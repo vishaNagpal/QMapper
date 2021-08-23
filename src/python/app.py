@@ -1,6 +1,6 @@
 from __future__ import absolute_import
 
-from flask import Flask, jsonify
+from flask import Flask, jsonify,send_from_directory
 from flask import request
 from flask import Response
 from flask_cors import CORS, cross_origin
@@ -24,6 +24,7 @@ def upload_resume():
             keywords = getWordsFromResume(uploaded_file)
             if keywords:
                 response_data = get_similarity(keywords)
+                response_data['keywords'] = keywords
                 questions = fetchQuestions(",".join(keywords),5);
                 response_data['questions'] = questions
                 return jsonify(response_data)
@@ -55,6 +56,14 @@ def fetch_questions():
     print('response_data')
     return jsonify(response_data)
 
+
+@app.route('/get-files/<path:path>',methods = ['GET'])
+def get_files(path):
+    base_path = '/Users/vishakha.nagpal/development/my_workspace/QMapper/src/uploads'
+    try:
+        return send_from_directory(base_path, path)
+    except FileNotFoundError:
+        abort(404)
 
 @app.route('/')
 def home():

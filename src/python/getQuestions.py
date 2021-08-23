@@ -7,8 +7,6 @@ KEY_WORDS_STAT = DIR_PATH+'/src/python/processed/kw.json'
 NO_OF_QUESTIONS = 5
 
 def fetchQuestions(skillsList,max_questions_req):
-    print('counttttttt')
-    print(max_questions_req)
     questionsFound = 0
     questList = []
     for n in range(1, 500):
