@@ -6,7 +6,9 @@ KEY_WORDS_STAT = DIR_PATH+'/src/python/processed/kw.json'
 
 NO_OF_QUESTIONS = 5
 
-def fetchQuestions(skillsList,max_questions_req = NO_OF_QUESTIONS):
+def fetchQuestions(skillsList,max_questions_req):
+    print('counttttttt')
+    print(max_questions_req)
     questionsFound = 0
     questList = []
     for n in range(1, 500):
@@ -33,6 +35,6 @@ def fetchQuestions(skillsList,max_questions_req = NO_OF_QUESTIONS):
 
 if __name__ == '__main__':
     words =  ['loops','pool','posting','graph']
-    ques = fetchQuestions(words,5)
+    ques = fetchQuestions(words,1)
     print(ques)
 

@@ -4,10 +4,11 @@ from spacy.matcher import Matcher
 import spacy
 import pandas as pd
 import os
+
 from getSimilarity import *
 
 DIR_PATH = '/Users/vishakha.nagpal/development/my_workspace/QMapper/src/python';
-
+uploads_dir = '/Users/vishakha.nagpal/development/my_workspace/QMapper/src/uploads'
 
 def extract(resume):
     temp = docx2txt.process(resume)
@@ -53,17 +54,17 @@ def extract_skills(resume_text):
 def find_similarity(keywords):
     getSimilarity(keywords)
 
-
-if __name__ == '__main__':
-    # path = "/Users/vishakha.nagpal/Downloads/resume_001.docx"
-    # path = DIR_PATH + "/resume/6.docx"
-    path = '/Users/vishakha.nagpal/development/my_workspace/QMapper/src/uploads/6.docx'
+def getWordsFromResume(file):
     try:
-        file_extension = os.path.splitext(path)[1]
-        print('reading resume...')
-        content = file_extension == '.pdf' and read_pdf_file(path) or extract(path)
+        filename = file.filename;
+        file_extension = filename.split('.')[1]
+        filePath = os.path.join(uploads_dir,filename);
+        file.save(filePath)
+        print('reading resume...'+filename)
+        content = file_extension == '.pdf' and read_pdf_file(filePath) or extract(filePath)
         print('resume parsed successfully.. fetching skills now')
         keywords = extract_skills(content)
-        find_similarity(keywords)
+        return keywords;
     except IOError:
-        print("Error opening or reading input file: ", path)
+        print("Error opening or reading input file")
+        return ''
