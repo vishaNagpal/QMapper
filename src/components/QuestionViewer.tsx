@@ -41,6 +41,7 @@ const StyledTable = styled.table`
   width: 100%;
   text-overflow: ellipsis;
   border-collapse: collapse;
+  margin:0 10%;
 
   tr:nth-child(even) {
     background-color: #f4f4f4;

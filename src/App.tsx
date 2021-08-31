@@ -1,7 +1,10 @@
 import React from 'react';
-import './App.css';
 import MainComponent from './components/IndexDBDrivenComponent';
 import UploaderComponent from './components/UploaderComponent';
+
+import 'react-tabs/style/react-tabs.css';
+import "react-loader-spinner/dist/loader/css/react-spinner-loader.css";
+import './App.css';
 
 const App : React.FunctionComponent= function() {
   const isDBPresent:boolean = 'indexedDB' in window;
@@ -10,8 +13,8 @@ const App : React.FunctionComponent= function() {
     <div className="App">
       <header className="App-header">
       <span style={{float:'right'}}>Hi Interviewer</span>
-        <p>
-          Question Mapper (Type a keyword and get matching questions)
+        <p style={{margin: '10px 0'}}>
+          Interview Mapper Assistant
         </p>
         
       </header>
