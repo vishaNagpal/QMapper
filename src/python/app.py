@@ -5,7 +5,7 @@ from flask import request
 from flask import Response
 from flask_cors import CORS, cross_origin
 
-from getSimilarity import getSimilarityFromWords,get_similarity
+from getSimilarity import get_similarity_from_words,get_similarity
 from getQuestions import fetchQuestions
 from parseResume import getWordsFromResume
 
@@ -41,7 +41,7 @@ def upload_resume():
 @cross_origin(supports_credentials=True)
 def fetch_similarity():
     words = request.args.get('words');
-    response_data = getSimilarityFromWords(words);
+    response_data = get_similarity_from_words(words);
     return jsonify(response_data)
 
 

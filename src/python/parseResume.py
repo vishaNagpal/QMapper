@@ -61,7 +61,7 @@ def getWordsFromResume(file):
         filePath = os.path.join(uploads_dir,filename);
         file.save(filePath)
         print('reading resume...'+filename)
-        content = file_extension == '.pdf' and read_pdf_file(filePath) or extract(filePath)
+        content = file_extension == 'pdf' and read_pdf_file(filePath) or extract(filePath)
         print('resume parsed successfully.. fetching skills now')
         keywords = extract_skills(content)
         return keywords;
