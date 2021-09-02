@@ -9,12 +9,12 @@ interface IProps {
 }
 
 const ChartComponent: React.FunctionComponent<IProps> = function ({ similarityObject, pieDataList }: IProps) {
-    const [selected, setSelected] = useState<string|null>(null);
+    const [selected, setSelected] = useState<string | null>(null);
     let selectedObject = similarityObject && selected ? similarityObject[selected] : null;
 
-    useEffect(()=>{
+    useEffect(() => {
         setSelected(null)
-    },[similarityObject])
+    }, [similarityObject])
 
     return (<article className='chartWrapper'>
         <h2>Similarity With Categories</h2>
@@ -39,10 +39,14 @@ const ChartComponent: React.FunctionComponent<IProps> = function ({ similarityOb
             }}
         />
         <div id='chart-selected-list'>
-            <h2>Selected Category: {selected && selected.toUpperCase()}</h2>
-            {
-                selectedObject && selectedObject.similarityList.map(item=><span key={`item-${item}`}>{item.charAt(0).toUpperCase() + item.substr(1,item.length)}</span>)
-            }
+            {selectedObject ? <>
+                <h2>Selected Category: {selected && selected.toUpperCase()}</h2>
+                {
+                    selectedObject.similarityList.map(item => <span key={`item-${item}`}>{item.charAt(0).toUpperCase() + item.substr(1, item.length)}</span>)
+                }
+
+            </> : null}
+
         </div>
     </article>)
 }

@@ -12,11 +12,10 @@ const App : React.FunctionComponent= function() {
   return (
     <div className="App">
       <header className="App-header">
-      <span style={{float:'right'}}>Hi Interviewer</span>
+        <span style={{float:'left'}} className='App-logo'>RPaQ</span>
+        <span style={{float:'right'}}>Hi Interviewer</span>
         <p style={{margin: '10px 0'}}>
-          Interview Mapper Assistant
-        </p>
-        
+          You can upload a resume or type the keywords directly</p>
       </header>
       <main>
         {/* {isDBPresent && <p>Index DB is supported in your browser</p>} */}
