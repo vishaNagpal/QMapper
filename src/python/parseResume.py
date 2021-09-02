@@ -16,12 +16,13 @@ def extract(resume):
     return ' '.join(text)
 
 
-def read_pdf_file():
-    pdfFileObj = open('filePath', 'rb')
+def read_pdf_file(filePath):
+    pdfFileObj = open(filePath, 'rb')
     pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
     pageObj = pdfReader.getPage(0)
+    fileText = pageObj.extractText()
     pdfFileObj.close()
-    return pageObj.extractText()
+    return fileText
 
 
 def extract_skills(resume_text):

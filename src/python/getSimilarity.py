@@ -18,6 +18,7 @@ def get_similarity(skills):
         count = count+1
         category_key = next(iter(cat))
         same_items_list = [value.lower().strip() for value in skills if value.lower().strip() in cat[category_key]]
+        print(same_items_list)
         distance = len(same_items_list) * 100
         print(distance)
         similarity_list.append(distance)
@@ -43,11 +44,9 @@ def get_similarity_from_words(words):
 
 
 if __name__ == '__main__':
-    obj = get_similarity(
-        ['Oracle', 'Migration', 'Android', 'Adobe', 'Illustrator', 'Automation', 'Service', 'Os', 'Sql', 'Database',
-         'System', 'Hbase'])
+    obj = get_similarity(["Cosmosdb", "Cloudformation", "Dynamodb", "Lambda", "Threading", "Chemistry", "Sns", "Loadbalancer", "Database", "Aws", "Ui", "Javascript", "Physics", "Sqs","Kafka", "Java"])
     print(obj);
-    plot_chart([400,100,100,20,20],obj['categoryList'])
+    # plot_chart([400,100,100,20,20],obj['categoryList'])
 
 # #    ss=getSimilarity(['Vmware', 'Analysis',
 # 'Python', 'Watchdog', 'Architecture', 'Aws', 'Cloud', 'Api', 'Design', 'Agile', 'Saas', 'Security', 'Cisco',
