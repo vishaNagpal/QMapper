@@ -1,0 +1,30 @@
+{"i": "3096935", "t": "What data structure you will use to design a Dictionary of words. Each word have a description. Then tell what will be the a word lookup BigO."}
+{"i": "3136876", "t": "int IsAnagram(char* str1, char* str2)"}
+{"i": "3154817", "t": "int CutNPaste(char* str, int start, int stop, int destination)"}
+{"i": "3116795", "t": "Write a program to print out the power set of a set."}
+{"i": "3095848", "t": "Write a function to validate a SuDoKu board."}
+{"i": "3150769", "t": "There is an array of size 'n' in which first 'a' elements are sorted in either ascending/descending order . The remaining elements 'n-a' elements are again sorted in ascending/descending. Find the index of the point of inflexion.If both parts are sorted in the same way return -1."}
+{"i": "3112708", "t": "What is the difference between a process and a thread?"}
+{"i": "3106707", "t": "What is a CSS selector?"}
+{"i": "3109707", "t": "There is a large XML file, it has billions of sub nodes, grandparent nodes. Write an algorithm to find a node in the XML file."}
+{"i": "3131705", "t": "What is normalization?\r What is outer join?"}
+{"i": "3089709", "t": "Given 5 classess Person, Head, Body, Arm, Leg, how will you relate all the 4 classes in a object oriented way?"}
+{"i": "3094698", "t": "What is the visitor pattern? \rDifference between Facade and Adapter Pattern?"}
+{"i": "3078718", "t": "Whats the difference between an interface and a abstract class?"}
+{"i": "3115707", "t": "What is polymorphism?"}
+{"i": "3101725", "t": "Given an array 1, 2, 3 ,4,4,4, 5,..,15,..,15,..,15...,..,15,....\rHow will you find the largest integer? Determine Complexity, how will you improve the complexity?"}
+{"i": "3097714", "t": "Algorithm for matrix multiplication two sparse matrix ( many 0s, a non-zero integer in a few places). The matrix is N X N. N is a very large number."}
+{"i": "3109706", "t": "Algorithm for Depth first traversal of a TREE. How will you modify the same for a breadth first traversal?\rWhat is a topological sort?"}
+{"i": "3121692", "t": "main()\r{\r    char *s=f();\r    printf(\"\\n String is %s\\n\",s);\r}\r char * f()\r{\r     char b[10];\r     strcpy(b,\"TEST\");\r     return b;\r}\r What is the output of printf statement?\rWhy will printf prints junk values?"}
+{"i": "3114699", "t": "char ch[]=\"ab\";\rchar *ch = \"cd\";\rwhat is the difference between the above two statements?\rWhat happens when I reassign some other values to above variables?"}
+{"i": "3044933", "t": "Find the two nodes in Binary Tree which has longest distance between them.\r eg,\r     A\r  B     C\r      D    E\r    F   G\r  I\rshould return B & I"}
+{"i": "2977002", "t": "Given a random number generator function rand(N) which generated numbers from 1 to N randomly. Give an optimized algorithm which when calls rand(N) generates all numbers from 1 to N uniquely."}
+{"i": "2994982", "t": "Given a 2 dimensional plane in which there are n points. Give an algorithm to generate the equation of a line that divides the plane such that there are n/2 points on one side and n/2 points on the other."}
+{"i": "2966969", "t": "Given an infinite array in which first N elements exists in sorted order. Given a number X, find the index where it exists. Give O(n) and O(lg(n)) approach."}
+{"i": "2976989", "t": "How to find the missing K elements out of the unsorted natural N elements in an integer array.\rTime complexity has to be O(n), with 3 extra variables of Space. \rOne suggestion was to do it in-place in the array.\rIs there exists an in place countsort kind of method?"}
+{"i": "2968934", "t": "Input : Two sorted arrays, elements of  both sorted in decreasing order : A and B.\r Output : A matrix C with (a,b,sum) such that aEA, bEB, sum = a+b and in decreasing value of sum.\r Complexity required : O(n)"}
+{"i": "3063856", "t": "Write a program to convert infix expression to postfix expression"}
+{"i": "3026945", "t": "Write a program to find the mirror image of a n-ary tree"}
+{"i": "3043860", "t": "given a structure,\rstruct {int a, float b, char c } x,y;\rwhat are the 4 ways to copy contents of x into y?"}
+{"i": "2991909", "t": "Print a matrix spirally"}
+{"i": "2984954", "t": "Given ticker value for a stock, for next n days, given what is the max profit that you can make ?\rEg -  the max profit you can make is buy at time t1 @ 5 and sell @ t2 when stock was 12, to get max Profit of 7 dollars.\r time - Stock Price\rt0 - 10\rt1 - 5\rt2 - 12\rt3 - 7\rt4 - 12\r Also - you can only trade once i.e you can buy and sell only 1 time."}

@@ -1,0 +1,30 @@
+{"i": "17722662", "t": "Code to create a file system.... Have classes like directory, file and all\r please write the full code"}
+{"i": "17368679", "t": "In a BST, I want to replace all nodes with value which is the sum of all the nodes which are greater than equal to the current node.\r              5              \r         2        10                           \r Output -->              \r                              15\r                        17         10"}
+{"i": "17368678", "t": "You are given a BST, and min, max elements. Your task is to trim this BST so that it contains the elements between the min and the max elements.\r For example, given the mix and max elements [5, 13] and the tree below, you would return the output below.8\r\n           3                  10   \r\n       1       6                  14\r\n            4    7             13output should be :--->8\r\n                6           10\r\n                   7           13"}
+{"i": "17567670", "t": "Design a DS for storing browsing history."}
+{"i": "17361673", "t": "Design a Calculator. Details about the class variables, datastructure to be used etc."}
+{"i": "17696665", "t": "Generate a solution when multiple threads want to just read in their critical sections and when nobody is writing in the critical section."}
+{"i": "17697664", "t": "Implement a simple regex parser which, given a string and a pattern, returns a boolean indicating whether the input matches the pattern. By simple, we mean that the regex can only contain one special character: * (star). The star means what you'd expect, that there will be zero or more of any character in that place in the pattern. However, multiple consecutive stars are allowed. Some examples of valid input (and expected output):\r f(a*b, acb) => true\rf(abc*, abbc) => false\rf(**bc, bc) => true"}
+{"i": "17562671", "t": "Design a class structure for an airport terminal, where your primary use case is allocating runway time to approaching aircraft. For example, an instance of a terminal may have only two runways of different lengths and must schedule these among five aircraft of different types requesting permission to land."}
+{"i": "17417667", "t": "Write a service or services to support tic-tac-toe between two players, on an infinite board. Normal rules apply (i.e. three in a row to win), but the players are not limited to a 3X3 board and can choose to place an X or an O in any arbitrary, positive (i, j) position. Solution should be as space and time efficient as possible. Your service is only responsible for maintaining and updating the state of the board between two players, given their sequence of moves."}
+{"i": "17404672", "t": "How to print a variable 1000 times without using loops and recurssion"}
+{"i": "17245689", "t": "Finding border of a binary tree.Given a Binary tree print all the nodes that form the boundary."}
+{"i": "17263674", "t": "For given N* N matrix,\r 1 2 3 \r8 9 4\r7 6 5\rWrite a program to\rprint 1,2,3,4,5,6,7,8,9"}
+{"i": "17686666", "t": "write a function :\rchar * CreateEmptyString(int len);\r function should return an pointer to an empty string   of length len"}
+{"i": "17230678", "t": "Design a LRU cache in Java."}
+{"i": "17267675", "t": "Write a code in java to design connection pool. You have to pass the parameter like pool size, time out etc.\rHow will you call the connection from pool?Write the code in Java?\rHow will you return the connection to pool once time out or connection not in use. You also have to write the exception handling mechanism to print any exception."}
+{"i": "17330675", "t": "Write a SQL to find the nth maximum salary in a employee table."}
+{"i": "17194673", "t": "You have a very very big text file.How would you read & process it to print the below output.\r1. Print the top ten ranked distinct words.\r2. Print the   occurrence of the each alphabet in this file.\r For example: \rABC (100)\rXYZ (40)\rPQR (10)\rTHE (200)\rIN (200)\rThen I have to display the output as\rIN (200)\rTHE (200) \rABC (100)  \rXYZ (40).\rAnd \rA=1000\rB=2000\rC= 300\r.. ...\rz=300"}
+{"i": "17633667", "t": "There is a 1.2G text file on the 1.5G hard drive and 300M memory, how can reverse these file in word unit.\rplease program with c language!\rFor example:\r \"Thank you for your help\" \t\r reversed:\r \"help your for you Thank\""}
+{"i": "17506668", "t": "how do you handle your thread, to avoid dead lock and efficient(generally question)"}
+{"i": "17466666", "t": "what is Materialized view, is any different from View."}
+{"i": "17632666", "t": "Truth Table implementation: Write a function which takes integer as In put parameter (let's say n), print all True (T) , False (F) combinations n times. Here is the example:\r for n = 1\rOutput : \rT\rF\r for n = 2\rOutput : \rT F\rF T\r For n = 3\rOutput :T T T\r\nT T F\r\nT F T\r\nT F F\r\nF T T\r\nF T F\r\nF F T\r\nF F F"}
+{"i": "17656662", "t": "Write a program to swap kth node from first and kth node from last in a linked list ."}
+{"i": "17302676", "t": "write a java program to reverse a string."}
+{"i": "17499665", "t": "Write a java program to read a file and get different words and also print number of occurences of each word."}
+{"i": "17248675", "t": "Design a MMORPG game in internet scale. Assume only available action for the players is watch and move."}
+{"i": "17435682", "t": "Given a matrix that contains 0s and 1s, find the shortest exit and print the path. You can navigate in top,bottom,left or right directions."}
+{"i": "17251680", "t": "In a stream of numbers, keep track of 1 million max numbers."}
+{"i": "17585663", "t": "find the Langford sequence for a given N if it exists? Details of Langford sequence - https://en.wikipedia.org/wiki/Langford_pairing"}
+{"i": "17212672", "t": "C program to convert little endian to big endian. Implement htons. ?\rAlso convert little to big endian using UNIONS ?"}
+{"i": "17472666", "t": "Given a sequence of numbers (or array).Find the maximum distance between all the same numbers.Like you have 1,2,3,4,1,1,7,4 so max(1)=5,max(2)=0 max(4)=4. etc."}

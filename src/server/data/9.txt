@@ -1,0 +1,30 @@
+{"i": "5320674980134912", "t": "17)\tCan string be a data type in Java?"}
+{"i": "5928817233756160", "t": "16)\tIs it possible for us to override static methods of a class?"}
+{"i": "5384387179315200", "t": "15)\tWhen is the class constructor invoked?"}
+{"i": "5409651586236416", "t": "14)\tDoes main() method in java return any data?"}
+{"i": "4818664153415680", "t": "13)\tWhat are known as Java Packages? What is the significance of packages?"}
+{"i": "6395381225619456", "t": "12)\tWhat is known as the base class in Java from which all the classes are derived?"}
+{"i": "5947337132736512", "t": "11)\tWhat is known as a ternary operator? Provide an example."}
+{"i": "5747442241241088", "t": "10)\tHow will you generate random numbers in Java?"}
+{"i": "6606840702435328", "t": "9)\tExplain the difference between float and double variables in Java?"}
+{"i": "4732917480161280", "t": "8)\tWhat is known as a final keyword in Java? Give an example"}
+{"i": "5592240578101248", "t": "7)\tWhat is known as infinite loop? Explain how infinite loop is declared?"}
+{"i": "6488735141593088", "t": "6)\tExplain the difference between break and continue statement?"}
+{"i": "4731743611912192", "t": "5)\tWhat is a singleton class? Give an example"}
+{"i": "5883624933556224", "t": "4)\tWhat is the purpose of static variables and static methods?"}
+{"i": "6043704924569600", "t": "3)\tWhat is known as data encapsulation and explain it\u2019s significance?"}
+{"i": "6225317482463232", "t": "2)\tWhat is the difference between an Inner class and a Subclass?"}
+{"i": "6527108661116928", "t": "1)\tWhat are the different access specifiers for Java classes?"}
+{"i": "6370889627598848", "t": "15)\tWhat is called Loops in Java? What are the three types of loops?"}
+{"i": "5269481318776832", "t": "14)\tWhat are the advantages of Packages in Java?"}
+{"i": "4893925603540992", "t": "13)\tWhat are the various access specifiers in Java?"}
+{"i": "6226039036968960", "t": "12)\tWhat is the default value of the local variables?"}
+{"i": "5470701543227392", "t": "11) What if I write static public void instead of public static void?"}
+{"i": "6486851932651520", "t": "10)\tIs Empty .java file name a valid source file name?"}
+{"i": "6405410494349312", "t": "9)\tWhat gives Java its 'write once and run anywhere' nature?"}
+{"i": "5646814982701056", "t": "8)\tWhat is the platform?"}
+{"i": "5832431272198144", "t": "7)\tWhat is JIT compiler?"}
+{"i": "6534571032576000", "t": "6)\tHow many types of memory areas are allocated by JVM?"}
+{"i": "4821437225893888", "t": "5)\tWhat is the difference between JDK, JRE, and JVM?"}
+{"i": "5487854350761984", "t": "4)\tWhat do you understand by Java virtual machine?"}
+{"i": "4807203234512896", "t": "3)\tList the features of Java Programming language."}

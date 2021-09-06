@@ -1,0 +1,30 @@
+{"i": "11900885", "t": "Print every level in a tree in its own line. Its a modified version of Breadth First Tree traversal."}
+{"i": "11901894", "t": "Write a method to test if a String is number.\r Check for all the cases like '.', '-', '+' ascii values multiple occurance of sysmbols.\r Objective: Cover all the use cases"}
+{"i": "11904880", "t": "Convert and infix expression to postfix expression"}
+{"i": "11902830", "t": "Write a function to reverse a UTF-8 encoded string in-place."}
+{"i": "11900790", "t": "Write a code to find out endness of a system?\r(I am a java guy).How can we do it in java?Do we need to take care of endness in java?If yes give exmaples of such situation?"}
+{"i": "11897795", "t": "Given a binary tree print the largest part of binary tree that satisfies the property of BST."}
+{"i": "11898678", "t": "Why linux is more stable than windows ?"}
+{"i": "11886683", "t": "what are the stuffs a compiler provide to a class ?"}
+{"i": "11886682", "t": "Write a code snippet print a count no of characters in a  number (string can't be used) ?\r int count(int num)\r{\r   //code should return no of digits\r}"}
+{"i": "11905675", "t": "What is the disadvantage of normalization ?\rWhy can't we follow normalization always ?"}
+{"i": "11898677", "t": "What is critical section ?"}
+{"i": "11907677", "t": "Write an algorithm to avoid and detect deadlock in C++ ?\r What is Banker's algorithm ?"}
+{"i": "11840681", "t": "There is a pool of memory with a specific address. How to make sure the object is always created in that part of memory ?"}
+{"i": "11905674", "t": "How to forbid the creation of object in\r1>Stack\r2>Heap\r ?"}
+{"i": "11898676", "t": "How to restrict a function so that in can't throw any kind of exception ?\r How to restrict a function so that it can throw the exception of a particular type  ?"}
+{"i": "11895698", "t": "Process vs Thread"}
+{"i": "11895697", "t": "Can trigger be used with select statement?"}
+{"i": "11895696", "t": "Design an API for Deck of Cards"}
+{"i": "11895695", "t": "Difference between notify() and notifyAll()"}
+{"i": "11897700", "t": "Given an unsorted array and a number a, find a pair of numbers(b,c) from the array sch that\ra=b+c."}
+{"i": "11904701", "t": "WAP in Java to create deadlock"}
+{"i": "11880777", "t": "Soft Skill question:\rWhere do you think Amazon can improve customer's experience? Explain how!"}
+{"i": "11882769", "t": "Open ended question:\rYou have to design lifts for a 75 floor building. How many lifts would you install ?"}
+{"i": "11846797", "t": "Given a function bool which return 1 with probability p and 0 with probability 1-p.How will u design a function to simulate the toss of a coin using bool.The function should return heads or tails with equal probability?"}
+{"i": "11796346", "t": "Why was multiple inheritance not included in Java though it was previously in C++?"}
+{"i": "11794410", "t": "A number is qualified is all its digits are in ascending order. Example: 123; 1<2<3. Given the value on N, the number of digits in the number, print all the qualified numbers."}
+{"i": "11799266", "t": "Given an image that is represented by Nx1000 matrix of binary numbers. 1 represents black(image ink) and 0 represents white(blank).\rThe page breaks are applied in two ways:\r1.)Find the row with all the white pixels.\r(But this selection should be efficient as we want to print in minimum no. of pages.\rFor example: if we get a white line on 200th row, 600th row and 900th row, we should choose 900th line to break page).\r2.) If no such row exists, break on the 1000th line.\r Return all the positions of the pixels where you break the page and the number of pages, so that the image can be printed in the minimum number of pages."}
+{"i": "11795714", "t": "How do you find a shortest connection between two persons on Facebook(if the same exists)?\rYou are provided with an API which returns the list of friends of a particular persons"}
+{"i": "11770891", "t": "SMS Problem\r1 - NULL, 2 - ABC, 3 - DEF, 4 - GHI, 5 - JKL, 6 - MON, 7 - PQRS, 8 - TUV, 9 - WXYZ, * - <Space>, # - <Break>\rWe must convert the numbers to text. \rEg \rI/P - O/P\r22 - B\r23 - AD\r223 - BD\r22#2 - BA (# breaks the cycle)\r3#33 - DE\r2222 - 2\r2222#2 - 2A\r22222 - A (cycle must wrap around)\r222222 - B"}
+{"i": "11743888", "t": "You have a class MyObject. What is the difference between the following statements::\r 1) MyObject foo;\r2) MyObject *bar;\r3) MyObject *foobar = new MyObject();"}

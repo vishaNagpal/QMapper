@@ -1,0 +1,30 @@
+{"i": "3611893", "t": "Can you have duplicate packets in UDP?"}
+{"i": "3583954", "t": "How will you enhance UDP to have the TCP level of reliability. Basically no packets are lost, duplicate packets are discarded."}
+{"i": "3584945", "t": "How will you implement a monitor in C++?"}
+{"i": "3634810", "t": "write your own ArrayList in Java ?"}
+{"i": "3576940", "t": "You are given an array ' containing 0s and 1s. Find O(n) time and O(1) space\ralgorithm to find the maximum sub sequence which has equal number of 1s and\r0s.\r Examples\r1) 10101010\rThe longest sub sequence that satisfies the problem is the input itself\r 2)1101000\rThe longest sub sequence that satisfies the problem is 110100"}
+{"i": "3583902", "t": "You have a huge graph of cities and cost of flight between them. Find the cheapest path from A to B. The graph doesnt fit in memory"}
+{"i": "3623786", "t": "Given n points in a plane, return k nearest neighbors for all of them. Brute force gives O(n2) but interviewer was expecting something better. I guess O(nlogn)"}
+{"i": "3637709", "t": "You are given a 2D array(M*N)containing integers which are sorted. So the topmost element(0,0) is the lowest and the bottom right element is the highest. Given a number find the number in the 2D array."}
+{"i": "3623744", "t": "Given a BST, print all the values >=vmin and <=vmax. Time complexity should be better than O(n). O(logn + (vmax-vmin)) in worst case.\r No parent pointers are available"}
+{"i": "3598806", "t": "design an algoritm to generate the sequence of positive intergers in increasing order whose only prime divisor are 2 and 3"}
+{"i": "3583833", "t": "Can u help me develop algorithm to print  the daily salary of workers who each day are paid twice ther previous salary for 30 days"}
+{"i": "3637684", "t": "given a word,convert it into a pallindrome with minimum addition of letters to it.letters can be added anywhere in the word.for eg if yahoo is given result shud be yahoohay.give a optimize soln"}
+{"i": "3609748", "t": "what is the signature & body of method returning a singleton instance?"}
+{"i": "3610738", "t": "Difference between List<String> and List"}
+{"i": "3590768", "t": "Given n stairs, how many number of ways can you climb if u use either 1 or 2 at a time?"}
+{"i": "3622698", "t": "Given a line segment of length n. You need to cut it into m pieces specified by position[n] array. The price of cutting a segment of length len in two parts is always len (irrespective of cut position). Give a dynamic programming solution to minimize the cost of cutting"}
+{"i": "3560372", "t": "5 positive integers are given . In many comaprisons can we find the median."}
+{"i": "3600719", "t": "Asked me about sorting a vector of integers\r I told him used std::sort\r Then asked me how to sort a vector with objects of class StudentData. I told him use std::sort(ve.begin(), vec.end(), sortRoutine)\rThe sortRoutine will be define static or global scope in header file."}
+{"i": "3604712", "t": "Given a function: func(CString str1, CString str2). You need to remove all characters in str1 that occur in str2. \r Initally i gave him O(n2) solution and he asked me to give more effient one.\rSo i gave him another solution where str2 is hashed in a hash-map. Iterate through str1 char by char and remove (left shift) the matching chars in str1.\rStill he was not happy as the above approach was O(n) + O(m). He asked whether we can do it in O(n). I could not come up with O(n)."}
+{"i": "3615694", "t": "How will you protect static data? \rHow do you make sure that static data is protected well enough."}
+{"i": "3578807", "t": "Explain what you understand by static in C. \r Ans. I told him about static variables, static functions. Then he asked me the difference between static class vars and static defined in header file."}
+{"i": "3534579", "t": "Given a dictionary of words and a string with all spaces removed, return whether the string is composed of valid words\r e.g\rhelloworld-> hello world (valid)\risitniceinhere-> is it nice in here (valid)\rzxyy-> invalid\r Using dynamic programming I got an O(n3) algorithm but he insisted on an O(n2), any idea?"}
+{"i": "3587720", "t": "Consider a number 123 , it is ordered since 1<2<3 . Now considering that , generate a permutation of all the possible passwords giving only the ordered sequence."}
+{"i": "3482657", "t": "Suppose a start date is given to be 1 Jan 2000. take the user input as month day and year. Now, the input should be in the form month:03 day:11 year:2010. Now you have to calculate the amount of weeks between the date given and the 01.01.2000 assumed that each year you have 12 months. There is no leap year, and there are 30 days in a month. Now you have to take that week and display the listing of all the days in the week."}
+{"i": "3568073", "t": "A palindrome number is of the format 1234321.\r Given a number x, find the smallest palindrome greater than x"}
+{"i": "3584697", "t": "There is an array consisting of postive and negative integers. find the subarray whose sum is 0"}
+{"i": "3542641", "t": "You have 2 sorted arrays. Return an aray : union - intersection of those 2 arrays"}
+{"i": "3579721", "t": "Given a pre-order and in-order sequence , construct a bst out of it.."}
+{"i": "3527588", "t": "Given an array of 0s and 1s , in O(n) time and inplace,make all the 0s in one side and all the 1s in other."}
+{"i": "3559299", "t": "Reverse a doubly linkedlist"}

@@ -1,0 +1,30 @@
+{"i": "3250662", "t": "What is stack. what are the things that go in stack and in which order??"}
+{"i": "3229682", "t": "What are zombie processes. how can we create a zombie process."}
+{"i": "3191677", "t": "Prove that any permutation of 1-100 natural numbers will have at least 10 numbers in increasing or decreasing subsequence."}
+{"i": "3187677", "t": "main()\r{\r    int x=40;\r    {\r       int x=20;\r       printf(\"%d\",x);\r    }\r    printf(\"%d\",x);\r}\r  What is the output??"}
+{"i": "3204681", "t": "how to convert a queue into stack"}
+{"i": "3184682", "t": "how to perform permutation..."}
+{"i": "3221674", "t": "Asked about zombie processes. What happens underneath when a unix shell executes a command in background (e.g., \"gcc foo.c &\")\r(Hint: we talked about SIGCHLD signal, signal handler, waitpid, return value of a process, etc)"}
+{"i": "3173684", "t": "What is bridge pattern? Asked me to write skeleton of bridge pattern."}
+{"i": "3211679", "t": "There are different types of GUI themes, and there are different types of buttons. When a user pushes a button, its outcome depends on the type of GUI theme selected, and the type of button pressed. Discuss your design approach.\r(Hint: double dispatch)"}
+{"i": "3224670", "t": "Asked a design problem where observer pattern fits perfectly."}
+{"i": "3216673", "t": "Asked about RAII, auto_ptr, shared pointer. \rCan we have containers of std::auto_ptr?"}
+{"i": "3239675", "t": "Whats the use of reserve() method in vector? How does vector compare to a deque in terms of performance of push_back()'s."}
+{"i": "3228682", "t": "What are the implications of doing a fork() from one of the threads of a multi-threaded process? Does child process get all threads of parent process?"}
+{"i": "3213684", "t": "Lets say you have a unix shell, and you type a unix command, say, for example \"ls\". What happens at the system level? (basically asking about fork() and exec() )"}
+{"i": "3192680", "t": "Implement the function bool isRegex(char *reg, char *string); This function is passed two strings : a regular expression, consisting of the [a-z] and the * and ? characters. We had to check if the string matched the supplied regular expression. For example, if reg is a*b, and string is acbcb, we should return true. And if reg is a?b and string is accb, we return false....\r (P.S. this is question asked to someone else...but i want to know a efficient solution)"}
+{"i": "3173683", "t": "Implement the function : node * add(node *l1, node *l2). The lists L1 and L2 are linked lists where each node of the linked list contains a single hexadecimal digit, represented as a char. The whole list thus represents a hexadecimal number. We had to add the two hex numbers represented in l1 and l2, and return the head of the linked list representing the answer.......don't use list reversal..\r Ex.\rnumber 1234 and 2345\r1->2->3->4->\r2->3->4->5->\r(asked atleast for decimal number without reversal)"}
+{"i": "3202677", "t": "You are given a dictionary of all valid words. You have the following 3 operations permitted on a word:\r a) Delete a character\r b) Insert a character\r c) Replace a character\r Now given two words - word1 and word2 - find the minimum number of steps required to convert word1 to word2. (one operation counts as 1 step.)"}
+{"i": "3221672", "t": "3 different boxes hold different amounts of items. How do you pull from them proportionally? Now create the code."}
+{"i": "3225673", "t": "How would you develop code for a system with potentially 10,000 different integer cases? For instance, using credit card numbers the range of 0-25,000 would be MC, then 30,000-50,000 would be AMX, and so forth. There could be 10,000 types of cards though."}
+{"i": "3205673", "t": "How to find the square root of a perfect square number in O(log n) complexity??"}
+{"i": "3240676", "t": "Explain the difference between StringBuffer and StringBuilder.  Why would you use each?"}
+{"i": "3212670", "t": "1.    A* a=new A();\r2.    A b;\r       A *c=&b;\r What is the difference between 1 and 2?"}
+{"i": "3215677", "t": "void foo(A a){}\r A* a =new A();\r\tfoo(*a);\r\tA b=*a;\r\tb=*a;\rHow many copy ctors of class A are called?"}
+{"i": "3230672", "t": "How do you implement find command in Unix? Which data structure will you use?"}
+{"i": "3208672", "t": "Program to find the endianess of the machine"}
+{"i": "3173680", "t": "3. Program to find the middle of the linked list."}
+{"i": "3187673", "t": "2. Program to test if a number is power of 2."}
+{"i": "3173679", "t": "1. Program to find the number of bits set in a byte."}
+{"i": "3235674", "t": "Explain the difference between Shallow Copy and Deep Copy."}
+{"i": "3171670", "t": "Given a 2D-grid map with several obstacles such as walls, doors and ones with other shapes, use A* algorithm to give the robot a path from point A to point B with fewest turns. Probability might be used in this problem."}

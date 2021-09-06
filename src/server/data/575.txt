@@ -1,0 +1,30 @@
+{"i": "96796", "t": "Tell me about one challenging project you did in industry/college"}
+{"i": "97794", "t": "What are the differences between Java and C++? List as many as possible."}
+{"i": "96795", "t": "What is a join? What are the kinds of joins?"}
+{"i": "96794", "t": "What does 'static' keyword do? Given a function as follows:\r int foo() {\r static int i;\r return i++;\r }\r What is the value of i, if foo is called twice?\rShould you make any changes if it is a multithreaded program?"}
+{"i": "97793", "t": "What do you know about Bloomberg?"}
+{"i": "97792", "t": "How would you implement phone book (data structure, time complexity etc.)? Given two names, find all the names and their phone numbers between them (sorted order). Will you change your data structure now? What are the time complexities now?"}
+{"i": "97700", "t": "You are given a convex polygon and an additional point. You know the x and y co-ordinates of all vertices of the polygon and the point. Find if the point is one of the vertices of the polygon in O(log N) time."}
+{"i": "97699", "t": "Convert an integer to a string"}
+{"i": "97698", "t": "You have a stack that is accessed by multiple threads simultaneously and you wish to synchronize access. You do not want to use locking to implement synchronization. Implement a thread-safe version of the stack."}
+{"i": "96717", "t": "Given an inorder and preorder traversal of a tree construct the tree"}
+{"i": "97695", "t": "Find the n-th neighbor of all nodes in an undirected graph. Can you use the same algorithm for digraph? If not, why and what needs to be changed?"}
+{"i": "94723", "t": "Design testcases for the strcpy function.// Takes two null terminated strings\r\n// and copies the chars in src onto dest\r\n// including the null character.\r\nstrcpy(char *dest, char *src);"}
+{"i": "94686", "t": "How will u find the min element in the stack with O(1) . Space constraint also has to be considered while designing it ."}
+{"i": "87898", "t": "Write a function to convert a number to Roman numeral."}
+{"i": "87897", "t": "Write a function to find the longest path of a tree"}
+{"i": "88827", "t": "code to replace multiple spaces in string with a single space."}
+{"i": "87861", "t": "Explain Virtual functions. Explain with code why virtual functions are useful. why would you use a const function?"}
+{"i": "88826", "t": "Why might quick sort might be better than merge sort."}
+{"i": "88825", "t": "What are the pros and cons of hash map and tree map?"}
+{"i": "88803", "t": "Pick two data structures to use for implementing a Map.\r     * Describe lookup, insert, & delete operations.\r    * Give time & space complexity for each.\r    * Give pros & cons for each."}
+{"i": "88742", "t": "what every one knows is one Fibonacci series which adds the previous 2 numbers i.e fib(n) = fib(n-1)+ fib(n-2). but there many Fibonacci series which adds the previous 2 numbers, previous 3 numbers and so on. so write a function fib(n,k) which gives you first n numbers of a Fibonacci series and k is the number of previous numbers you have to add ex.  for fib(n,3) you have to add fib(n-1)+ fib(n-2)+ fib(n-3)."}
+{"i": "88721", "t": "In binary search we have two comparisons one for greater than and other for less\rthan the mid value. Optimize so that we need to check only once"}
+{"i": "87766", "t": "You have N computers and [Ca, Cb] means a is connected to b and this\rconnectivity is symmetric and transitive. then write a program which checks that\rall computers are interconnected and talk two each other"}
+{"i": "87765", "t": "Given a problem scenario, write a program to output the total cost of solving that scenario. Given you have to construct house ( Senario ). And given all the factors that go into making the house, write a program that takes all parameters and outputs the total cost.\r - Remember to do input type checking.\r- Remember to make it optimized."}
+{"i": "87764", "t": "Get familiar with Intersystems CACHE. That is the best way to impress them. Read about CACHE and how it works. Read about Intersystems and their product CACHE( Worlds fastest database ). \r READ about MIIS"}
+{"i": "88716", "t": "There will be rapid fire questions. They are easy but make sure you do them as fast as possible.\r there is 10 seconds per question."}
+{"i": "87763", "t": "Given a password in number : Write an algorithm to print all possible combinations of that password.\r Hint:\r- Try from to go from all possible combinations of lower bound to the valid  upper bounds"}
+{"i": "87762", "t": "From a given string, replace all instances of 'a' with 'one' and 'A' with 'ONE'. \r Example Input:\r\" A boy is playing in a garden\"\r Example Output:\r\" ONE boy is playing in one garden\"\r  -- Not that 'A' and 'a' are to be replaced only when they are single characters, not as part of another word."}
+{"i": "87761", "t": "Write a software to print triangle made of *s. Given the height and width of Triangles in terms of number of stars. like to output\r      *\r    * *\r   * * *\r given you have to use 3 stars or the height is 3 stars."}
+{"i": "88680", "t": "Give an string, return the first non-repetitive character."}

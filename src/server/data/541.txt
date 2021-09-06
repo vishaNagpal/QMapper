@@ -1,0 +1,30 @@
+{"i": "382534", "t": "You are given an array and a key.Find out whether there exist two elements in the array that sum up to the key.Write all possible test cases."}
+{"i": "382533", "t": "You have a sorted circular linked list but you don't know the sorting order(increasing or decreasing).Write code to insert a node into this list.Take care of all the possible cases."}
+{"i": "382304", "t": "what is strong typing/weak typing"}
+{"i": "379325", "t": "find maximum number in an Array of elements"}
+{"i": "380222", "t": "Design a Chess Game"}
+{"i": "373367", "t": "Given n elements, sort the elements. Here, only one operation is permitted decreaseValue..\rNote that you cannot swap the values.. output should be a sorted list..\rif input is 4 5 2 1 3\routput is 3 3 3..  There can be many answers.. Give the optimum solution with minimum cost. where as cost is the sum of decreased amounts..\rfor this example, 4,5 are decreased by 1.. 2 is decreased by 2.. 1 is decreased by 1.."}
+{"i": "371115", "t": "How do you write a ping routine in Java"}
+{"i": "367568", "t": "you are getting an infinite binary stream of characters then after any point of time you need to print whether the no is divisible by 3 or not, how will you do that?"}
+{"i": "366559", "t": "find meadian of a BST, with out any extra memory and with out using any gloabal or static variables."}
+{"i": "367458", "t": "3. Given a NxN matrix with 0s and 1s. now whenever you encounter a 0 make the corresponding row and column elements 0.\r       Flip 1 to 0 and 0 remains as they are.\r       for example\r      1 0 1 1 0\r      0 1 1 1 0\r      1 1 1 1 1\r      1 0 1 1 1\r      1 1 1 1 1\r       results in\r       0 0 0 0 0\r      0 0 0 0 0\r      0 0 1 1 0\r      0 0 0 0 0\r      0 0 1 1 0"}
+{"i": "365868", "t": "Given a set of tasks with a duration and a deadline, how do you define a scheduling algorithm to minimize total lateness?  and how to minimize # of late tasks?"}
+{"i": "365867", "t": "Given a set of N elements, how would you select all combinations of K elements?  How about all combinations of all elements?\r So if there is a list of items {1, 2, 3, 4, 5}, \r how do you select all possible combinations?  {1, 2, 3, 4, 5, {1, 2}, {1, 2, 3}}...."}
+{"i": "366798", "t": "What is the algorithm to count the number of\rbits in a 32-bit word.  What is the optimal solution as well?"}
+{"i": "365787", "t": "write program to inverse order of a given integer.You can not convert integer into string and convert back."}
+{"i": "365786", "t": "Differences between C++ and Java polymorphism"}
+{"i": "365785", "t": "Differences between C++ and Java"}
+{"i": "366736", "t": "Differences between C and C++"}
+{"i": "356697", "t": "Find the deepest common ancestor of two nodes in a tree structure. Depth of a tree grows towards its leaves.\rroot is the least deep node in a tree."}
+{"i": "332828", "t": "Reverse a character array(string) in C in a single pass without using any buffer!\re.g: Reverse the char array \"today\" to \"yadot\" (without the use of any buffer!)"}
+{"i": "355333", "t": "2.\tWrite an efficient program to find an element in a two dimensional matrix, the rows and columns of which are increasing monotonically. (Rows and columns are increasing from top to bottom and from left to right)."}
+{"i": "354885", "t": "Show that second smallest of n elements can be found with n + logn -2 in worst case.. \rHeap during finding the minimum???"}
+{"i": "348216", "t": "I would like to know what exactly is Multitasking and Multithreading and Multiprocessing w.r.t a computer system which has a single processor?\r I would highly appreciate if someone could explain me beyond confusion at the earliest.\r Regards,\rSrinivas"}
+{"i": "347839", "t": "What is the difference between initializing values using overloaded new and the constructor???"}
+{"i": "344610", "t": "Find common elements in two linked lists.( complexity less than NlogN )"}
+{"i": "343647", "t": "asked simple question about context switching, advantage/disadvantage of process vs thread etc"}
+{"i": "344070", "t": "find top 3 horses of 25 with minimum no of races. u dont have clock to measure timing of horses. maximum 5 horses can participate in one race."}
+{"i": "343642", "t": "find top-k element in an integer array of size n"}
+{"i": "343933", "t": "What do you mean by virtual destructor? How do you design an ISR? what do you mean by priority inversion? Explain the difference between a semaphore and a ISR?"}
+{"i": "343928", "t": "Suppose you have 2 threads which are started asynchronously at different times and you a synchronization point where if any one of the threads reaches that point before another thread it has to wait till the other one reaches there. How do you design this?"}
+{"i": "343919", "t": "What do you mean by a RAW socket? What is the endianness followed in the network?"}

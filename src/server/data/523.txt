@@ -1,0 +1,30 @@
+{"i": "2140664", "t": "What is pure virtual function ?"}
+{"i": "2124663", "t": "Implement binary search."}
+{"i": "2161662", "t": "Number of binary 1's in an integer n umber."}
+{"i": "2145662", "t": "Given a unix path Eg: a/b/../c\rWrite a C code to fetch the output as \ra/c. \ri.e a is the root directory . cd d gives a/b. and cd.. goes to parent directory a. and again cd c . so the output shld be a/c"}
+{"i": "2131661", "t": "given n 1*1 squares , find the rectangle(x,y) that fits the n squares with the following conditions\r1. the area of the rectangle x*y = n or n+1 or n+2\r2. |x-y| is minimum \r example: n = 7, then possible areas is 7,8,9 and x,y can be (1,7) (2,4) (3,3) answer is 3,3\r given n write a function to print x,y"}
+{"i": "2130661", "t": "there are 2  types of bricks 1*2 and 1*3, in how many ways can u build a wall of length n and height 1.\ri.e for wall of length 7 and height 1 \rans - 223, 232, 322\rfor wall of size 8\rans - 2222, 233, 323, 332\r given n write a function to print all possiblilies"}
+{"i": "2129661", "t": "given a number n say 234 print as follows: 2,3,4"}
+{"i": "2097661", "t": "What is cache ? How it is used and mapped the physical address cache and virtual address cache ?"}
+{"i": "2067663", "t": "User application will block on IOCTL, in kernel untill interrupt arrives this IOCTL will be blocked. When interrupt comes IOCTL should retun. Desing this mechanism."}
+{"i": "2078662", "t": "What is IOCTL, how it is used in user and kernel driver code ?"}
+{"i": "2088662", "t": "What is difference between named pipes and unnamed pipes ?"}
+{"i": "2095661", "t": "What is difference between wake_up ( ) and wake_up_interruptible ( ) APIs in linux kernel ?\rWhen should should use which one, how it should be decided ?"}
+{"i": "2072662", "t": "What is difference between sleep_on ( ) and interruptible_sleep_on ( ) APIs in linux kernel ?\rWhen should should use which one, how it should be decided ?"}
+{"i": "2046662", "t": "Count number of digits after the decimal point\rEx 7.563 output is 3.\rEx 7.500023 output is 6."}
+{"i": "2007663", "t": "Given two sorted postive integer arrays A(n) and B(n) (W.L.O.G, let's\rsay they are decreasingly sorted), we define a set S = {(a,b) | a \\in\rA\rand b \\in B}. Obviously there are n^2 elements in S. The value of such\ra pair is defined as Val(a,b) = a + b. Now we want to get the n pairs\rfrom S with largest values."}
+{"i": "2005662", "t": "You have a array of random numbers and you are given a number k. Find the 2 elements in the array which sum up to k.\re.g: If my array is {2,5,3,1,8,7,5,4} and k=6.\r  Then 2 numbers that sum up to 6 are 5 and 1."}
+{"i": "1991663", "t": "you are given 80 balls and out of which only 1 has more weight than other 79. also, you are given weighing machine which can weigh any number of balls  of 2 sets( 40 40 or 25 25 etc) at one time.\rfind the minimum number of steps required to find the ball of more weight than others. (i tried it came out to be 5 steps atleast, but he wanted more efficient solution )"}
+{"i": "1986662", "t": "how will you test a calculator?"}
+{"i": "1933665", "t": "how to find a the ph no. of a candidate which is not mentioned in the resume?"}
+{"i": "1915669", "t": "implement a program for weighted numbers. Design a test case for the same."}
+{"i": "1933664", "t": "You are given 2 blocks of data. implement a function which would copy the data contained in block 1 to block 2. \rhint:memmove, memcpy wont take care of duplicates."}
+{"i": "1876672", "t": "You are given a matrix of size M rows and N columns. A is the first element i.e. mat[i][j] where i=j=0, and B is the end point i.e. i=M and j=N. There is a robot at A and it can only move one step right or go down one step. There are walls in the matrix denoted by X. The robot cant make his move when it encounters a wall on right or on its way down. Find the number of paths from starting point A to the end point of the matrix B for the robot.\rhint:recursion with condition checking for the end point and the wall."}
+{"i": "1874672", "t": "What is the use of overriding in OOP"}
+{"i": "1940669", "t": "Given a large file, having N (N is very large) positive integers, how will you find a pair of numbers that add up to x (eg. 100). What data structure will you use and give appropriate Algo/code. It should be efficient in time and space."}
+{"i": "1927668", "t": "If have given a word(string/char array) and flat file containing list of all existing \"real english words\", find all possible real english words that made of using \"ALL\" characters of input word"}
+{"i": "1929671", "t": "Implement a routine \u201cvoid CopyMemory(void *pvSrc, void *pvDst, unsigned long ulLen)\u201d to copy memory from one place to another.  \r We can implement in any language C++,C#,java"}
+{"i": "1874671", "t": "Remove tail recursion from recursive inorder traversal in a BST. Also perform an iterative in order traversal."}
+{"i": "1974665", "t": "Without using /,% and * operators. write a function to divide a number by 3. itoa() function is available."}
+{"i": "1954665", "t": "Question in speech recognition. Design and implement an algorithm to match formants on spectrograms, subject to non-linear transformation of time and frequency."}
+{"i": "1937671", "t": "Design a compact data structure representation of a graph."}

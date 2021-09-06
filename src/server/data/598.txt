@@ -1,0 +1,30 @@
+{"i": "2729", "t": "what is the difference between template in C++ and generics in java"}
+{"i": "2728", "t": "Print all elements of binary tree with each level on different line"}
+{"i": "3150", "t": "there is an array of numbers.find out whether two numbers a and b exist in this array such that a+b=20"}
+{"i": "2727", "t": "Reverse a linked List using recursion,by using one argument only"}
+{"i": "2726", "t": "What is the use of volatile variable.Explain it in Singleton class also for lazy initialization."}
+{"i": "2725", "t": "How Java is plateform independent"}
+{"i": "2724", "t": "If you have been given opportunity to change some of Java feature, Which feature would you like to change"}
+{"i": "2723", "t": "A pile of nuts is in an oasis, across a desert from a town.  The pilecontains 'N' kg of nuts, and the town is 'D' kilometers away from thepile.The goal of this problem is to write a program that will compute 'X',the maximum amount of nuts that can be transported to the town.The nuts are transported by a horse drawn cart that is initially nextto the pile of nuts. The cart can carry at most 'C' kilograms of nutsat any one time. The horse uses the nuts that it is carrying as fuel.It consumes 'F' kilograms of nuts per kilometer travelled regardlessof how much weight it is carrying in the cart. The horse can load andunload the cart without using up any nuts.Your program should have a function that takes as input 4 real numbersD,N,F,C and returns one real number: 'X'Do not worry about drinking water, or other \"real world\" issues."}
+{"i": "2720", "t": "write a program that accepts two mandatory arguments without using any built in date or time functions . The first argument is a string  \"[HH:MM {AM|PM}\" and the second argument is an integer which denotes minutes. The minutes get added to the string. The return value or output of the program should be a string of the same format as the first argument. For example AddMinutes(\"10:23 AM\", 13) would return \"10:36 AM"}
+{"i": "2719", "t": "write a program that accepts two mandatory arguments without using any built in date or time functions . The first argument is a string  \"[HH:MM {AM|PM}\" and the second argument is an integer which denotes minutes. The minutes get added to the string. The return value or output of the program should be a string of the same format as the first argument. For example AddMinutes(\"10:23 AM\", 13) would return \"10:36 AM"}
+{"i": "3137", "t": "Given an infinite sequence of bits. In that, one region of the sequence is continuous 1's and other region is continuous 0's. Assuming that LSB (Least significant bit) is 0 (point where to start), find the position of the bit sequence where first 1 appears if you start from that LSB end."}
+{"i": "2791", "t": "Now suppose you have 3 eggs and N stories building. If an egg drops from k-th floor or about it will break. As before you need to minimize the number of egg drops to find k in the worst case"}
+{"i": "2790", "t": "8 tires were used on a bus (6 tires) which has traveled 16000 km.  How many km did each tire sustain, if all the tires were used equally in sustaining this distance?"}
+{"i": "2718", "t": "Given an int array of size billions.Print the 100 max elements from the array in O(n).You are allowed to modify the array if u want to."}
+{"i": "2716", "t": "S = {Si, i=i,I} Set S has I elementsP = {Pj, j=1,J} Set P has J elementsQ = {Qk, k=1,K}, Set Q has K elementsDefine a unique mapping F = {Si, Pj} ? {Qk} for some i, j, k.Find the following mapping pairs {Si, Pj} ? {Qj} where i\u2019s are unknown and j= m1, m2 where m1 and m2 are given. Is it possible to find a polynomial time subset R of  S (say i=r1,r2 where r2-r1 = r, i.e. of size r) that is guaranteed to include all of above Si\u2019s."}
+{"i": "2715", "t": "Explain Hash Table from the scratch as if I don't know anything."}
+{"i": "2714", "t": "Given a sorted array with repeated nos e.g1,2,2,7,7,7,7,9,9... Find first occurence of any given value."}
+{"i": "2713", "t": "How to implement your own HashMap in java"}
+{"i": "2712", "t": "give the algorithm for checking anagram"}
+{"i": "2711", "t": "Why should you not make your Sinleton claas as Serializable and Clonable."}
+{"i": "2710", "t": "What is the difference between sleep and yield method"}
+{"i": "2789", "t": "What is the limitation of singleton pattern"}
+{"i": "2709", "t": "How to make a class as final in C++.Means no one should be able to extend that class."}
+{"i": "2708", "t": "Tell the situation where we can use nested classes."}
+{"i": "2788", "t": "What was the problem in implementing double checked locking before java 1.5."}
+{"i": "2706", "t": "Why Java language designer has chosen to make all the variable inside an Interface as public ,static and final."}
+{"i": "3096", "t": "What is wrong with the below method?\r public int getchar(string s)\r{\r  string s1=s[3];\r}"}
+{"i": "2787", "t": "How do you programitcally create & terminate a process on linux"}
+{"i": "2705", "t": "I am trying to write a program to find the longest word made of otherwords. For instance, If my file has the following words (sorted):testtestertestertesttestingtestingtesterThe longest word should be testingtester. I am trying to use \"Trie\"for this. But, I guess there might be some problem in using this. Canyou suggest me any other better solution for this?Thanks in advance"}
+{"i": "2703", "t": "Given an array of integers, write a function that returns the difference between the largest even integer and the smallest odd integer. Sample input:  [17  6  13  31  2  8  23]Correct sample output:  \u20135 (= 8 \u2013 13)"}

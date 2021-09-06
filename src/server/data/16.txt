@@ -1,0 +1,30 @@
+{"i": "6502292608516096", "t": "What is user defined functions?"}
+{"i": "6432575357190144", "t": "What is Cross-Join?"}
+{"i": "5086754736963584", "t": "What is Self-Join?"}
+{"i": "6223355420606464", "t": "What is Datawarehouse?"}
+{"i": "5647343196569600", "t": "What is the difference between Cluster and Non-Cluster Index?"}
+{"i": "5097455513763840", "t": "What is Auto Increment?"}
+{"i": "4609838078754816", "t": "What is data Integrity?"}
+{"i": "5184249957711872", "t": "What is a constraint?"}
+{"i": "4640226717204480", "t": "What are local and global variables and their differences?"}
+{"i": "5677825250557952", "t": "What is the difference between DELETE and TRUNCATE commands?"}
+{"i": "6256000124846080", "t": "What are the types of subquery?"}
+{"i": "6300144469803008", "t": "What is subquery?"}
+{"i": "6469098349789184", "t": "What is a query?"}
+{"i": "4912792656674816", "t": "What is a relationship and what are they?"}
+{"i": "6295928019877888", "t": "What is a Cursor?"}
+{"i": "5240803738255360", "t": "What are all the different types of indexes?"}
+{"i": "5859739462795264", "t": "What is an Index?"}
+{"i": "5174244562960384", "t": "What is a View?"}
+{"i": "5047167369084928", "t": "What are all the different normalizations?"}
+{"i": "6331110512918528", "t": "What is Denormalization."}
+{"i": "5734143546097664", "t": "What is normalization?"}
+{"i": "5553345354268672", "t": "What are the types of join and explain each?"}
+{"i": "5343198442946560", "t": "What is a join?"}
+{"i": "4551925343715328", "t": "What is a foreign key?"}
+{"i": "4608243639255040", "t": "What is a unique key?"}
+{"i": "6116295307689984", "t": "What is a primary key?"}
+{"i": "5167243095179264", "t": "What are tables and Fields?"}
+{"i": "4670778363084800", "t": "What is a Database?"}
+{"i": "4521443289726976", "t": "What is SQL?"}
+{"i": "5869625403768832", "t": "What is RDBMS?"}

@@ -1,0 +1,30 @@
+{"i": "220716", "t": "print the first n fibonnoci numbers using recursion"}
+{"i": "220671", "t": "Third round:\ryou are given a M x N matrix with 0's and 1's \rfind the  matrix with largest number of 1,\r  1. find the largest square matrix with 1's \r2. Find the largest rectangular matrix with 1's"}
+{"i": "220670", "t": "does sleeping process releases its resources ?"}
+{"i": "219717", "t": "Telephoic:\r Given a linked list, findout wether it is a palindrome or not,\r I have given a solution with extra space, after that he asked as ..\rNo extra space is allowed,\r expecting most efficient"}
+{"i": "220664", "t": "telephonic:\rwrite an efficient function to find the diametre of a tree,\r diameter is the  largest distance between two two nodes."}
+{"i": "216725", "t": "Find if there are any pairs of numbers in a list which can be added up to a target number."}
+{"i": "219701", "t": "How would you design an elevator control system in the highrise?"}
+{"i": "219700", "t": "How do you find sequences of consequtive integers in a list that add to a particular number."}
+{"i": "216717", "t": "How to develop a sorted lexicographic tree."}
+{"i": "216716", "t": "How to find distance between two lines in a 3D plane"}
+{"i": "219693", "t": "How to implement tries to create a tree, and find the words as per the prefixes."}
+{"i": "216715", "t": "Put eight chess queens on an 8\u00d78 chessboard such that none of them is able to capture any other using the standard chess queen's moves"}
+{"i": "216714", "t": "How to develop test case for iPhone"}
+{"i": "219692", "t": "how to build a m way search tree."}
+{"i": "216710", "t": "Replace all 'A'/'a' with 'one in a sentence..\r Do not use the inbuilt replace function."}
+{"i": "219685", "t": "Removed due to signed agreement for non-disclosure of proprietary information."}
+{"i": "219684", "t": "Keeep takin user input of numbers. Stop when user prints zero. Find the average of these numbers leaving out the 3 max numbers.\rexample: user inputs-> 2 3 4 5 6 7 8 9 10 40 50 60\r then average should be: [2+ 3+ 4+ 5+ 6+ 7+ 8+ 9 + 10]/9"}
+{"i": "216709", "t": "Removed due to signed agreement for non-disclosure of proprietary information."}
+{"i": "216689", "t": "which is the best sorting algorithm. I told quick sort then he wanted me to proove that its complexity is logn in best and avg case"}
+{"i": "208906", "t": "Given a tree in which each node is an integer and an array with a set of integers, determine if all the elements of the array are present in the tree by visiting each node in the tree at most once."}
+{"i": "213855", "t": "#include<stdio.h>\rint main()\r{\rint a;\rchar *x;\rx=(char *) &a;\ra=512;\rx[0]=1;\rx[1]=2;\rprintf(\"%d\\n\",a);\r} \rIt gives 513. But I don't understand why?"}
+{"i": "208889", "t": "Write the test cases for testing a pencil."}
+{"i": "208888", "t": "Write the test cases for testing the gmail first page application."}
+{"i": "213851", "t": "For a given integer number, reverse the digits of the number."}
+{"i": "213850", "t": "For a given string of size n, check whether it forms a palindrome or not by using the letter in the string."}
+{"i": "213849", "t": "Given a array of n integers we need to find the second largest number in it. And generalized to find nth largest number.\rWrite the test cases for it."}
+{"i": "208887", "t": "Given two linked lists which all the nodes in the linked list holds single digit of integer value, add the two linked lists and send the resultant list."}
+{"i": "208886", "t": "Write all the test cases to test the application given batch file which holds data format  \r ProductNumber, DiscoutNumber, Date on which the discount come into play."}
+{"i": "208885", "t": "Write all test cases for a function  int fun(x,y,z)  which performs operation like..\rx*z+ (x+1)*z+\u2026\u2026+(y)*z."}
+{"i": "208884", "t": "Given a puzzle that there are n statements such that each  ith  statement says that that many statements are false. Identify the number of true statements for a given N statements."}

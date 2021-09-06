@@ -1,0 +1,30 @@
+{"i": "304809", "t": "what is memory dump? what are the uses of memory dump?"}
+{"i": "310732", "t": "implementation of malloc()"}
+{"i": "310731", "t": "Types of kernel, what are the advantages of one over other?"}
+{"i": "310730", "t": "write a program to reverse the words of a sentence \rEx- my name is abc---> abc is name my"}
+{"i": "304808", "t": "Given the head pointer of the linked list and the data of the node to be deleted.just delete that node...your program should check for all possibiltie"}
+{"i": "304807", "t": "differnece b/w executable and object file ?"}
+{"i": "310729", "t": "how round robin scheduling is implemented?"}
+{"i": "310728", "t": "sometimes OS crashes..why does it happen??"}
+{"i": "310727", "t": "System calls, how they works? how we move from User mode to kernel mode?"}
+{"i": "310726", "t": "how free() knows, how much memory it has to deallocate?"}
+{"i": "304806", "t": "Implement a Stack in that push(),pop() and max() can be done in O(1) time...stack should be implemented using linked list and max() should return the node(not the value) containing max value"}
+{"i": "304799", "t": "find all denomination for a give amount for ATM in C language eg: say x=1000*x1+500*x2+...+1(paise)*xn than find x1,x2,...xn\rtry to separate x into maximum no. of denomination.\rThe code should be in C language."}
+{"i": "304790", "t": "an array of 0 and 1 in random order\rsegregate 0 on left and 1 on right in 0(n)"}
+{"i": "310706", "t": "What is your salary expectation?"}
+{"i": "304774", "t": "How to increase web browsing speed. You are allowed to do anything at client/server"}
+{"i": "310691", "t": "Implement merge sort of linked list"}
+{"i": "304773", "t": "A program works fine in debug_build but crashes in release build. why?"}
+{"i": "304772", "t": "Write code to compare two arrays if they contain the same elements"}
+{"i": "304770", "t": "Given a url how do u download page from server. He was looking for some command to do that in windows when I mentioned u can use wget in linux. How do u get all pages of that url. How do u eliminate cycles and same pages?"}
+{"i": "310682", "t": "Write a Class describing Singleton pattern"}
+{"i": "310680", "t": "how to implement a queue using one integer. this should store value 0 to 9. example suppose queue has first value 2 then insert 4  then 6 so it should look like   246.  first value should be popped as 2. then it should be 46.  program should support 0 in all the levels also. example queue should handle like 01235 also, 0 as first value in queue. remember 0 just to use integer, nothing else as data storage."}
+{"i": "310664", "t": "Write code to convert a hex string to a byte buffer"}
+{"i": "306681", "t": "Given a binary tree\r struct node{\r             struct node* leftChild;\r             struct node* rightChild;\r             struct node* nextRight;\r}\r populate the nextRight pointers in each node."}
+{"i": "306673", "t": "What are hash tables? What is collision ? How can collision be resolved (He asked me all the methods and still wanted some more :P )?\rWhen should a Hash table be used and when should a BST?\rDo Hash Tables always give constant time 'find' complexity? If yes, why would I ever prefer to use BST over Hash table ?"}
+{"i": "306671", "t": "Design an algorithm to count number for Bit 1s in byte"}
+{"i": "304709", "t": "Write C Code for Fibonacci Series.  Write both the Iterative and Recursive implementation."}
+{"i": "302724", "t": "In mxn matrix if you find 0 in an element make all elements in that row and column to 0?"}
+{"i": "302723", "t": "Write a function to convert a given float values into string without using toString function?\r (E.g) I/P 2.34 O/P \"2.34\""}
+{"i": "302703", "t": "You r given a large string of characters lets call it Sbig. Then there is a small set of characters lets call it Ssmall. You have to find smallest substring of Sbig which contains all characters in Ssmall.\r For example you are given Sbig = \"hello what are you doing\"\rSsmall= \"eo\"\r answer is \"ello\""}
+{"i": "304677", "t": "Merge 2 sorted arrays in constant space and minimum time complexity"}

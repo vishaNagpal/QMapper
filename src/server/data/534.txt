@@ -1,0 +1,30 @@
+{"i": "1022669", "t": "Given three lists: A, B and C of length n each. Write a function which returns true if any 3 three numbers (1 from each list), sum up to zero. Else return false, if there is no such combination."}
+{"i": "996685", "t": "Write a function to find the nth last element from a Linked List."}
+{"i": "955687", "t": "What is a hash table? Why is it better than other data structures? Compare hash table with tree? Discuss advantages of one over the other."}
+{"i": "949683", "t": "Whats the size of a derived object ? How would you calculate it ? Does it include size of base class size?"}
+{"i": "975681", "t": "Can you do this : Derived *d = new Base()\rWhere base has a virtual func foo() that is also implemented in derieved.\rWhat are the implications ? (Note: its opposite of what one does for polymorphism..)"}
+{"i": "968683", "t": "How do you perform error handling in destructors ? (throws Exceptions?)"}
+{"i": "1015697", "t": "If a base or derieved class does not have any members that are allocated on heap, would you still use a virtual destructor ? Why ?"}
+{"i": "876691", "t": "Given a URL string, replace every space in the string with %20."}
+{"i": "913682", "t": "Find least common ancestors of two nodes in binary tree with parent pointers, without parent pointers"}
+{"i": "920674", "t": "How do you get the request URL in a servlet?"}
+{"i": "935674", "t": "what will happen if you do not use hashcode() to override a equals()?"}
+{"i": "848696", "t": "Calculate time complexity with given an executable file which basically performs a sort operation on text file with n numbers."}
+{"i": "817692", "t": "Reverse an integer array bitwise algorithm? code? Test cases?"}
+{"i": "834693", "t": "Convert a Roman Numeral string to Decimal. algorithm? code? Test cases?"}
+{"i": "828666", "t": "Given a linked list, output a random node of this linked list. Ask details about what exceptions might be thrown in the implementation."}
+{"i": "723801", "t": "With minimum number of steps read the last 5 line of a log file."}
+{"i": "752766", "t": "What are matched and unmatched exceptions in Java?"}
+{"i": "777691", "t": "There is a stream of characters interleaved with \\n's. Thus it is a stream of lines. You can only go through the stream once and you have only a constant buffer eg 10 slots. Thus you can buffer only 10 lines. Now, if I pick a random no. between 1 and the total number of lines, how will you retrieve it?"}
+{"i": "703783", "t": "There are 3 boxes. One has only black balls, one has only white and one has mixed. All three have the wrong label on  them( eg. black, white and white). You can pick any no. of balls from any box. How many min balls can u pick to determine the right labels for all 3 boxes?"}
+{"i": "725758", "t": "Lone tester interacting with the test team.\rHow would you communicate and moderate with Test and Development teams?"}
+{"i": "761720", "t": "I/P: CareerCup\rO/P: p_Cr__r_C\rTasks:\r1. Reveres the string.\r2. Replace every vowel with space."}
+{"i": "705750", "t": "Tell me about your involvement in Test Planning process."}
+{"i": "755715", "t": "Tell me about your experience in classifying test cases at different phases: Feature, Regression, Performance"}
+{"i": "743754", "t": "What are some typical examples of challenges with GUI testing?"}
+{"i": "704722", "t": "Classic 25 horse problem,\r25 Horses,\rHave a 5 horse track,\rNo stopwatch,\rHow many races are required to determine the 3 fastest horses."}
+{"i": "751742", "t": "How do persevere in a problem or bug identification, when the dev team has different opinion?"}
+{"i": "699727", "t": "find maximum sum of matrix."}
+{"i": "757691", "t": "he asked me to come up with the code for wild card character matching and then test it"}
+{"i": "708716", "t": "find the longest word made of other words"}
+{"i": "716701", "t": "Given a graph represented as 2D array. How to find whether graph is connected graph or not?"}

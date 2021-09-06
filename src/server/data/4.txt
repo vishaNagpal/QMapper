@@ -1,0 +1,30 @@
+{"i": "5058542506082304", "t": "4)\tWhat is an application server?"}
+{"i": "6342390707650560", "t": "3)\tHow is .NET able to support multiple languages?"}
+{"i": "5038772033421312", "t": "2)\tHow many languages .NET is supporting now?"}
+{"i": "6229488633905152", "t": "1)\tWhat is .NET?"}
+{"i": "6333529317703680", "t": "20)\tDefine exception handling."}
+{"i": "6591867171373056", "t": "19)\tWhat is meant by an exception?"}
+{"i": "5775802648494080", "t": "18)\tWhat is a final variable?"}
+{"i": "4611671023157248", "t": "17)\t Should you always use Object-oriented programming? Are there any limitations of Object-oriented programming?"}
+{"i": "4928296884633600", "t": "16)\t What is a try-catch block?"}
+{"i": "5803826571902976", "t": "15)\tWhat is Garbage Collection(GC)?"}
+{"i": "6073840629710848", "t": "14)\tWhat is the use of \u2018finalize\u2019?"}
+{"i": "6305365606531072", "t": "13)\tWhat is a constructor?"}
+{"i": "6233004869943296", "t": "12)\tWhat are pure virtual functions?"}
+{"i": "6260743647789056", "t": "11)\tWhat are virtual functions?"}
+{"i": "6393833544220672", "t": "10)\tCan you create an instance of an abstract class?"}
+{"i": "4947940722868224", "t": "9)\tWhat is an abstract class?"}
+{"i": "5602149956845568", "t": "8)\tWhat is data abstraction?"}
+{"i": "5107104963100672", "t": "7)\tWhat are \u2018access specifiers\u2019?"}
+{"i": "6028917217951744", "t": "6)\tWhat is encapsulation?"}
+{"i": "4962174714249216", "t": "5)\tWhat is operator overloading?"}
+{"i": "5267933637378048", "t": "4)\tWhat is dynamic polymorphism?"}
+{"i": "6355315606421504", "t": "3)\tWhat is static polymorphism?"}
+{"i": "5931430117376000", "t": "2)\tWhat is polymorphism?"}
+{"i": "6632504675532800", "t": "1)\tWhat is a superclass?"}
+{"i": "4926031020949504", "t": ". ___________Procedure in marketing which consists of enlisting opinion leaders as \u201cbrand ambassadors\u201d is called"}
+{"i": "5302222928216064", "t": ".__________ behavior Highly involved consumer buying behavior while perceiving significant differences between brands"}
+{"i": "5772721814765568", "t": "which Products like as \u201cVHS tapes\u201d"}
+{"i": "5199112574599168", "t": "Which way of consumers feel or perceive towards an actual product or potential market offering"}
+{"i": "4646821907922944", "t": ". Product development comes from_________ source of idea."}
+{"i": "4649902741651456", "t": ". Which Of The Following Factors Can Impact The Open Rate Of Your Email Campaigns?"}

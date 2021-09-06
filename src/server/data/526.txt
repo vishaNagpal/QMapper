@@ -1,0 +1,30 @@
+{"i": "1828667", "t": "design a kitchen for blind"}
+{"i": "1804674", "t": "design deck of cards"}
+{"i": "1763897", "t": "What's the three types of memory allocated for C++ variables?"}
+{"i": "1688920", "t": "where is global variable (defined outside any function or class) allocated, heap or stack?"}
+{"i": "1770861", "t": "you have a class A, where you set ctor to be private, so a client can't call\r\"A a;\"\rto create obj on stack.\rBut someday another developer add a new ctor:\r\"A(int)\"\rand try to call \"A a(1);\" inside main(). So this will create a obj on stack. How do you prevent that?"}
+{"i": "1839663", "t": "Can an object be passed by value instead of reference as a parameter while overloading assignment operator ?\rThe parameter should be const or not ?"}
+{"i": "1756875", "t": "Difference between XML and HTTP."}
+{"i": "1760881", "t": "What are features of optimum Java code."}
+{"i": "1829666", "t": "Webservices: How would you test your web service, which language would you use to test the webservice."}
+{"i": "1702853", "t": "Explain Abstract class, Inheritance"}
+{"i": "1828663", "t": "What is a StringBuffer and why do you use it?"}
+{"i": "1817670", "t": "What is Inheritance and Polymorphism"}
+{"i": "1757889", "t": "Why Rapleaf?\rWe\u2019re excited that you\u2019re interested in a position here at Rapleaf. Why are you interested in working at Rapleaf in particular? What about Rapleaf excites you? Please limit yourself to 1-2 paragraphs."}
+{"i": "1806675", "t": "An Activity to Further Your Gambling Addiction\rIf you roll 5 standard six-sided dice, what\u2019s the probability that you get at least two 4s? \r Also: you were offered the following bet: we pay you $1003 if you roll at least two 4s but you have to pay Rapleaf $1003 if you don't. Would you take the bet? Why or why not?"}
+{"i": "1701882", "t": "Six Degrees of Turkey Bacon\rYou've always been intrigued with the \"Six Degrees of Kevin Bacon\" game (http://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon). Now, let's say if two actors have been in the same movie we call them \"friends\" and if two actors have not been in the same movie, we say they are not \"friends.\" Now choose any two actors at random -- we want to calculate the number of degrees of separation and the path between them. How do you go about this problem? Discuss ideas, trade-offs, algorithm ideas, and more."}
+{"i": "1760880", "t": "The Max\rBubble sort is O(n) at best, O(n^2) at worst, and its memory usage is O(1) . Merge sort is always O(n log n), but its memory usage is O(n). Explain which algorithm you would use to implement a function that takes an array of integers and returns the max integer in the collection, assuming that the length of the array is less than 1002. What if the array length is greater than 1002?"}
+{"i": "1827663", "t": "what is polymorphism. example."}
+{"i": "1812674", "t": "design deck of cards"}
+{"i": "1734890", "t": "diff between pointer and reference"}
+{"i": "1741862", "t": "given a number, 9th bit set or not?"}
+{"i": "1736885", "t": "Height of a BInary tree."}
+{"i": "1812673", "t": "How would u create ADT for Hash map."}
+{"i": "1718881", "t": "Which Data structure would u use to implement phone book of mobile"}
+{"i": "1838662", "t": "Which algorithm would u use to sort a very large file"}
+{"i": "1726913", "t": "Given a binary tree, wap to return a new tree which is mirror image of the given tree"}
+{"i": "1838661", "t": "Write test cases for a function which takes a citi name as string and returns the temperature ad double. returnFunc(String name)\rAlso give any suggestion for improving this API"}
+{"i": "1746855", "t": "In an array of integers find a pair of words which product equals to given number without using any extra space."}
+{"i": "1791742", "t": "In a very large file find the 3 most frequent words"}
+{"i": "1829663", "t": "Write a program to which takes an array of digits and prints the histogram of the distribution of digits in horizontal manner. (Vertical histogram and cap on the max value for bonus points)"}
+{"i": "1822668", "t": "Two cops and a robber are located on opposite corners of a cube and move along its edges. They all move at the same rate. Is it possible for the cops to catch the robber.\r[Each of the 3 people can see each other at all times and can react instantaneously to each others movements. Stopping is allowed.]"}

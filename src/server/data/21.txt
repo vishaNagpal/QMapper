@@ -1,0 +1,30 @@
+{"i": "6438991568568320", "t": "2)What are your biggest strength?"}
+{"i": "6477186779840512", "t": "1)Can you tell us something about yourself?"}
+{"i": "5313091661725696", "t": "Write a java code to add two numbers."}
+{"i": "5172103471431680", "t": "How to swap two numbers without using a third variable?"}
+{"i": "5793122238332928", "t": "What is meant by Abstract class?"}
+{"i": "5165937961992192", "t": "Can main() method in Java can return any data?"}
+{"i": "6117970344935424", "t": "What is the difference between double and float variables in Java?"}
+{"i": "5655611075723264", "t": "What are Loops in Java? What are three types of loops?"}
+{"i": "6363511746199552", "t": "What is Java?"}
+{"i": "4667222331490304", "t": "What are checked and unchecked exceptions in java?"}
+{"i": "6631947806179328", "t": "What is cloning in java?"}
+{"i": "5910458463158272", "t": "What is garbage collection in java?"}
+{"i": "6496809680109568", "t": "What is\u00a0static binding and dynamic binding in java?"}
+{"i": "4959367214923776", "t": "What is the use of final keyword in java?"}
+{"i": "5182241657847808", "t": "What is synchronization in java?"}
+{"i": "4955495587119104", "t": "What are the different ways of creating threads in java?"}
+{"i": "6538507772755968", "t": "What are the differences between method overloading and method overriding?"}
+{"i": "4529711168880640", "t": "What are the differences between static and non-static methods?"}
+{"i": "6370513213980672", "t": "What is multithreaded programming? / What is multi-threading?"}
+{"i": "5237611839356928", "t": "What are PATH and CLASSPATH?"}
+{"i": "5009322180870144", "t": "How the exceptions are handled in java? OR Explain try, catch and finally blocks in java?"}
+{"i": "6369056683196416", "t": "Can we overload the main() method?"}
+{"i": "6707772165455872", "t": "What is the difference between constructor and method?."}
+{"i": "6078907080507392", "t": "Does java supports multiple inheritance?"}
+{"i": "6375519803670528", "t": "What is the method overriding?"}
+{"i": "4609153518010368", "t": "What is the method overloading in java?"}
+{"i": "5506047899336704", "t": "What is polymorphism in java?"}
+{"i": "5412607865913344", "t": "What is constructor overloading? What is the use of constructor overloading?"}
+{"i": "5521871833923584", "t": "What\u00a0do you mean by inheritance in java?"}
+{"i": "6446260196737024", "t": "What are\u00a0the fundamental principles of object oriented programming? / What are the OOPS concepts?"}

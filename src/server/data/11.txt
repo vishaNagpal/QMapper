@@ -1,0 +1,30 @@
+{"i": "6021932124733440", "t": "2)\tHow can you categorize the digital marketing?"}
+{"i": "6024362421911552", "t": "1)\tExplain what is digital marketing?"}
+{"i": "6710347602329600", "t": "What are the state management techniques used in .NET?"}
+{"i": "4787559396278272", "t": "What are the parameters that control connection pooling behaviors in .NET?"}
+{"i": "6213959458226176", "t": "What are some of the templates that are present in Repeater control?"}
+{"i": "5066891922505728", "t": "What are the types of cookies available in ASP.NET?"}
+{"i": "4720076870123520", "t": "How many elements can a tuple hold in .NET?"}
+{"i": "4893491140755456", "t": "What is meant by Managed and Unmanaged code?"}
+{"i": "4716560634085376", "t": "How can you assign an RGB color to a System.Drawing.Color object?"}
+{"i": "6281029852069888", "t": "Choosing between HTTP and TCP for protocols and Binary and SOAP for formatters, what are the trade-offs?"}
+{"i": "6005396433534976", "t": "Explain what relationship is between a Process, Application Domain, and Application?"}
+{"i": "5480940795592704", "t": "What is .NET?"}
+{"i": "4785293532594176", "t": "Explain the file processing modes that Python supports."}
+{"i": "6300866024308736", "t": "What do you understand by object-oriented programming in Python?"}
+{"i": "4682039767334912", "t": "Write a program to print out the 2-table using while loop"}
+{"i": "5155129945227264", "t": "If you have a dictionary like this -> d1={\u201ck1\u2033:10,\u201dk2\u2033:20,\u201dk3\u201d:30}. How would you increment values of all the keys ?"}
+{"i": "5088059551383552", "t": "Print the following pattern:\rA\rB C\rD E F\rG H I J\rK L M N O\rP Q R S T U"}
+{"i": "6746326610477056", "t": "How can you find the minimum and maximum values present in a tuple?"}
+{"i": "5964158707695616", "t": "Implement a probability plot using numpy and matplotlib:"}
+{"i": "5099417575620608", "t": "What are the different functions that can be used by grouby in pandas ?"}
+{"i": "5620426703634432", "t": "How to delete a column or group of columns in pandas? Given the below dataframe drop column \u201ccol1\u201d."}
+{"i": "6287385346703360", "t": "How to create a new column in pandas by using values from other columns?"}
+{"i": "4799885281329152", "t": "What is the difference between NumPy and SciPy?"}
+{"i": "6198015113560064", "t": "What is docstring in Python?"}
+{"i": "6505998024441856", "t": "How can you initialize a 5*5 NumPy array with only zeroes?"}
+{"i": "6330815502352384", "t": "Find out the mean, median and standard deviation of this numpy array -> np.array([1,5,3,100,4,48])"}
+{"i": "6183376657055744", "t": "What are the key features of Python?"}
+{"i": "6207260164882432", "t": "What is the difference between JDK, JRE, and JVM?"}
+{"i": "6536118713974784", "t": "How to count the number of occurrences of a character in a string in java?"}
+{"i": "4900749568376832", "t": "How to run a java program in the command prompt?"}

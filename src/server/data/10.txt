@@ -1,0 +1,30 @@
+{"i": "6561330960531456", "t": "2)\tWhat are the differences between C++ and Java?"}
+{"i": "6038072813158400", "t": "1)\tWhat is Java?"}
+{"i": "6582341001019392", "t": "17)\tWhat are the most efficient and useful Digital Marketing tools?"}
+{"i": "5690000811753472", "t": "16)\tHow can you drive traffic to our site immediately?"}
+{"i": "5871532654460928", "t": "15)\tWhat social media platforms do you think would be best for our brand?"}
+{"i": "4912172906315776", "t": "14)\tExplain how you know a digital marketing campaign is not successful."}
+{"i": "5950191742484480", "t": "13)\tTell us about your experience with creating digital marketing budgets."}
+{"i": "5442446480113664", "t": "12)\tExplain an effective sales funnel you built."}
+{"i": "4520915075858432", "t": "11)\tHow would you measure the success of a marketing email?"}
+{"i": "5802310582665216", "t": "10)\tWhat are the hallmarks of a successful marketing email?"}
+{"i": "4621542334398464", "t": "9)\tHow would you go about building an effective email marketing strategy?"}
+{"i": "4873654968516608", "t": "8)\tWhat do you think is the next major trend in digital marketing?"}
+{"i": "6192791829348352", "t": "7)\tWhat do you think is the biggest challenge in digital marketing?"}
+{"i": "4880010463150080", "t": "6)\tDescribe a digital marketing campaign you worked on from start to finish. What approaches did you take, what challenges did you face, and how were you successful?"}
+{"i": "6033651496648704", "t": "5)\tWhat are some digital marketing tools you have experience with?"}
+{"i": "6210292210466816", "t": "4)\tHow do you pick effective digital marketing KPIs, and how do you track them?"}
+{"i": "4806241564491776", "t": "3)\tWhat is on-page and off-page optimization?"}
+{"i": "5435431053688832", "t": "2)\tList the most popular local SEO ranking factors."}
+{"i": "4905661199024128", "t": "1)\tWhy is digital marketing preferred over traditional marketing?"}
+{"i": "4616515746267136", "t": "13)\tDo you have experience with marketing automation?"}
+{"i": "5923901979230208", "t": "12)\tHow would you develop a social media campaign?"}
+{"i": "5221232444702720", "t": "11)\tWhat are the best ways to increase website traffic?"}
+{"i": "4790640230006784", "t": "10)\tmention what are the key elements to optimize the conversion rates per PPC?"}
+{"i": "5088678211223552", "t": "9)\tMention what is an effective PPC keyword should be like?"}
+{"i": "4824291835641856", "t": "8)\tExplain what is Google Adwords?"}
+{"i": "5998381007110144", "t": "7)\tMention what are the primary models for determining Pay-Per-Click ?"}
+{"i": "5401208754274304", "t": "6)\tExplain what is PPC or Pay Per Click advertising?"}
+{"i": "5279510587506688", "t": "5)\tMention what are the key areas where you can use keywords to optimize the site ranking"}
+{"i": "6019391047598080", "t": "4)\tExplain what is a keyword in digital marketing ? How important is it from the point of SEO?"}
+{"i": "5911193439436800", "t": "3)\tExplain what is SEO?"}

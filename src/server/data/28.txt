@@ -1,0 +1,30 @@
+{"i": "5815560355446784", "t": "Which variable can be used to access Union data members if the Union variable is declared as a pointer variable?"}
+{"i": "5466891420696576", "t": "Can I declare the same variable name to the variables which have different scopes?"}
+{"i": "6313804764282880", "t": "Which statement is efficient and why? x=x+1; or x++; ?"}
+{"i": "4664192366280704", "t": "When should we use the register storage specifier?"}
+{"i": "5943360865435648", "t": "What is the difference between declaring a header file with < > and \u201d \u201c?"}
+{"i": "4689660448604160", "t": "Explain Local Static Variables and what is their use?"}
+{"i": "4827039406751744", "t": "What do you mean by Memory Leak?"}
+{"i": "4883809613381632", "t": "Can I create a customized Head File in C language?"}
+{"i": "5930108206972928", "t": "Write a code to generate random numbers in C Language."}
+{"i": "6493779714899968", "t": "Explain toupper() with an example."}
+{"i": "4878184816836608", "t": "Differentiate between getch() and getche()."}
+{"i": "5462426735083520", "t": "Differentiate between call by value and call by reference."}
+{"i": "4827407431761920", "t": "Write a simple example of a structure in C Language"}
+{"i": "5367879808057344", "t": "Where can we not use &(address operator in C)?"}
+{"i": "6736178005409792", "t": "What do you mean by Dangling Pointer Variable in C Programming?"}
+{"i": "6586997685092352", "t": "What is Dynamic Memory allocation? Mention the syntax."}
+{"i": "6029841374117888", "t": "How is a Function declared in C Language?"}
+{"i": "4814094241103872", "t": "What are the type of flags to run an application in android?"}
+{"i": "4868584692514816", "t": "What is drawable folder in android?"}
+{"i": "5464353631895552", "t": "How do you find any view element into your program?"}
+{"i": "5397315030876160", "t": "What are application Widgets in android?"}
+{"i": "5930829761478656", "t": "What folders are impotent in android project?"}
+{"i": "4820259750543360", "t": "How to update UI from a service in android?"}
+{"i": "6025376688504832", "t": "Which kernal is used in android?"}
+{"i": "6239781120376832", "t": "What is sleep mode in android?"}
+{"i": "5694816745160704", "t": "What is fragment in android?"}
+{"i": "4851332949737472", "t": "What is singleton class in android?"}
+{"i": "4804208300130304", "t": "How do you pass the data to sub-activities android?"}
+{"i": "5666825772204032", "t": "How to launch an activity in android?"}
+{"i": "6275959576068096", "t": "Define the application resource file in android?"}

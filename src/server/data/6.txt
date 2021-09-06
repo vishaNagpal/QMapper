@@ -1,0 +1,30 @@
+{"i": "5723569068179456", "t": "9)\tWhat is the difference between a class and an object?"}
+{"i": "5650623343624192", "t": "8)\tCan you call the base class method without creating an instance?"}
+{"i": "5704166368870400", "t": "7)\tWhat is the difference between a class and a structure?"}
+{"i": "5723346870730752", "t": "6)\tWhat is a class?"}
+{"i": "5778606456832000", "t": "5)\tWhat is an object?"}
+{"i": "5690729546907648", "t": "4)\tWhat are the main features of OOPs?"}
+{"i": "5708044640452608", "t": "3)\tWhy use OOPs?"}
+{"i": "5803105017397248", "t": "2)\tWhat is OOPs?"}
+{"i": "5683583123980288", "t": "1)\tWhat is the difference between OOP and SOP?"}
+{"i": "5526464697466880", "t": "The main objective of digital marketing is to _________"}
+{"i": "5229415699578880", "t": "the customer review of a product on an E-Commerce website."}
+{"i": "5890823617511424", "t": ".___________ is classified An idea for a possible product that company will offer"}
+{"i": "6628607328256000", "t": "\u2019Maslow\u2019s hierarchy of needs"}
+{"i": "6702068448886784", "t": "media and message are considered as_____________ in communication process"}
+{"i": "4705964144459776", "t": "stage in which purchase intention is transformed in to purchase decision is called"}
+{"i": "5347116862406656", "t": ".____________communication process, receiver and sender are classified as"}
+{"i": "5762062528020480", "t": "When the new developed product concept is tested, the next immediate step is to"}
+{"i": "6496441655099392", "t": "Stages such as conviction stage, liking stage, preference stage, and actual purchase stage are all of the process called"}
+{"i": "6140292363714560", "t": "customer is _________, If customer\u2019s expectations and products performance matches"}
+{"i": "4571893787525120", "t": "which is an online platform operated by a third party and is open to buyers or sellers in a particular industry.\rA.vertical and horizontal e-marketplace."}
+{"i": "4764923710668800", "t": "which is normally run by a consortium of buyers in order to establish an efficient purchasing environment."}
+{"i": "4677926665060352", "t": ". ______ is an example of business-to-business services offered by Google application running as part of a customer\u2019s website."}
+{"i": "5792365653000192", "t": "the example of business-to-business services offered by Google which gains advertising revenue.\rA.Google AdWords pay per click sponsored"}
+{"i": "4793083546304512", "t": "Business-to business e-Commerce involves commercial transactions between other organizations and organizations."}
+{"i": "4777067529371648", "t": "which goal of a business-to-business website involves gaining permission from a website visitor and other communications channels?"}
+{"i": "5340203307237376", "t": "Many consumer products are a key difference between B2C and B2B marketing which is reflected in web design through ______."}
+{"i": "5246504300707840", "t": "which is reflected in web design through ______."}
+{"i": "4767014101450752", "t": "who is suspicious of change is classified as"}
+{"i": "6471552990707712", "t": "Product development process after analysis of business next step to be taken is"}
+{"i": "6427608898600960", "t": "Considering non-personal communication channels, magazines, direct mail and newspapers are considered as"}

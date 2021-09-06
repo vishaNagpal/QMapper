@@ -1,0 +1,30 @@
+{"i": "4539962249183232", "t": "What is iostream in C++?"}
+{"i": "4838258800852992", "t": "How to clear screen in C++?"}
+{"i": "6224523047731200", "t": "What is type casting in C++?"}
+{"i": "5662367529041920", "t": "How to run a C++ program in cmd?"}
+{"i": "6487869839900672", "t": "How to convert integer to string in C++?"}
+{"i": "5705239288610816", "t": "What is namespace in C++?"}
+{"i": "4536467622199296", "t": "What is C++?"}
+{"i": "4591006123556864", "t": "Can I declare the same variable name to the variables which have different scopes?"}
+{"i": "5098623140888576", "t": "Write a C program to print hello world without using a semicolon (;)."}
+{"i": "5769896548368384", "t": "Write a program to swap two numbers without using the third variable."}
+{"i": "6686208946601984", "t": "Write a program to reverse a given number in C?"}
+{"i": "5138773099151360", "t": "Write a program to check Armstrong number in C?"}
+{"i": "5531353242664960", "t": "Write a program to print factorial of a given number using recursion?"}
+{"i": "5901901680345088", "t": "Write a program to print factorial of a given number without using recursion?"}
+{"i": "4847268853710848", "t": "Which variable can be used to access Union data members if the Union variable is declared as a pointer variable?"}
+{"i": "5127196149022720", "t": "When should we use the register storage specifier?"}
+{"i": "5182224545087488", "t": "Which statement is efficient and why? x=x+1; or x++; ?"}
+{"i": "6094303196086272", "t": "What is the difference between declaring a header file with < > and \u201d \u201c?"}
+{"i": "5723921456824320", "t": "Where can we not use &(address operator in C)?"}
+{"i": "5873715554811904", "t": "Can I create a customized Head File in C language?"}
+{"i": "5642427002519552", "t": "What is the structure?"}
+{"i": "5745174498508800", "t": "What is pointer to pointer in C?"}
+{"i": "5857891620225024", "t": "how to source best photo editing company"}
+{"i": "6290013313040384", "t": "Design a graph problem, given an function getFriend(int user) which returns all the users 1st degree friends, write a function to check:\r 1. whether two users are first-level, second-level and third-level connections\r2. function that outputs a users 2nd degree and 3rd degree friends"}
+{"i": "5465724934422528", "t": "Can I use int datatype to store 32768 value?"}
+{"i": "4951923633946624", "t": "What is the main difference between the Compiler and the Interpreter?"}
+{"i": "6217561778159616", "t": "Mention the features of C Programming Language."}
+{"i": "6359628223348736", "t": "What is Preprocessor?"}
+{"i": "4802918266437632", "t": "What is a C Token?"}
+{"i": "6049635536207872", "t": "What do you mean by a Nested Structure?"}

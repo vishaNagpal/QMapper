@@ -1,0 +1,30 @@
+{"i": "7636661", "t": "Given a million 3D points, how will you find the 10 closest to the origin?"}
+{"i": "7635661", "t": "Given an array having integers with just one integer repeated thrice, how will you find out which integer is that?"}
+{"i": "7630702", "t": "wap to get the height of a BST?"}
+{"i": "7604702", "t": "what are threads and multi-threads?"}
+{"i": "7551707", "t": "optimize a code to reverse bits of a character n print it?"}
+{"i": "7604701", "t": "Difference b/w i3 and core 2 duo processor?"}
+{"i": "7551706", "t": "Implement a pattern matching dictionary using Trie?"}
+{"i": "7604700", "t": "Implement merge-sort?"}
+{"i": "7630700", "t": "write a function to find out the factorial of a number. it should also work for large numbers like 100!"}
+{"i": "7522718", "t": "Given a singly linked list with a pointer p pointing to some node(not the first or last node), how will you delete that node? You have no access to the head of the node."}
+{"i": "7551702", "t": "Its been 2 weeks since my second phone interview and I havent heard back from the HR. What is in general waiting period for HRs reply at amazon."}
+{"i": "7630699", "t": "You are given a 1D array of integers, such as:\r int[] array = [3,4,7,2,2,6,0,9];\r Suppose you need to treat this array as a 2D table with a given number of rows.\rYou want to sum the columns of the table.\r another value for numRows is 4..in that case the resultant array would look like \rwhat if numRows==4?\r3  4\r7  2\r2  6\r0  9\r----\r12 21\r write up a function as follows:\rint[] retArray SumColumns(int[] array, int numRows)\r{\r}\r try to come up with a linear solution- no constraints on space..\r this was a phone int q i got, i gave a linear soln with some hints from the interviewer..biggest lesson learnt, before giving fancy test cases, check for THE MOST obvious case, null input..very very important, cant stress enough!..all the best for your interviews"}
+{"i": "7629698", "t": "write a function that prints unique random prime numbers from a given range."}
+{"i": "7604688", "t": "Give a detailed description and designing of a Card Game?"}
+{"i": "7630684", "t": "Find the 100 most frequently occurring words in a set of documents. Optimize."}
+{"i": "7629662", "t": "What is the probability of rolling a 10 and an 11 before rolling a 7?"}
+{"i": "7551677", "t": "What is the probability of rolling a 10 and an 11 before rolling a 7?"}
+{"i": "7528769", "t": "Implement a Queue using a Singly Linked list where insertion and Deletion are O(1)"}
+{"i": "7608683", "t": "Code for tree traversal"}
+{"i": "7628665", "t": "Binary search"}
+{"i": "7595695", "t": "if you we want that at any given time only 1 exe instance should be running how can we do that?"}
+{"i": "7528760", "t": "If [a1,a2,a3...,an,b1,b2...bn] is given input change this to [a1,b1,a2,b2.....an,bn] , solution should be in-place"}
+{"i": "7624675", "t": "You have 2 entity which have many-to-many relationship. How would you implement tables?  How many tables do you need?"}
+{"i": "7595688", "t": "If a function has a variable declared (say int a) and returns its address, what would happen?\r Well, its an automatic variable and on stack. So, its bad. The question is :\r Why does the compiler let you do this (and just give a warning)? Any scenario where this is required?"}
+{"i": "7608673", "t": "singleton object?"}
+{"i": "7513698", "t": "Reverse a string as per the words, not the entire reverse. eg; \"I am Sam\" --> \"Sam am I\""}
+{"i": "7624670", "t": "Given an array of integers, all but one of which appears an even number of times, find the one integer which appears an odd number of times."}
+{"i": "7622666", "t": "main(){\r\n..\r\n..\r\nfork();\r\nfork();\r\n..\r\n..\r\n}Qestion: How many processes will be there in system after second fork gets executed?\rI said 3 but the interviewer said it is 4 can anybody explain me"}
+{"i": "7622663", "t": "How to search a number among a lot of numbers. I asked if it is one time thing. Answer is yes. Then I did sequential search; Then he said how about search another one....\rThen I said sort these numbers first and suggest binary tree. \rWrote down the binary search code"}
+{"i": "7622662", "t": "There are 7 coins; One of them is different. Give you a weight and 2 chances to try. Please tell which one is different. (I can't....Sigh. Then he told me the different one is heavier. Then I got the answer.)"}

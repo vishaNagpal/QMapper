@@ -1,0 +1,30 @@
+{"i": "9733014", "t": "You are given a function that generates 0 and 1 with equal probability. Write a function that uses the above function to generate any n(1<=n<=1000) so that probability of producing any number between 1 to 1000 is equal and is 1/1000."}
+{"i": "9733009", "t": "How do u test railway reservation system (like irctc) write the test cases"}
+{"i": "9734970", "t": "How to add a counter to www.google.com to track the billionth user."}
+{"i": "9734967", "t": "You have a 64bit interger counter set to 0. How long it will take to overflow the counter given that you are incrementing it at 4Ghz speed"}
+{"i": "9574926", "t": "You have two classes list and array, how can you make sure that array class will compile before list class. Both the classes might be in differnet files."}
+{"i": "9574923", "t": "How to get ISBN numbers from the billion of files that are downloaded and how to store them?I mean reading and storing of ISBN number."}
+{"i": "9693413", "t": "Given an array of natural numbers (+ve, 0, -ve integers), find the maximum product of contiguous elements. Product value won't overflow 32 bits. Efficient solution ( O(nlogn) or better) is needed. Thanks."}
+{"i": "9689276", "t": "Write a program that prints all the sub string that is palindrome within a input String. For e.g For input String \"abbcacbca\" output should be: [cac, bcacb, cbc, acbca, bb]"}
+{"i": "9719710", "t": "Write a C program for a input linkedList 1->2->3->4->5->6...  o/p should be 2->1->4->3->6->5..."}
+{"i": "9707061", "t": "There is a river and there are n number of steps between two banks of the river to cross the river.\rA frog wants to cross the river with the condition that he can jump max one step. Find the number of ways he can cross the river?\rFor e.g. if there are 3 steps in between, frog can go from paths: _123_, _2_, _13_ so there are 3 different ways frog can cross the river (in the example _ is two ends of the river)"}
+{"i": "9715988", "t": "you have to do the queue operation when you have a single stack..for example:-suppose there is a telephone bill populating in a stack now you have to process each request in a fifo manner.you can perform only push pop operation and allocating extra memory is not allowed."}
+{"i": "9708961", "t": "Given a 4GB file of numbers. You are asked to find the product of K largest numbers. The size of the main memory is 1 GB. Give an efficient method to find."}
+{"i": "9706892", "t": "do you know any scripting languages"}
+{"i": "9684908", "t": "How do you feel that this position does not require a lot of coding, you are mainly dealing with system administration."}
+{"i": "9637341", "t": "-why do you want to work for autonomy zantac"}
+{"i": "9689098", "t": "-which job do you prefer a job with good work and life balance, or a job that is challenging but requires a lot of work"}
+{"i": "9708900", "t": "-how many houses are in pleaseanton"}
+{"i": "9637340", "t": "-why are man hole cover round"}
+{"i": "9708899", "t": "-three people, average salary without telling anybody your salary"}
+{"i": "9706891", "t": "-write atoi()"}
+{"i": "9622915", "t": "-print fibanncci number 0-1000"}
+{"i": "9622887", "t": "I was asked this question during one of my interviews. Can you do JOIN using UNION keyword? Can you do UNION using JOIN keyword?\r Can you give me an example of how to do this if possible?"}
+{"i": "9684758", "t": "how to make all the elements of an integer array of size n 0 without using loop.(note: it is not about array initialization....but after the array already contains some non-zero elements..)"}
+{"i": "9688871", "t": "This is a question from TAOCP and I found it very interesting.\r Given an array of integers, we can use stacks or deques (doubly ended queues) to output the numbers in certain permutations. For e.g. given an array {1, 2, 3, 4}, we can output it as {2, 3, 1, 4} by pushing down 1, pushing down 2, popping out 2, pushing down 3, popping out 3, popping out 1, pushing down 4 and then finally popping out 4. However, there are certain permutations that are not possible using a stack. For e.g., given an array {1, 2, 3, 4, 5, 6}, we can't create a permutation of {2, 1, 4, 6, 3, 5} using any sequence of push and pop operations on a stack. Using a deque however, it is possible. Write an algorithm to print out all the valid permutations that can be created using a stack and deque given an array of n integers.\r I hope I am not misusing the forum by posting a question which I don't know if has been asked in an interview question. But the problem seems very interesting and could very well be an interview. problem."}
+{"i": "9708671", "t": "how to create final class in c++"}
+{"i": "9684670", "t": "define class such that you can make object of this class on a heap but not on the stack."}
+{"i": "9698128", "t": "An array with 'n' elements are passed to a function along with a number k. Function is expected to return 'number of pairs' which sum upto 'k'.\rEx: Say array contains {7,1,6,8,4,9} and k is 13, 7+6, 9+4 add upto 13. So, the return value should be 2.\r Q1: What is the complexity if you find out the answer without modifying the array elements?\rQ2: If you are allowed to odify the array elements, can the complexity be reduced? If yes, how?"}
+{"i": "9698121", "t": "Let's discuss on topic \"solution to string problems using suffix tree & suffix array\""}
+{"i": "9691976", "t": "Write a function to check if an integer is square or not? Ex, 49 is square, 48 is not."}
+{"i": "9694917", "t": "largest unique substring in string efficiently"}

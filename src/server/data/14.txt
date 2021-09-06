@@ -1,0 +1,30 @@
+{"i": "5116093004251136", "t": "Can a C program be compiled or executed in the absence of a main()?"}
+{"i": "5203176670625792", "t": "Differentiate between Actual Parameters and Formal Parameters?"}
+{"i": "6298687939018752", "t": "How can we store a negative integer?"}
+{"i": "6601642516938752", "t": "What are the valid places where the programmer can apply Break Control Statement?"}
+{"i": "4691911078576128", "t": "Differentiate between calloc() and malloc()"}
+{"i": "4641572585472000", "t": "What are static variables and functions?"}
+{"i": "5172788032176128", "t": "What do you mean by the Scope of the variable? What is the scope of the variables in C?"}
+{"i": "4858705663754240", "t": "How is a Function declared in C Language?"}
+{"i": "5207595655102464", "t": "What is dangling pointer in C?"}
+{"i": "5405950398169088", "t": "What is a far pointer in C?"}
+{"i": "6312483977953280", "t": "What is a NULL pointer in C?"}
+{"i": "6187623373078528", "t": "What is a pointer in C?"}
+{"i": "4923735629365248", "t": "What is an array in C?"}
+{"i": "6359298517499904", "t": "9.What is the output of the following program?"}
+{"i": "4833400320425984", "t": "8.What is the use of the function in C?"}
+{"i": "5041504169492480", "t": "7.What is the use of printf() and scanf() functions?"}
+{"i": "5882570569416704", "t": "6.What are the features of the C language?"}
+{"i": "4663750269861888", "t": "5.When was C language developed?"}
+{"i": "5015314532663296", "t": "4.Who is the founder of C language?"}
+{"i": "5779688855699456", "t": "3.Why is C called a mid-level programming language?"}
+{"i": "5941880443895808", "t": "2.Why is C known as a mother language?"}
+{"i": "6736017229348864", "t": "1.What is C language?"}
+{"i": "4902498358263808", "t": "Tell me about your most successful accomplishment in talent management."}
+{"i": "6561579062001664", "t": "Have you ever helped someone in improving their work?"}
+{"i": "6250375328301056", "t": "Describe a time you helped someone ace their job."}
+{"i": "6330388958412800", "t": "Have you used any ATS systems?"}
+{"i": "6028674887843840", "t": "How important is networking? What networking methods do you like?"}
+{"i": "6014453043167232", "t": "How would you deal with a disagreement between hiring managers about a candidate choice?"}
+{"i": "5395598520352768", "t": "How do you find potential role-fits within our current teams?"}
+{"i": "4756670662574080", "t": "How do you create an unforgettable candidate experience?"}

@@ -1,0 +1,30 @@
+{"i": "9957954", "t": "Written: Q1:\rGiven a binary search tree and a value X, find the node with value immediately greater than X."}
+{"i": "9962832", "t": "Where should one start when attempting to learn Algorithms and Data Structures  ? Books ?"}
+{"i": "9958792", "t": "Write two algorithms to remove duplicates from an integer array.\rDiscuss pros and cons.\rWrite test methods for your algorithms."}
+{"i": "9957772", "t": "what are threads and processes. what is the meaning of synchronization"}
+{"i": "9950791", "t": "given a large chunk of memory. implement your own malloc and free function"}
+{"i": "9951794", "t": "how to find out if a point lies inside a triangle or not??"}
+{"i": "9954744", "t": "Design an Evaluation of a mathematical expression."}
+{"i": "9909927", "t": "test a page with just a textbox and a search button."}
+{"i": "9909926", "t": "Write the code to find the intersection of two arrays."}
+{"i": "9918826", "t": "What is the probability of a knight staying on a chess board after K hops (input : starting position and K)"}
+{"i": "9919830", "t": "Given two dies, modify one such that you get the numbers 1 to 12 in equal\rprobability"}
+{"i": "9914841", "t": "Given 2*n + 3 points in 2d space, with no 3 points collinear and no 4 points lying on a circle, device an algorithm that will find a circle that contains n points inside it, n outside it and 3 on it."}
+{"i": "9911848", "t": "Given an array of positive integers that represent the bars in a histogram,\rfind the rectangle with the largest area under the curve and above the axis."}
+{"i": "9912835", "t": "Implement BFS on a tree using an iterative stack or recursively?"}
+{"i": "9916806", "t": "Question from  Sony USA:\r Without use of other function calls, rewrite this code to\r    ensure the pointer p is aligned to a 16-byte boundary for\r    its lifetime:\r     char *p = malloc(1024);\r    ...\r    free(p);"}
+{"i": "9866153", "t": "given i/p: 4*4 matrix. find the distance between 2 points. provide all possible ways to reach to the other number"}
+{"i": "9868164", "t": "design an algorithm for returning the first repeated character in string"}
+{"i": "9866037", "t": "{sort a doubly link list in less then lg(n)n time??}"}
+{"i": "9866993", "t": "given an array of integers and a unique number. find all different combination of numbers from the array that add up to the unique number.print all the combination."}
+{"i": "9865955", "t": "find all the permutations of a string."}
+{"i": "9868969", "t": "Implement Game of Snake DS, Why this DS, Approaches for optimizing the current DS"}
+{"i": "9867964", "t": "How do efficiently search for a number in matrix given rows and columns are in increasing order."}
+{"i": "9868955", "t": "Implement Alternative node swap of linked lists."}
+{"i": "9867963", "t": "How do you efficiently implement suggest functionality in phone book. Suggest is like You will retrieve names as you type. Define the structure for it."}
+{"i": "9864901", "t": "Given a  binary tree ,Find the minimum sum from root to the leaf and also the  path???"}
+{"i": "9868929", "t": "Given two nodes of tree .Find their first common ancestor???"}
+{"i": "9865865", "t": "k distinct integers [0, N)\rSelect a random no [0,N) which is not in this k distinct list.\r Example:\r[4, 6, 9]\rChoose a random no between 0 - 9 which is not 4, or 6, or 9.\r Valid output: 2\rInvalid output: 6"}
+{"i": "9836806", "t": "how to find the first node(nearest to root) in the linked list which is in a loop."}
+{"i": "9868720", "t": "search a number in a sorted array of the form \reg: 4 5 6 1 2 3 \rin O(logn)."}
+{"i": "9842038", "t": "int x=10;\rx++++;\rprint x;\r what is the result?"}

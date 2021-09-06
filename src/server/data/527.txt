@@ -1,0 +1,30 @@
+{"i": "1756874", "t": "given an array of numbers where each number has a duplicate in the array except one number, write a program to return the lone number.\rFor eg: if the array is 1,8,5,8,1,3,5 then your program should return 3."}
+{"i": "1721883", "t": "given an array of numbers, write a program to return the k largest numbers. \rFor eg: if the array of numbers is 2,9,6,4,3,8,56,39,5 and k=3 then return 56,39,9."}
+{"i": "1804668", "t": "given a string, write a program to find if it is a palindrome or not."}
+{"i": "1729870", "t": "Render a point if (x,y) cooerdinate.\ry*width+x"}
+{"i": "1734884", "t": "Explain openGL to a kinder garden"}
+{"i": "1821664", "t": "explain heap sort and discuss its complexity"}
+{"i": "1756872", "t": "Given an array of balls, which can be one of two colors (RED or BLUE), write a function that partitions the array in-place such that on exit from the function all the balls of the same color are contiguous. It does not matter whether the red or blue balls come first. The return value from the function is the index of the first ball of the second color.  If there is only one color of balls in the array then the return value should be 0. It is not legal to change the color of a ball. They must be moved. Consider performance, memory utilization and code clarity and elegance of the solution when implementing the function. \r C++ Prototype \rclass Ball\r {\r public:   \r  enum BallColor { RED, BLUE };    \r  BallColor Color() const { return _color; } \r private:   \r  BallColor  _color;    \r // Other data in class (unrelated to assignment)\r }; \r unsigned Partition( Ball aBalls[], unsigned cBalls )\r {\r //your code goes here\r }"}
+{"i": "1704888", "t": "What is the return value of __init__(self): operator? Is there any default __init__ in a class? Can we call __init__()?(anyhow)"}
+{"i": "1724884", "t": "Given a string.Replace the words whose lengt>=4 and is even,with a space between the two equal halves of the word.consider only alphabets for finding the eveness of the word\rI/P \"A person can't walk in this street\"\rO/P \"A per son ca n't wa lk in th is stre et\""}
+{"i": "1717882", "t": "Given a very large array of integers, you have to find out maximum difference of any 2 elements in the array such that the larger number has got bigger index than that of smaller number.\r for ex -> [2 3 10 2 4 8 1] Ans -> 8 (10 - 2)"}
+{"i": "1807666", "t": "Asked me to write a C program which would accept some input strings on command line and then print those strings which are aligned to 80 chars a line..\r This was the ONLY sensible question in the entire interview I would say.. Amazon sucks ,,|,,"}
+{"i": "1806672", "t": "How can you lock a portion of a file and how to use it ?"}
+{"i": "1760874", "t": "IMDB 2.0 - Movie DB Table Structure\rYour best friend Betty thinks IMDB (www.imdb.com) is too complicated and challenges you to create a simple movie web site. One page will display movies (with movie name, date it was released, and list of actors). Click on an actor and you\u2019re taken to the actor page (with actor name, birthday, bio, and list of movies actor has been in). Please outline the table structure of the database for this."}
+{"i": "1741856", "t": "Main focus for the interview was memory efficient code and how can we optimize ..\rIts better to work on concepts on heap and stack."}
+{"i": "1727882", "t": "tested on the concept of Waiting,Notify.."}
+{"i": "1818665", "t": "Explain overloading and overriding.  Why would you use each?"}
+{"i": "1738870", "t": "Explain projects."}
+{"i": "1726908", "t": "SQL in general, Having clause, Schema, ER, Denormalization."}
+{"i": "1758862", "t": "Reverse a string in Java. Iterative and Recursive fns advs and dis advs."}
+{"i": "1816665", "t": "write a program for placing of n hospitals, in M cities,\r distance between the cities should be minimum.\r write the recursive expression."}
+{"i": "1761883", "t": "Given a binary matrix, find out the maximum size rectangular sub-matrix with all 1\r consider the below binary matrix.\r 0 1 1 0 0\r1 1 0 1 0\r1 1 1 1 1\r1 1 1 1 1\r1 1 1 1 0\r0 0 0 0 0\r Then the result should be\r 1 1 1 1 1\r1 1 1 1 1"}
+{"i": "1808669", "t": "Design Elevator system"}
+{"i": "1823661", "t": "Design a Restaurant Reservation System."}
+{"i": "1726905", "t": "Design LRU cache"}
+{"i": "1737883", "t": "what is complexity of insertion in trie tree. H needed explanation abt it"}
+{"i": "1756869", "t": "Explian the pros and cons of using the spring framework"}
+{"i": "1758860", "t": "explain concepts of test driven development, mock tools(for creating and testing mock objects)"}
+{"i": "1770855", "t": "explain concepts of java - OOP development."}
+{"i": "1753878", "t": "Questions over spring and hibernate. Explain Spring framework and hibernate concepts. discuss using spring and hibernate together."}
+{"i": "1810663", "t": "class A{ int i;\rpublic: \rA(int j):i(j){}\r};\rclass B{int i;\rpublic:\rB(int j){i=j;}\r};\rWhich one is faster..uisng the initializer list or initializing in the c'tor body....\rIs there any other diff or both will have same performance...??"}

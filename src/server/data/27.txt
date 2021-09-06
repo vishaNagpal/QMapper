@@ -1,0 +1,30 @@
+{"i": "6493058160394240", "t": "What is the advantage of declaring void pointers?"}
+{"i": "5471825599922176", "t": "What is the meaning of base address of the array?"}
+{"i": "5431534645936128", "t": "How a negative integer is stored."}
+{"i": "5252610402025472", "t": "What is a pointer on pointer?"}
+{"i": "4752503202119680", "t": "Write a program to print factorial of given number using recursion?"}
+{"i": "5870004703068160", "t": "Write a program to print Fibonacci series using recursion?"}
+{"i": "5979266792030208", "t": "Can we access the array using a pointer in C language?"}
+{"i": "5960640257064960", "t": "What is the maximum length of an identifier?"}
+{"i": "6004084723679232", "t": "What is the acronym for ANSI?"}
+{"i": "4744104796225536", "t": "Can we compile a program without main() function?"}
+{"i": "5353877275148288", "t": "What is the structure?"}
+{"i": "6588326641926144", "t": "What is the difference between malloc() and calloc()?"}
+{"i": "4832129614086144", "t": "What is dynamic memory allocation?"}
+{"i": "5939994147946496", "t": "What is static memory allocation?"}
+{"i": "5916827228569600", "t": "What is the difference between the local variable and global variable in C?"}
+{"i": "5456190643896320", "t": "Suppose a global variable and local variable have the same name. Is it is possible to access a global variable from a block where local variables are defined?"}
+{"i": "4908875646500864", "t": "Differentiate between the macros and the functions."}
+{"i": "6573692144844800", "t": "What are the limitations of scanf() and how can it be avoided?"}
+{"i": "5928260364402688", "t": "Which structure is used to link the program and the operating system?"}
+{"i": "4906429880729600", "t": "What is Round-robin algorithm? Write a code for Round Robin Scheduling."}
+{"i": "6019140597317632", "t": "What is Bubble Sort Algorithm? Explain with a program."}
+{"i": "5958306143666176", "t": "How can you remove duplicates in an array?"}
+{"i": "5323404549292032", "t": "Explain the # pragma directive."}
+{"i": "4842423912497152", "t": "Write a code to print the following pattern."}
+{"i": "5659824304422912", "t": "How can you print a string with the symbol % in it?"}
+{"i": "4893240690475008", "t": "Write a program to swap two numbers without using the third variable."}
+{"i": "5994484599357440", "t": "Write a C program to print hello world without using a semicolon (;)."}
+{"i": "6215334703398912", "t": "What is typecasting?"}
+{"i": "5380410912014336", "t": "What are the different storage class specifiers in C?"}
+{"i": "5131866791739392", "t": "Mention File operations in C Language."}

@@ -1,0 +1,30 @@
+{"i": "5776089740214272", "t": "What is /0 character?"}
+{"i": "6447589153570816", "t": "Why is C called the Mother of all Languages?"}
+{"i": "5797432103796736", "t": "Differentiate between calloc() and malloc()"}
+{"i": "4661622969204736", "t": "What do you mean by the Scope of the variable? What is the scope of the variables in C?"}
+{"i": "4737447328481280", "t": "Are comments included during the compilation stage and placed in the EXE file as well?"}
+{"i": "6257766698582016", "t": "The % symbol has a special use in a printf statement. How would you place this character as part of the output on the screen"}
+{"i": "4686301918396416", "t": "What is gets() function?"}
+{"i": "5041929572581376", "t": "What are pointers?"}
+{"i": "5383894264709120", "t": "What is dynamic data structure?"}
+{"i": "4694002861867008", "t": "What are structure types in C?"}
+{"i": "5405373865918464", "t": "What is the difference between functions getch() and getche()?"}
+{"i": "5944529633411072", "t": "What are global variables and how do you declare them?"}
+{"i": "6449304456134656", "t": "What are run-time errors?"}
+{"i": "5884639200149504", "t": "What is an endless loop?"}
+{"i": "6515889267015680", "t": "What are binary trees?"}
+{"i": "5395079567507456", "t": "Why is C language being considered a middle level language?"}
+{"i": "5789370718617600", "t": "What is wrong with this statement? myName = \"Robin\";"}
+{"i": "6567034677100544", "t": "What are logical errors and how does it differ from syntax errors?"}
+{"i": "4758739293306880", "t": "What could possibly be the problem if a valid function name such as tolower() is being reported by the C compiler as undefined?"}
+{"i": "5096874351001600", "t": "What are compound statements?"}
+{"i": "6009709520224256", "t": "What is syntax error?"}
+{"i": "5397690303643648", "t": "What is a nested loop?"}
+{"i": "6491210317824000", "t": "What is the equivalent code of the following statement in WHILE LOOP format?\rfor (a=1; a<=100; a++)\rprintf (\"%d\\n\", a * a);"}
+{"i": "6597725506764800", "t": "instead of deleting it. How does this aid in debugging?"}
+{"i": "5307054749646848", "t": "What it the return value of a relational operator if it returns any?"}
+{"i": "6378510308868096", "t": "What are enumerations?"}
+{"i": "6479777181990912", "t": "Which key word is used to perform unconditional branching?"}
+{"i": "5392704937132032", "t": "When to use -> (arrow) operator."}
+{"i": "6501119545573376", "t": "What is a preprocessor?"}
+{"i": "6516257292025856", "t": "Does a built-in header file contains built-in function definition?"}

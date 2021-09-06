@@ -1,0 +1,30 @@
+{"i": "9533845", "t": "1. WAP to check if given linked list is palindrome"}
+{"i": "9538713", "t": "Given a  binary tree, find  2 leaf nodes say X and Y  such that F(X,Y) is maximum where F(X,Y) = sum of nodes in the path from root to X + sum of nodes in the path from root to Y - sum of nodes in the common path from root to first common ancestor of the Nodes X and Y"}
+{"i": "9512279", "t": "You have given 2 array. You need to find whether they will create the same BST or not.\rFor example:\rArray1:10 5 20 15 30\rArray2:10 20 15 30 5\rResult: True\rArray1:10 5 20 15 30\rArray2:10 15 20 30 5\rResult: False"}
+{"i": "9509355", "t": "write a program for consumer and producer threads accessing shared queue, given primitives( written test)\rCreateEvent\rEnterCriticalSection/ EndCriticalSection\rSleep\rWait\rSetEvent  etc"}
+{"i": "9512205", "t": "write a function which allocates two dimensional array dynamically\r int ** allocate(int row, int col)"}
+{"i": "9512204", "t": "1) write declaration of sprintf\r2) difference between typedef and #define\r3)how free remembers how many bytes to delete\r4)write a macro for swapping two values of same data type"}
+{"i": "9490508", "t": "given power(x,y)implementation, find number of multiplications in power(5,12)( written test)\rint pow(int x, int n)\r{\rif(n==0)return(1);\relse if(n%2==0)\r{\rreturn(pow(x,n/2)*pow(x,(n/2)));\r}\relse \r{\rreturn(x*pow(x,n/2)*pow(x,(n/2)));\r}\r}"}
+{"i": "9509352", "t": "suggest a data structure for storing polynomial.Now write a program to add two polynomials.( written test)\rax+ bx^2 + cx^3+..."}
+{"i": "9512203", "t": "print all paths from root to leaves( written test)"}
+{"i": "9509351", "t": "write a program to find height of a bst.( written test)"}
+{"i": "9506520", "t": "Multiple Choice,Amazon online test:\r1)Given two sorted arrays of size m and n each, what is the minimum time taken to find the kth smallest element in the combined array\r2)what is Minimum number of edges in a connected graph  N nodes\r3)What is the minimum number of using the next pointer required to find median of a sorted singly linked list of size n\r4)"}
+{"i": "9509343", "t": "write a program to find if a password entered is a valid password( meet the given criteria like should have characters, special characters etc): Online written test"}
+{"i": "9505402", "t": "create a bst from preorder and inorder\rinput is given a comma separated strings\r1,2,3,4,5 ( inorder)Online written test"}
+{"i": "9490498", "t": "find the minimum sum sub array (online written test)"}
+{"i": "9521834", "t": "find if two strings are anagram of each other in o(n) time( online written test)"}
+{"i": "9521816", "t": "WHAT AMOUNT TAKEN IF COMPANEY GET A ASSET FREE?"}
+{"i": "9511989", "t": "Macro for min of 2 nos,deletion of node,reverse string....OS questions-protected memory-preemptive-special requirements of embedded systems, osi layer"}
+{"i": "9509012", "t": "How to sort a 1gb of 10 files(totoal 10gb) but ram size is 2gb only. Which algorithm or data structure we need to use to sort these files?"}
+{"i": "9508970", "t": "Is there any algorithm to find distance between each pair of point among n points whose time complexity is better than O(n^2) i.e. C(n,2)."}
+{"i": "9475235", "t": "You are given a binary tree in which each node contains a value Design an algorithm\rto print all paths which sum up to that value Note that it can be any path in the tree\r- it does not have to start at the root"}
+{"i": "9503107", "t": "How do you determine if every digit in the binary representation of a number is a one?\r I'll post the answer in a bit, think about it first!"}
+{"i": "9374744", "t": "4.\tIn the language of your choice write me a function that does the following: \u201cWalk a linked list (passed in as a parameter) and return a min, max, and average of the values at the end.\u201d  How would you then test this function?"}
+{"i": "9474954", "t": "You are provided with the preorder traversal of a min-heap in an array. Your function should return the actual min-heap?\rWrite a code for this problem."}
+{"i": "9502872", "t": "You have a digital clock having 24 hr format of HH:MM:SS. You have to find following probabilities:\r 1- Occurence of a particular value(let say 05) in SS\r 2- As 1st point we have to find probabilities for particular value in hour and minute fields.\r 3- probalities for other combinations(particular HH:SS or MM:SS values)\r You have to answer the probability in terms of digits occurence...for example in the second's field.. at unit place 10 digits(0-9) are possible, and in the tens place 6 digits are possible (0-5)\r It is not a very straight forward problem. Many different scenarios are possible(value in the seconds field will change in every 1 min, on the other hand, the value in the hour field will remain same till 60 min) \rPlease don't answer ur probabilty in terms of time(as 1/60, 1/24*60) rather in terms of digits only as described above."}
+{"i": "9489852", "t": "Give an efficient algorithm to check whether two strings are rotationally equivalent or not i.e. one string can be obtained by rotating the other string by any number of characters or not.\rFor example, the strings \"abcd\" and \"dabc\" are rotationally equivalent but the strings \"abcd\" and \"acbd\" are not."}
+{"i": "9362765", "t": "write a program to merge two sorted arays ?\rThis is for the written test"}
+{"i": "9362764", "t": "code to reverse a Linked List\rThis is for the written test"}
+{"i": "9447750", "t": "A string is well formed if for every \"(\" left parenthesis you have matching right one \")\".In the same way every \")\" should have a preceding \"(\".write a program finds if a string is  wellformed .\rThis is for the written test"}
+{"i": "9492927", "t": "And finally my experience (if you are interested).."}
+{"i": "9117436", "t": "Given a character array with a set of characters, there might be repetitions as well, given two characters, you should give the minimum distance between these two characters in the whole array. O(n^2) and O(n) solutions are possible."}

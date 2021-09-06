@@ -1,0 +1,30 @@
+{"i": "1897665", "t": "You are supposed to write a code for a cashier such that , given the money paid by the customer and the cost of the product , if would display the number of 10 dollar notes, 5 dollar notes, 1 dollar notes...quarters ,dimes .. in decreasing order ( something like applying greedy approach)."}
+{"i": "1931663", "t": "If you have 50G of log file with timestamp messagetype and message body info find the logs that have message type \"FATAL\" logged between 3-5 pm"}
+{"i": "1939662", "t": "Given a set of points in a plane. Write a function to check if there exists a vertical line of symmetry in this plane."}
+{"i": "1925665", "t": "Given a function that takes in an integer input and gives out an integer:\r int func(int input);\r This function is deterministic. It always gives the same output value for a given input. Say func(8) = 7 whenever it is called.\r Now this function is called multiple times in a loop. This would generate a stream of integers [which are the outputs of that function for different inputs to the function]. He asked me what is the length of this loop ? When i said i didn't understand by what he meant, he said, give me the count of how many numbers are repeated and how many numbers are not repeated. He said there is very limited memory: you can store only a certain number of integers at a time, but not all of them."}
+{"i": "1924663", "t": "Distinguish auto pointers and shared pointers. Write C++ to implement a shared pointer class."}
+{"i": "1941662", "t": "Given an 32-bit integer X, swap the i-th and j-th bit."}
+{"i": "1875663", "t": "A ship has x pirates, where the age of the jth pirate is a(subscript)j and the weight of the jth pirate is w(subscript)j. I was asked for a dyn. programming algorithm, which will find the oldest pirate whose weight is in between twenty-fifth and seventy-fifth %ile of all pirates. I was asked this during onsite interview."}
+{"i": "1914662", "t": "Difference between a process & thread .If one thread gives a pointer to a variable in its stack to another thread will it be able to access it .Can 2 processes have a shared variable..or is it possible only b/w 2 threads."}
+{"i": "1893664", "t": "Explain the different types of polymorphism in C++"}
+{"i": "1933661", "t": "u have an array A of unknown length L. The array contains numbers that are distinct and sorted ascendingly. The array is 1-indexed i.e. first element is got by A[1] and not A[0]. To help u, since L is not known, when a index out of bounds is used, then a special value of NOT_FOUND is returned.\r the question is to find some positive integer n such that when used as the index, the result from the array is the n itself. i.e. A[n] = n."}
+{"i": "1925661", "t": "how will you write constructor such that if will deallocates memory when there is exception."}
+{"i": "1913663", "t": "exception handling. can we throw different type of object in re throw ?"}
+{"i": "1923661", "t": "what happens if I throw exception from destructor. can I throw exception from construtor and destructor ?"}
+{"i": "1913662", "t": "is template class compilation static or dynamic binding ?"}
+{"i": "1876663", "t": "there is template class with syntax errors and in main prog there is nothing.\rwill it throw compile errors ?"}
+{"i": "1896661", "t": "Given a two integer n and d. Print the value of n/d. When n/d may or may not have decimal digits. In case of numbers n=1 and d=3, n/d=0.3333333.... So when there is a repeating pattern the output should be 0.(3), In case of a n/d = 3.12454545454545.... the output should be 3.12(45), for n/d = 4.123982 the output should be 4.123982. Give a solution and write code for the same."}
+{"i": "1895661", "t": "Differentiate between threads and processes\rWhat are spin locks, are they better then mutex ?"}
+{"i": "1872663", "t": "What are virtual functions?"}
+{"i": "1877661", "t": "different between exec and fork. will parent process and child process \rin deadlock if parent is using resource and child will also get same resource ?\rwhat if parent contains two threads ? will child also get 2 threads ? how fork will be thread safe ?"}
+{"i": "1704900", "t": "Use only single variable to print the binary format of that number....just use single variable thats all....\rFor example if u read the value to variable N as 10 then through out the program use only variable 'N'..not use any more ....."}
+{"i": "1843671", "t": "Given N Points in a Plane find the sets of Collinear Points.Collinear points are 3 or more points on the same line.(2 points are trivially collinear)."}
+{"i": "1788746", "t": "why assembly versions improtant in c#.net"}
+{"i": "1862662", "t": "what is diffrence b/w fungtios &properties"}
+{"i": "1832670", "t": "Three boxes, one with apples, one with oranges, one with a mix of apples and oranges.\rall the boxes are labeled incorrectly.\ryou can pick up just one fruit.\rand tell which box has what fruit."}
+{"i": "1853663", "t": "Write a Java program (which uses no external storage) that prints \"Register Now !\" for the first 30 days of its use. After the 30th day it should print \"Free Trial Expired!\""}
+{"i": "1756877", "t": "where is volatile variables stored in memory layout ?"}
+{"i": "1828670", "t": "How to write on a specific location / address on a device driver or register ?"}
+{"i": "1855661", "t": "How to write a perticular value on real hardware register or hardware address in device driver programming ?"}
+{"i": "1824672", "t": "Write a program to find most 2 visited pages from big log file that contains list \rof sessionId and PageId combination in each seperate line. File is big enough not to fit in memory.\rIt means find out pair of page that is bening visited most in same session(user)."}
+{"i": "1800690", "t": "design spice rack for blind"}

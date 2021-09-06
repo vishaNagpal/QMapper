@@ -1,0 +1,30 @@
+{"i": "175710", "t": "what s next in this series\rsss,scc,c,sc,?????."}
+{"i": "175706", "t": "is it possible signals to be send in hardware and what is the example simillarly example of software and hardware interrupt ?"}
+{"i": "176724", "t": "if we declare some auto/global variables inside a particular thread will they be visible to another thread too (remember threads share same memory space) ?"}
+{"i": "175705", "t": "if thread allocate something dynamically will it be visible to other threads"}
+{"i": "176723", "t": "in exec since pid of the new process has the same pid as the old process after exec. So what happens heap stack and other memory space of the process ?"}
+{"i": "175704", "t": "pass array by value to a function"}
+{"i": "176722", "t": "explain nested interrupts"}
+{"i": "176721", "t": "difference between software development cycle in rtos and normal os"}
+{"i": "176720", "t": "what is the best page replacement algorithm and why ?"}
+{"i": "176719", "t": "What is the differnce between embedded systems and the system in which rtos is running?"}
+{"i": "175703", "t": "WHY padding increases systems performance"}
+{"i": "175701", "t": "advantages and disadvantages of Memory mapped I/O and Input mapped I/O"}
+{"i": "176718", "t": "what is signal handler? In which space they are written user or kernel"}
+{"i": "175700", "t": "In case of Mesi protocol where is the information stored whether block is in shared, invalid or modified state"}
+{"i": "176717", "t": "explain what is saved in thread context switch and compare with process context switch"}
+{"i": "175699", "t": "explain embedded systems properties of cellphone"}
+{"i": "175698", "t": "What is the difference detween ISR & function call. In what language isr is coded c or assembly"}
+{"i": "175693", "t": "To find the sixth largest number in the array without changing the array and without taking extra o(n) space and in o(n) time complexity."}
+{"i": "176701", "t": "how to reverse a linklist using recursion?"}
+{"i": "175687", "t": "there s a 8 X 3 wooden piece. u r allowed to cut it oly once in any way yo want  and arrange the pieces so as to make it 12 X 2 piece. how ll yo do it????"}
+{"i": "176680", "t": "Write a function in C to check if a given string matches a\rgiven pattern as a non-contiguous substring: that is, all the characters in the\rpattern appear in the text string in the same order, but possibly not all in a\rrow."}
+{"i": "174053", "t": "1. Describe one of your projects\r 2. Write class for directed graph. How to detect a cycle?(DFS). Time complexity?"}
+{"i": "174002", "t": "how will you read all english sentences from a text file containing normal english text e.g. a story or a simple document."}
+{"i": "173967", "t": "WRITE a script for searching a text john in entire directories (one directory can contain another directory) and replace it with TOM"}
+{"i": "174666", "t": "There are N egg baskets and the number of eggs in each basket is a known quantity. Two players take turns to remove these eggs from the baskets. On each turn, a player must remove at least one egg, and may remove any number of eggs provided they all belong to the same basket. The player picking the last egg(s) wins the game. If you are allowed to decide who is going to start first, what mathematical function would you use to decide so that you end up on the winning side?"}
+{"i": "165122", "t": "35 cents is paid by two coins one is not a dime. What are the two coins?"}
+{"i": "173936", "t": "Given a string of 10 characters and a number, insert multiplies and\radditions to make the characters equal the number\rie\r 1232537859, 995  -> 123*2+35*7+8*58"}
+{"i": "173931", "t": "diff between malloc and calloc"}
+{"i": "173930", "t": "assembly code to count 1st n numbers."}
+{"i": "173929", "t": "flip all odd bits of a number."}

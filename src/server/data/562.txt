@@ -1,0 +1,30 @@
+{"i": "198872", "t": "Given two arrays of chars, find the longest common substring."}
+{"i": "199686", "t": "Write code to reverse a string."}
+{"i": "198871", "t": "Reverse a 32 bit integer"}
+{"i": "199684", "t": "i challenge you to a game. we each get one penny and we flip them at the same time. (so on turn 1, we each flip our respective pennies - turn 2, we flip them again, and so on until someone wins). i am looking to get heads then tails. you are looking to get heads then heads. so if you flip heads on any flip and then heads on the next flip, you win. if i flip heads on any flip and then tails on the next flip, i win. (its not a speed race, we both flip at the same time, except i'm only concerned with what appears on my coin, and you are only concerned with whats on your coin). are the odds fair? (obviously not, otherwise this wouldn't be a question). who has the advantage and why?"}
+{"i": "199671", "t": "why is it possible for base class pointer to point to derived class"}
+{"i": "197816", "t": "is there difference between doing right shift on signed and unsigned no.s"}
+{"i": "197815", "t": "whats the difference between o/p on little endian and big endian architecture and why\rint x=1;\rprintf(\"%c\",(char)x);\rprintf(\"%c\",*(char*)&x);"}
+{"i": "198802", "t": "for a binary tree find out if there exists a path between 2 given nodes"}
+{"i": "198801", "t": "Implement the function \r bool pairExist(int * arr, int sum)\rwhere arr is an array. \r The function returns true if there exists a pair in arr such that the sum of the pair is equal to the function parameter 'sum'."}
+{"i": "198800", "t": "You are given a bunch of emails in an inbox. You want to send all the sender addresses to some server. You can send them in batches (each batch containing a bunch of sender email addresses). The restriction is that no batch can contain duplicate email address. How would you write a program to send all the email addresses in batches such that it takes the minimum number of batches. \r Analyze the complexity"}
+{"i": "198799", "t": "what will be the o/p of this code\r int i=0;\rarr[]={0,1};\rprintf(%d,arr[++i]);"}
+{"i": "198798", "t": "Find the K'th Maximum Element in a Binary Search Tree . Do it in O(log N).\rPlease dont do a in order tree traversal and return the K'th element from the end. I told that but interviewer did not wanted me to traverse the entire tree. Any suggestions ?"}
+{"i": "197782", "t": "Given an Array. How would you search for any element if the last element repeated infinite times."}
+{"i": "197781", "t": "Given an Array. How would u search for an element?"}
+{"i": "198784", "t": "Given an array of n numbers. Find all possible sum."}
+{"i": "197776", "t": "Two trees s and t are isomorphic if s can be transformed into t by swapping left and right children of some of the nodes of s. The values in the nodes are NOT not important in determining isomorphism, only the shape is important. Write a function IsIsomorphic that returns true if two trees are isomorphic. You must give the big-Oh complexity (in the average case) of your function with a justification."}
+{"i": "198780", "t": "Two binary search trees s and t are value equal if every value in s is in t and every value in t is in s. The shapes of the trees don't matter, the collection of values stored in s must be the same as the collection stored in t for trees to be value equal. Describe an O(N) algorithm for determining if two trees are value equal."}
+{"i": "197774", "t": "given a 3 number discrete random number generator {1,2,3} , how can you design a 5 number random generator ? What is the average number of trials necessary ?"}
+{"i": "197765", "t": "on what type of memory volatile variables allocated stack/data/heap"}
+{"i": "197763", "t": "How many constructor (including copy constructor) and destructors will be called for test1 and test2?#include <iostream>\r\nusing namespace std;\r\n\r\nclass Base{\r\npublic:\r\n\tBase(){cout << \"Base()\" << endl;}\r\n\tBase(const Base&){cout << \"Base(const Base&)\" << endl;}\r\n\t~Base(){cout << \"~Base()\" << endl;}\r\n};\r\n\r\nBase func(Base b){return b;}\r\n\r\nvoid test(){\r\n\tBase a;\r\n\tfunc(a);\r\n}\r\n\r\n\r\nvoid test(){\r\n\tBase a;\r\n\tBase b = func(a);\r\n}\r\n\r\nint main(){\r\n\ttest1();\r\n        test2();\r\n\treturn 0;\r\n}"}
+{"i": "198765", "t": "how to give default values to structure variables"}
+{"i": "198764", "t": "Given a constant number of priorities implement a priority queue with O(1) enqueue and dequeue implementations"}
+{"i": "197760", "t": "why combination of inorder and preorder traversal yields a unique tree while any other combination does not yield a unique tree like combination of post and inorder traversal"}
+{"i": "197754", "t": "In an inbox, you have a lot of emails. You want to send all the sender addresses in the inbox to another server. You can send it in batches. But each batch cannot have duplicate addresses. Write a program to send all the addresses in batches such that you send minimum number of batches. \rAnalyze the complexity"}
+{"i": "198734", "t": "Difference between final, finally and finalize in Java"}
+{"i": "197724", "t": "Write a program to detect cycle in a link list and that take O(n) time"}
+{"i": "198733", "t": "Write a program to find all the nodes in a binary tree that is in a particular level."}
+{"i": "197718", "t": "why class without private constructor can't be inherited and is there any way in which this class can be inherited"}
+{"i": "197717", "t": "Explain in place merging of two sorted arrays?"}
+{"i": "197715", "t": "there is one function which takes string as an argument and do some manipulation and return one unique integer corresponding to that string. Now user can pass either integer or character as an argument function should work fine even when user passes int as an argument like function can convert int into string and do the work write this functions prototype and how u will handle int case"}

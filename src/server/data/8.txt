@@ -1,0 +1,30 @@
+{"i": "5013218588622848", "t": "17)\tWhat is the \u2018with statement\u2019?"}
+{"i": "4683554347286528", "t": "16)\tWhat is the bytes() function?"}
+{"i": "4817942598909952", "t": "15)\tWhat is a classifier?"}
+{"i": "6690401707098112", "t": "14)\tWhat is __init__?"}
+{"i": "5933491701678080", "t": "13)\t Explain how to delete a file in Python?"}
+{"i": "5564501800255488", "t": "12)\tWhat are iterators in Python?"}
+{"i": "4738759038337024", "t": "11)\tWhat are generators in Python?"}
+{"i": "5365867280334848", "t": "10)\tWhat is break, continue and pass in Python?"}
+{"i": "4777253353816064", "t": "9)\tWhat is self in Python?"}
+{"i": "6421767340425216", "t": "8) How do you copy an object in Python?"}
+{"i": "6346114444296192", "t": "7)\tWhat is pass in Python?"}
+{"i": "4998035610796032", "t": "6)\tWhat is Scope in Python?"}
+{"i": "4680699737538560", "t": "5)\tHow is memory managed in Python?"}
+{"i": "4988006342066176", "t": "4)\tWhat are the benefits of using Python?"}
+{"i": "6513141695905792", "t": "3)\tWhat are the benefits of using Python?"}
+{"i": "5488421571657728", "t": "2)\tWhat is Python?"}
+{"i": "5294693565333504", "t": "1)\tWhat are the key features of Python?"}
+{"i": "6510287086157824", "t": "30)\tDoes constructor return any value?"}
+{"i": "6584882078154752", "t": "29)\tHow many types of constructors are used in Java?"}
+{"i": "5933103141355520", "t": "28)\tGive an example of Pointers use in Java class."}
+{"i": "4898034545065984", "t": "27)\tWhat is the advantage of using inheritance?"}
+{"i": "6718140484943872", "t": "26)\tHow can we create copy of a Java object?"}
+{"i": "5913459303120896", "t": "25)\tThere are two types of classes named classA and classB. Both the classes contain in the same package. Can classA private member can be accessed by an object of classB?"}
+{"i": "6365260536086528", "t": "24)\tCan a class have two methods with the same name?"}
+{"i": "5911316852637696", "t": "23)\tHow have the objects of a class been created if no constructor is defined in the class?"}
+{"i": "6051371525079040", "t": "22)\tWhat is the reason for using Break in each case of a Switch statement?"}
+{"i": "5597178582532096", "t": "21)\tHow can we implement any code before the main method?"}
+{"i": "4782703130443776", "t": "20)\tWhat are the two methods of executing multi-threading in Java?"}
+{"i": "5857643518754816", "t": "19)\tIn java why strings are known as Immutable?"}
+{"i": "6209764936122368", "t": "18)\tWhat is the difference between Vector and an array?"}

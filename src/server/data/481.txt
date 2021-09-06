@@ -1,0 +1,30 @@
+{"i": "6880676", "t": "<Round 2>\r WAP to Reverse every k nodes of the linked list"}
+{"i": "6888676", "t": "<Round 1>\r WAP to rotate the array by position n."}
+{"i": "6938673", "t": "<Round 1>\r WAP to find intersection of two LL."}
+{"i": "6914684", "t": "<Written>\r WAP to alternate merge 2 LL."}
+{"i": "6927688", "t": "<Written>\r WAP to find cycle in a directed graph.If multiple cycles are found print any but starting with the smallest node no."}
+{"i": "6910676", "t": "Write a function to find the depth of a binary search tree"}
+{"i": "6834766", "t": "Round 5: with Director\rWrite a function to get lowest common ancestor in \"binary tree\""}
+{"i": "6783959", "t": "Round 4:\r write a insert function to insert into binary search tree node *insert(node *root);\r Follow up :\rWhats the problem with this ?\rAns: skewed tree for sorted inputs\rDiscuss algo that will avoid this ?"}
+{"i": "6691929", "t": "Round 3:\r  write a function that output the size of highest sub square matrix of 1s in matrix of 0s and 1s\rFor ex:\r0 1\r0 0    output 1\r 0 0 0\r0 1 1\r0 1 1  output 2\r}}}"}
+{"i": "6711970", "t": "Round 2 :\r  Write a code to print level order traversal of N-ary treedata structure can be assumed as \r\nclass Node{\r\n     vector<Node> children;\r\n     int val;  \r\n}"}
+{"i": "6709934", "t": "Round 1 :\rsuppose you are given a function void NumberofSum(int n) , write a code such that will print all the numbers that will sum up to nFor Ex.\r\nn           output\r\n1        {1}\r\n2        {(1,1) , (2)}\r\n3        {(1,1,1), (1,2) , (3)}\r\n4        {(1,1,1,1),(1,1,2),(1,3),(2,2) , (4)}"}
+{"i": "6680901", "t": "Write a program for deck shuffling. And make sure that no card will get the same position as previously. i.e. after shuffle all card should have different position."}
+{"i": "6728913", "t": "Consider you have to create a OO design of a card playing games. This system needs to be very generic so that you can reuse for any card game with minimal change. Specify all classes and functions"}
+{"i": "6721875", "t": "Mirror of Binary tree without recursion."}
+{"i": "6676928", "t": "Input: Array of integers, A[0], A[1], ..., A[n]\r An operation is defined to have all A[i] altered by 1, i.e., A[i]++/A[i]--. Note whether A[i] is increased or decreased is independent from other elements in A.\r Question: return the minimum number of operations to make all elements in A[i] be equal. If it is impossible, return -1;"}
+{"i": "6806851", "t": "Given N arrays containing values between 0 to x, what data structure would you use to store these arrays so that when given a test array 't' find the closest array in N that has highest number of elements in 't'? Also what algorithm would you use to find the closest array. N could be in the order of 1000. x could be between [100,1000]"}
+{"i": "6772880", "t": "Implement the following function, FindSortedArrayRotation, which takes as its input an array of unique integers that has been sorted in ascending order, then rotated by an unknown amount X where 0 <= X <= (arrayLength - 1). An array rotation by amount X moves every element array[i] to array[(i + X) % arrayLength]. FindSortedArrayRotation discovers and returns X by examining the array. Consider performance, memory utilization and code clarity and elegance of the solution when implementing the function."}
+{"i": "6713893", "t": "how i Develop c/c++ program that read a file specified by the user, then provides a menu of choices to be done using the specified file as follows:\rEnter what u what to do with the file:\r1.Compress the file. \r2.Search for a pattern at the file\r3.Read the file (display the file content at the terminal)\r4.Eject the program \r have to use the fork system call mechanism to create a new child that handle the choices ,for example the parent process would read the file and if the user choose 2 a new child process will handle his request overwriting its parent code then invoking \u201cgrep\u201d built in command"}
+{"i": "6785832", "t": "Write algorithm to return change in denominations of 10$, 5$, 1$, 25 cents, 10 cents etc..(See question posted by Anonymous on April 23 2010)"}
+{"i": "6753840", "t": "Replace all single occurrences of \"a\" with \"the\" (See question posted by Troy on Oct 7 2010)"}
+{"i": "6776844", "t": "Find no. of days between Jan1st and entered date (See question posted by Troy on Oct 7 2010)"}
+{"i": "6749781", "t": "interview:\r   Implement run length encoding and decoding.\r Input:\raabbccaa   encode:2a2b2c2a decode will be the input\rInput: abcd encode:abcd decode:abcd\rinput:3122a  encode:3122a decode:3122a\retc."}
+{"i": "6798758", "t": "test atof(char *s)"}
+{"i": "6790794", "t": "written test:\rprint all the leaves of a binary tree(may not complete) as a link list.\r            1\r           /\\\r          2  3\r          /\\\r          4 5\r     output as a list: 4->5->3->NULL"}
+{"i": "6783803", "t": "How do you test a function which would return the second smallest number in a BST?"}
+{"i": "6781780", "t": "Bangalore written test\rfucntion prints given 2d array in spiral fashion. give all test cases to test it"}
+{"i": "6732784", "t": "Bangalore written test\r remote server is running on some port. \rgive test cases about get filename command\rwhich returns response in format \rfilename filecontent"}
+{"i": "6814664", "t": "String s1 = bacdeg\rString s2 = bcdaeg\r write an algorithm which will return position of first character of string  s1 that is appearing in s2\rhere postion of 'a' in string s2 as it is the first character of s1 that is coming in s2"}
+{"i": "6791745", "t": "Given array of integers and a int variable say X. Need to find out all unique pairs from array which sums to X. \rfor e.g. arr[] = {1,2,3} , X=4\routput - (1,3) (3,1)"}
+{"i": "6719770", "t": "Bangalore written test\r C function was given to find out the occurance of character \"A\" from an array. Need to find out the bugs in program."}

@@ -1,0 +1,30 @@
+{"i": "88676", "t": "Code a function to shuffle a pack of cards"}
+{"i": "75825", "t": "Given an integer array {1, -20, 29, 9, 1, 100, ..., 29), please return the index of the first non-repetitive element in the array.\r Manager mentioned that HashTable was allowed."}
+{"i": "84815", "t": "How was your overall experience working at your last job?"}
+{"i": "83782", "t": "What was the software engineering process at your last job?"}
+{"i": "84814", "t": "Describe the different programming languages you have used."}
+{"i": "84813", "t": "Who are virus writers? Why do they write viruses?"}
+{"i": "83781", "t": "How can a virtual memory environment be implemented to run multiple programs to prevent one program from accessing another program's memory space? Is the solution viable?"}
+{"i": "83780", "t": "If you were designing new anti-virus technology, what would you implement?"}
+{"i": "84811", "t": "How can a virtual OS can be compromised?"}
+{"i": "84810", "t": "What sort of test setup would you require for understanding a virus?"}
+{"i": "84809", "t": "What sort of behavioral patterns would you be looking at when designing a behavioral engine?  What is the difference between a heuristical and a behavioral engine?"}
+{"i": "84808", "t": "What are the characteristics that you look for in an anti-virus engine?"}
+{"i": "83778", "t": "Can Linux be compromised? How secure is Linux? How would you compromise a *NIX system?"}
+{"i": "83777", "t": "What is the difference between a heuristical and a behavioral engine?"}
+{"i": "84807", "t": "What sort of behavioral patterns would you be looking at when designing a behavioral engine?"}
+{"i": "83776", "t": "What are the characteristics that you look for in an anti-virus engine?"}
+{"i": "84806", "t": "Can Linux be compromised? How secure is Linux? How would you compromise a *NIX system?"}
+{"i": "84805", "t": "Describe your experiences using different anti-virus technologies."}
+{"i": "83774", "t": "Have you had any experience with assembly languages, particularly ASM?"}
+{"i": "84804", "t": "Can a 32-bit PE execute on a 16-bit DOS? If not how will DOS determine that?"}
+{"i": "84803", "t": "How is COM and SYS files infected?"}
+{"i": "83772", "t": "Please explain the Windows PE executable standard and how a virus infects it."}
+{"i": "83771", "t": "What are some of the short comings in your role as a researcher?"}
+{"i": "83769", "t": "What makes you a good researcher?"}
+{"i": "83768", "t": "Describe the concept behind your current software projects."}
+{"i": "84801", "t": "What would make you an effective Virus Researcher?"}
+{"i": "83747", "t": "What is a fact table and dimension table?"}
+{"i": "83745", "t": "How would you eliminate duplicates in a linked list(singly) without using extra memory. You can use new variables for storing pointers but cannot go on to have a pointer for each node in the list. \r- The values in the node are unicode characters. \r- for eg: a->b->c->a->d->NULL\rshould be transformed to:\ra->b->c->d->NULL"}
+{"i": "85665", "t": "Write the function Itoa. This is the most common question asked."}
+{"i": "86663", "t": "You have an arbitrary sequence of space separated characters. Example, \"a bc defga dcbaifk\". Generate a new sequence with \"(\" and \")\" added before and after the characters. The space should be eliminated."}

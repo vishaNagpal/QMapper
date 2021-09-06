@@ -1,0 +1,30 @@
+{"i": "2778", "t": "Write code to reverse a linked list."}
+{"i": "2663", "t": "how do you implement hashmap, get(key), set(key,value) methods?can somebody tell what could be the best approach?"}
+{"i": "2777", "t": "Write an aligned malloc & free function. Which takes number of bytes and aligned byte (which is always power of  2)Ex. align_malloc (1000,128);it will return memory address multiple of 128 of the size 1000.aligned_free(); it will free memory allocated by align_malloc."}
+{"i": "2776", "t": "Write an printhex function which implements \"%x\" in printf without using printf.Example  :-printhex(10) output is A ."}
+{"i": "2775", "t": "A class that many libraries depend on. Now you need to modify the class for one application. When do you need to recompile other libraries.add a constructor? add a data member?change destructor into virtual? add an argument with default value to an existing member function? C++ question."}
+{"i": "2662", "t": "What data structure would you use to implement MS Excel? Justify your approach."}
+{"i": "2660", "t": "Some sort of a planning problem\r5 friends 5 cities 5 distances ...\rsome 6 conditional statements given\rmap the friends to cities and also map distance to cities such that\rthe conditional statements are true"}
+{"i": "2774", "t": "Find the median value of two sorted arrays."}
+{"i": "2773", "t": "Asked in 1st and 2nd interview at campus placement at IIIT Gwalior.An 8 x 8 char array is provided with random letters. You have to tell if a given string  occurs. egString to find = \"computer\"Array[] = {b b b b b b b b b b b c b b b b b b o b b b b b b b b m p b t bb b b u b u b eb b b t b b b rb b b e b b b bb b b r b b b b}Ans : Available"}
+{"i": "3083", "t": "Explain how congestion control works in the TCP protocol."}
+{"i": "2772", "t": "Implement division (without using the divide operator, obviously)."}
+{"i": "2771", "t": "Describe an alogrithm to find out if an integer is a square"}
+{"i": "2658", "t": "You need to check that your friend, Bob, has your correct phone number, but you cannot ask him directly. You must write a the question on a card which and give it to Eve who will take the card to Bob and return the answer to you. What must you write on the card, besides the question, to ensure Bob can encode the message so that Eve cannot read your phone number?"}
+{"i": "2657", "t": "How do you find, if a machine is big endian or little endian?"}
+{"i": "2770", "t": "Order the functions in order of their asymptotic performance1) 2^n2) n^1003) n!4) n^n"}
+{"i": "2656", "t": "How long it would take to sort 1 billion numbers? make any assumptions you wanted.. assume the computer would have more than 4 GB of RAM, so the array would fit in memory in its entirety, and the machine would run at 4 GHz."}
+{"i": "2655", "t": "There are 10 PC in a network. 9 PC work fine and can open any internet website including google.combut 10th pc in network had a small exception. You can surf any website on that pc but when you try to open google.com its shows page not found error.Whats is the problem on that 10th pc and how you will resolve it ?"}
+{"i": "2769", "t": "What is TCP, UDP. what is reliability, unreliability, give examples of these?"}
+{"i": "2768", "t": "What is indexing, what is the input and output to it."}
+{"i": "2767", "t": "Given n non overlapping intervals and an element. Find the interval into which this element falls."}
+{"i": "2654", "t": "What's the difference between mergesort and quicksort?  When would you use each?"}
+{"i": "2653", "t": "Write a function to find mid point of a linked list"}
+{"i": "3082", "t": "Given a N*N chess board, a robot starts from the left-up corner and ends at right-down corner. It can only move one cell per time and the direction must be right or down.Give the algorithm that count all possible paths."}
+{"i": "2761", "t": "1.) What is difference between IPv4/IPv6 protocol2.)OSI & TCP/IP stack layers + protocols at each layer.3.)What is network/subnet mask. Explain how a host A sends a message/packet to host B    3a.) When both are on same network      3b.) When both are on different networks  You need to explain which layer takes routing decision and how.4.) What is TCP/UDP. Difference between both. And explain how TCP handles reliable delievery(explain ACK mechanism), flow control(explain TCP sender's/receiver's window) and congestion control."}
+{"i": "2652", "t": "How would you test the efficiency of a traffic light."}
+{"i": "2759", "t": "Propose a tree based data structure to identify a node with nth rank with maximum efficiency ."}
+{"i": "2651", "t": "Explain and write the code for Concurrent Read, Exclusive Writer"}
+{"i": "2650", "t": "Implement Run Length Encoding."}
+{"i": "2758", "t": "Given a binary tree link all the right child of a node to their left siblings if present."}
+{"i": "2757", "t": "Consider the following IDL interface:interface Time_Server{  // Return the time on the server  string get_timestamp();};Write a client that for each command line argument(1) queries the naming service to resolve an object with the name provided on the command-line, (2)uses the object obtained via the naming service to query the time and (3) repeats the process after 60 seconds. Your code should not leak resources, continue to work despite exceptions, print all successful results to standard output & report all errors to standard error.[There is some supporting code from Automated Trader's desk under the same directory]"}

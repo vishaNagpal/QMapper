@@ -1,0 +1,30 @@
+{"i": "14412669", "t": "Input: \r3\r3 1 2\rnny\rnnn\rynn\routput:\r2 1 3\rn size of permutation P.First line of input is n.Second line is the permutation P.A Permutation X is said to be lexicographically smaller than Y if for all digits till i X[i]=Y[i] and for i+1 X[i]<=Y[i]so you can exchange the integers in the given permutation P if character j of line i+2 is 'y' then i th and j th integer in P can be exchanged .\rOutput:Lexicographically smallest premutation of the given P using rule"}
+{"i": "14405670", "t": "given a string . find the first unique character .\rtime complexity : O(logn) , space O(1)"}
+{"i": "14410667", "t": "Given an array of positive integers, print out all the numbers which are repeated an even\rnumber of times? Can you do this without using additional storage?"}
+{"i": "14400674", "t": "how do u use persistent storage on browsers . what are various options .\r my ans : html5 : we can use localstorage and persistent storage.\rnon-html5 browsers : we can use cookies ."}
+{"i": "14410665", "t": "how do u detect useragent in css . suppose u want to use different css on mobile devices.\r my ans : media tag."}
+{"i": "14405667", "t": "how do u authenticate and perform authorization if your server is stateless in java . how does entire process work . please explain detailed architecture for it."}
+{"i": "14090674", "t": "Suppose you have 4gb list of integers on disk . you need to find kth largest element . how will you do that . sorting is not an option . \r i had suggested that I would use 2 stacks to maintain k largest elements (eg. k=10 , then stack will store top10 numbers encountered so far ) . interviewer mentioned can we use array instead . please let me know what is the optimal way ."}
+{"i": "14398670", "t": "When singleton wont work as singleton??"}
+{"i": "14245721", "t": "What is a weakHashMap??weak References??\r xplain with example"}
+{"i": "14190731", "t": "What is a Executer in threads??"}
+{"i": "14404662", "t": "How would you build a stock ticker service?"}
+{"i": "14090668", "t": "Assuming a preexisting list of 100 words, how would you efficiently see if a word received from input is an anagram of any of the 100 words?"}
+{"i": "14403662", "t": "What are some ways of improving performance of the web pages using HTML, JS and CSS optimization?"}
+{"i": "14396662", "t": "A list contains repeated numbers , all the numbers are repeated odd number of times except one which is repeated even number of time. WAP to find out that number ( which is repeated even number of times).  \r ( I gave the solution using extra space . He then asked me to give solution without extra space )"}
+{"i": "14087880", "t": "Calculate circumference of a tree going clockwise and anticlockwise?"}
+{"i": "14113786", "t": "How will you perform the preorder and inorder traversal of binary trees without using recursion. Basically he asked first to write a method to perform iterative preorder tree traversal and then iterative inorder tree traversal."}
+{"i": "14106781", "t": "Write a program \rGiven an array of N integers . Find the maxproduct of 3 numbers ?"}
+{"i": "14382769", "t": "When trying to send a SMS from a mobile if it fails? How do you debug or troubleshoot this problem?"}
+{"i": "14108762", "t": "Write a test plan for \"Add to Cart \" feature in a web application ?"}
+{"i": "14108758", "t": "Can we access the node of a tree using pointer ?\rif yes then give an example to traverse tree  using pointer?"}
+{"i": "14249721", "t": "We have 'm' people .Each person is given a list of people whom he\rdislikes. Find the minimum number of homes such that all the people\rare accomodated and in each house no person must dislike any other\rperson."}
+{"i": "14381749", "t": "Tokenize the given string.\rnode* strtok(char* input ,char* delims)\rPut the words seperated into the linked list and return the linked list.delims can be a single character or group of characters like \"abc\".\rDictate the code as you write."}
+{"i": "14381743", "t": "Design GMail's \"consider adding\" feature when writing an email. Assume you already have 1M emails of some user 'X'.\r More explanation: When you write email in GMail and add a email to 'To:', you will get a option saying \"Consider adding: alice, bob, john....\". He asked me to design this feature."}
+{"i": "14382737", "t": "You are given a large set of integer numbers, ie. millions of numbers, you need t find out the number of times a number occurs in that array using hash table. WAP for that."}
+{"i": "14232732", "t": "Given a BST, convert that BST into a doubly link list without using any extra space and that should be a sorted doubly link list."}
+{"i": "14383718", "t": "you have array of characters with some spaces.. best way to take out only words..\r input  ==> a,a,b,  ,  ,  c,  ,  ,d,e\routput ==> aabcde -- all spaces are removed..\r best way to do?"}
+{"i": "14391663", "t": "Given a binary tree , find the sum of all the nodes , which are at a particular level from all of its existing leaves. (  note:- it might be possible a single such node would exist for two different leaf , in that case we need to sum it up only once )"}
+{"i": "14379718", "t": "Singly LL with value as character. Please find out the word formed by character LL is palindrome or not.\rTime Complexity <n^2\rSpace Complexity O(1)"}
+{"i": "14379713", "t": "How will you returnintandcharfrom a function in C?"}
+{"i": "14113740", "t": "Implement LRU cache?"}

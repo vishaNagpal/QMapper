@@ -1,0 +1,30 @@
+{"i": "20658674", "t": "Implement T9 dictionary for mobile phone"}
+{"i": "20960675", "t": "find K Min Values in an array"}
+{"i": "20959685", "t": "find the indexes of Min Values in an array"}
+{"i": "20961680", "t": "find a Min Value in an array"}
+{"i": "20960672", "t": "A car is to be parked in 5x5 matrix parking lane.First of all we have to search the free space in the given matrix and then we have to allocate the memory to the car .Afterwards we have to remove the car from the parking lane.(In C)"}
+{"i": "20967663", "t": "In an array of unsorted integers (you may assume the array may contain +ve, -ve and 0s), write a function \rint returnNthMax(int[] arr, int n) \rwhich will return the nth Max number. For e.g. if this is given array {2, -4, 5, 6, 0, 7, -1, 10, 9} and n=1, it should return the max number, 10 and if n=3, it should return 3rd max number, which is: 7."}
+{"i": "20841662", "t": "Difference between concurrency and parallelism\rHow has threading helped concurrency and parallelism?"}
+{"i": "20835663", "t": "Formula for nth PI is (-1^n)/(2n+1). Write an efficient way to calculate this. \rAfter i wrote a recursive and iterative solution, she wanted a faster solution. So i went to threading. \rEventually she said that if the value of n is a million and you can't have million threads how will you distribute: \rProblem is as n increases the above computation becomes time consuming and hence cannot be simply split in ranges. \rShe hinted me towards: Queue of jobs, threads picking jobs and en-queuing the work"}
+{"i": "20834663", "t": "Write a function to calculate the nth prime number: \rN = 0; Prime#: 2\rN=1; Prim#: 3\r What is the complexity of this alogirthm"}
+{"i": "20837662", "t": "You are given a 2D array that is your sea. It has more than one ships which don't overlap each other. All ships are not necessarily of the same size. \rYou are to improve on performance and space is no concern. \rWrite a program that takes in two co-ordinates:\rIf the attack co-ordinates did not have a ship, print \"Missed\"\rIf the attack co-ordinates have a ship, print \"Attacked Ship <Name>\"\rIf the attack co-ordinates have a the same part of the attacked ship, print \"Already Attacked\"\rIf the last piece of the un-attacked ship was attacked print: \"Ship sunk\"."}
+{"i": "20771664", "t": "Given a binary tree with each node having a pointer to its parent, Write a function that can find the immediate right neighbor of a given node. Don't use BFS. \r Node* RightNeighbor(Node* node)\r Note: Root of the tree is not given"}
+{"i": "20833662", "t": "There is a file on a server. There are 3 access levels to this file: 1. Read\\Write 2 Read 3. No access. \rA person can: 1. Copy a file. 2. Edit it on the server 3. Overwrite the existing file on the server\r Write all the test cases for this scenario"}
+{"i": "20826667", "t": "What could be performance hits for searching on Local computer i.e. if you are searching computer for content what are the parameters you will consider for performance"}
+{"i": "20824665", "t": "How will you design spotlight search feature in Mac OS"}
+{"i": "20826664", "t": "Differentiate between Google search and local computer search"}
+{"i": "20826663", "t": "Explain B trees and its applications"}
+{"i": "20695663", "t": "Which sorting algo you would like to implement as unix library and why?"}
+{"i": "20827662", "t": "1. Compare\r-Heap sort Vs Quick sort - worst case, avg case and best case with applications \r-Heap sort Vs Merge sort - worst case, applications \r Don\u2019t confuse heap sort with building min.max heaps"}
+{"i": "20736663", "t": "Design a tree, in which a node can have unlimited children and write a code to print each level in separate level.\r(As the number of children is large we cant store them in queue.Can we do it without extra space ?)"}
+{"i": "20672663", "t": "Find the largest k elements from a large file?\rYou dont have RAM to store even k elements."}
+{"i": "20702662", "t": "Algorithm to find square root of an algorithm"}
+{"i": "20570662", "t": "How to monitor health of the system?"}
+{"i": "20430668", "t": "What is a bad app and a good app?"}
+{"i": "20532664", "t": "Given an mxn matrix, design a function that will print out the contents of the matrix in spiral format.\r Spiral format means for a 5x5 matrix given below:[ 1 2 3 4 5 ]\r\n[ 6 7 8 9 0 ]\r\n[ 1 2 3 4 5 ]\r\n[ 6 7 8 9 0 ]\r\n[ 1 2 3 4 5 ]\r\n\r\npath taken is:\r\n\r\n[ > > > > > ]\r\n[ > > > > v ]\r\n[ ^ ^ > v v ]\r\n[ ^ ^ < < v ]\r\n[ < < < < < ]\r\n\r\nwhere \">\" is going right, \"v\" going down, \"<\" is going left, \"^\" is going up.The output is:1 2 3 4 5 0 5 0 5 4 3 2 1 6 1 6 7 8 9 4 9 8 7 2 3"}
+{"i": "20533663", "t": "Open two instances of Microsoft Word and print to printer simultaneously. How would the underlying printer driver work? How would you design the printer driver?"}
+{"i": "20357665", "t": "Given an array of positive integers, find the max no that can be formed by any permutation of the arrangement.\rinput {21,9,23}, output = 92321"}
+{"i": "20351666", "t": "Given a string dind the largest substring which is palindrome."}
+{"i": "20355664", "t": "100 doors are closed , In first pass i open all of them , in 2nd pass i toggle every 2nd door , in 3rd pass i toggle every 3rd door , i continue it till 100th pass .. find all the doors that will remain open after 100 passes."}
+{"i": "20347666", "t": "find the sum of all 4 digit numbers formed from 1 , 2, 3, 4 whithout rep ."}
+{"i": "20344664", "t": "given two unordered list find the greatest common integer"}

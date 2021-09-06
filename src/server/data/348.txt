@@ -1,0 +1,30 @@
+{"i": "14541798", "t": "what will be output ?class z\r\n{\r\n};\r\n\r\nclass x\r\n{\r\nint a;\r\n};\r\n\r\nint main()\r\n{\r\nstd::cout << sizeof(X) << '\\n';\r\nstd::cout << sizeof(z) << '\\n';\r\n}"}
+{"i": "14551772", "t": "design a\rdata structure which should occupy O(n) space and should be able to answer any range-minima query\rin O(log n) time. without using TREE or heap"}
+{"i": "14541790", "t": "Given a binary tree, you have to convert it into a doubly linked list (inplace i.e you cannot use extra memory)"}
+{"i": "14545758", "t": "You are given a binary tree ( a general binary tree ) and not binary search tree, you have to find the node which is the lowest common ancestor of both these nodes. Can we perform better if it is a binary search tree?"}
+{"i": "14546766", "t": "Find number of characters in  nth member in  the following series. \rA,B,C,D....,AA,AB,......,ZY,ZZ,AAA,AAB,............\re.g for n<=26 chars are 1 for n=27 it is 2\r Additional Question:  Find  nth member"}
+{"i": "14546762", "t": "You are given many slabs each with a length and a breadth. A slab i can be put on slab j if both dimensions of i are less than that of j. In this similar manner, you can keep on putting slabs on each other. Find the maximum stack possible which you can create out of the given slabs."}
+{"i": "14540756", "t": "Give the algorithm for the construction of right-pre threaded binary tree."}
+{"i": "14553750", "t": "Given two trees, how do you find one of the tree is a subtree of other?"}
+{"i": "14542737", "t": "Remove all two zeros in the given string.\rExample: a3409jd00dk000d\rOutput: a3409jddk000d\rNote: If there are less/more than two zeros consecutive, it should not be replaced."}
+{"i": "14543750", "t": "Find sub-array in an array of integers whose sum is maximum, integers can be negative, zero or positive."}
+{"i": "14541759", "t": "Print the JSON text in an indented format.\rExample: {A:\"B\",C:{D:\"E\",F:{G:\"H\",I:\"J\"}}}\rOutput as below\r{\r    A:\"B\"\r    C:\r    {\r        D:\"E\"\r        F:\r        {\r            G:\"H\"\r            I:\"J\"\r        }\r    }\r}"}
+{"i": "14539746", "t": "Find a raised to the power b, where both a and b are integers"}
+{"i": "14548752", "t": "Multiply two large integers represented in char array."}
+{"i": "14547746", "t": "Find level wise linked lists in a BST.\rExample: 1 has children 2 and 3\r2 has children 4 and 5\r3 has children 6 and 7\r6 has children 8 and 9\rthen the algorithm should give the below\rresult[0] = 1\rresult[1] = 2->3\rresult[2] = 4 -> 5 -> 6 -> 7\rresult[3] = 8->9"}
+{"i": "14552739", "t": "Find common ancestor of two nodes which has least value."}
+{"i": "14550752", "t": "There are n nodes with a value in each node.\rCommunication between two nodes can happen any time to pass the node value from one to the other, every communication takes 1 second.\rWhenever communication happens from node a to node b, node b's value can be changed based on node a's value.\rOne node cannot participate in communication to two other nodes at any point of time.\rAt any point of time each node can hold only one value.\rWe need to end up with \"sum of the values in all the nodes\" as the value in all the nodes, how much time is required?"}
+{"i": "14547745", "t": "Check if circular open and close braces in a string are matching, braces can be nested."}
+{"i": "14553731", "t": "Reverse double linked list"}
+{"i": "14541756", "t": "Merge two sorted arrays"}
+{"i": "14549758", "t": "int main()\r      {\r      char *a= \"Novell\";\r      char  *b;\r      b=malloc(10*sizeof(char));\r      memset(b,0,10);\r      while(*b++=*a++);\r      printf(\"%s\",b);\r      return 0;\r      }"}
+{"i": "14553727", "t": "What is the probability of being the answer correct for this question, when the answer is chosen randomly:\r a. 0.25\rb. 0.60\rc. 0.25\rd. 0.50"}
+{"i": "14547739", "t": "Given two string, check whether the other is permutation of first one or not.\r Eg: box \r       xob Ans: True\r Eg: box\r       obxx : Ans: False\r This was simple one for Microsoft Developer profile."}
+{"i": "14539734", "t": "Given a sorted doubly linked list, create a binary tree which is well balanced. \r No example was given in the test.\r Used the method similar to binary search."}
+{"i": "14548741", "t": "Check whether a singly linked list is a pallindrome.\rEg: 1->2->1 Ans: True\r1->3->2->1 Ans: False\r I did it by using recursion in O(n) time."}
+{"i": "14541737", "t": "Write a function in C/C++ that implements long2ip and ip2long in PHP."}
+{"i": "14550728", "t": "Write a function in C/C++ that implements long2ip and ip2long in PHP."}
+{"i": "14543729", "t": "Write a function to count the number of numbers between two 64 bit numbers a, b that have the sum of their bits equal to a fibonacci number. E.g Between 15 and 17 there are two numbers that have sum of bits equal to a fibonacci number."}
+{"i": "14539725", "t": "If I want to make Tera Copy kind of software, ( using same functionality of OS, but changing some UI, n functionality) ? then how to do???\rAny idea what to read for this work ?"}
+{"i": "14548726", "t": "implement the following interface in java :\r public interface ExamImmutableQueue<E>{\r public ExamImmutableQueue<E>enqueue(E e); /*returns the queue that adds an item into the tail of this queue without modifying this queue.\rwhen this queue represents the queue(2,1,2,2,6)and we enqueue the value 4 into this queue.\rthis method return a new queue (2,1,2,2,6,4) and this objects still represents the queue(2,1,2,2,6) \r*/\r}"}
+{"i": "14553718", "t": "you are given a system of passing binary trees among 2 ppl\r Step1: convert the tree to preorder and inorder strings\rStep2:send those strings to the intended person\rStep3:get back tree from the strings\r whats your strategy of testing?write various test scenarios.---10 marks"}

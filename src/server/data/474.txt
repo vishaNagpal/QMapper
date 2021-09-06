@@ -1,0 +1,30 @@
+{"i": "7612664", "t": "Given 3 tables: Employee (empid, empname), Employee_timesheet(empid, no_of_hours, date), Employee_hour_rate (empid, hour_rate). Calculate pay check of all employees on monthly basis."}
+{"i": "7491700", "t": "Merge 2 sorted linked lists into one"}
+{"i": "7594683", "t": "Find bugs in the following program---\rFunction is accepting a string and length of string and it is supposed to return number of occurrences of 'A' or 'a' ..\r  unsigned int occur(char *pch,unsigned long len)\r{\r    int tmpvar=len;\r    int i=0;\r    int ret=0;\r       if(*pch==NULL ||  !strcmp(pch,\" \"))\r\t   return 0;\r     do\r    {\r     if(pch[i]=='A' || pch[i]=='a')\r\tret++;\r     else\r       i++;\r    }while(i<tmpvar);\r     return ret;\r}"}
+{"i": "7491692", "t": "Given 2 integer arrays of same size and are individually sorted. Find the combined median of both the array's numbers without sorting both the arrays into one. He wanted O(log n) complexity.\r(This was asked for many of our friends also.)"}
+{"i": "7491686", "t": "Find Bugs in the following function-\rThis function accepts a string and its length and it supposed to return number of A or a present in that string-\r unsigned int occur(char *pch,unsigned long len)\r{\r    int tmpvar=len;\r    int i=0;\r    int ret=0;\r       if(*pch==NULL ||  !strcmp(pch,\" \"))\r\t   return 0;\r     do\r    {\r     if(pch[i]=='A' || pch[i]=='a')\r\tret++;\r     else\r       i++;\r    }while(i<tmpvar);\r     return ret;\r}"}
+{"i": "7508689", "t": "I have a class A which implements serializible and there are two sub classes B and C which extends A. I want clsss B not be serializible ? How can I achive it?"}
+{"i": "7562677", "t": "Asked me to give a datastructure for a Server and Application combination.\rEx:\r A3 X\rA2 0  X\rA1 X     X \r   S1 S2 S3\r Servers can host multiple Applications.\r 2. Each server application combination can have different attributes and can have different values\rex: S1 and A1 has an attribute State and the value can be UP OR DOWN\rWrite a method with the following signature\rGetServerApps(string attributename, string attributevalue)\rImprove the performance"}
+{"i": "7606664", "t": "Implement an algorithm to print out all files below a given root node.package file;\r\n\r\nimport java.io.File;\r\n\r\npublic class PrintFile {\r\n\t\r\n\tprivate void printFile(File file){\r\n\t\tFile[] childFilesList = file.listFiles();\r\n\t\tif(childFilesList !=null && childFilesList.length>0){\r\n\t\t\tfor(File childFile : childFilesList){\r\n\t\t\t\tif(childFile.isDirectory()){\r\n\t\t\t\t\tprintFile(childFile);\r\n\t\t\t\t}\r\n\t\t\t\telse{\r\n\t\t\t\t\tSystem.out.println(childFile.getName());\r\n\t\t\t\t}\r\n\t\t\t}\r\n\t\t}\r\n\t\t\r\n\t}\r\n\t\r\n\tpublic static void main(String args[]){\r\n\t\tPrintFile printFile = new PrintFile();\r\n\t\tprintFile.printFile(new File(\"C:\\\\Shared\"));\r\n\t}\r\n\r\n}"}
+{"i": "7535671", "t": "write a program to print in words the single or double digit numbers entered.(do not use switch case)"}
+{"i": "7509672", "t": "write a program to display the no. of 1,2,3,4...\rlettered words in paragraph.\rexample:\r1.search\r2.engine\r3.needs \r4.to\r5.fast\r//output\rsearch engine needs to be fast.\r asked in interview ,though i didn't understand the purpose."}
+{"i": "7585672", "t": "count the number of unique element in array of numbers in minimum time complexity."}
+{"i": "7443678", "t": "There is a stream of numbers coming and u have to select any number at random. but u cannot save all the numbers , constant space complexity. how will u do it so that the probability of any number being selected is same"}
+{"i": "7528684", "t": "2 stacks are given, one is full of numbers and other in empty, one integer variable is given, fill the 2nd stack with\rnumbers in ascending order with space and time constraints."}
+{"i": "7597665", "t": "Given a long string, arrange the words in alphabetical order, delete the duplicates and output the words with their frequency."}
+{"i": "7453681", "t": "Write an algorithm to find a given substring from a string"}
+{"i": "7449683", "t": "Give test cases for a code that finds a power of a number."}
+{"i": "7552672", "t": "Give an efficient algorithm to find the kth largest element."}
+{"i": "7477677", "t": "How will you transfer a file across 2 hosts knowing the fact that the network connectivity is unreliable and very bad?"}
+{"i": "7564681", "t": "Given a webserver how will you handle load performance (eg the server can handle only 10000 connections at any point of time)"}
+{"i": "7453680", "t": "How will you find the center of a linked list?Explain complexity."}
+{"i": "7505679", "t": "Write a c code to check if a given c syntax is correct (a small module of compiler)"}
+{"i": "7531672", "t": "What is virtual function?"}
+{"i": "7561674", "t": "Why Goldman Sachs."}
+{"i": "7504685", "t": "Design ATM machine."}
+{"i": "7522682", "t": "call by reference, call by value."}
+{"i": "7532682", "t": "You have a student class which have String firstName, boolean isBoy and int age. Write equals method for the class. \r I wrote it then he asked there is a class Student2 which extends from this and has lastName field as well.\r NowStudent s1 = new Student(\"firstName\", 23, true);\r\nStudent s2 = new Student(\"firstName\", \"lastName\", 23, true);what will s1.equals(s2) will return. Is it correct ?"}
+{"i": "7518684", "t": "You have been given array of  n numbers. Find min and mix. Give optimized solution and minimum number of comparisons."}
+{"i": "7527676", "t": "What is difference between C and C++?"}
+{"i": "7474681", "t": "2 , 1, 7 , 8, 5, 3, 11, 10\rAbove are the stock price of a stock on different days . Given that you know these stock prices before hand, find how will you maximize the profit ? you have only 3 options ( Buy, Hold, Sell)\rWrite the sequence of steps that will give the max profit."}
+{"i": "7471679", "t": "How will you free a object in C++ ?\rAns : delete(obj);\rNow how is this different than free(); ?"}

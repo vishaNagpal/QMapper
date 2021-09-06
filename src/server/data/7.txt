@@ -1,0 +1,30 @@
+{"i": "5207629410861056", "t": "Customers in growth stage of life cycle of products are classified as"}
+{"i": "5456875556962304", "t": "which triggers positive or negative emotions leads to purchase motivation"}
+{"i": "5649955140665344", "t": "The tendency of difficult understanding related to the use of market offering is called"}
+{"i": "4704983683956736", "t": "A detailed stated version of shortlisted new ideas in meaningful consumer terms is best classified as"}
+{"i": "5809454254129152", "t": "What do you mean by Digital marketing?"}
+{"i": "4903017311109120", "t": ". What is the best way to promote a business with social media?"}
+{"i": "6606654877990912", "t": "The term Digital Marketing was first used in the"}
+{"i": "6676856202330112", "t": "Who is the father of digital marketing?"}
+{"i": "6019825510383616", "t": "What are some examples of digital marketing?"}
+{"i": "5370541748256768", "t": "20)\t Explain database connection in Python Flask?"}
+{"i": "5222097746395136", "t": "19)\tIs Flask an MVC model, and if yes give an example showing MVC pattern for your application?"}
+{"i": "6200458429857792", "t": "18)\tExplain what is the common way for the Flask script to work?"}
+{"i": "6064639467585536", "t": "17)\tWhat is Flask-WTF and what are their features?"}
+{"i": "5468611152445440", "t": "16)\tWhat is the difference between Django, Pyramid, and Flask?"}
+{"i": "5864658945179648", "t": "15)\tMention five benefits of using Python."}
+{"i": "4755294729535488", "t": "14)\t Explain on Unix?how can you make a Python Script executable"}
+{"i": "5806599644381184", "t": "13)\tHow can you share global variables across modules?"}
+{"i": "5576168542044160", "t": "12) Explain namespace in Python."}
+{"i": "4938739560742912", "t": "11)\t What are the built-in types available in Python?"}
+{"i": "6614321478500352", "t": "10)\tWhat does len() do?"}
+{"i": "6113906248908800", "t": "9)\tWhat is the purpose of is, not and in operators?"}
+{"i": "5383425979056128", "t": "8)\tHow to comment multiple lines in python?"}
+{"i": "5074558523015168", "t": "7)\tHow will you convert a string to all lowercase?"}
+{"i": "4806584574672896", "t": "8) How will you capitalize the first letter of string?"}
+{"i": "6474266806059008", "t": "5)\tWhat are the generators in python?"}
+{"i": "5971475788464128", "t": "4)\tWhat is pickling and unpickling?"}
+{"i": "5943842505752576", "t": "3)\tWhat is the difference between range & xrange?"}
+{"i": "4652706549989376", "t": "2) How can you generate random numbers in Python?"}
+{"i": "6139118495465472", "t": "1)\tWhat are python iterators?"}
+{"i": "6568860323414016", "t": "18) Define encapsulation in Python?"}

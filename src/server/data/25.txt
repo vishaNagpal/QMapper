@@ -1,0 +1,30 @@
+{"i": "5805422169030656", "t": "Explain the process of Facebook Marketing?"}
+{"i": "6558652259893248", "t": "What\u2019s your strategy you are following to rank a keyword?"}
+{"i": "4763203978919936", "t": "How can you generate leads?"}
+{"i": "6352320672038912", "t": "Do you find anything wrong with the Digital Marketing tactics that we are adhering to right now? If yes, how would you like to change it?"}
+{"i": "4815399374290944", "t": "How are you going to drag the attention of more potential buyers for the products /services offered by our business via social media channels?"}
+{"i": "6426297188745216", "t": "How do you stay updated with the latest Digital Marketing trends?"}
+{"i": "6441353062383616", "t": "How will your experience benefit our Digital Marketing business?"}
+{"i": "4689017495355392", "t": "Differentiate between Google Adword and Double Click."}
+{"i": "4822400842072064", "t": "Name 3 email marketing tools."}
+{"i": "4686669943406592", "t": "What are the WebMaster tools?"}
+{"i": "5300397281902592", "t": "Difference page views and sessions."}
+{"i": "6166114176860160", "t": "Differentiate between No-follow and Do-follow links in SEO."}
+{"i": "6572659473645568", "t": "What is the difference between CPC and EPC?"}
+{"i": "6229775725625344", "t": "How can you drive digital traffic to our site immediately?"}
+{"i": "6592791327539200", "t": "Mention some bidding options."}
+{"i": "6167829479424000", "t": "Explain what is the significance of CTR and how do you calculate it?"}
+{"i": "5945249778630656", "t": "What KPIs do you use in social media reporting?"}
+{"i": "5256952815288320", "t": "What is AMP?"}
+{"i": "5697103748136960", "t": "How should companies measure Social Media Marketing Success?"}
+{"i": "5863347235323904", "t": "Name some PPC (Pay-Per-Click) tools?"}
+{"i": "5787522876047360", "t": "What is the difference between SEO and SEM?"}
+{"i": "4749374184226816", "t": "Explain a responsive web design?"}
+{"i": "4819349871788032", "t": "What can be the ideal approach for effective PPC campaigns?"}
+{"i": "5213139786792960", "t": "Name some of the Google AdWords ad extensions?"}
+{"i": "5226420765196288", "t": "What is the limit for the characters in Adwords Ads?"}
+{"i": "5227142319702016", "t": "Explain Google AdWords\u00a0Remarketing."}
+{"i": "5812201825239040", "t": "What are on-page and off-page optimization?"}
+{"i": "6540182810001408", "t": "What are the different types of SEO?"}
+{"i": "5886566096961536", "t": "How can you categorize Digital marketing?"}
+{"i": "4768138158145536", "t": "Can I use int datatype to store 32768 value?"}

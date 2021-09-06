@@ -1,0 +1,30 @@
+{"i": "3541621", "t": "Check whether the Binary tree is BST or not"}
+{"i": "3505612", "t": "Given a binary tree, find a path (from root to a leaf) which gives maximum value by adding values of nodes."}
+{"i": "3537658", "t": "You have single linkedlist.Swap every consecutive  two elements without using value stored in the node of linkedlist. for eg. 1->2->3->4->5 then output should be 2->1->4->3->5"}
+{"i": "3526624", "t": "create your own atoi()?"}
+{"i": "3537657", "t": "Sorted Array is rotated n times. You have to find the current index of the some element X. If element is not present then return the maximum element of the array in O(log n)."}
+{"i": "3579690", "t": "You dont know the required size of the array.how will you allocate space for the array.for eg. if you allocate 100 blocks then user can have just 10 elements or 1000 elements."}
+{"i": "3530619", "t": "What happens after entering URL address at the browser(details of how we get to see the web page)?"}
+{"i": "3527567", "t": "you have a base class in which you have private data.There is another class which is derived from base class.How will you access the private data of base class from main() by creating object of derived class."}
+{"i": "3585672", "t": "Different ways to do debugging."}
+{"i": "3493579", "t": "What are joins.what is natural join."}
+{"i": "3559298", "t": "you have table employee with salary as one column.there are n rows with maximum salary and x rows with minimum salary.(we dont know n and x). display the difference between total sum of minimum salary and total sum of maximum salary."}
+{"i": "3570048", "t": "You are given ArrayList with n elements in it,on which you can apply on size(),remove(x) operation.size() will current size of the list and remove(x) will remove xth position element. How will you delete alternate elements from the list."}
+{"i": "3537631", "t": "Given a statement which took an integer, incremented it by 1 and then branched to another location which you provide, implement addition of two numbers multiplication, etc using just that statement (or command)."}
+{"i": "3572854", "t": "Are there classes in the Java platform library that either is final but you believe should not be, or that are not final but you believe should be?"}
+{"i": "3493498", "t": "Suppose you have a file on disk which does not fit in main memory, how will you sort it optimizing time and the number of reads/writes. Mention exactly how many reads/ writes you would need."}
+{"i": "3561207", "t": "4) Given a 3d plane, and infinite points find kth closest point from a given point."}
+{"i": "3527445", "t": "3) Print characters which are present in StringA but not in StringB."}
+{"i": "3528498", "t": "Rotate an array by k units?"}
+{"i": "3487505", "t": "Design a parking garage. We spent a lot of time deciding whether Park() method should be in Car class or Garage Class. Any idea?\r Now suppose that the parking rate depends on the date and time. How will you store this information?"}
+{"i": "3571829", "t": "What is polymorphism? Can you overload the same operator more than once?"}
+{"i": "3542480", "t": "How do you think the updates on facebook work? What kind of a data structure do you think they use? How would you be linked to your friends updates?"}
+{"i": "3488537", "t": "Design a data structure to store a phone book so that you can search for a phone number using name and vice verse. The solution should be time and space efficient."}
+{"i": "3561190", "t": "difference between static and new operator"}
+{"i": "3481536", "t": "Can a Class have a static inner Class?"}
+{"i": "3567803", "t": "Write an algorithm to find the absolute max subsequence of an array containing both positive and negative numbers in O(n) time \r Eg: {100,-2,300} sum=398\r     {1,2,3,-9} sum=9\r     {1,2,3,-4} sum=6\r     {-1,-2}  sum=3"}
+{"i": "3547405", "t": "Give an algorithm to compress a memory. To be more clear if you are given a memory of some stored data here and there and some empty and null memory in between, how will you fragment and compress your memory?"}
+{"i": "3556172", "t": "Design object-pool"}
+{"i": "3488401", "t": "What classes and data structures would you use for a file system?"}
+{"i": "3548326", "t": "How do you implement a linked list without using dynamic memory allocation? So basically you need to use an array as a linked list."}
+{"i": "3492344", "t": "implement your own malloc and free for application x, which should control the heap memory usage of the application x."}

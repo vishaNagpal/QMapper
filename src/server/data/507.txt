@@ -1,0 +1,30 @@
+{"i": "3253799", "t": "Regression testing,Functional testing and system testing.Explain them and your experience with them?"}
+{"i": "3428807", "t": "How would you test a toaster?"}
+{"i": "3382797", "t": "How will you remove white space from a string?"}
+{"i": "3435781", "t": "find the depth of a binary tree"}
+{"i": "3449791", "t": "whats the problem with \rlist l = new synchronised list(foo)\r void foo() {\rfor (int i =0 ; i <list.length ; i++)\r if ( list(i).get. beginswith(\"a\")\r     list(i).remove;\r}"}
+{"i": "3406797", "t": "write a code that returns the 5 most common occuring strings in a list \rfor example list would be something like\r\"a\" \"b\" \"c\" \"f\" \"a\" \"d\" \"e\" \"f\" \"b\" \"f\" \"f\"\rand the function would  return\rf 4\ra 2\rb 2\rc 1\rd 1"}
+{"i": "3424767", "t": "Write a preorder traversal of a binary search tree w/o recursion / stack / extra memory storage. Hint - you can augment the node data structure. However, you can't add a visited field to the node.\r I will let you guys ponder out a solution before answering with mine :o)\r PS: Given the constraints, I believe its impossible to find a fix w/o augmenting the data structure. (If anyone else differs, please enlighten me)."}
+{"i": "3171773", "t": "Every object of Polymorphic class, contains a Virtual pointer ( which points to Vtable).\r If I have 1000 objects of a polymorphic class, \rwhy should i waste 1000*4 bytes for storing the same stuff...\r All 1000 object contains the exatly same value of virtual pointer...\r so the question is why can't this virtual pointer could have been kept in class by complier as it keep all the member function definition somewhere... If a class A has member function func1().. there is only one copy of it ...for all the objects... then why do we have separate copy of virtual pointer for each object...while value is same in all the objects ? \r How do you think compiler finds the address of a member function for a non polymorphic class? \r Don't you think the same mechanism could have been used to find out the virtual pointer for that class also?"}
+{"i": "3410767", "t": "I was asked what is the size of an empty C++ class.class A\r\n{\r\n// No member variable inside\r\n// no member function ( doesn't make //difference anyways)\r\n}I answer that it's One byte.. then i was asked  immediately why?"}
+{"i": "3425736", "t": "given a complete binary tree (either a node is a leaf node or has two children)\revery leaf node has value 0 or 1.\revery internal node has value as the AND gate or OR gate.\ryou are given with the tree and a value V.\ryou have to output the minimum number of flips (AND to OR or OR to AND) if the evaluated value is not equal to V, if it is equal return 0, if not possible return -1.\ryou can just change the value of internal nodes i.e can make and to or , or to and to get the desired output\rgive the minimum number of flips required to get the desired output."}
+{"i": "3442705", "t": "Almost all the interviewers asked about the projects that I worked on and almost all of them expect you to choose the best project that you hve worked and then they ask me as to how tackled that problem........\rI was little surprised as I was not asked any Data Structure question on which I had spent lotz of time....\r  Overall I did very well in 5 interviews......\rInterview 3 and interview 4 were like they were trying to dig deep into what I know, and there motive was to prove that I dont what I have learnt and I worked previously."}
+{"i": "3428711", "t": "bool foo(int y)\r\n{\r\nint x;\r\nx = y - 1;\r\nreturn ((x&y) == 0)\r\n}what is the function of doing? To check if the y is power of 2 or not"}
+{"i": "3425720", "t": "int x = -20;\r\nunsigned int y = 6;\r\nz = x + y;what is the value of z?"}
+{"i": "3246730", "t": "What is deadlock and what are the 4 conditions that creates a deadlock?\rConcepts of critical section and how we use lock and unlock resource to access the shared resource?"}
+{"i": "3403718", "t": "what is Amdhal's law?"}
+{"i": "3451697", "t": "Asked what is the difference between *p and p*?"}
+{"i": "3373709", "t": "Asked to declare a 3-dimensional array"}
+{"i": "3397724", "t": "He asked different types IPC mechanisms. Asked when do you use Sockest and when do you use shared memory/semaphore...how do you decide which one to use?"}
+{"i": "3382712", "t": "What is priority inversion.. i answered....then he asked why can the higher priority task take over the control instead of lower priority....."}
+{"i": "3376717", "t": "Given a sentence, reverse each and every word in the sentence. I was asked to show all the validations in this prgm. I mean what if there is special character in between the two words. This is exactly what the interviewer was expecting."}
+{"i": "3449693", "t": "Asked about my most toughest project/task in the work experience or school projects."}
+{"i": "3430700", "t": "Find the size of the array ..... He continued to ask about the sizeof() operator"}
+{"i": "3430693", "t": "write a prgm for string copy......"}
+{"i": "3454676", "t": "write a code of fibonacci series."}
+{"i": "3408692", "t": "Write a C code which returns the position of the first bit set.fot eg. for number 104(1101000) output will be 4."}
+{"i": "3449673", "t": "What is difference between static linking and dynamic linking?"}
+{"i": "3445673", "t": "Write a function which takes an integer value as an argument and return its mod 16 value without using these (%,+,_,/) arithmetic operations"}
+{"i": "3387693", "t": "You are given a binary tree,how to make this tree such that each node have a next pointer to its next siblings (in the same level)."}
+{"i": "3448674", "t": "You are given a binary search tree ,Write a C code to make it a mirror image of the same tree without using any extra space"}
+{"i": "3391698", "t": "you are given a sets of words ,Write a C code which output the anagrams sets.eg for i/p: algorithm testing asdfgh esttngi gorialmth\r O/p is:\r algorithm gorialmth\r testing esttngi"}

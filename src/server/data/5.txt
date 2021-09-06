@@ -1,0 +1,30 @@
+{"i": "5897335324803072", "t": "A Robust Social Media Plan Includes Which Of The Following?"}
+{"i": "6629472629948416", "t": ".________ is the new content management tool for SWEET ?"}
+{"i": "4978996289208320", "t": "._________ name of the Hosting Company that is used for all external consumer-facing sites?"}
+{"i": "6069554722111488", "t": ". which name is the latest major change in functionality?"}
+{"i": "5520835605954560", "t": ". SEO stand for?"}
+{"i": "5621678283948032", "t": "which is keeping someone on your website and encouraging them to come back?"}
+{"i": "5229804259901440", "t": "the possibility of website visitors following through on contacting you is"}
+{"i": "5865172881637376", "t": "the best way to make money \u201cwhile you sleep\u201d?"}
+{"i": "6473016769249280", "t": "is it most ideal to send a press release?"}
+{"i": "6146133921890304", "t": "Which marketing techniques are most likely to pay you?"}
+{"i": "6184628237369344", "t": "which main objective of branding is?"}
+{"i": "6589599428640768", "t": "The best way to improve search engine ranking is with"}
+{"i": "5910634036723712", "t": "search page engine optimization refers to_________"}
+{"i": "5058728330526720", "t": "Way promote a business with social media is__________"}
+{"i": "6534425741885440", "t": "website functions, which are the most important?"}
+{"i": "4784734129881088", "t": "where technology will not feature in the development of these relationships, this is known as a ______ relationship."}
+{"i": "4587913747103744", "t": "In a market where companies build close connective relationships where Internet technology will not feature strongly in the development of these relationships, this is known as a ______ relationship. | Digital Marketing Mcqs"}
+{"i": "6627589421006848", "t": "Which production is related to procurement?"}
+{"i": "5503572723105792", "t": "By bulk buying of items, One aim of e-procurement is to increase savings"}
+{"i": "6479490090270720", "t": "Content Marketing is a type of Digital Marketing."}
+{"i": "6652364604309504", "t": ".  Is Social Media Marketing is a type of Digital Marketing?"}
+{"i": "6476409256542208", "t": "Businesses leverage digital channels such as _____ to connect with current and prospective customers"}
+{"i": "5792754213322752", "t": ". Digital marketing revolves around these 5Ds:"}
+{"i": "5501689514164224", "t": "Digital marketing is any form of marketing products or services that involves ___."}
+{"i": "5740552174174208", "t": "15)\tWhy is OOPs so popular?"}
+{"i": "5686289020485632", "t": "14)\tWhat is meant by Structured Programming?"}
+{"i": "4805530210533376", "t": "13)\tWhat is hybrid inheritance?"}
+{"i": "6351029698822144", "t": "12)\tWhat is the difference between multiple and multilevel inheritance?"}
+{"i": "5162234290896896", "t": "11)\tWhat are the different types of inheritance?"}
+{"i": "5730939768930304", "t": "10)\tWhat is inheritance?"}

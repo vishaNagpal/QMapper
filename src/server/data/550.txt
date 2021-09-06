@@ -1,0 +1,30 @@
+{"i": "291831", "t": "Write code for binary search"}
+{"i": "291830", "t": "Consider a moblie phone : when you save the number, the number gets saved under a different name . What is the priority and severity of the bug"}
+{"i": "292860", "t": "What is the most critical bug you found"}
+{"i": "291829", "t": "Explain bug life cycle"}
+{"i": "291828", "t": "What is the difference between retesting and regression testing"}
+{"i": "291827", "t": "What is the difference between a bug and a defect"}
+{"i": "291821", "t": "How are function calls implemented? What are the parameters that are stored on the stack when a function is called?"}
+{"i": "292853", "t": "What are Http Headers"}
+{"i": "291820", "t": "Test cases for LRU cache"}
+{"i": "291817", "t": "What is performance testing..How would you test the performance of a flash object"}
+{"i": "291810", "t": "Given a function that returns a random number between 1 and 5, make it return a number between 1 to 7"}
+{"i": "292833", "t": "Find the intersection of 2 sorted arrays.\rGive all test cases to test"}
+{"i": "291796", "t": "Given an array of numbers, write a function which will return another array containing the elements of the previous array but in random order."}
+{"i": "292814", "t": "How would you test a general website login page."}
+{"i": "292813", "t": "Code and write test cases for compare(string str1, string str2)."}
+{"i": "292812", "t": "Given a set of coordinates (x_i, y_i), i ranges from 1 to n, the coordinate values are integers, write a function 'bool isCenterInteger(int points[][])' which returns true if at least one of the midpoints of the line joining the points is an integer."}
+{"i": "291786", "t": "Convert a binary search tree to a sorted doubly linked list\rinplace."}
+{"i": "291777", "t": "implement factorial, do remeber to handle the overflow case, which is actually the key point, otherwise this problem will be too simple"}
+{"i": "292801", "t": "given a matrix (assume it is a bitmap), print all cells that are on"}
+{"i": "292800", "t": "given a string, print each character and its number of occurence in sequence. use BST and no recursion, no extra memory is allowed.\re.g, char* str=\"bcdaceffbe\", you should print\ra 1 b 2 c 2 d 1 e2 f 2."}
+{"i": "291762", "t": "Write code to draw a circle."}
+{"i": "291761", "t": "Out of all the questions, MS asked me to implement a Reader writer lock problem. \r And obv., I did get it but not full proof!\r Try to come up with a robust code/solution."}
+{"i": "291760", "t": "You have a string of words (with spaces in it). \rYou also are given a character (say c). \r Remove all the words in the string if those words start with 'c'.\r e.g. \"HELLO WORLD HAT\" and say c='H'\rthen result should be \"WORLD\""}
+{"i": "291755", "t": "A man wants to grow tree very quickly. He bought some special tree seeds that double in height everyday. On the 10th day, the tree is 40 feets high. On what day was it five feets high?"}
+{"i": "292770", "t": "Write a function to e reverse the order of words in a sentence using constant extra space\reg: \"Here I am\" would be \"am I Here\". \r I tried to solve this problem by taking the space as delimiter and inserting each word rfrom the string into a stringbuffer.\r sb.insert(0,word)\r Finally the stringbuffer would have the reversed string. \r But this does not satisfy the constant extra space condition as the size of stringbuffer is still dependant on string size.\r Please write your inputs on this"}
+{"i": "292765", "t": "The LL is in alternating ascending and descendin orders. Sort the list efficiently \regs: 1->2->3->12->11->2->10->6->NULL"}
+{"i": "292764", "t": ".                   10\r            6                    12\r        4 ->  5 <-------->11<-----> 13 <-- \r       |_________________________________|\r In the BST you have the leaf nodes connected to form a doubly LL. Given a node, identify its height"}
+{"i": "292763", "t": "A linked list has a loop. \r Find the kth node from the end of the loop. \r For example:\r head -> 1 -> 2-> 3-> 4-> 5\r                 |_______|\r Find the 2nd node from the end of the loop which is node 5."}
+{"i": "291744", "t": "Find the maximum subsequence sum of an array of integers which contains both positive and negative numbers and return the starting and ending indices within the array. \r For example: \r int array[] = {1, -2, -3, 4, 5, 7, -6}\r The max subsquence sum is 4+5+7= 16 and start index is at 3 and end index is at 5."}
+{"i": "292762", "t": "You have one dice. \r If I roll a 1, I win.\r If you roll a 6, you win. \r What is the probability that you will win?"}

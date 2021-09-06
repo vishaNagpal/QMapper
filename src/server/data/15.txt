@@ -1,0 +1,30 @@
+{"i": "5974525148135424", "t": "How do you keep up-to-date with current hiring trends?"}
+{"i": "4638551679959040", "t": "What are you looking for when you screen resumes?"}
+{"i": "5610117322506240", "t": "What are your favorite sourcing techniques?"}
+{"i": "5183973334974464", "t": "Tell us about your onboarding experience."}
+{"i": "5297511063879680", "t": "Tell me about a time when you made a mistake that cost you a great candidate."}
+{"i": "4553143050829824", "t": "Have you ever encountered problems dealing with recruitment agencies? How did you resolve them?"}
+{"i": "6173067275927552", "t": "Name the sourcing techniques you use."}
+{"i": "5114875297136640", "t": "What KPIs have you found useful in the past? What have you done to improve them?\rHow do you assess current employees to discover\u00a0fits to open positions?"}
+{"i": "4902774981001216", "t": "What are key\u00a0elements that affect an employment brand? How important do you think networking is?\u00a0What are your preferred networking methods?"}
+{"i": "5025200473636864", "t": "How do you\u00a0build a talent pipeline?"}
+{"i": "4885768118468608", "t": "What questions would you ask when conducting a phone interview?"}
+{"i": "5766126624047104", "t": "How would you decide between two candidates with similar qualifications?"}
+{"i": "5204489051570176", "t": "What resources do you use to find qualified candidates?"}
+{"i": "6366703645097984", "t": "What are the steps of your talent acquisition process?"}
+{"i": "6422689416216576", "t": "How would your previous employer describe you?"}
+{"i": "5061723466235904", "t": "Explain UNION, MINUS, UNION ALL, INTERSECT ?"}
+{"i": "5958548473774080", "t": "Write a Query to display minimum salary of an employee?"}
+{"i": "5296789509373952", "t": "Write a Query to count the number of employees working in the company?"}
+{"i": "5703130593886208", "t": "Write a Query to display minimum & maximum salary of employee?"}
+{"i": "6474233050300416", "t": "Write a Query to display the total salary of employee based on dept_name?"}
+{"i": "4653788948856832", "t": "Write a Query to display the total salary of all employees based on city whose average salary >= 23000?"}
+{"i": "4815980537053184", "t": "How to fetch common records from two tables?"}
+{"i": "5767439004991488", "t": "How can you create an empty table from an existing table?"}
+{"i": "5796678269927424", "t": "What are aggregate and scalar functions?"}
+{"i": "4577230687043584", "t": "What is the difference between TRUNCATE and DROP statements?"}
+{"i": "6018669493092352", "t": "What is an ALIAS command?"}
+{"i": "5556366259781632", "t": "What is Union, minus and Interact commands?"}
+{"i": "5233398610657280", "t": "What is CLAUSE?"}
+{"i": "4639285582495744", "t": "What is Online Transaction Processing (OLTP)?"}
+{"i": "4888553136324608", "t": "What are all types of user defined functions?"}

@@ -1,0 +1,30 @@
+{"i": "5739448102813696", "t": "Count triangles in an undirected graph where a triangle is a unique set of three vertices connected to one another."}
+{"i": "5665999128887296", "t": "In 5 minutes write a code which checks if a given number is a power of two."}
+{"i": "5968485823807488", "t": "Check if two given words are anagrams of each other."}
+{"i": "5685765642125312", "t": "Given two sorted arrays find the element which would be N-th in their merged and sorted combination."}
+{"i": "5709025037516800", "t": "Given a BST with unique values find in a given tree a value closest to a given value X."}
+{"i": "5189794025963520", "t": "Passing objects and correct the program:---\r class OdemoA\r{\rint i,j;\rvoid function1(int i)\r{\rSystem.out.println(i);\rSystem.out.println(\"Inside function()\");\r}\rvoid function2(Area a1)\r{ \rif(a1!=null)\r{\ra1.i=203;\ra1.j=115;\r}\rSystem.out.println(a1);\rSystem.out.println(\"end of function2()\");\r}\rpublic static void main(String args[])\r{\rOdemoA d1 = new OdemoA();\rArea a2 = new Area();\rd1.function2(a2);\rSystem.out.println(a2.i);\rSystem.out.println(\"end main\");\r}\r}"}
+{"i": "5726446498611200", "t": "A client wants to build a software phone book that contains everyone in the world (7 billion people). Every person has only the first name and the name is unique. What data structure would you use to store the data?"}
+{"i": "6222285977419776", "t": "Given a MxN grid, like :111     111\r\n111 or  001\r\n111     001Write a function to return all possible paths from start (0,0) to destination (M-1,N-1). Allowed moves: right, down, and diagonal down. Value 1 indicates moves is possible, 0 indicates move not possible."}
+{"i": "5720559373516800", "t": "Given a BST write a function that looks for a value."}
+{"i": "5154210490351616", "t": "Implement a bowling game. First person took 40 mins to make sure I understood the scoring of bowling. Got stuck on coding an open-frame/strike/open-frame and time ran out with the second interviewer.\r class Frame\r  def initialize\r    @rolls=[]\r  end\r   def roll(pins_down)\r   end\r   def score\r   end\rend\r  class Game\r  attr_reader :frames\r   def initialize\r    @frames=[]\r  end\r   def score\r   end\rend"}
+{"i": "5736337204314112", "t": "A car rental company which rents car by per hour basis\r wants to know the time period for maximum number cars that are rented. ie you are given the list of rental start time and return times of all rented cars in the day  for all cars in a day find the maximum time period in which cars are on the road."}
+{"i": "5676787012993024", "t": "Write a function to print unique rows of a matrix.\r I am thinking of a 0(n) solution for this (if possible).\rI am storing the rows of the matrix in a set of vectors and then printing those rows. Please tell me how to do this and the correct time complexity for that. I am not very good with STL."}
+{"i": "5690557751885824", "t": "You have two dictionary in python.\rYou should compere two dictionary\r1. when key same you should compare values\r2. when key different you should compare key and value and output should be how much have different keys and values .\rCode in python"}
+{"i": "5134681810927616", "t": "Given a dependency list of libraries (where an item is: library X depends on library Y) generate a list describing the order in which libraries should be loaded.\r Additional request: detect circular dependencies."}
+{"i": "5695181485506560", "t": "Design the (content) search autocomplete feature on Kindle"}
+{"i": "6300043944394752", "t": "How would you store the relations in a social network like Facebook and implement a feature where one user receives notifications when their friends like the same things as they do?"}
+{"i": "5684299648991232", "t": "Design Facebook Messenger backend"}
+{"i": "5174144037552128", "t": "How would you design the feature in LinkedIn where it computes how many hops there are between you and another person?"}
+{"i": "5718217341272064", "t": "Architect a world-wide video distribution system"}
+{"i": "5678289177804800", "t": "Design Google Search"}
+{"i": "5649045819228160", "t": "Design a key-value store"}
+{"i": "5648661084110848", "t": "Design a client-server application which allows people to play chess and checkers with one another."}
+{"i": "5682130489180160", "t": "Design the front end of Google Calendar"}
+{"i": "5139174346719232", "t": "Design YouTube view-counting feature"}
+{"i": "6216670039244800", "t": "Design Google Suggest"}
+{"i": "5741078378446848", "t": "Design Gmail backend (data storage and API)"}
+{"i": "5702564332961792", "t": "Round 6\rQuestion 3 : You are given a word document, you have to print the words with frequencies. Now print the kth rank word in terms of frequency. Print top k words as well by frequencies"}
+{"i": "5100571717533696", "t": "Round 6\rQuestion 2 : VRBO(Vacation Rentals by Owner), is a portal for real state where owners can rent their properties, renters can occupy them for sort duration by giving rent to the owner via VRBO. Lets start by thinking how you can design such system. ?, What are the complexities you have address here ?, both business and technical ?, what will be your main focus ?, tell me about the architecture of the system ?\rNote that he wasn't concern about finer implementation details, but looking for broader things and thoughts."}
+{"i": "5960783135506432", "t": "Round 6 (taken by PRINCIPAL SOFTWARE ENGINEER)\rQuestion 1 : Since when you started searching for a new job ?, any project you  are proud of ?, If you are given the same project now, how differently you will do now ?, why do you think whatever you have applied at that time was optimal ?."}
+{"i": "4834597076467712", "t": "Round 5\rQuestion 5 : Now lets say you are given k number of input streams, each stream have two method implemented, one is ReadNextNumber() and another is WriteToStream(), lets say each of the streams are sorted. How will you return a single sorted stream which contains all the streams data."}

@@ -1,0 +1,30 @@
+{"i": "1892666", "t": "Given a matrix of integers sorted along each row and each column, implement a rapid search algorithm."}
+{"i": "1871669", "t": "Reverse a linked list with O(1) memory, and O(n) time."}
+{"i": "1893669", "t": "Design and implement the backend for the game 'Battleship' for 2 players. Discuss scalability, generalizations etc. Design Patterns based question."}
+{"i": "1885664", "t": "Given an image represented by an MxN matrix where each pixel in the image is 4 bytes write a method to rotate the image by 90 degrees Can you do this in"}
+{"i": "1941666", "t": "Write code to copy a graph."}
+{"i": "1976661", "t": "In the attached Excel file there is a list of 500 posts taken from an online community. Write a program that finds the 100 most popular one, two, three, and four-word phrases when the \u201cRun!\u201d button is clicked. Please, take into account the following:\r    1. All words in a phrase must belong to the same sentence in the post.\r   2. The following characters must be used to separate one sentence from another within the same post:\r         1. . (Period)\r         2. ! (Exclamation mark)\r         3. ? (Question mark)\r         4. ; (Semicolon)\r         5. : (Colon)\r         6. Line feed\r         7. Carriage return\r   3. At least one word in any phrase must not be from the \u201cExcluded Word List.\u201d\r   4. The program must return the phrases ranked in descending order according their frequency.\r   5. Execution time is very important, so the program should run as fast as possible (run time will be taken into consideration when grading the assignment)."}
+{"i": "1943663", "t": "barring the first 3 vowels in a string , convert all vowels to a e i o u ( with a caveat , something like special vowels in french and other european languages) . at the same time not more than 4 vowels from the last shud be changed."}
+{"i": "1892664", "t": "Implement a semaphore using a mutex"}
+{"i": "1907664", "t": "how is a system call executed.. when the API resides in the user space how are u still able to execute kernel code."}
+{"i": "1920671", "t": "what all errors is possible if u write past the array bounds"}
+{"i": "1925668", "t": "Explain the difference between Memory mapped I/O and DMA"}
+{"i": "1903666", "t": "what does fork do, can the child process use the fd's immediately"}
+{"i": "1970661", "t": "You have experience in telecom domain.  Why do you want to work in Bloomberg?"}
+{"i": "1903665", "t": "Write code to implement the 'wc -l' feature.."}
+{"i": "1875669", "t": "what is new in C++, and operator, function, functor?"}
+{"i": "1898670", "t": "what will be size of class and size of object of class.\r    class A{ \r    int *p;\r    static int a; }"}
+{"i": "1899666", "t": "exception handling. can we throw different type of object in re throw ?"}
+{"i": "1949662", "t": "in singleton class how will delete the obj ?"}
+{"i": "1968661", "t": "what happens if I throw exception from destructor. can I throw exception from construtor and destructor ?"}
+{"i": "1943662", "t": "in unix one task/process is stuck. How will debug it ?"}
+{"i": "1915664", "t": "is template class compilation static or dynamic binding ?"}
+{"i": "1880668", "t": "there is template class with syntax errors and in main prog there is nothing.\rwill it throw compile errors ?"}
+{"i": "1967661", "t": "when you will provide overloaded new operator. give example"}
+{"i": "1956662", "t": "when you will provide your own copy constructor, assignment operator. give example."}
+{"i": "1900664", "t": "Given a binary search tree and N. Write code to find out the Nth node from the last. [ Here last with respect to the inorder traversal.]"}
+{"i": "1888666", "t": "write a function which takes a number as input and returns it next number. Condition: the next and given number should have equal number of 1's in its binary format.\r Example: 5 - 101  its next number 6-110. both have two 1's."}
+{"i": "1941665", "t": "Input:\rGiven a sorted array (ex. {1,2,3,4,5,6,7,8}). A random number from the array is taken and put the left side array to right side and left side array to right side.\rin the example; if 6 is randomly taken, the array will become like {7,8,6,1,2,3,4,5}\rQuestion:\r  Given the above mangled array, write a searching algorithm to find a number present or not. That algo should not be of O(n) solution."}
+{"i": "1941664", "t": "Prepare a presentation on a project that you believe is the most challenging project that you have undertaken , explain the concept , approach , algorithm .. this presentation lasted for 30 + mins. in which mainly the interviewee does the talking.\r Epic is based a lot on luck than skill as in microsoft , amazon and bloomberg... since there would be an HR interview, and a programming test to be done on pen and paper , a quantative test which is simply high school math, a 2 min test on analytical skills , diagrams , series etc, and a test on basic concepts like variables , arrays ...(which is designed for people with non programming back ground).\r All my rounds were flawless.. still got a reject."}
+{"i": "1942663", "t": "Are you willing to relocate to madison?\r What would prompt you to accept an offer from another company instead of epic"}
+{"i": "1914664", "t": "You have a stream of numbers of unknown length.  When you hit a zero, the stream is terminated.  Return the largest even number and the largest odd number."}

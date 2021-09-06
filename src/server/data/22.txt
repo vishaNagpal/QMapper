@@ -1,0 +1,30 @@
+{"i": "6093676801949696", "t": "What are the main features of Java?"}
+{"i": "5800561792778240", "t": "What is default constructor?"}
+{"i": "4593823622103040", "t": "What is difference between StringBuffer and StringBuilder in Java ?"}
+{"i": "5050298853228544", "t": "What is a Local class in Java?"}
+{"i": "4674661885935616", "t": "How objects are stored in Java?"}
+{"i": "5320360289894400", "t": "Give an example of use of Pointers in Java class."}
+{"i": "5705720996036608", "t": "What is default constructor?"}
+{"i": "4849657912492032", "t": "What's the benefit of using inheritance?"}
+{"i": "6084821787344896", "t": "What is difference between StringBuffer and StringBuilder in Java ?"}
+{"i": "5415628771426304", "t": "Why Runnable Interface is used in Java?"}
+{"i": "6457673736781824", "t": "What is a Local class in Java?"}
+{"i": "5202460954591232", "t": "What's the difference between an array and Vector?"}
+{"i": "5241562336854016", "t": "How objects are stored in Java?"}
+{"i": "5719001974439936", "t": "How an object is serialized in java?"}
+{"i": "4992070438092800", "t": "Give an example of use of Pointers in Java class."}
+{"i": "4531756177293312", "t": "How can we pass argument to a function by reference instead of pass by value?"}
+{"i": "5876041615147008", "t": "What's the benefit of using inheritance?"}
+{"i": "5306022078447616", "t": "Why Runnable Interface is used in Java?"}
+{"i": "6168041073672192", "t": "What's the difference between an array and Vector?"}
+{"i": "5251967448776704", "t": "How an object is serialized in java?"}
+{"i": "5331773829939200", "t": "How can we pass argument to a function by reference instead of pass by value?"}
+{"i": "6541495190945792", "t": "Can main() method in Java can return any data?"}
+{"i": "6649847099162624", "t": "How can you generate random numbers in Java?"}
+{"i": "6080731636301824", "t": "What's the purpose of Static methods and static variables?"}
+{"i": "5240842191634432", "t": "What is the load factor of HashMap means?"}
+{"i": "5523947192320000", "t": "Difference between notify and notifyAll in Java?"}
+{"i": "5765410908012544", "t": "From which base class all web Forms are inherited?"}
+{"i": "5745191611269120", "t": "What is MSIL?"}
+{"i": "4579821089193984", "t": "What is LINQ?"}
+{"i": "4953007173664768", "t": "What is the difference between namespace and assembly?"}

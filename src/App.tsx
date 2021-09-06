@@ -1,13 +1,12 @@
 import React from 'react';
-import MainComponent from './components/IndexDBDrivenComponent';
-import UploaderComponent from './components/UploaderComponent';
+// import UploaderComponent from './components/UploaderComponent';
 
 import 'react-tabs/style/react-tabs.css';
 import "react-loader-spinner/dist/loader/css/react-spinner-loader.css";
 import './App.css';
+import EntryScreen from './components/EntryScreen';
 
 const App : React.FunctionComponent= function() {
-  const isDBPresent:boolean = 'indexedDB' in window;
   
   return (
     <div className="App">
@@ -18,9 +17,8 @@ const App : React.FunctionComponent= function() {
           You can upload a resume or type the keywords directly</p>
       </header>
       <main>
-        {/* {isDBPresent && <p>Index DB is supported in your browser</p>} */}
-        {!isDBPresent && <MainComponent/>}
-        <UploaderComponent/>
+        <EntryScreen/>
+        {/* <UploaderComponent/> */}
       </main>
     </div>
   );

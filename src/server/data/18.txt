@@ -1,0 +1,30 @@
+{"i": "6098767009284096", "t": "11.How do you differentiate Personnel Management from HRM (human resource management)?"}
+{"i": "5170028113035264", "t": "What makes you interested in an HR manager profile?"}
+{"i": "5730193048600576", "t": "9.As an HR manager, what will be your strategy to drive results?"}
+{"i": "5744548658020352", "t": "8.What is the one thing that you enjoy most about working in HR?"}
+{"i": "4677853784834048", "t": "7.Why should we hire you for this position?"}
+{"i": "5939342655094784", "t": "6.How do you stay up-to-date on country-specific labor laws and HR regulations?"}
+{"i": "5757217586806784", "t": "5.Can you tell me about a time when you had to convince a colleague that your idea was a good one?"}
+{"i": "4604293141757952", "t": "4.Tell me about a time when you coached someone."}
+{"i": "6117029210226688", "t": "3.Tell me about a time when you were overwhelmed by your workload and how you overcame it."}
+{"i": "6754883393290240", "t": "What HR systems are you familiar with?"}
+{"i": "4813442748252160", "t": "What do you think the biggest challenges of this role are?"}
+{"i": "5987195972747264", "t": "13)Would you like to ask us anything?"}
+{"i": "4960087360143360", "t": "12)Assuming that you\u2019re selected, what will be your strategy for next 60 days?"}
+{"i": "5891592299216896", "t": "11)Where did you see yourself in 5 years?"}
+{"i": "5154204178448384", "t": "10)What are the day to day activities in recruitment?"}
+{"i": "5437526997729280", "t": "9)What is recruitment?"}
+{"i": "4993382819037184", "t": "8)What are the roles and responsibilities of HR?"}
+{"i": "5607628909051904", "t": "7)What are the functions of HR?"}
+{"i": "6397770284400640", "t": "6)What is HR?"}
+{"i": "5010539887984640", "t": "What interpersonal skills are important in this role?"}
+{"i": "6282673482366976", "t": "What is OSQL utility ?"}
+{"i": "6240023450484736", "t": "What are all different types of collation sensitivity?"}
+{"i": "5639637085716480", "t": "What is collation?"}
+{"i": "4618648751177728", "t": "Write a Query to display employee details who is working in ECE department & who his having more than 3 years of exp?"}
+{"i": "5114123543642112", "t": "Write a Query to display no.of males in each department?"}
+{"i": "5717154131869696", "t": "Write a Query to display odd records from student table?"}
+{"i": "4749891006365696", "t": "Write a Query to display even records from the table?"}
+{"i": "6417914771537920", "t": "Write a Query to display student details along with the row_no order by student name?"}
+{"i": "5178883127640064", "t": "How SQL Server executes a statement with nested subqueries?"}
+{"i": "6713396962000896", "t": "Can we disable a triger?, if yes HOW?"}

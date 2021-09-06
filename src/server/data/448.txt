@@ -1,0 +1,30 @@
+{"i": "9209789", "t": "2. Given a integer array of length 2, the elements may be (0 & 1) or (1  & 0)  or (1 & 1 )  convert it to (0 & 0) using only the negation operator."}
+{"i": "9209788", "t": "Given a unsorted array, there is one element where a[i]==i . find the element in logn"}
+{"i": "9209775", "t": "Write code to calculate forward, reverse and cross edges of a given graph"}
+{"i": "9106620", "t": "How can we sort one unsorted int array with O(n).\r Unsorted  : {4,2,6,1,5,5,1,2,45,444,44,45,4,1}\rSorted    : {1,1,1,2,2,4,4,5,5,6,44,45,45,444}"}
+{"i": "9179592", "t": "Imagine there are infinite number of Queens (Chess Game Piece) with u. Find the minimum number of queens required so that every square grid on the chess board is under the attack of a queen. Arrange this minimum no. of Queens on a chess board."}
+{"i": "9176567", "t": "how you will find the lowest common ancestor(LCA) in Binary Tree..its clear its Binary Tree not The4 Binary Search Tree ??"}
+{"i": "9184959", "t": "Given An unsorted Array  of non-negative integers \r 1. how many different Binary Tree can be made from this array ??\r2. How Many will be unique ??\r3. write an algorithm & then code to from \r   binary tree from this array for explanation reason & reducing the time u can take take the n=4  etc.\r This is toughest question i face form amazon i stuck for moment then i explained him too much but didn't seems to be satisfied..\r it was asked in problem solving & coding round so we have to write the code after explanation ??\r let me know guys how u will do it..??"}
+{"i": "9182781", "t": "find the longest repeated substring given an input string. eg. given \"banana\" you should find \"anana\" \rWas asked abt this on phone screen & was asked to code it in 5-10 mins after being done on phone."}
+{"i": "9175705", "t": "On site : Given a word e.g.'dear' find all the valid anagrams of this word. A valid anagram is a word which exists in the dictionary. Give an optimised solution"}
+{"i": "9137919", "t": "Create an address book.  Every entry in the book is a contact whose fields are First Name, Last Name, and Phone #.  The collection of contacts are organized in alphabetical order of the first-name.  How would you go about sorting this list of contacts?  What kind of structure would you use to form your collection of contacts?"}
+{"i": "9142850", "t": "Write a program which can detect if a linked-list has a cycle in it or not.  That is, write a program which can detect if the linked-list is circular or does terminate at some point."}
+{"i": "9119235", "t": "Consider a series in which 8 teams are participating. each team plays twice with all other teams. 4 of them will go to the semi final.How many matches should a team win, so that it will ensure that it will go to semi finals.?"}
+{"i": "9106864", "t": "what does *p++ do"}
+{"i": "9125830", "t": "Sort 1TB file on machine with 1GB RAM."}
+{"i": "9122832", "t": "Implement function to find needle from a haystack. Interviewer was looking for coding skills."}
+{"i": "9112061", "t": "When Adobe is going to conduct a test in Hyderabad ....."}
+{"i": "9113938", "t": "Consider product ratings of amazon. ( these are avg ratings out of 5, say 3 persons gave it rating of 3 4 and 5 ,the avg rating would be 4 ). For given large amount of products you have to find top ten products based on these avg ratings. \rNote: The product rating keeps on changing in its life time."}
+{"i": "9113877", "t": "there are 81 horses. you need to select the first best 6 horses. Each time only 9 horses can participate. how many minimum no. of races you require"}
+{"i": "9111881", "t": "Given a sorted array find all possible |ai - aj| where ai,aj belongs to Array A. n^2 is obvious. Find a solution in O(N)."}
+{"i": "9105610", "t": "Question asked on phone interview at Norvax.\r Design the game of Blackjack/21. The pointers he gave me were that I needed a class for cards, deck, players(of which a specific one would be the dealer), a game, a way to keep aggregate scores."}
+{"i": "9102943", "t": "4 people need to cross a bridge. \r Person a = 1 min\rPerson b = 2 min\rPerson c = 5 min\rPerson d = 10 min\r They have 1 flashlight and need to cross a bridge in the least amount of time. They can only move in pairs."}
+{"i": "9102942", "t": "Static v/s dynamic variables"}
+{"i": "9100691", "t": "Display an integer array of [1, 2, 3, 4, 5, 6, 7]  in the following format\r 1  4  6 \r2  5  7\r3 \r The method signature takes in an array of integers and the number of columns. In the above example, noOfCols = 3. The columns should contain equal number of elements as much as possible."}
+{"i": "9064659", "t": "Given a set of numbers eg:{2,3,6,7,8} . any one who is playing the game can score points only from this set using the numbers in that set. given a number, print all the possible ways of scoring that many points. Repetition of combinations are not allowed.\r eg:\r1. 6 points can be scored as\r6\r3+3\r2+2+2\r 2. 7 can be scored as\r7\r2+2+3\rbut 2+3+2 and 3+2+2 is not allowed as they are repetitions of 2+2+3"}
+{"i": "9077623", "t": "Given an n-ary tree find out whether given element is there in the tree or not without using recursion"}
+{"i": "9067319", "t": "In our indexes, we have millions of URLs each of which has a link to the\rpage content, now, suppose a user type a query with wild cards *, which\rrepresent 0 or multiple occcurrences of any characters, how to build the\rindex such that such a type of query can be executed efficiently and the\rcontents of all correpsonding URLs can be displayed to the users? For\rexample, given a query http://www.*o*ve*ou.com. You man need to find iloveyou.com, itveabcu.com, etc."}
+{"i": "9059348", "t": "Design a jigsaw puzzle?"}
+{"i": "9077232", "t": "can you call one constructor from another in c++?"}
+{"i": "9067160", "t": "2.Explain System.out.println(\"Hello.\");\r----what is System?\r----what is out?\r----what is println?\rhow all they work."}
+{"i": "9067159", "t": "1.Can we use throws along with tr/catch blocks or not?"}

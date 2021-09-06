@@ -1,0 +1,30 @@
+{"i": "9291522", "t": "Why the files are treated differently from normal data types in every language or why we need streams to read and write from the files."}
+{"i": "9286473", "t": "There's an array in sorted order. But it has been rotated by N positions. The value of N can be anything from 0, and is unknown to us. In this scenario, how will you find a number X efficiently. Give a solution that works for O(n). I suggested for 2 searches of log n. But interviewer wanted more better solution."}
+{"i": "9303687", "t": "Convert a Binary Search Tree into a sorted Linked List. Head of the linked list has to be returned. The node structure used for BST contains an extra pointer *next which is initially pointing to null. The whole process has to happen in space. One or two variables are allowed tho."}
+{"i": "9297968", "t": "How to remove duplicate element from an array in one pass."}
+{"i": "9097583", "t": "In a dimond problem of multiple inheritance if we derive one of the middle base class as private will the problem be solved or we still need to derive them virtually."}
+{"i": "9097380", "t": "Given a list of n objects, write a function that outputs the minimum set of numbers that sum to at least K. (better than NLOGN)"}
+{"i": "9292255", "t": "What is the difference between my and local in perl?"}
+{"i": "9189591", "t": "Given a number display it in the seven segment display format."}
+{"i": "9297733", "t": "Apptitude Question Paper consisting of 30 questions:\r10-->Apptitude\r5-->OS\r15--->C/C++\r1--->question was on programming --->>write a function to convert integer to Hexadecimal number without using printf statement."}
+{"i": "9151453", "t": "Elaborate what will happen  in a fuction()-->u have statement char *P=\"Test\";return p;}will execute."}
+{"i": "9189589", "t": "How to find nth node from the last in a linked list."}
+{"i": "9151083", "t": "A system accepts 0-9 as input. Each digit is associated with a number of characters. Such as:\r0: a, b, c\r1: d, e\r2: f\r3: g, h\r4: i, j, k, l\r5: m, n\r6: o, p q\r7: r\r8: s, t\r9: u, v, w\r Length of input varies. The system outputs all combinations denoted by input. For example, a user inputs 3456, the output will be:\rg i m o\rg i m p\rg i m q\rg i n o\rg i n p\rg i n q\rg j m o\rg j m p\rg j m q\r...."}
+{"i": "9167198", "t": "Given an array of 2n elements of which n elements are same and the remaining n elements are all different. Write a C program to find out the value which is present n times in the array"}
+{"i": "9167168", "t": "Write your own strtok(sting,token) function..O(n^2).\rFollow Up\rThen write O(n) version of it.. interviewer strictly asked to write O(n)..??"}
+{"i": "9276919", "t": "Write a java code to find the second minimum element in an array using single loop."}
+{"i": "9119919", "t": "1)\tAn array contains a set of +ve and \u2013ve numbers. Find the number that is nearest to zero. If two numbers are equally near (like 2 and -2) then return +ve number."}
+{"i": "9274914", "t": "Identify the duplicates from a given array and remove them efficiently"}
+{"i": "9274907", "t": "Given a binary tree convert it into double linked list\r eg:A\r\n            B        C\r\n        D       E  F    Goutput should be A B C G F E D or A C B D E F G"}
+{"i": "9274906", "t": "Given a postfix expression convert into infix expression."}
+{"i": "9268228", "t": "The input number is n. Find the closest Fibonacci series number i where i < n.\rShow the time complexity of the problem. \rFor eg : if n = 10, the output \"i\" should be 8"}
+{"i": "9260941", "t": "what is the time complexity of finding the number of devisors of a number"}
+{"i": "9263909", "t": "There are 4 people in a closed room and you are waiting outside to enter into the room. You can enter only when one of them opens the door. The probability that somebody will open the door is 1/2. Now what is the probability that the door will be opened so that you can go inside?"}
+{"i": "9257255", "t": "Here I got one question: Merge two arrays and sort them in order as specified at runtime. The two arrays may share common entries between them, but the resultant array must not have duplicates. \rPlease define this with space and time complexity."}
+{"i": "9258075", "t": "write you own strncpy function:\r char * strncopy(char * dest, const char * src, int n);\r Need to consider several boundary cases, like if n > strlen(src) or n > strlen(dest), what if src is NULL)"}
+{"i": "9253182", "t": "How to serialize/de-serialize a binary tree?"}
+{"i": "9256721", "t": "Given an array A[i..j] find out maximum j-i such that A[i]<a[j] in \rO(n) time."}
+{"i": "9236136", "t": "You are given a random function that generates two characters a and b. The probability of getting a is x and that of getting b is 1-x. Write a function that uses this random function and returns a and b with equal probability."}
+{"i": "9238907", "t": "You have a note to write by cutting and pasting necessary letters from the book, write an algorithm to see if you can write the note."}
+{"i": "9220781", "t": "given a number n... print a spiral matrix in O(1) space example if n=5 the op should be:\r 25 24 23 22 21\r10 09 08 07 20\r11 02 01 06 19\r12 03 04 05 18\r13 14 15 16 17\r The question may appear trivial but its not...u hav to print in O(1) space"}
+{"i": "9214054", "t": "Why manhole make of steel?\rWhy manhole round?"}

@@ -1,0 +1,30 @@
+{"i": "8464534", "t": "find an element in a partially rotated sorted array.\r12 13 14 2 6 8"}
+{"i": "8459506", "t": "stack with min operation in O(1)."}
+{"i": "8464533", "t": "Given a stream of distance of millions of stars from the earth, find the nearest n star from the earth."}
+{"i": "8462262", "t": "There are n buses in a city. Each of them carries at most m passengers. Find the probability that at least two of them carry the same number of passengers."}
+{"i": "8479853", "t": "For a binary tree, print all possible paths from root to leaf nodes"}
+{"i": "8462973", "t": "Find median of an unsorted array (better in nlogn solution is needed)"}
+{"i": "8479852", "t": "A number is given as a palindrome, write a function to return the next largest palindrome."}
+{"i": "8469950", "t": "A group of persons is fighting on a road. We have details about who punched whom, and there are only two groups, and a person will punch only a person from another group. What data structure would you choose for the input, output and write a fully functioning program for this."}
+{"i": "8472931", "t": "A binary tree is represented in a array as the ancestor array, build the binary tree from this array.\reg \r \t\t\t1\r\t\t\t |\r\t2----------------\t--------------3\r\t |\t\t\t        \r ------------------\r4\t\t                         5\r The array would be \r \t1\t2\t3\t4\t5\r1\tx\t1\t1\t1\t1\r2\t0\tx\t0\t1\t1\r3\t0\t0\tx\t0\t0\r4\t0\t0\t0\tx\t0\r5\t0\t0\t0\t0\tx\r where if i isAncestor of j, a[i][j] would be set to 1"}
+{"i": "8473840", "t": "Question 5 :- \r* Difference b/w C++ & Java \r* Multiple Inheritance in Java \r* Difference b/w Overriding & Overloading \r* Wrapper Classes"}
+{"i": "8472837", "t": "Question 4 : Asked basic concepts of OS like \rwhat is an OS , functionality and necessity of OS ?? \r* Difference b/w Process & Thread \r* Asked about Android , on what OS its based and then started asking Memory Scheduling mechanisms ,Disk Scheduling Mechanisms , Process Address Space , Process attributes"}
+{"i": "8462885", "t": "Question 3: Asked to print the path of the tree in zig-zag fashion"}
+{"i": "8478818", "t": "Question 2 : Explain the difference b/w C & C++ , C++ & Java \rWrite down all the features of C++ and explain each with an example"}
+{"i": "8471863", "t": "Yesterday i had interview @Motorola Mobility ..\rThe interviewer asked the following question \r Questions 1 : Given a Linked List where a node points somewhere ( might be another node) but not the subsequent node. Find if such a link exists in the given list\r Interviewer told that its called Malformed Linked List , since the link was pointing to random node instead behaving the usual way \r * Reverse a Singly linked list given a single head pointer"}
+{"i": "8456925", "t": "Write the code for Dijkstra algorithm using adjacency list representation. What is the running time?\rWhat will be the running time if adjacency matrix representation is used?"}
+{"i": "8460871", "t": "You are given an array A of k values which contain int values in sorted (asec) order. Find top k values (asec)  which can either be the number from the array A, or sum of any two numbers from A or sum of any three numbers from A. So, if A's values are represented as : a1,a2,...,ak , the possible numbers can be: a(i), a(i)+a(j), a(i)+a(j)+a(l) for any i,j,l < k \r Ex: A[7] = {3,4,5,15,19,20,25}\routput B[7] = {3,4,5,(3+4),(3+5),(4+5),(3+4+5)}"}
+{"i": "8461776", "t": "There is a recursive function f().  It is looking at \u201ccond\u201d and then either returning or executing f() then g().  Consider \u201ccond\u201d to be an external variable that can be set somewhere else, perhaps in a different thread.\r (1) If the first five times cond is checked, cond is == to true, but the sixth time, cond is == to false, describe the code flow.\r (2) Because this is recursive, the code could suffer from a stack overflow if \u201ccond\u201d is == to true for too long.  Fill in the function iterative_f() so that the code flow is identical to the code flow in (1).\r  //recursive\rvoid    f()\r{\r        if(cond == false)\r                 return;\r        f();\r        g();\r}\r //iterative\rvoid iterative_f() {\r  }"}
+{"i": "8468686", "t": "data structures and methods for battleship game"}
+{"i": "8466700", "t": "program for atoi() conversion"}
+{"i": "8468685", "t": "a number is given as an array, 4567 is given as [4, 5, 6, 7] add 1 to this number and return."}
+{"i": "8457730", "t": "In order traversal"}
+{"i": "8452807", "t": "traverse a binary tree. Did not specify any particular traversal. I just did it depth first."}
+{"i": "8399632", "t": "IP address to decimal formula."}
+{"i": "8395627", "t": "What happens to a program after you compile till its created to an executable."}
+{"i": "8407365", "t": "Given an array of integers (positive or negative) find the lowest positive integer NOT present in that array."}
+{"i": "8412257", "t": "Given an integer array of which both first half and second half are sorted. Write a function to merge the two parts to create one single sorted array in place [do not use any extra space].\re.g. If input array is [1,3,6,8,-5,-2,3,8] It should be converted to: [-5,-2,1,3,3,6,8,8]"}
+{"i": "8404243", "t": "Write test cases for backspace functionality for MS WORD. At each stroke of backspace how many bytes of data are deleted?"}
+{"i": "8396230", "t": "You are given a list of strings. Find a way to combine and store them in such a way that it you can retrieve the original strings\r Answer: Add a Length <Marker> prefix before every string"}
+{"i": "8403134", "t": "Given a hash map of student IDs and scores to a function, return a map with student IDs and percentile marks."}
+{"i": "8395141", "t": "Anyone is having algorithm for Multibyte backspace? If the previous character is single byte move one character. otherwise need to move 2 bytes."}

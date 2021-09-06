@@ -1,0 +1,30 @@
+{"i": "14579831", "t": "How will you implement tic tac toe game and write a routine that tests whether some one won."}
+{"i": "14582836", "t": "given an array of integers find 3 numbers that sums to zero"}
+{"i": "14585839", "t": "Given a collection of numbers, print all possible permutations. \rThen,told me the code is printing redundant combination.Make change so that one combination is printed only once\r1,1,2 \r[1,1,2], [1,2,1], and [2,1,1]."}
+{"i": "14578829", "t": "given a list of integers, sort all odd position ints and put them in first half, and sort all even position ints and put them in second half, do it in place."}
+{"i": "14582824", "t": "If you're given a list of countries and its corresponding population, write a function that will return a random country but the higher the population of the country, the more likely it is to be picked at random."}
+{"i": "14580808", "t": "You have eight balls all of the same size. 6 of them weigh the same, and two of them weighs slightly more. How can you find the balls that is heavier by using a balance and do this in minimum number of steps?"}
+{"i": "14580807", "t": "what are the implicit member functions in C++ and JAVA ? and example"}
+{"i": "14579803", "t": "Generate a grey code sequence given the number of digits as input.\reg: input=2 output= 00 01 11 10\ruse minimum space and time complexity"}
+{"i": "14584794", "t": "write query to delete duplicate rows in MySQL ?"}
+{"i": "14588797", "t": "write a  query to display top n salaries from employee table in MySQL ?"}
+{"i": "14584787", "t": "how to make form in same page while you click on button in php?"}
+{"i": "14580782", "t": "Why java is not pure object oriented language ?"}
+{"i": "14578788", "t": "Given an array of integers, find all combination of four elements in the array whose sum is equal to a given value X.\rFor example, if the given array is {10, 2, 3, 4, 5, 9, 7, 8} and X = 23, then your function should print \u201c3 5 7 8\u2033 (3 + 5 + 7 + 8 = 23)."}
+{"i": "14581787", "t": "Just Example : \"Given 8 cue balls , one is weighing lesser than other 7. Find that(light weight) ball using just 2 chances on balance weight.\"\r How to find a general solution to these kind of question? How to divide this set of balls? Is there any finer method or general formula?"}
+{"i": "14558957", "t": "Two trains enter at the opposite sides of a tunnel of length L with speeds 'V'. A particle enters the tunnel at the same time with a speed 'v' and it vibrates in the tunnel[i.e. if it reaches the end of the tunnel then it comes back]. What is the position of the particle by the time the 2 trains meet?"}
+{"i": "14582765", "t": "Write an algorithm to insert a new value into a circular sorted linked list."}
+{"i": "14581768", "t": "Interview Question \u2013 how to improve a parallel cache, this is the most difficult question i got. I had no idea what the interviewer meant and he clearly had some 'right' answer in his mind, but no clue."}
+{"i": "14588759", "t": "How would you store 1 million phone numbers?"}
+{"i": "14584753", "t": "Count the number of set bits for an 32 bits integer. How to improve the process for the second time use if the memory is unlimited?"}
+{"i": "14558941", "t": "On a 2-D grid, the positions (x,y) of 3 persons are given. Find the meeting point such that sum of distances of each person from meeting point is minimized.\rNow generalize this to N persons and solve."}
+{"i": "14582763", "t": "Write a program to find the (n-3)rd element in a singly linked list of unknown length in a single pass..."}
+{"i": "14587747", "t": "Write a program to find the middle element in a singly linked list of unknown length in a single pass..."}
+{"i": "14581755", "t": "implement ur own malloc() function, and free(), in C"}
+{"i": "14577752", "t": "Write an algorithm to check if a tree is complete binary tree or not.\r struct tree {\r         int info;\r         struct tree* left;\r         struct tree* right;\r} *root;"}
+{"i": "14580742", "t": "Write an algorithm to check if a tree is BINARY or not.\rYou are just passed the root of the tree."}
+{"i": "14575737", "t": "struct node{\r  int data;\r  struct node *left;\r  struct node *right;\r}\r Given a plain binary tree, device a way to determine if it meets the requirement to be a binary search tree or not."}
+{"i": "14583749", "t": "Give a good data structure for having n queues ( n not fixed) in a finite memory segment. You can have some data-structure separate for each queue. Try to use at least 90% of the memory space"}
+{"i": "14579720", "t": "Given a Binary tree (not the BST) , Produce the Ancestor matrix"}
+{"i": "14581715", "t": "Given an array of intergers. Write a program to print all the permutations of the numbers in the array. The output should be sorted in a non-increasing order. For example for the array { 12, 4, 66, 8, 9}, the output should be:\r 9866412\r 9866124\r 9846612\r ....\r ....\r 1246689"}
+{"i": "14579715", "t": "#include<stdio.h>\rdouble fn(char *a , int b , char c)\r{\rreturn (1.1);\r} \r int main()\r{\rint it = 2;\rchar ct = 'c';\rchar a[30];\rprintf(\"%d\\n\",(sizeof(fn)));\rreturn 0;\r}\rWhy the output is 1 ?"}

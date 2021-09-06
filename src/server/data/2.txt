@@ -1,0 +1,30 @@
+{"i": "5369534528094208", "t": "4)\tInline and block elements in HTML?"}
+{"i": "5630241106558976", "t": "3)\tWhat are void elements in HTML?"}
+{"i": "6280660954644480", "t": "2)\tAre the HTML tags and elements the same thing?"}
+{"i": "6676288981434368", "t": "1)\tHow can we include audio or video in a webpage?"}
+{"i": "5154761047801856", "t": "20)\tWhat is an image map?"}
+{"i": "5119945573138432", "t": "19)\tHow to create a Hyperlink in HTML?"}
+{"i": "6728049863688192", "t": "18) When are comments used in HTML?"}
+{"i": "5159046955401216", "t": "17) Differentiate between HTML and XHTML."}
+{"i": "5670425105793024", "t": "16)\t How can we create a hyperlink in HTML?"}
+{"i": "5550389074591744", "t": "15)\t In how many ways can a heading be written in HTML?"}
+{"i": "5525124667670528", "t": "14) Define forms in HTML."}
+{"i": "5488980974370816", "t": "13)\tExplain list elements in HTML."}
+{"i": "6341195918213120", "t": "12)\tWhat are <br> tags in HTML?"}
+{"i": "5601721986842624", "t": "11)\tWhat are the different browsers that support HTML5?"}
+{"i": "6623031386963968", "t": "10)\tCan we modify the attribute\u2019s value of the HTML tag dynamically?"}
+{"i": "6586840583241728", "t": "9)\tDefine attributes in HTML tag."}
+{"i": "6275745700118528", "t": "8) Define Semantic elements in HTML."}
+{"i": "5322962033442816", "t": "7)\t How can we comment in HTML?"}
+{"i": "5215296011370496", "t": "6)\tWrite an HTML code to form a table to show the below values in a tabular form with heading as Roll No., Student name, Subject Name, and values as"}
+{"i": "6113339028013056", "t": "5)\tName some new features which were not present in HTML but are added to HTML5?"}
+{"i": "6735248547643392", "t": "4)\tWrite the basic structure of the HTML template?"}
+{"i": "5118771704889344", "t": "3)\t Describe HTML."}
+{"i": "5549408614088704", "t": "2)\tWhat does HTML stand for?"}
+{"i": "6473583990145024", "t": "1)\tWhat is HTML5?"}
+{"i": "5125787131314176", "t": "20)\tList the events in the page life cycle."}
+{"i": "5778245964791808", "t": "19)\tWhat are EXE and DLL?"}
+{"i": "5681721658310656", "t": "18)\tDifference between interface and abstract class in .NET?"}
+{"i": "6023890629820416", "t": "17)\tWhat is delegate in .NET?"}
+{"i": "5497131480121344", "t": "16)\tExplain MVC."}
+{"i": "4704838393266176", "t": "15)\tWhat is caching?"}

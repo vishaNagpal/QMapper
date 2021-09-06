@@ -1,0 +1,30 @@
+{"i": "1786740", "t": "Given a file containing approx 10 million words, Design a data structure for finding all the anagrams in that set"}
+{"i": "1774799", "t": "3)how would you find the unique lines(that are too long to store in memory) between 2 files tat have a billion lines of data each. How will you find the non-unique lines."}
+{"i": "1688881", "t": "Given a constant number of priorities implement a priority queue with O(1) enqueue and dequeue implementations."}
+{"i": "1784767", "t": "Create an object-oriented design for software that allows people to play the card game \"War\" over the internet. Include the classes, methods, and important variables and data structures in your description."}
+{"i": "1737850", "t": "print out all positive integers from 1 to 100, inclusive and in order and state whether each integer is odd, even, divisible by both 2 and 3, or divisible by 3. design logic to be as efficient as possible.\rexample output: \rthe number 1 is odd. \rthe number 2 is even. \rthe number 3 is divisible by 3. \r... \rthe number 6 is divisible by 2 and 3.\rIntervier: Take any word, remove vowels and place them in reverse order by untouching consonants and place them back. Word is AIRPLANE."}
+{"i": "1772806", "t": "Amazon has two log files that have visitor ids not sorted in any order. One is for today and one for yesterday. Find userid common to them. The files have millllllions of entries in both of them and wont fit in memory..either of them."}
+{"i": "1790694", "t": "Test a DVD player"}
+{"i": "1774795", "t": "Perform Sorted Insert on a link list and write test cases"}
+{"i": "1705852", "t": "Difference between c++ and c#"}
+{"i": "1790676", "t": "Can there exist a loop in a doubly linked list? if so how will you remove it?"}
+{"i": "1738816", "t": "Memory Resize Function\rLets say contiguous memory is not available for vector's elements and it is occupied by something else. How does the resize function of vector allocate memory to be contiguous allocation?"}
+{"i": "1721826", "t": "vector and list difference. complexities of alogrithms."}
+{"i": "1789693", "t": "how to prevent deadlock."}
+{"i": "1733828", "t": "What is a Deadlock, can you give some examples of real world scenarios where deadlock happens ? \rI am trying to merge into a freeway which is completely backed up and cars are moving very slow, is this a deadlock ? If you had to assign a computer science term to this scenarios what would be the closest thing that comes to your mind ?"}
+{"i": "1793678", "t": "if base class function and overriding function has different return type how it will impact into main program. lets say base class function is returning int which is virtual and derived class function is returning is String.\rand I have base* b = new derived()\rso can I call int i = b->function() which is derived class function returning string?"}
+{"i": "1715806", "t": "Is it possible to pass arrays by value"}
+{"i": "1716779", "t": "Do itoa in O(n). He needed result in 1 iteration we should not reverse string in the end"}
+{"i": "1753785", "t": "What do stored procedures get compiled into? What exactly helps them to get executed faster?"}
+{"i": "1729798", "t": "Get all information about all threads running. And also where exactly a particular thread is blocked during execution."}
+{"i": "1764769", "t": "Share knowledge about JVM parameters/variables."}
+{"i": "1716771", "t": "How will you go around building a pool of threads in Java? Best way to maintain the thread count once a thread in the pool finishes execution?"}
+{"i": "1760772", "t": "What is the difference between class and interface?"}
+{"i": "1749765", "t": "What is the difference between an instance and method?"}
+{"i": "1700780", "t": "Given 2 array of strings. How will you find the intersection of 2 strings? Write a program in C or java."}
+{"i": "1745768", "t": "Primality Test (function to find a prime number)."}
+{"i": "1705750", "t": "In 30 Sec, what is\rThread Pool\rConnection Pool"}
+{"i": "1771699", "t": "Unix Commands, tcpdump & wireshark."}
+{"i": "1701750", "t": "Test cases for:\rApplication: Stand alone E-Mail agent on a mobile device.\rClues:\r1. Configure (E-Mail Account1 & E-Mail Account 2).\r2. Send E-Mail from Account1->Account2)\rThis verifies handset Inbound & Outbound capabilites"}
+{"i": "1785661", "t": "Primality Test (function to find a if given number is prime)."}
+{"i": "1743717", "t": "what is conversion operator? Can you convert 1 object into another object using this? if yes How? if not why not?"}

@@ -1,0 +1,30 @@
+{"i": "6620514670346240", "t": "What are the different versions of the .NET framework?"}
+{"i": "6362206613012480", "t": "What is BCL?"}
+{"i": "5694082842624000", "t": "Differentiate between constants and read-only variables."}
+{"i": "6362870470672384", "t": "What do you know about boxing and unboxing?"}
+{"i": "4619291704426496", "t": "Explain the difference between a class and an object?"}
+{"i": "5236306706169856", "t": "What is the difference between Response.Redirect and Server.Transfer?"}
+{"i": "6399445321646080", "t": "Why do we use Response.Output.Write()?"}
+{"i": "5413341768450048", "t": "What do you know about JIT?"}
+{"i": "5415595284103168", "t": "Explain CLS."}
+{"i": "5367437711638528", "t": "What is CLR?"}
+{"i": "5804512290275328", "t": "What do you know about CTS?"}
+{"i": "6729064130281472", "t": "What are the different components of .NET?"}
+{"i": "4568182935781376", "t": "What is the .NET framework?"}
+{"i": "5978578724847616", "t": "Describe the garbage collection process."}
+{"i": "4975477838577664", "t": "What is the difference between managed and unmanaged code?"}
+{"i": "5803792145055744", "t": "What languages does the .NET Framework support?"}
+{"i": "5868972031868928", "t": "What is the difference between ExecuteScalar and ExecuteNonQuery?"}
+{"i": "5494614763503616", "t": "What are the different types of cookies in ASP.NET?"}
+{"i": "5236970563829760", "t": "What is HTTP Handler?"}
+{"i": "5039884564168704", "t": "What is MIME?"}
+{"i": "4958921880502272", "t": "What is the appSettings section in the web.config file?"}
+{"i": "6511250702336000", "t": "List all the templates of the Repeater control."}
+{"i": "4960997238898688", "t": "What are ASP.NET security controls?"}
+{"i": "5930387665059840", "t": "Explain passport authentication."}
+{"i": "6175513041698816", "t": "How can we apply themes to an ASP.NET application?"}
+{"i": "6507479586832384", "t": "What is cross-page posting?"}
+{"i": "6368372122451968", "t": "Explain role-based security."}
+{"i": "6730779432845312", "t": "What are the event handlers that we have for the Global.asax file?"}
+{"i": "6714429633200128", "t": "What is the code to send an email from an ASP.NET application?"}
+{"i": "5049613134856192", "t": "List the events in the page life cycle."}

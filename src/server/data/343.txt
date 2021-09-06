@@ -1,0 +1,30 @@
+{"i": "14607684", "t": "what is the output of the following :\r#define SUM(X,Y)(X*Y)\r#define MULT(X,Y)(X)+(Y)\r int main()\r{\r    int a,b,c;\r    a=2;\r    b=3;\r    c=SUM(MULT(a,b),SUM(a,b-a))-SUM(SUM(b-a,a),MULT(b,a));\r    printf(\"%d\\n\",c);\r  }"}
+{"i": "14622668", "t": "Implement a thread-safe Blocking queue in C/C++(POSIX) or Java"}
+{"i": "14623664", "t": "The aim is to find the optimal solution which packs the pieces in 4x4 unit square.\ra jig saw puzzle is made up of exactly 4 pieces.\rsize of the completed puzzle is always 4 units x 4 units. This is given\rThere is no picture printed on the pieces; any solution would be valid, as long it is a 4 x 4 unit square.\rThe pieces can be only triangles, or quadrilaterals. Nothing else."}
+{"i": "14607675", "t": "write integration testcases for gmail login page?"}
+{"i": "14612663", "t": "what is difference between clientserver aplication and web based aplication?example wit an example"}
+{"i": "14619663", "t": "write integration  testcases for login page?"}
+{"i": "14611680", "t": "why vector does not push_front ?"}
+{"i": "14601683", "t": "given an array\rint a[] = {0, 1, 1 ,0, 2, 2, 1, 0 ,1, 2, 1,0 }\rto be converted into\r{0, 0, 0, 0, 1, 1, 1, 1, 1 ,2 ,2 ,2}\rinplace and single pass"}
+{"i": "14607665", "t": "design a distributed system to find the 1000th visitor of google.com"}
+{"i": "14601669", "t": "Design the backend for a Gmail-like mail system"}
+{"i": "14610666", "t": "design and implement a memcache"}
+{"i": "14614667", "t": "Design a DHT"}
+{"i": "14608664", "t": "How can I redirect the output obtained on console to a new file using JAVA?"}
+{"i": "14586067", "t": "You are given N unique numbers a1<a2<a3<...an. Find out the count of all possible binary search tress that can be constructed using these numbers.\rfor example with 3 elements 1,2,3 there are 5 possible BST and for 1,2,3,4 there are 14 bst"}
+{"i": "14582082", "t": "Hello Folks,\rI have compiled quite a few good interview questions in the form of a book. Please go through the below link\r http://bigjobhunter.blogspot.in/2012/09/dear-reader-it-gives-me-immense.html?showComment=1347514736672#c8544481386067351623"}
+{"i": "14588050", "t": "Magic squares:\rA magic square of order n is an arrangement of the numbers from 1 to n^2 in an n by n matrix with each number occuring exactly once so that each row,each column and each main diagonal has the same sum.\rAny other better approach than exhaustive search approach??? Even this is not working in many instances of n."}
+{"i": "14578080", "t": "Design a site similar to tinyurl.com"}
+{"i": "14578074", "t": "Given a linked list that contains 0,1 and 2 . Sort this linked such that it contains 0s first, then 1s and then 2s in O(n) time. Remember its a linked list not an array."}
+{"i": "14587020", "t": "You are given a tree (a simple connected graph with no cycles).You have to remove as many edges from the tree as possible to obtain a forest with the condition that : Each connected component of the forest contains even number of vertices\r Your task is to calculate the number of removed edges in such a forest."}
+{"i": "14583028", "t": "Sort 10^6 elements and the memory can take 10^4 elements at a time."}
+{"i": "14594853", "t": "given a stream of quotes for a stock from the last trading day. Assume its already time sorted. Find the maximum amount of money you could have made on this stock by making at most N transactions. A buy and a sell is counted as one transaction. For parts N = 1, N = 2 and N = Inf and the generic solution for N = some number (open ended)"}
+{"i": "14587009", "t": "\u2022\tWrite a function that finds all the different ways you can split up a word into a concatenation of two other words."}
+{"i": "14582042", "t": "range sum query\uff0carray\uff0cgiven i,j.\rget sum array[i,j]:\r requirement: n^1/2 space/time complexity"}
+{"i": "14576023", "t": "Any other faster way to solve the closest-pair problem than the one with the brute-force approach???"}
+{"i": "14595751", "t": "What is the difference between template class and class template ???"}
+{"i": "14583003", "t": "Write a program to identify the name of current city where you are using IP addresses."}
+{"i": "14582993", "t": "To generate armstrong numbers ...In O(n).."}
+{"i": "14587995", "t": "write a prog O(n) : \rto interchange million rows to million columns in a file .."}
+{"i": "14585990", "t": "Determine the absolute value of an integer without branching ( i.e. without using any if else statement etc)"}
+{"i": "14594825", "t": "Determine efficiently if an integer is a power of 2 without using any branching or loop."}

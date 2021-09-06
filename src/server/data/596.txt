@@ -1,0 +1,30 @@
+{"i": "57086", "t": "In unix, what is a defunct process ?"}
+{"i": "57085", "t": "What is the unix command to a kill a process ?"}
+{"i": "57084", "t": "(SQL) What is a foreign key?"}
+{"i": "57083", "t": "(SQL) Explain normalization."}
+{"i": "57082", "t": "(SQL) What are the different types of joins?  Please explain how they differ."}
+{"i": "57081", "t": "(SQL) Explain cluster index."}
+{"i": "57059", "t": "If you were to implement a garbage collector in C++ how will you do it?"}
+{"i": "57058", "t": "Why is java secure?"}
+{"i": "57057", "t": "What is garbage collection"}
+{"i": "57065", "t": "What is a pointer?"}
+{"i": "57056", "t": "Remove spaces from a string (in-place)"}
+{"i": "57063", "t": "Detect loop in a singly linked-list"}
+{"i": "57062", "t": "Implement atoi(char *p)"}
+{"i": "57061", "t": "Reverse linked-list"}
+{"i": "57040", "t": "Implement in-place swap. Now implement one won't cause overflow (i.e: can't use addition)"}
+{"i": "57039", "t": "Draw 2-level paging diagram."}
+{"i": "57018", "t": "Based upon what points we should choose proper search/sort algorithm for problem solution from all available algos (Quick, heap, selection, shell, insertion, Binary Tree, bubble sort etc.) ? To be specific, when should we use above algos ? examples will be appreciated.\r Regards"}
+{"i": "56955", "t": "What are the different features of OO programming? Explain encapsulation, polymorphism, inheritance.\r What is multiple inheritance? Is it possible in Java? What is the work around for this in Java? How is it implemented?"}
+{"i": "56947", "t": "If you have a file with each line having 3 values and it represents a range and corresponding value belonging to that range. ie, minimum, maximum, value. Like the following:\r20,30,A\r41,50,D\r31,40,B\r51,60,C\r Write an algo so that if 43 is given as a key, it must return D as the value. There might be many searches, not just one.\r int getValue(int key);"}
+{"i": "56934", "t": "What is happened when a user press a key on the keyboard? (Keyboard generates an interrupt and interrupts the CPU, CPU saves the current process state and executes interrupt handler, CPU returns from interrupt, kernel later on executes device driver to fetch register data from I/O port, ...)"}
+{"i": "56933", "t": "What is in IP header?"}
+{"i": "56932", "t": "What is the diff between hash table and linked list?"}
+{"i": "56931", "t": "What is system call?"}
+{"i": "56930", "t": "What is thread? Compare thread and process. What is the advantage of using thread?"}
+{"i": "56929", "t": "Where is static var stored (in C)?"}
+{"i": "56928", "t": "What is a process? What info need to be recorded by PCB?"}
+{"i": "56909", "t": "Code a function 'dedupe' that removes duplicate characters from a string."}
+{"i": "56927", "t": "Tell me about a recent bug you tracked down and how you did it."}
+{"i": "56902", "t": "Whats the difference between statically and dynamically typed languages?"}
+{"i": "56865", "t": "Factorial Factors\rThe factorial function, n! = 1 \u00b7 2 \u00b7 ... \u00b7 n, has many interesting properties. In this problem, we want to determine the maximum number of integer terms (excluding 1) that can be used to express n!. For example:\r8! = 1 \u00b7 2 \u00b7 3 \u00b7 4 \u00b7 5 \u00b7 6 \u00b7 7 \u00b7 8 = 2 \u00b7 3 \u00b7 2 \u00b7 2 \u00b7 5 \u00b7 3 \u00b7 2 \u00b7 7 \u00b7 2 \u00b7 2 \u00b7 2 = 27 \u00b7 32 \u00b7 5 \u00b7 7\rBy inspection, it is clear that the maximum number of terms (excluding 1) that can be multiplied together to produce 8! is 11.\rThe input for your program consists of a series of test cases on separate lines, ended by end-of-file. Each line contains one number, n, 2 <= n <= 1000000.\rFor each test case, print the maximum number of factors (excluding 1) that can be multiplied together to produce n!. Put the output from each test case on a separate line, starting in the first column.\r Sample Input\r2\r1000000\r1996\r5\r8\r123456 \rSample Output\r1\r3626619\r5957\r5\r11\r426566"}

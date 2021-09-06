@@ -1,0 +1,30 @@
+{"i": "61692", "t": "Describe a typical day for you in your last sales job."}
+{"i": "61528", "t": "A customer calls in who is very unhappy with you about a product they have ordered.  What would you do?"}
+{"i": "61527", "t": "Why do you like sales?"}
+{"i": "61690", "t": "Tell me about a time when you failed. (Make sure your answer has a positive spin about you)."}
+{"i": "61689", "t": "I previously carried a quota of X dollars, what sales goals are set for this position?"}
+{"i": "61526", "t": "In my last job, I would call on my customers / prospects X # of times a week.  What type of activity level are your reps attaining?"}
+{"i": "61507", "t": "How to shuffle lines in a large file, which cannot fit into the memory. However, you are allow to use linux sort command. Any ideas?"}
+{"i": "61506", "t": "How do you set a pixel in a monochrome screen of size 800 by 600. The pixels are stored in a 1 D array."}
+{"i": "61268", "t": "Find phone numbers in a directory containing some billions of files.\rI just said use a regular expression, u can use it in grep or u can use it in sed type of scripting or u can write a Java/C++ program"}
+{"i": "61267", "t": "Find the k max elements in an array of n\rAns: Keep a heap of k with min on top. If you find an element in the array which is greater than the mean, kick the mean out of the heap and heapify(re-heap)\rThe complexity is O(nlogk)\rBut coding a heap is difficult so I think in onsite if this question is asked better use an array instead of heap, so the complexity will be O(nk)"}
+{"i": "60458", "t": "Design the datastructures for an online book reader system."}
+{"i": "61266", "t": "Last guy told me to design the T9 system, which is the predictive text system on cell phones. E.g type 49556 and get \"hello\" and also other words that matches 49556. More specifically, how do I store a text file containing a dictionary on a cell phone and efficiently read from it."}
+{"i": "61265", "t": "This guy asked me about my college, why I am here, what are my long term goals, etc. And then he asked supposed you're on the windows Vista team and there are 5 million programs we have to make sure it works for Vista, but we only have enough resources to test 5000 of them, how do you do it?\r- This you just have to explain how statistics work and tackling a lot of work by splitting them up and categorizing them."}
+{"i": "61264", "t": "Give me the best way to multiply an integer by 3.5. There are many solutions to this but (x>>1)+x+(x<<1) is the best since it is least prone to overflowing."}
+{"i": "60457", "t": "Write a function to convert integers to roman numerals with 1=I, 5=V, 10=X, 100=C, 1003=M. E.g. 3999 = MMMCMXCIX\rThis was tougher than I thought."}
+{"i": "61263", "t": "How would you test a vending machine."}
+{"i": "61262", "t": "Given a 2 dimensional array of integers representing a tictactoe board, write a function to look for winners."}
+{"i": "60456", "t": "When would you use a hash table over a Binary Search Tree?"}
+{"i": "60455", "t": "When to use and when not to use multi-threading and multi-processing? Which is better and when?"}
+{"i": "60454", "t": "Where in memory are a program's static variables stored?"}
+{"i": "60452", "t": "Advantages of const over #define. When to use which of them?"}
+{"i": "60449", "t": "Q. There is a software for chess game and we need to test the following method:\r boolean canMoveTo(int x, int y)\r x and y are the coordinates of the chess board and it returns true/false whether the piece can move to that position or not. We need to test this method for a pawn piece and you can set up the board any way you like prior to running a test case. Source code is not provided\r Q2. Design a software for valet parking"}
+{"i": "60425", "t": "What are threads and why use multithreading? Things which we have to be carefull with when using threading."}
+{"i": "60424", "t": "1) Write a function which determines wheather in given array there is a sequence of n or more elements, which have the same value. Example:\rn = 3, input[] = { 1,1,1,2,3,4,5 } gives true;\rn = 2, input[] = { 5,1,2,2,2,4,5 } gives true;\rn = 3, input[] = { 5,2,2,3,2,5,5 } gives false;\r 2) Write a function which determines, wheather the array is a mirror - reflection - like. Example:\r input[] = {1,2,3,2,1} gives true\rinput[] = {1,2,3,3,2,1} gives true."}
+{"i": "60403", "t": "Reverse a linked list iteratively, do it first with single pointers and then do it again with double pointers. Now do it again recursively but not tail-recursive, and then do it again tail-recursively. What do you do if it has a loop?"}
+{"i": "60217", "t": "A String as given as input in the form of Hex Decimal format and you need to print the ASCII format.\rBefore starting the algorithm, what are the question do you have in your mind?"}
+{"i": "60211", "t": "write a code to delete any node in a link list. with all test cases and boundary conditions"}
+{"i": "60210", "t": "-u r given a disk. half black half white. its rotating. u have to make sum system using sensors etc. so that a computer can tell the direction in which the disc is rotating."}
+{"i": "60391", "t": "How to implement multiple inheritance when using multiple inheritance programming feature is not allowed? For example, class C inherits from both class A and B."}
+{"i": "60203", "t": "Asked during second round telephonic interview:\rWrite a function which detects whether the given number is prime or not. Give the most efficient solution."}

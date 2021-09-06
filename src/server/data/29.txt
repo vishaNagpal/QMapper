@@ -1,0 +1,30 @@
+{"i": "5652384749977600", "t": "How to change application name after its deployment?"}
+{"i": "4760454595870720", "t": "How does android track the application on process?"}
+{"i": "5960264984297472", "t": "Why can't you run java byte code on Android?"}
+{"i": "6598411225137152", "t": "How is the use of web view in Android?"}
+{"i": "5165284590092288", "t": "How to Translate in Android?"}
+{"i": "5938169592152064", "t": "What is a Sticky Intent in android?"}
+{"i": "5447792238002176", "t": "What are the different storage available in android?"}
+{"i": "6226724755341312", "t": "What is the order of dialog-box in android?"}
+{"i": "6224835842146304", "t": "What are the exceptions available in android?"}
+{"i": "4540925865361408", "t": "How many dialog boxes do support in android?"}
+{"i": "6027303585316864", "t": "What is nine-patch images tool in android?"}
+{"i": "5187904857440256", "t": "Where layouts are placed in android?"}
+{"i": "4788336919576576", "t": "What does the intent filter do in android?"}
+{"i": "4899476781662208", "t": "What are the key components in android architecture?"}
+{"i": "6010742191423488", "t": "What is shared preferences in android?"}
+{"i": "5472511318294528", "t": "What is an Adapter in android?"}
+{"i": "4903941467275264", "t": "What is ANR in android?"}
+{"i": "5393347890380800", "t": "What is ADB in android?"}
+{"i": "6221469124657152", "t": "What is container in android?"}
+{"i": "6025046982656000", "t": "What are the notifications available in android?"}
+{"i": "6212304738189312", "t": "What is a content provider in android?"}
+{"i": "4834365077454848", "t": "What is a service in android?"}
+{"i": "5648633230262272", "t": "What is view Group in android?"}
+{"i": "4899147075813376", "t": "What are the tools are placed in An Android SDK?"}
+{"i": "6298254080212992", "t": "What do ADT stands for?"}
+{"i": "5102419287998464", "t": "What language does android support to develop an application?"}
+{"i": "6300615574028288", "t": "What is an android manifest file?"}
+{"i": "6306521959366656", "t": "What is an implicit Intent?"}
+{"i": "5149307915730944", "t": "What is an explicit Intent?"}
+{"i": "6687172562780160", "t": "What is An Intent?"}

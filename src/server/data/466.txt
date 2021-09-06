@@ -1,0 +1,30 @@
+{"i": "7898666", "t": "Describe in brief the data structure you will use to implement the game of minesweeper."}
+{"i": "7896667", "t": "Describe in brief the data structure you will use to implement the game of snakes and ladders."}
+{"i": "7908662", "t": "Using recursion return the number of leaf nodes and non leaf nodes from a single method without any global variables for a given BST?"}
+{"i": "7905664", "t": "You are given a function. When it is called, it returns 0 with 60% probability, and 1 with 40% probability. Now using this function, write a new function that returns 0 with 50% probability and 1 with 50% probability."}
+{"i": "7892661", "t": "An array of integers contains negative numbers and positive numbers, then arrange the array in that way sothat -ve number and +ve number in alternative place. remaining extra -ve number or +ve number put at last.\re.g. \r-1 -2 4 5 6 -3 9 -8 7\routput: -1 4 -2 5 -3 6 -8 9 7"}
+{"i": "7874673", "t": "TO write the String Tokeniser function for strseps.lib using pointers in C"}
+{"i": "7890667", "t": "how to crash your system immediately?"}
+{"i": "7890662", "t": "Preparing sets from a given array with min complexity.\rS1=1,2,3,4,5\rstes = {1},{2},{3},{4}..{1,2},{1,3}..{1,2,3,4,5}"}
+{"i": "7886668", "t": "Implement Queue using Stack. Help to get a code with resolving complexity."}
+{"i": "7880667", "t": "Write a new function Malloc(size, alignment) which uses the old malloc but also returns an aligned address!!!"}
+{"i": "7867672", "t": "What is Memory Alignment? \rCan Two Processes have the same Virtual Address?\rDifference between a MUTEX and a SEMAPHORE?\rDoes Malloc give a memory aligned address? \rWhat is MMU made up of? (with reference to data structures)"}
+{"i": "7867671", "t": "Program to reverse the linked list!"}
+{"i": "7880666", "t": "Write a C program to interchange the nodes of a linked list. Consider the linked list 1->2->3->4->5. You should get the o/p as 2->1->4->3->5. The pointers should be exchanged not just the data!"}
+{"i": "7879668", "t": "Implement a MACRO(i,j,k) where i is a Hex number, j is the bit position and k is 0/1. So based on k, jth bit in i should be replaced. (Not no IF stmts allowed nor For loops in a macro)"}
+{"i": "7881666", "t": "We have an array of bytes, every elements of array contains '0010011' type of representation. Write a java program which can find how many 1's are there in array."}
+{"i": "7886666", "t": "If we add a signed integer and a unsigned integer, will the result be signed or unsigned? What I guessed was signed, but after searching online for a while, looks like I was wrong. Can anybody give more detailed explanation?"}
+{"i": "7877668", "t": "You have n infinitely large sorted streams, and you have to get an output stream which returns the combined stream..\r end of the battle!"}
+{"i": "7865671", "t": "difference between array and pointer"}
+{"i": "7888662", "t": "how can u find the size of structure."}
+{"i": "7866666", "t": "How can four employees calculate the average of their salaries without knowing other's salary?"}
+{"i": "7884664", "t": "Given N students, find the number of ways the students could be ranked. Also one or more students can have ties and can have the same ranks. I was stumped at this question. Seem like a dp question?? Any suggestions?"}
+{"i": "7866661", "t": "-Binary Tree - BFS without recursion.\r I used queue for this.\r - Flood fill algorithm"}
+{"i": "7853661", "t": "How to print this:\r1\r11\r21\r1211\r111212\r31121112\r this means you have to count like. In first line there is ' one 1 that's why second line is '11', now in second line is 'two 1', so third line is '21'. We have to count the appearance and print the number of appearance and number."}
+{"i": "7852661", "t": "I heard some people mentioning an onsite test for developer position. I was wondering if any of you had to take it. Also, what kind of questions were on it? Thanks!"}
+{"i": "7850661", "t": "I was asked basic loop detection in a linked list problem. I answered it. But the follow up question made me stuttered. \r \" How do you find the beginning or starting point  of the loop in the linked list \". Anyone have any idea?"}
+{"i": "7831664", "t": "Given a string (assume there no spaces or punctuations), write a code that returns the max. length of the string that has repeated more than once."}
+{"i": "7832672", "t": "What are stacks and queues? Give an example for each."}
+{"i": "7833669", "t": "Give a set of phone numbers. Check if there are any duplicates. only algorithm."}
+{"i": "7846662", "t": "There is one pdf file with lots of Unix commands and text. Write a java program to read that file and execute those commands on DOS (Windows) and output should be displayed on console also And copy that file on some other place also as it is."}
+{"i": "7842664", "t": "There is a Furniture class and has derived classes like WoodChair,WoodTable,SteelChair,SteelTable. She wants to add more number of classes like ironchair,irontable etc; How would you do that. The design is not yet published and you are free to modify the entire sutff given."}

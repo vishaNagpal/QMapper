@@ -1,0 +1,30 @@
+{"i": "1787748", "t": "Given a binary matrix, find out the maximum size square sub-matrix with all 1\r  consider the below binary matrix.\r    0  1  1  0  0\r   1  1  0  1  0\r   0  1  1  1  0\r   1  1  1  1  0\r   1  1  1  1  1\r   0  0  0  0  0\r Then the result should be\r     1  1  1\r    1  1  1\r    1  1  1"}
+{"i": "1706879", "t": "assume your computer is reading characters one by one from a stream (you don't know the length of the stream before ending). Note that you have only one character of storage space (so you cann't save the characters you've read to a something like a strong). When you've finished reading you should return a character out of the stream with equal probability."}
+{"i": "1808666", "t": "Unix: You have 50,000 html files in a UNIX directory structure, some of which contain phone numbers in the format ***-***-****. How would you create a list of all the files which contain phone numbers? (Assume that you already have the regular expression)"}
+{"i": "1760871", "t": "Given an array of integers where some numbers repeat 1 time, some numbers repeat 2 times and only one number repeats 3 times, how do you find the number that repeat 3 times."}
+{"i": "1812661", "t": "If X,Y and Z are three random variables where their pairwise correlations are the same. \ri.e. corr(X,Y)=corr(Y,Z)=corr(X,Z)=rho\rWhat are the possible values of rho?"}
+{"i": "1809661", "t": "Oncampus Question:\r 1) Delete a node from singly linked list given head pointer and pointer of the node.\rVariation: How you delete the node given that you cant delet the node. ex: head->1->2->3->4->NULL. How you delete 3 from list given that you can't do anything to node 3.\r Write test cases of all."}
+{"i": "1701871", "t": "Return count from an integer array of size 15 when the sum of sub array is 25"}
+{"i": "1724872", "t": "If there are two structs, TreeNode and Tree. TreeNode contains 3 elements, data, lChild and rChile. Tree contains 2 elements, int size and TreeNode *root. The tree is a complete tree. So how to find a O(logN) approach to insert a new node."}
+{"i": "1745890", "t": "given a \"directed\" graph, write an algo to figure out if the given graph is a tree."}
+{"i": "1737881", "t": "convert a binary tree to binary search tree inplace. We cant use any xtra space."}
+{"i": "1718869", "t": "Find the GCD of two numbers."}
+{"i": "1728856", "t": "Why don't we use malloc in embedded systems ? How is memory allocated in Embedded systems ?"}
+{"i": "1785759", "t": "You have a string which stores a number with commas. For example, a string that has the number 345,000,000. How will you manipulate this string in-place [without using any extra memory] so that the output is the original string without any commas in O(n) ?"}
+{"i": "1807662", "t": "How will you find out if a stack grows up or down in a system ? More importantly, which is better: a system in which the stack grows up or one in which a stack grows down ?"}
+{"i": "1709875", "t": "You have a system in which there is a timer that interrupts the system every 20ms. If the system is interrupted, an ISR runs to handle that interrupt. How will you design your system to find if that ISR runs for more than 20ms [in most cases an ISR will be very short...but assume in this case its not] ?"}
+{"i": "1718868", "t": "count no. of bits of -ve number"}
+{"i": "1772826", "t": "Given two character strings, find whether these are anagrams."}
+{"i": "1740878", "t": "Given a puzzle that there are n statements such that each ith statement says that that many statements are false. Identify the number of true statements for a given N statements."}
+{"i": "1737878", "t": "Q)A collection of n rectangles in the plane, determine whether any two intersect in O(n log n) time....btw a rectangle can be represented as a[4][2] and n such as b[n][4][2]"}
+{"i": "1772824", "t": "A calculator with only \":=\" and \"x\". Given a and n, find the smallest number of multiplications to compute b=a^n"}
+{"i": "1782796", "t": "Mulitple questions (about 10) about - \"how did you?\", the situations were mainly evolving leadership issues"}
+{"i": "1750878", "t": "Questions about - creating a view, what is a cursor used for, what is an index used for, how to create a procedure query"}
+{"i": "1743873", "t": "Explain a time when you did not get alogn with something higher managment wanted to implement. How did you handle that?"}
+{"i": "1754857", "t": "Explain what is in a deployment descriptor file? give an example of a deployment descriptor"}
+{"i": "1725855", "t": "Explain what is defined in the .jar, .ear, and .web files for a J2EE application?"}
+{"i": "1729859", "t": "inplace merging of 2 arrays in less then 0(n*2). I suggested some sorting mechanism and at the same time checking in which array element shoudl go"}
+{"i": "1741850", "t": "Consider a language of an Alphabet set. You do not know the precedence order over the alphabet. You are then given a set of words coming from the language in the sorted order. Can you find the precedence order on the alphabet set ? How ? Discuss various cases."}
+{"i": "1745885", "t": "How to completely delete a linked list with circle?He needed an actual code not psuedo code"}
+{"i": "1798696", "t": "what is complexity of merging 2 linklist"}
+{"i": "1737874", "t": "Give examples of cases where you would prefer to pass objects/variables by reference instead of value?"}

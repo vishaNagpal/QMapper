@@ -1,0 +1,30 @@
+{"i": "58142", "t": "Given an array of positive and negative numbers, find the maximum sum of any subsequence.  Return both the sum and the subsequence."}
+{"i": "58132", "t": "1. Implement memcopy considering the overlap\r2. Given a linked list:\r a->b->c->d....\rWrite a function to swap the each node pair , such that output will be as follows:\rb->a->d->c->..."}
+{"i": "57917", "t": "Thanx a lot career cup..i got placed into microsoft. it was a campus interview a few days ago. studying the questions on this website helped me a lot and gave me the confidence 2 questions put up in the interview.\r it consisted of three rounds\r1)technical test consisting of 5 questions for 75 mins.\r2)next was a 1hr round in which two questions were to be solved.\r3)final round consisted of 2 45min 1 on 1 interviews.\r I was only asked DSA an implementation in C an also a few good puzzles.\r all the best 2 other aspirants...be confident and prepare well with CAREER CUP."}
+{"i": "58126", "t": "what do you mean be data structures?"}
+{"i": "58125", "t": "What is a singleton?"}
+{"i": "58474", "t": "Explain : 'ls', 'group', 'pwd' etc..."}
+{"i": "58104", "t": "Design tv remote control for children under age 6"}
+{"i": "58103", "t": "something similar to towers of hanoi.. 10 disks of diff sizes ..5\roperations removeblock, putblock, findblock, isempty, isfull given.. no other ops can be assumed. sort the disks in ascending order"}
+{"i": "58102", "t": "Design a social networking site for mobile phones. What are the 5 key features?"}
+{"i": "58101", "t": "You are given a table containing projectname, startdate, end date.  You have another table containing projname, developername, testername are given as on mar 24.  The project can be in any of the three states: planned, coding in progress, delivered(given to testers).  Draw a chart showing the project state per developer as on mar 26"}
+{"i": "57896", "t": "Which routing protocol will you use if you have 50 nodes in each area? Choose between OSPF , RIP and explain."}
+{"i": "58100", "t": "How will you test if you are given a black box , means you dont know whats inside it or which company is it .. You just know tht it is company covered by black paper."}
+{"i": "58099", "t": "Why does BGP uses Full-Mesh?"}
+{"i": "57895", "t": "What are the 7 stages through which OSPF converges."}
+{"i": "58095", "t": "Say you are using a map in your program, how would you count the number of times the program use put() and the get() function? How would you do that if its using multiple maps in the program? How would you do that if the map is sent as a parameter in a method? How would you do it if the multiple maps are passed into the methods (as parameters), and are use differently? (it went on forever....)"}
+{"i": "58094", "t": "What is the difference between Final, Finally, and Finalize?"}
+{"i": "58093", "t": "What does the \"Static\" keyword do? Do you know any other similar keywords? What are they?"}
+{"i": "57892", "t": "Write code to reverse a single linked list"}
+{"i": "58086", "t": "Given a function \rint strcspn(char * source, char * search)\r code the most efficient way to return the index of first character that matches in the source string. \reg#\r source =\"ttbbcca\"\rsearch =\"ggabba\"\r the returned value is 6 since the first match \"a\" occurs at 6th index in source string."}
+{"i": "57862", "t": "Given a array that contains N integer, find a most efficient way to shuffle the array elements."}
+{"i": "57566", "t": "What will be the output of the following code for input values (2,2) and (3,3):\r int fun(unsigned int m, unsigned int n)\r{\rif(m==0) return n+1;\r if(n==0) return (fun(m-1,n+1));\rreturn (fun(m-1,fun(m,n-1)));\r}"}
+{"i": "57582", "t": "Implement float returnAngle(int hour,int min) that tells you the angle between the hour and the minute hands on a clock.\r so basically at 2:00 the angle is 60deg, the function should return 60."}
+{"i": "57486", "t": "Tell me the algorithm for fibonacci series? (When i said there are two - recursive (time effcient) and iterative (otherwise)) Explain the recursive one? What is the time complexity? Why is it O(log n)?"}
+{"i": "57468", "t": "Explain any one routing protocols in detail. eg BGP , OSPF , RIP etc"}
+{"i": "57410", "t": "What do you know about Java generics"}
+{"i": "57376", "t": "What is Little Endian and Big endian ?"}
+{"i": "57339", "t": "What are shared resources?"}
+{"i": "57338", "t": "what is object reflection in Java"}
+{"i": "57337", "t": "How does Java achieve synchronization? Given an class with Synchronized method A and B, a normal method C, there are 2 threads, one instance, can these two threads call A at the same time? call A and B at the same time? A & C at the same time?"}
+{"i": "57336", "t": "Find the two integers in an array whose sum equals to a given value"}

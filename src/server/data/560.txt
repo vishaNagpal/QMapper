@@ -1,0 +1,30 @@
+{"i": "208883", "t": "Given an application which is installed which is not coming up like gtalk. give the testcases for it."}
+{"i": "213848", "t": "Given program to write the Max product of the three numbers for a given array of size N."}
+{"i": "208882", "t": "Write all the test cases scenarios to test a save draft feature in the mobile phone."}
+{"i": "208881", "t": "Given an api [int sum(int ,int)] write all the test cases for it."}
+{"i": "208880", "t": "Write a program for a function which takes two lists(l1,l2) and return a node which merges the two list as follows.\r      l1:a ->b->c->d ->null   \r     l2: 1->2->3->4->null\r            l3: a->1->b->2->c->3->d->4->null"}
+{"i": "213836", "t": "Write a program which takes a integer number and adds all the digit in the number. It should return a single digit in the end.cc"}
+{"i": "213791", "t": "Write code to print all combinations of a string"}
+{"i": "213789", "t": "object oriented design of a general messaging system aka publish-subscribe"}
+{"i": "208832", "t": "Given really large (beyond normal memory limits) with data in some sort of tokenized format,\r write code to print top \"n\" frequently occuring data."}
+{"i": "213788", "t": "consider an integer array , for ex: [3,5,2,4,1,1,,6]\r Permutation of array means  re-arrangement of elements in different indexes.\r Comparing 2 permutations would be similar to string sorting,i.e index 0, index 1 , index 2 etc.\r Question , Given an integer K, right code to print array permutation at Kth position.\r Asked to write code and dictate"}
+{"i": "213786", "t": "given a file with heirarchial input like below.. create xml representation..\r  a.b.c=1\ra.b.d=4\ra.e=6\r input can be assumed to be sorted and is heirarchial in nature.\r output should look like\r<a><b><c>1</c><d>4</d></b><e>6</e></a>\r  asked general algorithm and approach."}
+{"i": "208830", "t": "Design the classes and object for a file system."}
+{"i": "208829", "t": "Write code to reverse a string. Optimize it."}
+{"i": "213784", "t": "Write a method fill up an array of size n - and returns the array to the caller - with the following conditions\r 1. the numbers shud be between 0 to n-1\r2. no repeated numbers\r3. the method should have a deterministic time to fill the arrays\r4. arrays returned from the method should have low-correlation factor"}
+{"i": "208820", "t": "What is the use of static functions in C"}
+{"i": "208818", "t": "Given 2 set of arrays of size N(sorted +ve integers ) find the median of the resultant array of size 2N.\r(dont even think of sorting the two arrays in a third array , though u can sort them. Try something better than order NLogN )"}
+{"i": "213774", "t": "Given two arrays of numbers, find if each of the two arrays have the same set of integers ? Suggest an algo which can run faster than NlogN without extra space?"}
+{"i": "213773", "t": "Given two arrays of numbers, find if each of the two arrays have the same set of integers ? Suggest an algo which can run faster than NlogN without extra space?"}
+{"i": "213772", "t": "Given 2 set of arrays of size N(sorted +ve integers ) find the median of the resultant array of size 2N."}
+{"i": "208811", "t": "Give an example of circular linkedlist in windows system"}
+{"i": "213712", "t": "Write an program to add and subtract two numbers, the numbers can be of any length you can chose of language."}
+{"i": "208753", "t": "Convert a decimal number to its roman numeral representation. Now write a program to do the reverse."}
+{"i": "208747", "t": "You are a given a very large line delimited file\rwith a phone number on each line. How would you remove all duplicates? can you remove duplicates in less than O(n). if yes how?"}
+{"i": "213692", "t": "How would you test an instant messaging app for a cell phone?"}
+{"i": "213691", "t": "How would you test a vending machine?"}
+{"i": "213690", "t": "How would you test Bing?"}
+{"i": "208732", "t": "Write a function that generates random numbers between 1 and a billion."}
+{"i": "208731", "t": "Write a function that gets an integer and returns its string representation in Roman numbers. \r Write test cases."}
+{"i": "213689", "t": "Write a function that returns all the prime numbers from 1 to a given number.\r Write test cases."}
+{"i": "208730", "t": "Input: string s, char a, char b, int distance\r Return true if both a and b exist and the distance between then <= the distance in the input.\r Write test cases."}

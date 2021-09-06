@@ -1,0 +1,30 @@
+{"i": "3340667", "t": "Provided a array of size 100 stuffed with ONLY 99 values from 1 to 100 ,SO array size is 99 now .\r How can you find the 100th value in that array ?\r Answer is Mathamtic Progession .\r Add 1 to 100 Lets say X\radd 99 elements in array Lets say Y\rX - Y is our answer ."}
+{"i": "3266666", "t": "Testing a text box."}
+{"i": "3304667", "t": "Testing a object(paper weight) kind of question."}
+{"i": "3327666", "t": "implement File.Copy functionality in C#"}
+{"i": "3336665", "t": "find the maximum subsequence sum in a linked list. Consider the node as shown below.This node class has a extra item isvertex which determines whether the node is a vertex r not.\rso find the longest distance between any 2 vertex in the linked list.\r Node SLL{\rint data;\rNode n;\rbool isVertex;\r}"}
+{"i": "3312666", "t": "How to find the missing K elements out of the unsorted natural N elements in an integer array.\rTime complexity has to be O(n), with 3 extra variables of Space."}
+{"i": "3279665", "t": "Given an array of size n.find 2 numbers from array whose difference is least."}
+{"i": "3339662", "t": "Cyclic shift by K the given array of length N in the best time and O(1) memory."}
+{"i": "3271667", "t": "Remove unnecessary from an expression :\r1) (((a))) => a\r2) (a+b) => a+b\r3) (a+b)*c => (a+b)*c\r4)(((a+b)*(c+d))+e) => (a+b)*(c+d)+e"}
+{"i": "3283667", "t": "char* NewLine(char* s)\r{\rchar buffer[1024];\rl = strlen(s);\rstrcpy(s,buffer);\rs[l]='\\n';  // Add a new line character to s;\rreturn s;\r}\rWhat is the output? What is the problem with the code if any?"}
+{"i": "3280664", "t": "Suppose you a have function which returns a word char* GetWord() from a document. Write a data structure which holds the words in the most efficient way. If the words are repeated, find the number of repeated words.\ra)What data structure you used?\rb) What algorithm you implemented?\rc) What is the level of the algorithm."}
+{"i": "3278663", "t": "Merge two linked lists: Node* MergeList(Node *list1, Node* list2). Do not create a node in the function while merging the lists.\rStruct Node{\rint data;\rstruct node* p;\r}"}
+{"i": "3281666", "t": ". A's population is 68000 and it decreases by 80 per year. B's population is 42000 and it increases by 120 per year. After how many years both cities will have same population?"}
+{"i": "3314662", "t": "Sum of digits of a 2 digit number is 8. When 18 is added to the no, the digits gets reversed. Wat is the"}
+{"i": "3296665", "t": ". Successive discounts of 20% and 15% are equal to a single discount of ?"}
+{"i": "3335662", "t": "write code to print an upper trangular array.if ni of line is given as 4"}
+{"i": "3312664", "t": "write code to find second highest value of an integer array using a single for loop."}
+{"i": "3328664", "t": "Write a program to print an unsigned integer that is greater than a given unsigned integer but has the same number of 1's in binary form."}
+{"i": "3266663", "t": "You are given n strings. You have to find whether a chain can be formed with all the strings given namely n ?\rA chain can be formed between 2 strings if last character of the 1st string matches with the first character of the second string. Also print the chain numbers"}
+{"i": "3268666", "t": "Count the number of Bits that are set in a floating point number"}
+{"i": "3322664", "t": "Can someone tell me abt the written test of AMAZON for campus placements.."}
+{"i": "3320663", "t": "You have an array like ar[]= {1,3,2,4,5,4,2}. You need to create another array ar_low[] such that ar_low[i] = number of elements lower than or equal to ar[i] in ar[i+1:n-1]. \rSo the output of above should be {0,2,1,2,2,1,0}\r Time complexity : O(n)\ruse of extra space allowed."}
+{"i": "3315662", "t": "given a string find the number of distinct substrings of the string.\rex:\rinput-> aaaa\routput-> 4(a, aa, aaa, aaaa)\rinput->abcd\routput->10(a, b, c, d, ab, bc, cd, abc, bcd, abcd)"}
+{"i": "3288664", "t": "Given a array A[] and a number x, find the subarray who's sum is equal to x. A[] contains both positive and negative numbers."}
+{"i": "3268664", "t": "Given a set T of characters and a string S , find the minimum window in S which will contain all the characters in T in complexity O(n) ."}
+{"i": "3262662", "t": "Find the least common ancestor ."}
+{"i": "3265665", "t": "How to do level order traversal using recursion ?"}
+{"i": "3303663", "t": "How to calculate sum of levels in binary tree ?"}
+{"i": "3259665", "t": "Write an iterator that returns 10% true and false otherwise. The interviewer was not at all clear about the question and eventually skipped the question when asked more about it."}
+{"i": "3315661", "t": ". A single threaded Win32 GUI application has multiple top-level windows. In a message handler for one of the windows, it displays a modal dialog (for example, by using the MessageBox function). The other windows in the application still work as usual, even though the only thread in the application is waiting for the modal dialog result.\rDescribe how this behavior works."}

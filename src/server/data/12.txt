@@ -1,0 +1,30 @@
+{"i": "6511627115954176", "t": "What is dao in java?"}
+{"i": "5663089083547648", "t": "How to set classpath in java?"}
+{"i": "5410218807132160", "t": "What is autoboxing and unboxing in java?"}
+{"i": "6319547789869056", "t": "How to convert string to date in java in yyyy-mm-dd format?"}
+{"i": "6575220096237568", "t": "what is mvc in java?"}
+{"i": "6286871410245632", "t": "When to use comparable and comparator in java with example?"}
+{"i": "5420248075862016", "t": "Which class contains the clone method? Cloneable or Object?"}
+{"i": "5161485439860736", "t": "Is ++ operator is thread-safe in Java?"}
+{"i": "6305837398622208", "t": "What are object serialization and deserialization?"}
+{"i": "5177507194601472", "t": "What is servlet in java?"}
+{"i": "5079477049098240", "t": "How to create immutable class in java?"}
+{"i": "6332279280893952", "t": "What is serialization in java?"}
+{"i": "4846701632815104", "t": "How to use getline in C++?"}
+{"i": "5973168760553472", "t": "How to split a string in C++?"}
+{"i": "6279855983820800", "t": "How to call base class constructor from derived class in C++?"}
+{"i": "5943048071020544", "t": "What is oops in C++?"}
+{"i": "6464851633766400", "t": "What is runtime polymorphism in C++?"}
+{"i": "5948677162532864", "t": "How is modularity introduced in C++?"}
+{"i": "5074919015055360", "t": "How to remove segmentation fault in C++?"}
+{"i": "5153956076978176", "t": "What is friend function in C++?"}
+{"i": "5449320189394944", "t": "What is inline function in C++?"}
+{"i": "5066768509304832", "t": "Which is the best C++ compiler?"}
+{"i": "5101951002345472", "t": "How to maximize turbo C++ window?"}
+{"i": "5310765601390592", "t": "How to write to a file in C++?"}
+{"i": "5160971503403008", "t": "How to find the length of the string in C++?"}
+{"i": "6043890749014016", "t": "What is :: in C++?"}
+{"i": "5716906030399488", "t": "What is conio.h in C++?"}
+{"i": "5664900955766784", "t": "How to find absolute value in C++?"}
+{"i": "5338951726923776", "t": "How to generate random numbers in C++ with a range?"}
+{"i": "5531309420576768", "t": "How to use goto statement in C++ ?"}

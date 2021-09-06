@@ -1,0 +1,30 @@
+{"i": "62240", "t": "Reverse a string , . don't use any temp variable to store the string ."}
+{"i": "62221", "t": "Identify the regular expression in a given string such that the pattern does not repeat. For example, to identify the pattern 'foo' only once in an input.\r'jhkhfoojkkj' should be identified right\r'kjhfooaaaaafoo' should not be"}
+{"i": "62018", "t": "A person can take one or two steps at a time to reach a particular floor( say in a building). How many different ways can a person reach the nth floor?"}
+{"i": "62017", "t": "Implement memcpy(void* src, void* dst, int len)"}
+{"i": "62007", "t": "I was asked how to select M numbers from N existing numbers randomly and fairly (N>M). Example, assume that there are 10 numbers, you need to select 3 numbers from them randomly."}
+{"i": "62199", "t": "calculate how many days between two given date."}
+{"i": "62198", "t": "How to test a vendor machine, give me some test cases."}
+{"i": "61965", "t": "Minimum Common ancestor of given two values in the Binary tree"}
+{"i": "61964", "t": "What is the difference between these two statements\rvoid (*p) (void *a[],int n)\rvoid *(*p[]) (void *a, int n)"}
+{"i": "61954", "t": "how to test \rHRESULT drawpoint(int x,int y, Color c)"}
+{"i": "61953", "t": "given string\rinput1, input2, remove wherever the occurence of input2 in input1.\re.g:\rinput1: abcthabdtheshhtexyztheaaa\rinput2: the\rwill become abcthabdshhtexyzaaa\rgive the test cases."}
+{"i": "61948", "t": "Position is in London.\rI had a telephone interview HR round - typical HR questions\r1. Why are leaving the current role\r2. What do you know about Bloomberg\r3. Salary expectations\rHR described about the role in detail and asked if any questions."}
+{"i": "61927", "t": "Implementation of Polymorphism in C++?"}
+{"i": "61926", "t": "Difference between C# and Java?"}
+{"i": "61925", "t": "Tell the 7 layers of the Networking Protocol Stack?"}
+{"i": "61924", "t": "Difference between TCP and UDP?"}
+{"i": "62086", "t": "given an array of positive numbers and negative numbers devise an algo to find max non-consecutive sum in that array.complexity should be in o(n)."}
+{"i": "61866", "t": "what is segmentation fault? given an example of when seg fault would occur"}
+{"i": "61865", "t": "Find first prime number greater than number given in input"}
+{"i": "61864", "t": "Find all the prime factors of a number entered"}
+{"i": "61863", "t": "Find the largest prime factor of a number"}
+{"i": "61545", "t": "In your opinion, what is the most important part of a sale or sales process?"}
+{"i": "61544", "t": "What would your previous boss say about you if I called him today?"}
+{"i": "61720", "t": "How do you deal with rejection / failure / a lost sale?"}
+{"i": "61719", "t": "What is your greatest professional strength?  Conversely, what is your greatest professional weakness?"}
+{"i": "61718", "t": "How have you used partners / vendors / the sales channel to help you in your sales in the past?  Describe some of your relationships."}
+{"i": "61717", "t": "Tell me about the sale you are most proud of.  Describe the sales process you went through."}
+{"i": "61716", "t": "What do YOU like about working here?"}
+{"i": "61693", "t": "What do you know about our competition?"}
+{"i": "61530", "t": "Why do you want to work here?"}

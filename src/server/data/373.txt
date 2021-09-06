@@ -1,0 +1,30 @@
+{"i": "13378673", "t": "In a multi-threaded process,If one thread is busy on I/O will the entire process be blocked?"}
+{"i": "13562662", "t": "Assuming there's no Array data structure in C, how would you implement it."}
+{"i": "13550670", "t": "You have a stream of integers in ascending order and they keep coming \u2013 how would you find if a particular integer is in this array."}
+{"i": "13561662", "t": "what are the different forms of IPC in UNIX?"}
+{"i": "13378671", "t": "what is better(why and how): multi processes OR single process with multiple threads?"}
+{"i": "13384672", "t": "what happens if the parent process ends before the child process?"}
+{"i": "13560662", "t": "how do applications communicate with kernel?"}
+{"i": "13540677", "t": "What is the contract between compareTo() and equals()"}
+{"i": "13554679", "t": "Find the minimum number of steps a knight should to kill the opponent in the game of chess (assuming the opponent does not move)."}
+{"i": "13406688", "t": "A huge file contains comma separated long values. File can not be accomodated in memory. WAP to find out the duplicate longs in the file."}
+{"i": "13513667", "t": "Question: You have 25 bicyclists and 5 Bicycles. You have to find the best 3 Bicyclists in these 25. How many number races you will have to find the best 3.\r These question are asked in Amazon written test for Testing Posts."}
+{"i": "13555669", "t": "Question: You are using a phone which is having an problem that it gets switched off automatically within 2 minutes when talking in phone. Tell steps which you try  to identify what the exact problem and if then tell the steps to resolve it."}
+{"i": "13406684", "t": "Two words are friends if they have a Levenshtein distance of 1 (For details see http://en.wikipedia.org/wiki/Levenshtein_distance). That is, you can add, remove, or substitute exactly one letter in word X to create word Y. A word\u2019s social network consists of all of its friends, plus all of their friends, and all of their friends\u2019 friends, and so on. Write a program to tell us how big the social network for the word 'hello' is, using this word list https://raw.github.com/codeeval/Levenshtein-Distance-Challenge/master/input_levenshtein_distance.txt\rInput\r Your program should accept as its first argument a path to a filename.The input file contains the word list. This list is also available at https://raw.github.com/codeeval/Levenshtein-Distance-Challenge/master/input_levenshtein_distance.txt.\rOutput\r Print out how big the social network for the word 'hello' is. e.g. The social network for the word 'abcde' is 4846."}
+{"i": "13460668", "t": "given an array of positive integers A and the numbers N and S. Determine the number subsets of A of size S which sum up to N.\r e.g. A[] = {1,2,5,3,6}\rN = 9, S = 3\rthen we have 2 subsets of size 3: 1+3+5 and 1+2+6"}
+{"i": "13554663", "t": "Consider two singly linked list. Two linked list might or might not merge at a node. Find the merge node."}
+{"i": "13555662", "t": "Implement the Indexof function to find a substring from a given string."}
+{"i": "13489670", "t": "Consider a singly linked list of characters. Find if the linked list is palindrome or not. Without using another DS, in-place checking was preferred."}
+{"i": "13554662", "t": "Consider a task which need to be scheduled. Need to maintain the detail of the task. Task can be executed by specifying some delay time. Design a task and function void Schedule(Task, delay). The task should have the capability to execute when CreationTime + delay is reached."}
+{"i": "13394676", "t": "Given a BST. Replace the node value with the sum of all the node values that are greater than the current node value."}
+{"i": "13526675", "t": "implement java code which takes aA1Bbc2@C3 as input and prints abcABC@6 as output"}
+{"i": "13382684", "t": "Given a graph based on a set of nodes and links, write a program that shows all the possible paths from 2 distinct nodes. It is up to you to decide what kind of structure you want to use to represent the nodes and links.\r Example:\r Let's say there are 4 nodes, named as 'a', 'b', 'c', 'd'.\rAnd there are 4 links that connect 'a & b', 'b & d', 'a & c', and 'c & d', so that it will form a graph like the following:\r   ---- b ----\ra             d\r  ---- c ----\r If the source is 'a', and the destination is 'd', your program should return:\r a - b - d\ra - c - d"}
+{"i": "13394672", "t": "You are given a function printKDistanceNodes which takes in a root node of a binary tree, a start node and an integer K.  Complete the function to print the value of all the nodes (one-per-line) which are a K distance from the given start node in sorted order. Distance can be upwards or downwards."}
+{"i": "13543663", "t": "x = x++ + ++y;\ry = ++x + ++y;\rwhat are the values of x,y after these are executed ?"}
+{"i": "13535662", "t": "reverse the words in a sentence: \"hello world\" -> \"world hello\""}
+{"i": "13532675", "t": "given two integers and two bit positions. Set the first integer between the two bit positions to be that of the second integer."}
+{"i": "13406676", "t": "implement sqrt(x)"}
+{"i": "13523667", "t": "Difference between constant char pointer and constant pointer to a char."}
+{"i": "13361673", "t": "Code to find endianness of a machine."}
+{"i": "13541665", "t": "* You are given 2 eggs.\r* You have access to a 100-storey building.\r* Eggs can be very hard or very fragile means it may break if dropped from the first floor or may not even break if dropped from 100 th floor.Both eggs are identical.\r* You need to figure out the highest floor of a 100-storey building an egg can be dropped without breaking.\r* Now the question is how many drops you need to make. You are allowed to break 2 eggs in the process."}
+{"i": "13541662", "t": "Describe an algorithm to solve the following problem. Given an undirected graph G =\r(V, E) and a vertex v, compute for each vertex w in the graph G the number of shortest\rpaths from v to w.  Can we do it in O(|V| + |E|) ?"}

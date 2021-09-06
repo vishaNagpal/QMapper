@@ -1,0 +1,30 @@
+{"i": "6579729056923648", "t": "What is the difference between function and stored procedure?"}
+{"i": "6447259447721984", "t": "What are EXE and DLL?"}
+{"i": "5588529726357504", "t": "How to measure the ROI of any channel?"}
+{"i": "6070845695328256", "t": "What is conversion optimization?"}
+{"i": "6452053839183872", "t": "How can you use YouTube for Digital Marketing?"}
+{"i": "5254618701889536", "t": "Which platform would you prefer to put Job-related advertisements?"}
+{"i": "6350472829468672", "t": "What are the 3 ingredients of Digital Marketing?"}
+{"i": "5273545414803456", "t": "What are the four C\u2019s of Digital Marketing?"}
+{"i": "4931664810082304", "t": "What are long-tail keywords?"}
+{"i": "6071567249833984", "t": "Explain how AdWords work."}
+{"i": "5321359540879360", "t": "Why is online marketing preferred more than offline marketing?"}
+{"i": "4727095450664960", "t": "What is Content Marketing?"}
+{"i": "4680206822932480", "t": "What do you know about Email Marketing?"}
+{"i": "5224572922626048", "t": "How can you use social media for marketing?"}
+{"i": "5385350795493376", "t": "What is the use of anchor text in SEO?"}
+{"i": "5240396857212928", "t": "What are the limitations of Online Marketing?"}
+{"i": "5381579679989760", "t": "What is the difference between direct marketing and branding?"}
+{"i": "5242472215609344", "t": "What are the most effective ways to increase traffic to your website?"}
+{"i": "6159878085672960", "t": "What are the different types of Digital Marketing?"}
+{"i": "5018922305191936", "t": "Explain Digital marketing?"}
+{"i": "5817568655310848", "t": "What is your experience with co-marketing campaigns?"}
+{"i": "5033978178830336", "t": "What is your approach to structuring a marketing budget?"}
+{"i": "6456988018409472", "t": "What was your past experience in Digital Industry?"}
+{"i": "5883310243315712", "t": "Why would our company need your expertise in Digital Marketing?"}
+{"i": "5948300748914688", "t": "What is your major expertise in Digital Marketing?"}
+{"i": "5469379834150912", "t": "How will you set-up, track and analyze whether a campaign you conducted was a success?"}
+{"i": "5875274091069440", "t": "What is your approach to edit a copy?"}
+{"i": "5025579772936192", "t": "What do you know about Viral Marketing?"}
+{"i": "5382299825209344", "t": "What off-page SEO tools do you use for backlinks?"}
+{"i": "6260053701558272", "t": "Do you know the latest Digital Marketing trends?"}

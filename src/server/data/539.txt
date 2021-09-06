@@ -1,0 +1,30 @@
+{"i": "387419", "t": "What do you know about our company?"}
+{"i": "387418", "t": "Explain these terms: SCSI, FCP and iSCSI."}
+{"i": "374756", "t": "Tell me about a situation where you had to speak up in order to put across a point that was important to you."}
+{"i": "374755", "t": "Describe a time you failed at something. How did you handle it?"}
+{"i": "375756", "t": "What interests you least about this job? What did you enjoy least about your last job?"}
+{"i": "374742", "t": "How would you design parallel access to a filesystem?"}
+{"i": "375741", "t": "How would you test a soda machine?"}
+{"i": "374741", "t": "How would you implement the Unix fork() system call. What are the data structures involved in this process?"}
+{"i": "374710", "t": "Name a few UNIX filesystems you have come across."}
+{"i": "375712", "t": "What is the use of the superblock in a UNIX filesystem?"}
+{"i": "374709", "t": "Compare and contrast a filesystem and a database."}
+{"i": "374707", "t": "We have 3 declarations of the variable in in 3 C files as follows:\rint i=100;\rextern int i=100;\rstatic int i=100;\r Now we feed these files into a compiler to create one program. \r What happens?"}
+{"i": "375701", "t": "What's the most important thing you've learned in school?"}
+{"i": "374697", "t": "What are two positive character traits you don't have?"}
+{"i": "375700", "t": "Can you describe a time when you were criticized for your work?"}
+{"i": "374695", "t": "Discuss the advantages and disadvantages of using a hash table and a binary tree."}
+{"i": "375694", "t": "Explain the terms: latency and throughput. How are they related and how are they different?"}
+{"i": "374694", "t": "Discuss one of the small innovations you made and how it led to solving a real life problem."}
+{"i": "374683", "t": "Explain how a context switch happens."}
+{"i": "375681", "t": "What does the wmb instruction do?"}
+{"i": "374682", "t": "Write a program to reverse the order bits in a number. Try to optimize it."}
+{"i": "374676", "t": "What is firmware? What is a device driver? How are they related and how are they different?"}
+{"i": "374675", "t": "What all did you do to improve the conditions in your college?"}
+{"i": "375674", "t": "What is a snapshot? Why is it useful?"}
+{"i": "386540", "t": "What is the tradeoff involved in increasing the RAID stripe size?"}
+{"i": "387399", "t": "Can we assign a hot spare to a RAID0 array?"}
+{"i": "387398", "t": "What is the difference between RAID 0+1 and RAID 1+0?"}
+{"i": "386537", "t": "How are system calls implemented?"}
+{"i": "387394", "t": "Add two 64 bit numbers on a 32 bit machine."}
+{"i": "387391", "t": "Describe what happens in an ISR."}

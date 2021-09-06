@@ -1,0 +1,30 @@
+{"i": "296810", "t": "Repeated question:  write code for aligned malloc and free."}
+{"i": "295870", "t": "A dictionary is given. You have a word which may be misspelled. How will you check if it is misspelled?"}
+{"i": "296757", "t": "How to reverse an integer. What if it is a -ve or +ve number?"}
+{"i": "295841", "t": "How to design the netflix movie recommendation algorithm?"}
+{"i": "296729", "t": "Give two parking locations P1 and P2, P1 and P2 both have n slots. n-1 cars with same IDs are parked in n-1 slots in both P1 and P2. Design an algorithm to let n-1 cars in P1 and P2 park in the same slots"}
+{"i": "295825", "t": "Discussed about external sorting, priority queues, hashing etc"}
+{"i": "296720", "t": "given a number round it off to next power of 2.\r eg: if given 3 it should return 4,  \rif given 5 it should return 8."}
+{"i": "295824", "t": "Given a binary tree and a sum , return true if the tree has a \"root to leaf\" path such that adding up all the values along the path equals the given sum. \rReturn false if there is no path."}
+{"i": "295800", "t": "Give the algorithm to multiply large matrixs on system with very less memory which can not hold even one coll or one row."}
+{"i": "295782", "t": "You have a collection of marbles of different colors.U have many boxes with u which contain marbles of the same color.Ur younger brother has played with the marbles and scattered them randomly.Write an algorithm to arrange the marbles in the boxes in such a way that each box contains the marbles of the same color.The algo should be optimum in time and space respectively."}
+{"i": "295753", "t": "You have 240 barrels of wine, one of which has been poisoned.  After drinking the poisoned wine, one dies within 24 hours.  You have 5 slaves whom you are willing to sacrifice in order to determine which barrel contains the poisoned wine.  How do you achieve this in 48 hours?"}
+{"i": "294751", "t": "Given a set of points, find the line that intersects the most number of points"}
+{"i": "294741", "t": "Explain the functionality of malloc...If a pointer ptr is pointing to array of 100 bytes and free(ptr) is called..then How the compiler knows that 100 bytes are to be removed...Explain any other way to optimize this."}
+{"i": "295723", "t": "Our cell phones have T9 dictionary embedded for message writing...How this dictionary is implemented? State any other way to optimize complexity.Mechanism of Addition of new words in that dictionary."}
+{"i": "295715", "t": "What is metadata? What is the difference between data, meta data and information?"}
+{"i": "295714", "t": "Difference between Use case and Requirements Specifications?"}
+{"i": "295713", "t": "Write a program to reverse a string using recursion?"}
+{"i": "295694", "t": "Given an array of integers(both positive and negative) divide the array into two parts(sub-arrays) such that the difference between the sum of elements in each array is minimum????"}
+{"i": "294696", "t": "write a program to shuffle an pack of cards in the most efficient way."}
+{"i": "294695", "t": "sort an array of 0's and 1's in a most efficient way."}
+{"i": "295672", "t": "Given a road containing k lanes. A frog at one end of road needs to cross the road, but it can jump only to middle of a lane, in time d i.e. jumps to middle of first lane in d, then to middle of second in 2d and so on. you are given data of cars in each lane, 1km before the point of frog. All cars are travelling at constant speed. Given functions jump and wait, design algo to help the frog cross the road. (the frog can only jump fwd, not back)"}
+{"i": "294683", "t": "how to find loop in a linked list other than the following ways\r 1. fast/slow pointer\r2. visited flag\r3. storing address and checking against it"}
+{"i": "295666", "t": "What is groupby?"}
+{"i": "294669", "t": "Find the FIRST non-repeating character in a string.\r Ans: I gave the hash function solution, but interviewer wanted a O(1) space complexity and O(n) runtime complexity.\rSo any other solution with O(1) ?"}
+{"i": "292865", "t": "If I have 2 pointers A pointing to B and B pointing to A. Is it an error?"}
+{"i": "291834", "t": "Explain the difference between calloc and malloc"}
+{"i": "292864", "t": "About databases : primary keys,  composite keys, table joins , relations"}
+{"i": "292863", "t": "About Junit. If I have 2 test cases A and B where A depends on B then how wil I run these test cases using Junit"}
+{"i": "291833", "t": "Was asked to write a program to solve a given equation. Write the test cases"}
+{"i": "291832", "t": "Write a program to remove the duplicates from a list of integers . Write the test cases"}

@@ -1,0 +1,30 @@
+{"i": "7477705", "t": "Suppose there are 100 lights, which are all off. First round past them, turn all on;\rSecond round past, turn every other off;\rThird round, turn every third on;\rvice verse;\rAsk the 100 round past, which light will be on?"}
+{"i": "7623661", "t": "Draw and explain the structure of one of my projects in my resume."}
+{"i": "7618678", "t": "You have a set of states, and respective populations, how will you choose a state with probabilty exactly equual to  proportion of that state\u2019s population over the sum of  population of all the states"}
+{"i": "7621682", "t": "What is the possible problem if Hash Table grows more than 30 gb (ignore problems like bad hash function )"}
+{"i": "7620688", "t": "Given a file and and API containing getline() to read lines from it, how will u print only the unique lines from it."}
+{"i": "7529700", "t": "Given two Trees, how do you check if they are equal."}
+{"i": "7620685", "t": "Implement a Poker Table in C/C++"}
+{"i": "7621667", "t": "Reverse a singly linked list"}
+{"i": "7588720", "t": "Write a program to print hello world without using semi colon"}
+{"i": "7617675", "t": "Write a function to print all unique partitions on n tht are of size m. eg: n=10, m=4. it should print 7 1 1 1, 6 2 1 1, 5 3 1 1, 3 3 2 2,, so on"}
+{"i": "7617672", "t": "Path to deepest 1 in a binary tree. \rWe have a binary tree (not a BST) made up of only 0s and 1s. we need to find the deepest 1 with a path from root made up only of 1's."}
+{"i": "7588696", "t": "Look at the binary tree below and the corresponding matrix given. \rNow write an algorithm to generate matrix for any give binary tree \r    a\r    / \\\r  b     c\r / \\   / \\\rd   e f   g\r   |a|b|c|d|e|f|g|\ra|0  0  0 0 0 0 0\rb|1  0  0 0 0 0 0        \rc|1  0  0 0 0 0 0\rd|1  1  0 0 0 0 0\re|1  1  0 0 0 0 0\rf|1  0  1 0 0 0 0\rg|1  0  1 0 0 0 0"}
+{"i": "7560692", "t": "Given a binary tree, and 3 values A,B and C. write an algorithm to check if there exists a path from A to C such that B lies in the path."}
+{"i": "7532697", "t": "Insert a node in a sorted Circular singly Linked List ? \r Followup Question\r1. When you need to insert the new node in head, optimize the code"}
+{"i": "7617668", "t": "Algorithm to solve Sudoku and implement the code"}
+{"i": "7587681", "t": "First remove all repeated consecutive substring with length 1, then delete substring of length 2 and so on...\rExample : string is \u201cabcabeccced\u201d\r After removing repeated substring of length 1: \u201cabcababceccced\u201d --> \u201cabcababceced\u201d (2 'c' are removed)\rAfter removing repeated substring of length 2: \u201cabcababceced\u201d --> \u201cabcabceced\u201d (substring \u201cab\u201d is removed)\rand so on...\r propose an algo for this..."}
+{"i": "7617667", "t": "Implement counting semaphore in Java."}
+{"i": "7616667", "t": "Tell me about any projects that you have worked on?"}
+{"i": "7588688", "t": "What is encapsulation?"}
+{"i": "7588687", "t": "What is a virtual function? How does a virtual function work?"}
+{"i": "7588686", "t": "What is the difference between a process and a thread?"}
+{"i": "7615669", "t": "Give an unsorted array of integers A and and an integer I, find out if any two members of A add up to I. \r For example:  \rA = < 3, 25, 9, 15> \rI = 12 returns true\rbut I = 19 returns false.\r Can you find the answer in O(n*log(n)) time? \rCan you find the answer in O(n) time?"}
+{"i": "7607707", "t": "Given an array of numbers. divide numbers in 2 sets. such that difference between sum of numbers in 2 sets is min."}
+{"i": "7528734", "t": "problem of binary matrix\rGiven a binary matrix of N X N of integers , you need to return only unique rows of binary arrays\r eg:\r0 1 0 0 1\r1 0 1 1 0\r0 1 0 0 1\r1 1 1 0 0\r ans:\r0 1 0 0 1\r1 0 1 1 0\r1 1 1 0 0"}
+{"i": "7611692", "t": "Given an array of +ve and -ve integers, re-arrange it so that u have +ves on one end and -ves on other,BUT RETAIN ORDER OF APPEARANCE..\r for eg,\r 1,7,-5,9,-12,15\r ans=\r -5,-12,1,7,9,15\r do it in O(n) without using any extra space."}
+{"i": "7613704", "t": "Given an array of size n wherein elements keep on increasing monotically upto a certain location\rafter which they keep on decreasing monotically, then again keep on increasing, then decreasing\ragain and so on. Sort the array in place in O(n) and using only O(1) extra memory)."}
+{"i": "7611686", "t": "Difference is Minimum \rAlgorithm to find the two numbers whose difference is minimum among the set of numbers.\r For example the sequence is 5, 13, 7, 0, 10, 20, 1, 15, 4, 19\r The algorithm should return min diff = 20-19 = 1.\r Constraint - Time Complexity O(N) & Space is not a constraint [upto O(3N)]\r Assumption - Sorting O(nlogn) & comparison of adjacent numbers is already known & is not an option. Try to keep it linear"}
+{"i": "7606672", "t": "How will you store frequently occurring numbers?"}
+{"i": "7612666", "t": "A question on sql query on employee database."}
+{"i": "7494692", "t": "What is the difference between c++ and java?"}

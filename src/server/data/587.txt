@@ -1,0 +1,30 @@
+{"i": "62731", "t": "given a binary tree,find the distance between leftmost leaf \rand right most leaf nodes. Leafs may be at any level...(Nice question)"}
+{"i": "62730", "t": "design a searching algorithm in O(1)...No extra space....."}
+{"i": "62729", "t": "In a sorted array of 0's and 1's ,find the first occurrence of a 1 in it....\reg:\r  000111111111\r  must return 4"}
+{"i": "62565", "t": "given a binary tree ,find the largest sub-tree which is a BST...(largest means subtree having largest no of nodes in it)...this is a wonderful question....."}
+{"i": "62556", "t": "What should not be done in an ISR (Interrupt Service Routine)?"}
+{"i": "62555", "t": "In networking, explain how the ARP and DHCP protocols are used."}
+{"i": "62554", "t": "Other than virtual-physical mapping, what is the other functionality of MMU?"}
+{"i": "62553", "t": "Asked abt Write-thru, write-back caches..when is a word evicted in write-back cache ?"}
+{"i": "62551", "t": "What does appending 'static' to a global variable/function do?"}
+{"i": "62715", "t": "Write the code for a change vending machine."}
+{"i": "62703", "t": "How was your experience? What went bad you did during the day?\r Test blind windows."}
+{"i": "62535", "t": "Round 3: \rSomething about me.... My intership project...\r This guy asked me twice if i know C#. I told me NO both of the times.\r Q1. reverse the string. Example \"This is test\" to \"sihT si tset\".... key point here was do not assume that \"space\" is the onlu delimiter....ask this Question. \r he again asked me if i know C#. this time I said if u can give me the class and its functions, I can try.\r Then he gave be 2 DayTime objects and a random function... return the random date between these 2 dates."}
+{"i": "62700", "t": "First Interview at Redmond...Lunch Interview.. with SDET-II. half of that happened in his office, rest of it in the canteen\r Why SDET?\rGiven an unsorted array, return the first repeadted integer? I gave him first the bitmap solution.. he said somebody has solved the same problem in the same way...:D... but there is more simpler solution. ... then i gave him the hasttable solution... then code it....later tested it.\r Test a vending macine?\r Few details about the project. \r Over to lunch where he asked what challenging tasks you have faced? I kept him busy by asking lots of Q rather the other way round."}
+{"i": "62699", "t": "This is the phone interview. I was interviewing for SDET.\r Why MS? \rWhy SDET? \rTell me something about youself?\rGiven a sorted LL, insert an element at a given position. Test it?\rDo you have any questions for me.\r My tip: Prepare well for the testing Q as the program is not so diffcult."}
+{"i": "62486", "t": "We have a 3d object reference. Find 20 most nearest object references? Consider you know all the object references? What if you knew the distance?"}
+{"i": "62485", "t": "Design a deck of cards. What classes? functions? constructors? What functions can you add? Where would you add them. for eg shuffle and deal a card functions. What happens if we need only a particular sort of card eg spades? How would you handle multiple decks?\r(believe me that was never ending discussion, finally it ended when i started crying :-)"}
+{"i": "62484", "t": "Why are destructors important? Where are they not important?"}
+{"i": "62483", "t": "What are Virtual function, why are they important? Where did you use them in your projects?"}
+{"i": "62479", "t": "how to free memory allocated to an array with new function?"}
+{"i": "62478", "t": "What's code coverage?"}
+{"i": "62470", "t": "There are two collections of objects C1 and C2. C1 can be any thing - Flowers, Fruits, Foot Balls etc.. and C2 also same. How can you find out if C1 is a subset of C2 or C2 is a subset of C1 or both are equal?  Provide algorithm, code and test cases.\r The interviewer was expecting a linear algorithm - the algorithm with a time complexity of O(n)"}
+{"i": "62469", "t": "What was the most difficult problem you solved so far?"}
+{"i": "62468", "t": "How do you find out if a given string S1 is a substring of another string S2?  Provide algorithm, code and test cases."}
+{"i": "62467", "t": "How big was the team during your Internship?"}
+{"i": "62466", "t": "There is an array of 52 numbers ? How do you shuffle this array ? Whats the complexity of your algorithm ? What are the possible test cases ? How do you change the design and or code if this program is used by a house wife or casino?"}
+{"i": "62465", "t": "What are the problems with User Interface Design in a project?"}
+{"i": "62054", "t": "Do you prefer to work on the front end or back end of a product?  What are the pros and cons of working on Front end and back end ?"}
+{"i": "62464", "t": "What did you study?  Tell me about your projects and thesis."}
+{"i": "62254", "t": "A good and challenging Series to solve\rI need to find to the mathematical series for this one .\rf(-9)=-49213156\rf(-8)= -2448222\rf(-7)=-141362\rf(-6)= -9751\rf(-5)= -839\rf(-4)= -97\rf(-3)= -16\rf(-2)= -4\rf(-1)= -1\r   f(1) = 1\rf(2) = 0\rf(3) = 8\rf(4) = -47\rf(5) = 503\rf(6) = -6485\rf(7) = 100898\rf(8) =- 1835574\rf(9) = 38270970\r for both + ve and - ve numbers different series algo.\r + number input vary from 1 to 9\r- number input vary from -1 to -9"}
+{"i": "62035", "t": "Design a File system for windows or linux machine. Use OO concepts."}

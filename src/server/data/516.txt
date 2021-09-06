@@ -1,0 +1,30 @@
+{"i": "3196672", "t": "Why any iterator method can't contain any ref/out agrument?"}
+{"i": "3194669", "t": "How to create an array of objects which doesn't supply default constructor?"}
+{"i": "3184672", "t": "Difference of behaviour, when calling virtual method in constructor, between C++ and C#."}
+{"i": "3226673", "t": "There is a parking lot of cars that is full except for a single spot. Write some code to take it from one arbitrary configuration to another moving only one car at a time into the empty spot. Analyse the time complexity, how would you improve it, etc."}
+{"i": "3192671", "t": "2nd phone interview: This was a design question. Basic idea was that there were many clients who wanted to be updated whenever certain items arrived in Amazon's store. \rHint: This is classic pub/sub (observer pattern). Discussion involved multicast, kind of data structures to be used, where will the state of the system be maintained, memory optimization, etc."}
+{"i": "3236666", "t": "2nd phone interview: Given a sorted array which has been rotated (e.g., 5, 6, 1, 2, 3, 4). Find the index where array is rotated (i.e., index of 1 in the example). Do it in O(log n)."}
+{"i": "3228675", "t": "1st phone interview: Given an array of numbers (not sorted). Find two numbers in the array whose sum is equal to a given number, in O(n).\rHint: Use hash table. Lets say given number is N. For each number a[i] in the array, store it in the table, along with its compliment i.e., N - a[i]. First collision is your answer."}
+{"i": "3237669", "t": "1st phone interview: Discuss object oriented features of C++."}
+{"i": "3182670", "t": "public string impossible()\r{\r   try\r   {\r      // Person is a reference type\r      Person person = null;\r      return person.FullName;\r   }\r   catch (NullReferenceException)\r   {\r      return string.Empty;\r   }\r}\r Could method `impossible` ever return a non-empty string? If yes, in which cases."}
+{"i": "3174670", "t": "When C++ compiler can't generate default = operator for the class?"}
+{"i": "3195667", "t": "Give an unsorted array find count of pairs of numbers[a,b] where a > b and b comes after a in the array.\r Eg. {8,3,6,10,5}\r the count of such numbers is 5. i.e. (8,3), (8,6), (8,5), (6,5) and (10,5)"}
+{"i": "3219668", "t": "how to find cycle in graph"}
+{"i": "3169668", "t": "Given a Binary Tree in the form of grid. For example, \r{                     1}\r{               2           3}\r{            4        5 6        7}\r{       8     9,10,11    2,13,14    15}\r You can see a grid here, such that the first column in the grid contains the first column value 8, second grid column contains ,4 alone,  3rd grid contains, 2,9,10,11, 4th grid contains, 1,5,6. 5th grid contains 3,12,13,14, 6th column contains 7, and the 7th column contains 15. Please note that, the tree is not a complete binary tree . The one thing I remembered was a pascals triangle from this, But, i could not device an algorithm to find the sum of each column of the grid. Another procedure that came to my mind is, to build a complete binary tree out of it by doing a BFT and then using the pascals triangle  find the  cells in each column of grid and then sum it, IS there any way to do it ??"}
+{"i": "3216665", "t": "There is a stack class which does push & pop in constant time. Introduce another function called min() which returns min element in the stack."}
+{"i": "3215666", "t": "You have 1 white & 1 black container. White container contains 3 white balls and black container contains 4 black & 1 white ball. You remove one ball from black container and put it in white container. Now when you pick one ball from white container, what is the probability that it's a white ball."}
+{"i": "3193670", "t": "Given a list of n integers?(negative and positive), not sorted and duplicates allowed, you have to output the triplets which sum upto 0."}
+{"i": "3202667", "t": "Write an algorithm to find k numbers from a \"stream\" of numbers such that every number should have the same probability of getting selected."}
+{"i": "3232665", "t": "Wat datastructure is used to store a more than 50digits number and to perform factorial"}
+{"i": "3184667", "t": "How to merge two trees with less time complexity."}
+{"i": "3189667", "t": "how do you find the shortest distance (find a formula) for two points on the opposite vertices of a cube (shortest distance is actually sqrt(3) but can't cut through interior, must go along surface of cube)"}
+{"i": "3208666", "t": "8 ball question with a 9 ball variation. don't know if ninth ball is lighter or heavier (max 3 weighings)."}
+{"i": "3179669", "t": "There is very long array of ints, and you are given pointer to base addr of this array.. each int is 16bit representation... you need to return the pointer to tht \"bit\" inside array where longest sequence of \"1\"s start"}
+{"i": "3213666", "t": "how would you create the index for a book"}
+{"i": "3237662", "t": "3 ants are on different vertices of an equilateral triangle and can walk along the edges to any other vertex. what's the probability that any 2 of them will collide"}
+{"i": "3209664", "t": "Write test case for sorting an interger array.This is a simple sort program."}
+{"i": "3227662", "t": "Print the path from root to a particular node given as input in a binary tree in the sequential order.\r (need not be BST or balanced)."}
+{"i": "3225661", "t": "Find closest ancestor of two nodes in a binary tree."}
+{"i": "3181662", "t": "why amazon?"}
+{"i": "3120938", "t": "Given a large file containing records(name,variable lenght address).Records are already sorted in alphabetical order.Give a DS to implement efficient adding /Deleting /Searching of the records.Suggested Trie .Gave 15min time to implement it"}
+{"i": "3147896", "t": "Given n two dimensional cartesian coordinates. How do you find if any three points are collinear. (i.e they all lie on the same line). I know the solutions for O(n^2) and O(n^3). Can you do it in O(nlogn)?"}

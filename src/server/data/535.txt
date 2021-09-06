@@ -1,0 +1,30 @@
+{"i": "705687", "t": "write 2's complement for -5"}
+{"i": "751696", "t": "What is the difference between >> and >>>?"}
+{"i": "712689", "t": "What is transient variable?"}
+{"i": "751695", "t": "Write an algorithm to find if 2 binary trees are equal (as in the data of the 2 are equal)"}
+{"i": "708688", "t": "Why would you use the JSPs and JavaBeans in a web application?"}
+{"i": "733673", "t": "There are 7 buckets of water and an infinite number of flies.  One of the the buckets is poisoned. You need to find which one is poisoned by putting the fly in it.  It will take 7 days for the fly to die and and for you to know that the bucket is poisoned.  Also you need to send one of the (non-poisoned) buckets to your friend in 1 week.  How will you find out the poisoned bucket in least number of flies?"}
+{"i": "750677", "t": "how do u multiply a number by 7..tell an efficient method"}
+{"i": "686684", "t": "You are given a String number containing the digits of a\rphone number (the number of digits, n, can be any positive integer) . To help you memorize\rthe number, you want to divide it into groups of contiguous digits. Each group must contain\rexactly 2 or 3 digits. There are three kinds of groups:\r\u2022 Excellent: A group that contains only the same digits. For example, 000 or 77.\r\u2022 Good: A group of 3 digits, 2 of which are the same. For example, 030, 229 or 166.\r\u2022 Usual: A group in which all the digits are distinct. For example, 123 or 90.\rThe quality of a group assignment is defined as\r2 \u00d7 (number of excellent groups) + (number of good groups)\rDivide the number into groups such that the quality is maximized. Design an efficient\ralgorithm to return the solution that maximizes the quality."}
+{"i": "668671", "t": "How would you store pictures from Google's street view? (assume massive amounts of high quality pictures)"}
+{"i": "592676", "t": "Multiply two numbers without using multiply(obviously),division,bitwise operators and no loops.\rFor example: 3*2=6 without *,/,bitwise operators and no for,while loops.\r Hint: Answer using recursion.."}
+{"i": "599675", "t": "Find the Max. sum of two elements  in a Matrix.\r Find the Max. sum of three elements in a matrix.\r  Find the max. sum of K elements, where k < n, in a given matrix."}
+{"i": "592671", "t": "In 2d array declaration or defintion of a function the first dimension argument is optional, why ?\rand how it will works?"}
+{"i": "518710", "t": "Describe and algorithm and implement UNIX tail command"}
+{"i": "539703", "t": "Explain what is a weak reference. How do you declare a weak reference? Why would you implement a weak reference - versus a strong reference?"}
+{"i": "558706", "t": "Write a function to compare two xml files\r bool CompareXMLFiles(string fileName, string fileName);\r Scenario\r1. Path to files are given\r2. We have to compare the content of xml files.\r3. Xml with different element position would be same i.e.\r<Tests>\r  <Test>UI<Test>\t\r  <Test>Functional<Test>\t\r</Tests>\r is same as\r<Tests>\r  <Test>Functional<Test>\t\r  <Test>UI<Test>\t\r</Tests>\r 4. Different position of attributes can be there e.g.\r  <Test Id=\"4\" No=\"50\">Functional<Test>\t\ris same as\r  <Test No=\"50\" Id=\"4\">Functional<Test>\t\r 5. One Xml file can contain comments and other can/cannot but this is same"}
+{"i": "508698", "t": "Within a 2D space, there is a batch of points(no duplicate) in the region (0,0),(0,1),(1,0),(1,1), try to find a line which can divide the region to 2 parts with half points in each .the input will be an array of points and the length of the array.\r struct point{\rint x;\rint y;\r};\rinput : struct point * points, int length"}
+{"i": "557689", "t": "Given a string which may contain one or multiple spaces in between the word characters. If there are multiple whitespaces, replace all with single whitespace. \r Constraint - \r1. Do not use any extra char string or array\r e.g. \rchar *string = \"Test-String----to-be--displayed-\";\r The string should be replaced like \r'Test-String-to-be-displayed-'\r Consider '-' as whitespace."}
+{"i": "559696", "t": "Given a Queue Perform following operations -\r1. Enqueue\r2. Dequeue\r3. Max\r Constraints - \rMax has to be implemented in such a way that complexity should be O(1)"}
+{"i": "442681", "t": "What is the purpose of the session() in a servlet?"}
+{"i": "442680", "t": "How does hiberante handle atttached objects?"}
+{"i": "449663", "t": "Can you have mutliple instances of a database running in hibernate?"}
+{"i": "485661", "t": "Create a balanced binary tree from a given link list"}
+{"i": "484661", "t": "Given an array of integers where some numbers repeat 1 time, some numbers repeat 2 times and only one number repeats 3 times, how do you find the number that repeat 3 times. Using hash was not allowed"}
+{"i": "441995", "t": "Given a n*m matrix having numbers such that each row and each column sorted. Now print the numbers in present in the matrix in sorted order... I tried to explain k way merge sort but he didnt wanted that. He was loking for better sol."}
+{"i": "441885", "t": "Write a code to calculate kth power of a matrix of size nxn. You can assume that matrix multiplication is O(n^3)."}
+{"i": "436624", "t": "find the diameter of tree"}
+{"i": "436760", "t": "How can I write a macro which takes a variable number of arguments?"}
+{"i": "435679", "t": "Write C code to implement the strstr() (search for a substring)\rfunction"}
+{"i": "434343", "t": "For 0<=i<=9, array defined is T[i] = i . Now construct another array T[j] for 0<=i<=9 where T[j]==m if T[i] appears m times in T[j]."}
+{"i": "434342", "t": "Print tree level-order traversal but starting from the depth i.e The lowest level should get printed first and the root node should get printed last."}

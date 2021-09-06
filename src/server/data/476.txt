@@ -1,0 +1,30 @@
+{"i": "7562664", "t": "A game. 7 people in a circle, the third one will be deleted in each round. Use loop or recursive. How many loop and which data structure you will use to store these data?"}
+{"i": "7539667", "t": "What is a stack? Modified a program with indefinite loop"}
+{"i": "7582661", "t": "How to store a sequence of numbers according to frequency. The most frequent number stores at the beginning"}
+{"i": "7567666", "t": "What is a linked list; what is a hash map"}
+{"i": "7475665", "t": "How do you handle a confliction in a project. How do you divide the project within a team?"}
+{"i": "7513669", "t": "What is the difference between Java and C++"}
+{"i": "7453665", "t": "How to find an integer that repeats more than (>)n/2 times..in a given array of size n..in O(1) time complexity..\rNote:Its not a sorted array."}
+{"i": "7454667", "t": "Write recurssive fibonacci and print the value in order (eg 0 1 1 2 3 5)"}
+{"i": "7442668", "t": "What are basic structures that are considered in polymorphism in Java and how inheritance help in polymorphism?"}
+{"i": "7538669", "t": "What are basic structures that are considered in polymorphism in Java and how inheritance help in polymorphism?"}
+{"i": "7547664", "t": "Name all the  memories which are available in JVM? \r I knew only heap and perm. Is there any other memory also?"}
+{"i": "7478664", "t": "1. What is file system ? \r2. How to recover if super block got corrupted?"}
+{"i": "7578666", "t": "1. How to find whether two link-lists intersect each other or not?\rIf yes find intersection point."}
+{"i": "7544668", "t": "Given 2 strings S1 and S2, Check the first charaster that is repeated in S2."}
+{"i": "7482665", "t": "Given array of n integers and given a number X, find all the unique pairs of elemens (a,b), whoose some is equal to X."}
+{"i": "7472666", "t": "Two input strings is given, find out whether 2nd string is rotated of 1st string. e.g. string1=\"abcd\", string2=\"cdab\" should return true.\rstring1=\"abcd\", string2=\"cdba\" should return false."}
+{"i": "7519664", "t": "A 2-D matrix having row and column sorted. How to search an element in given matrix."}
+{"i": "7570662", "t": "I don't have questions but do not apply here if you have other offers. I am Epic's employee and they will tell you that you will work on C# but the chances of that happening is like 1% for the next 2 years. HTH."}
+{"i": "7490663", "t": "Flood fill algorithm."}
+{"i": "7501664", "t": "Bar Raiser : Determine all non concentric palindromes in a String."}
+{"i": "7537662", "t": "I was asked this at a career fair by one of the recruiters and I think I gave a pretty bad answer for it (although the recruiter said he was happy with it). The question was having an integer array where there are repeating numbers and all but one repeat an even number of times. How would you find the number that repeats an odd number of times? He also asked if this can be done without using other data structures. (I think he said the array wasn't sorted)."}
+{"i": "7550661", "t": "I have a lottery ticket. Each of these lottery tickets has a 6 digit number on it. The winning lottery tickets are those whose sum of the first three digits is equal to the sum of the last three digits. How many possible winning tickets are there? \rNote: Leading \u2018ZEROES\u2019 are counted. So a number like 004103 is a valid winning ticket since 0+0+4 = 1+0+3."}
+{"i": "7457663", "t": "Find kth largest of sum of elements in 2 array ."}
+{"i": "7426663", "t": "Develop a mechanism for synchronising three hardware units while a accessing a shared hw resource.Use the available four signal types - high,low,negative pulse,positive pulse.Think of them as vertices of a triangle(with the edges as the physical interconnection amongs the hw units).Something like CSMA/CD"}
+{"i": "7429666", "t": "How will you efficiently bitwise reverse a very  long character string efficiently(Dont use the typical bitwise swapping)"}
+{"i": "7365667", "t": "Given a long bit string M and a small bit string N\rMake the bits between p & q in M same as N (q-p = strlen(N))"}
+{"i": "7438661", "t": "We have a web server that consists of a log file, which will be updated with the Visitor ID, who ever visits the website. It is a very large file, well formatted and delimited.\r We should find all the visitor IDs who visited the website on that day. The constraints are we have 100 GB HD and 100 MB RAM. Virtual memory is not allowed. The time complexity should be less than O(n^2). You can use the whole of 100 MB RAM for any Data Structure.\r Note: Consider the Log file is really big compared to 100 MB."}
+{"i": "7400667", "t": "Given a dictionary find out if given word can be made by two words in dictionary. For eg. given \"newspaper\" you have to find if it can be made by two words. (news and paper in this case)"}
+{"i": "7391669", "t": "for 2 sorted arrays one with size X and another with size X+Y which has only Y elements. merge these arrays in to second array such that resultant array at end will be sorted."}
+{"i": "7349664", "t": "A special type of tree is given, Where all leaf are marked with L and others are marked with N. every node can have 0 or at most 2 nodes. Trees preorder traversal is given give a algorithm to build tree from this traversal."}

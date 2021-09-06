@@ -1,0 +1,30 @@
+{"i": "12839666", "t": "write a program to print the given string as alphabets in order next integres with sum next special characters\r example: CAE2W3@D#  as input and output should be\r                   ACDEW5@#"}
+{"i": "12839665", "t": "write a program to print checksum for given number \rby taking last digit sapeate and if sum of squares of remaining numbers are equal to previous last number then print valid checksum else invalid\r example:  321543 take 3 saperately and\r                    let sum of squares be   3^2+2^2+1^2+5^2+4^2 == 3(last digit) then print valid  checksum otherwise invalid"}
+{"i": "12849666", "t": "Given an n-by-n matrix of 0's and 1's where all 1's in each row come before all 0's, find the most efficient way to return the row with the maximum number of 0's."}
+{"i": "12843661", "t": "Compres String\rTest cases"}
+{"i": "12842661", "t": "Find merge node of two linked list\rexample:A->B->C->D\rLinkedlist2: E->F->A->B->C->D"}
+{"i": "12841661", "t": "Reverse sentence: Example:\r\"Hello life \"\rto\r\"life Hello\"\rTest cases"}
+{"i": "12828668", "t": "Write a function to make the largest number from the digits of a given number.\rExample.\rnumber: 32441\rOutput:  44321\rfunction prototype:\rC/C++ : int biggestNumber(int number)\rJava : int biggestNumber(int number)\r Note: Use minimum , constant space."}
+{"i": "12810663", "t": "Given an array of N integers  with +ve & -ve numbers. Find the maxproduct of 3 numbers ? & Test Cases"}
+{"i": "12806694", "t": "How do you test a WEB SERVICE (C#)..?"}
+{"i": "12806693", "t": "How do you test a WEB SERVICE (C#)..?"}
+{"i": "12803681", "t": "Usually first round consists of phone interviews.Try to finish your programming problems asap as the interviewer expects you to solve atleast 3-4"}
+{"i": "12814669", "t": "Perform multiplication of two bytes without * operator!!!\rUse shift operations"}
+{"i": "12809695", "t": "Perform right rotate operation in C\runsigned char rotate(unsigned char c,int m)\r Basically rotate m time the bits of char c"}
+{"i": "12784705", "t": "Perform right rotate operation in C\runsigned char rotate(unsigned char c,int m)\r Basically rotate m time the bits of char c"}
+{"i": "12805677", "t": "Usually first round consists of phone interviews.Try to finish your programming problems asap as the interviewer expects you to solve atleast 3-4"}
+{"i": "12806691", "t": "Perform multiplication of two bytes without * operator!!!\rUse shift operations"}
+{"i": "12784704", "t": "Perform right rotate operation in C\runsigned char rotate(unsigned char c,int m)\r Basically rotate m time the bits of char c"}
+{"i": "12803680", "t": "Perform multiplication of two bytes without * operator!!!\rUse shift operations"}
+{"i": "12814667", "t": "Perform multiplication of two bytes without * operator!!!\rUse shift operations"}
+{"i": "12765676", "t": "Perform right rotate operation in C\runsigned char rotate(unsigned char c,int m)\r Basically rotate m time the bits of char c"}
+{"i": "12806688", "t": "Usually first round consists of phone interviews.Try to finish your programming problems asap as the interviewer expects you to solve atleast 3-4"}
+{"i": "12765675", "t": "Perform multiplication of two bytes without * operator!!!\rUse shift operations"}
+{"i": "12809694", "t": "Perform right rotate operation in C\runsigned char rotate(unsigned char c,int m)\r Basically rotate m time the bits of char c"}
+{"i": "12814662", "t": "Count smaller elements on right side\r eg : [4,12,5,6,1,34,3,2]\ro/p  [3,5,3,3,0,2,1,0]"}
+{"i": "12784697", "t": "#include<iostream>\rusing namespace std;\r class A\r{\r\tpublic:\r \tvirtual\tvoid f() = 0;\t\r};\r class B: public A\r{\r\tpublic:\t\r \tvoid f()\r\t{\r//\t\tf();\t//segmentation Fault\r\t\tcout<<\"\\bB's f() called\"<<endl;\r\t\tf();\t//recursive loop\r\t}\r};\r void A:: f()\r{\r\tcout<<\"\\nA's f() called\"<<endl;\r}\r int main()\r{\r\tA *ptr;\r\tB b;\r \tptr = &b;\r\tb.f();\r return 0;\r}\r Q-> In this problem.. inside the B class f( ), if we call f( ) before \"cout<<\" statement it gives segmentation fault and after \"cout<<\" statement it gives recursive loop. Why segmentation fault is coming. Thanks in Advance :)"}
+{"i": "12804676", "t": "K-Maximum Subarray problem"}
+{"i": "12806664", "t": "print all possible combination of given n parenthesis. Eg: if n=2 then all possible combinations are: (n stands for number of parenthesis pair open-close)\r{}{}\r{{}}"}
+{"i": "12805665", "t": "Find the successor of a node in inorder traversal."}
+{"i": "12804667", "t": "Algorithm to check a linked list is palindrome or not, each node contains a single character."}
+{"i": "12805664", "t": "How to store a binary tree in a file so that we can re construct the same tree with that file"}

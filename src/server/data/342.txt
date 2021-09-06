@@ -1,0 +1,30 @@
+{"i": "14659680", "t": "How do you test an application which has no logs no browser's? How do you verify test results ?"}
+{"i": "14659674", "t": "Why Amazon?"}
+{"i": "14666668", "t": "Which data structure would you use for optimum addition removal, querying and priority.\r(Heap, Hash and BST were rejected )\r ok after finishing the interview, he finally told me the answer: he said that with each node we must store the min and max child.\r his opinion was: Hash has good insert query complexity, but bad priority wise retrieval.\r BST has logn for all the operations\rHeap just ensures that the top priority is at the top (not the next order)\r no wonder i got a reject :P"}
+{"i": "14664670", "t": "Given a tree, link all the siblings from right to left."}
+{"i": "14659673", "t": "Find the first occurance of a number in a sorted array."}
+{"i": "14662671", "t": "How many unique BST can be made from a series of numbers 1,2,3,4,....n\rThe input is N"}
+{"i": "14658671", "t": "Given an array of integers, the function should return an array, with each position having the product of all other numbers than itself.\rCorner cases have to be handled"}
+{"i": "14662668", "t": "Find the merging point of 2 given link lists...\r I gave him the best O(n) solution i.e by first finding the length of both link list ..........\rBut he said that he doesn't want an efficient soln. but a soln which is original and cannot be found in any book or over the internet"}
+{"i": "14660666", "t": "How security is provided to each tab in google chrome? if there are multiple tabs open in Chrome, then how respective request goes in respective tab? (meaning the request of different tabs do not get mixed, how?)"}
+{"i": "14661665", "t": "How will you provide security to DB?"}
+{"i": "14668663", "t": "How will you search efficiently in DB?"}
+{"i": "14668662", "t": "what is diffarence between semop and semctl?\rwe can change the semaphores using both apis?what is the diffarence?"}
+{"i": "14656668", "t": "Given a string generate permutations of all possible lengths and print them in any order.\r Now print the permutations in dictionary order."}
+{"i": "14643662", "t": "What could cause a test case run on the same piece of code to pass sometimes and fail sometimes?"}
+{"i": "14608740", "t": "How do compare a case value with dynamic array of values in one case label\rex. select 10 \r               case <A dynamic Array of integer >\r                          <Do Something> break;\r               case 100 ....\r        end select"}
+{"i": "14608732", "t": "/*Find MagickNumber With Duplicate  Numbers in Sorted Array  2. Consider a sorted array with all unique numbers. Where a magick number[i] =i */\r /* -10,-5,2,2,2,2,4,7,9,12,13\r  * */ \r Why the MAGICK Index be on the left side ?"}
+{"i": "14639700", "t": "Need to Print all the elements of the ArrayList consisting an ArrayList using C# ?"}
+{"i": "14633700", "t": "Determine winner of 2/9 number game\r Two players play the following game: they pick a random number N (less than 2 billion) then, \rstarting from 1, take turns multiplying the number from the previous turn with either 2 or 9 (their choice). \rWhoever reaches N first wins. \rThe candidate should write a function that given N decides who wins (first or second player)?"}
+{"i": "14636699", "t": "Print all the elements of the ArrayList consisting an ArrayList using C# ?"}
+{"i": "14631682", "t": "Given an array of integers. Re arrange the numbers such that odd numbers occupy odd position and even numbers occupy even position. The order of numbers should not change and it is to be done in-place."}
+{"i": "14639691", "t": "Given a file with a list of words, find 10 most frequently occuring words. Give most optimized solution."}
+{"i": "14636691", "t": "how multithreading is achieved in multicore processors?"}
+{"i": "14633693", "t": "how many threads a process can have?"}
+{"i": "14639687", "t": "what are the disadvantage or problem in template instantiation?"}
+{"i": "14631676", "t": "There is a river and stones are distributed at certain distance .For example at x1 distance D1 stone present (Start-(x1)-D1--(x2)-.....Dn-2-(xn-1)--Dn--(xn)\u2014end). We have given a value Z, which is much greater then sum of all distances (Z > x1+x2 ... xn). Question is to find out all possible patterns via which we can reach from start to end of river. Note Z distance required to be travelled, when we at end"}
+{"i": "14636675", "t": "If the head of  a linked list is pointing to kth element, then how will you get the elements before kth element?"}
+{"i": "14606694", "t": "difference between synchronous and asynchronous io"}
+{"i": "14603701", "t": "send data from client to server using netascii mode.\r using UDP.\r just implement the sendto() and recvfrom() blocks."}
+{"i": "14604688", "t": "suppose a structure :\rstruct itemchar name[15];\r\n       int price;\r\n       long ID;\r\n       char type[8];;\r if there is a server running on little endian 64bit machine and a client running on big endian 32bit machine how will client send the structure to server so that the problem of portability, endianness, and alignment does not arise?\r client :\rsendto(sd,(void *)&myitem, sizeof(item), 0, (struct sockaddr *) &server_addr, sizeof(server_addr));\r server:\r recvfrom();"}
+{"i": "14610686", "t": "what is the output of the following :\rvoid crazy(int n, int a, int b)\r{\r     if(n==0)\r     return;\r     crazy(n-1,b+n,a);\r     printf(\"%d %d %d\\n\",n,a,b);\r     crazy(n-1,b,a+n);\r     }\r main()\r{\r      crazy(3,4,5);\r      getch();\r}\r Explain with working ..."}

@@ -1,0 +1,30 @@
+{"i": "1177711", "t": "Suppose two lists merge at some node .. how do you find that particular node .."}
+{"i": "1132774", "t": "Given an array one set repeats once, one set repeats thrice, rest all repeats twice .. XOR method only .. (No Sorting and Hashing)"}
+{"i": "1088754", "t": "Implement strstr()"}
+{"i": "1133752", "t": "What is DOM? How is it useful ?"}
+{"i": "1184689", "t": "Detail design of software which work exactly like \"http://tinyurl.com\"."}
+{"i": "1155737", "t": "reverse a string in one pass inplace too.....I have no idea :("}
+{"i": "1157746", "t": "find the maximum sum of a matrix"}
+{"i": "1161755", "t": "do inplace sorting of arrays in less then 0(n^2)"}
+{"i": "1161754", "t": "A semi-connected graph is a graph that for each pair of vertices u,v, there is either a path from u to v or a path from v to u. Give an algorithm to test if a graph is semi-connected."}
+{"i": "1097753", "t": "Given a string and a array of smaller strings. Design a method to find out every occurence of smaller implementation in larger string."}
+{"i": "1161731", "t": "What kind of role you are looking at Microsoft?"}
+{"i": "1182664", "t": "#1. Implement (in C++ or C#) a function that removes the nth element of a single linked list. \r  C++:\rclass Node \r{      \r  char* value;      \r Node* next;\r }; \r  Node** RemoveNth (Node** list, int n)\r { \r  }\r C#:\r  class Node \r{   \r  string value;   \r  Node next;\r } \r  Node RemoveNth(Node list, int n)\r { \r  }\r   #2. Using the following table provide at least 5 test cases to test the function implemented in the previous part. \rNode      n     Expected Result \r~~~~     ~~~   ~~~~~~~~~~~~~~~~~"}
+{"i": "1156716", "t": "Write a function that would:    return the 5th   element from the end in a singly linked list of integers, in one pass, and then provide a set of test cases against that function"}
+{"i": "1112714", "t": "If you want to add a new feature to Amazon.com website like this: Whenever a user requests for an item, and it is not available, he should be able to subscribe for that item, such that when at a later point in time the item is available, he gets an email. Design an approach for this!"}
+{"i": "1130716", "t": "Find the intersection of 2 lists"}
+{"i": "1151704", "t": "Can you have dynamic arrays? If yes, how do you implement it. When I mentioned about creating a larger array and copy all elements to it, he was curious to know what would be the size of this larger array."}
+{"i": "1145708", "t": "Difference between Arrays and Lists. Discuss pros and cons."}
+{"i": "1118712", "t": "What is Full binary tree and complete binary tree. And code to find if a given tree is so.. (Phone interview, interviewer was very supportive. As I couldn't finish coding, asked me to send offline, and did so)."}
+{"i": "1092697", "t": "detecting deadlock"}
+{"i": "1111710", "t": "how does tcp and udp together react"}
+{"i": "1163696", "t": "how does tcp react in wireless, different tcp versions"}
+{"i": "1113712", "t": "implement atoi"}
+{"i": "1099697", "t": "how to make multicasting reliable"}
+{"i": "1129692", "t": "why copy constructor must pass by reference"}
+{"i": "1172678", "t": "Given an m x n binary matrix. Find the maximum all 0 submatrix (not necessarily square submatrix)."}
+{"i": "1161668", "t": "class Person{\r\npublic:\r\n    Person(const char* szName);\r\n    const char* GetName() const;\r\n    /*put a function here*/   \r\nprivate:\r\n    char *m_szName;\r\n};\r\n\r\n\r\nint main()\r\n{\r\n    Person person(\"John\");\r\n    std::cout << Person;   \r\n    return 0;\r\n}Referring to the sample code above, which one of the following member\rfunctions do you add at the comment to support std::cout << person\rstatement?\r A.    std::string operator() { return GetName(); }\rB.    std::string ToString() { return GetName(); }\rC.    const char* Convert() const { return GetName(); };\rD.    char* operator char*() const { return GetName(); };\rE.    operator const char*() const { return GetName(); };"}
+{"i": "1112668", "t": "Why does your class have a pure virtual function?\r A.    To ensure that this function is overridden in derived classes\rthat are to be instantiated\rB.    To allow for templated classes to be used with friend functions\rC.    To maximize the memory efficiency provided that execution speed\ris not at a premium\rD.    To maximize code reuse\rE.    To maximize the execution speed of the function provided that\rmemory is not at a premium"}
+{"i": "1103669", "t": "you are given a M x N matrix with 0's and 1's \rfind the matrix with largest number of 1,\r1. find the largest square matrix with 1's \r2. Find the largest rectangular matrix with 1's"}
+{"i": "1126673", "t": "Non Preemptive scheduling :-\rwrite a program to list the waiting time of the processes based on the arrival time and the burst time under non preemptive scheduling. In the Non Preemptive Scheduling, he current process keeps the CPU until it releases the cPU by terminating. The operating system never initiates a context switch from a running process to another\u2019 process.\rwhen there is more than one processes waiting for the cPU, the process which will release the cpu first by calculating the sum or arrival time and burst time, will be allocated\r Example:\rProcess 1 3 2 4\r0 7 8 12 16 Start time of the process the waiting time should be: 0, 6, 3, 7"}
+{"i": "998783", "t": "I was asked to find the pair of numbers in an integer array that would sum up to make 100. The function would take the integer array as an argument. I replied him using Bubble Sort with O(n*n) but he wanted me to do it with O(n). Does any one know how to do it with O(n) ??"}

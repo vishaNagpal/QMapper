@@ -1,0 +1,30 @@
+{"i": "14099851", "t": "Q1) Given that there are n players and each one of them has played exactly one game with every\rother player. Also given is an API that tells whether player \u2018a\u2019 won or lost to player \u2018b\u2019, where \u2018a\u2019 and\r\u2018b\u2019 could be any of the players. Arrange the n players in a length n array such that player at position\r\u2018i\u2019 has won from player at \u2018i+1\u2019 and lost to player at \u2018i-1\u2019\rInterested in linear time  solution\rPS: Its not a sorting problem. Please notice that problem is not asking for ranking in decreasing order.."}
+{"i": "14196714", "t": "Why ans is 2 for both\r--int main() {\r\nint x = 1;\r\nx=x++/++x;\r\nprintf(\"%d\\n\",x);\r\nreturn 0;\r\n}======and======int main() {\r\nint x = 1;\r\nx=++x/x++;\r\nprintf(\"%d\\n\",x);\r\nreturn 0;}"}
+{"i": "14370695", "t": "Implement the plusplus operator when we are getting the input as integer array = { 9,9,9,9 }.output will be {1,0,0,0,0}"}
+{"i": "14242757", "t": "Write a data structure to capture long datatype? That means this data structure will keep more them 1000 or million digits."}
+{"i": "14366691", "t": "there are list of random numbers like\r1,3,23,76,908,34,256,12,43,11,2,-10\r given an input suppose:13\r find the combination of the numbers which adds up to 13.like 1+12=13,23+(-10)=13..like that"}
+{"i": "14372697", "t": "write a program so that it'll find all the possible combination of a string avoiding palidromes\rexample:if the input is:\"abcde\"\routput would be:\"a\",\"b\",\"c\",\"d\",\"e\",\"ab\",\"ac\",\"ad\",\"ae\",\"bc\",\"bd\",\"be\",\"cd\",\"ce\",\"de\",\"abc\",\"abd\",\"abe\",...\r but if you have already \"abc\",dont create\"cba\""}
+{"i": "14370693", "t": "write a program so that the \rinput be a no suppose 5 it will give \routput as\r1+2*2+3*3*3+4*4*4*4+5*5*5*5*5"}
+{"i": "14373666", "t": "write test cases for digital pen?"}
+{"i": "14236668", "t": "write test cases for reverse string for ABC?"}
+{"i": "14373665", "t": "write test case for iphone weather app?"}
+{"i": "14368685", "t": "What is the main use of interface ? Provide a real time example that shows it"}
+{"i": "14085803", "t": "What is the importance of overriding in java ? Give any real life example . How is it increasing the code reusability and robustness .? Cant we create new function instead of override ? What difference will it make ?"}
+{"i": "14372684", "t": "How can I read a file in, compile, and execute it at run time?"}
+{"i": "14101704", "t": "How can I get a list of all symmetric key generators? How can I add one?"}
+{"i": "14263698", "t": "\u2022\tCan you show me how to write a meta-class that will allow fixed named methods to be invoked before and after a method in an instance of that class is invoked?"}
+{"i": "14207686", "t": "What does it mean for two classes to have a different type erasure?"}
+{"i": "14360665", "t": "Given two strings .Print all the interleavings of the two strings.\rInterleaving means that the if B comes after A .It should also come after A in the interleaved string.\rex-\rAB  and CD\rABCD\rACBD\rACDB\rCABD\rCADB\rCDAB"}
+{"i": "14297663", "t": "An array arr[] has coins of several denominations. Given the array and a required Sum find the minimum number of picks to get that sum. eg:\r Input: {1,3,10} Sum required = 11\rOutput: 1+10 => 2 pickings"}
+{"i": "14276663", "t": "Write a code in C for the following: \r Starting from 1, assign an alphabet to each integer, for e.g. if input is 1 then A should be the output), 2 = B ....... 26 = Z. Similarly, 27 = AA, 28 = AB..........52 = AZ. 702 = ZZ, 703 = AAA and so on. The function takes only one integer argument . for e.g ConvertToAphabet(int x). One additional consideration here is, the user is free to provide any length of integer (bigint long int etc), no restriction there."}
+{"i": "14193690", "t": "Example1:\r        const int a = 0;\r        int *ptr = const_cast<int *>(&a);\r        *ptr = *ptr + 10;\r        cout <<a<<\" Address a  \"<<&a<<endl;\r        cout <<*ptr<<\" Address in ptr \"<<ptr<<endl;\r&a and ptr contain the same but there values are different. can anyone tell how C++ interpret const_cast internally and why the value different and address is same of a and *ptr\r Example2:\r        int a1 = 0;\r        int *ptr1 = &a1;\r        *ptr1 = *ptr1 + 10;\r        cout <<a1<<\" Address a  \"<<&a1<<endl;\r        cout <<*ptr1<<\" Address in ptr \"<<ptr1<<endl;\rin this example address and value are same."}
+{"i": "14261680", "t": "Do the post order traversal of a binary search tree in iterative manner. You cannot use recursion. (Hint: You can use stack)"}
+{"i": "14259683", "t": "How to merge the 2 BST, \rin 1)  O(n)\rin 2)  O(log n)\r?"}
+{"i": "14259670", "t": "Explain the output:\r#include <stdio.h>\rint main() {\rint x = 1;\rx=++x/x++;\rprintf(\"%d\\n\",x);\r}"}
+{"i": "14259664", "t": "How to design three stacks using one array ?\r Also,Is there any option by which you can delete questions submitted by you ? Please let me know."}
+{"i": "14260662", "t": "Find the number of substrings of a string that are palindromes."}
+{"i": "14230667", "t": "Find duplicates in Array. I presented solution in O(n) time and space using hash. Finally did it in O(n) time and constant space. Assumption: range of numbers is known."}
+{"i": "14190690", "t": "Reverse a Linked List. Iterative and then recursive."}
+{"i": "14223665", "t": "Reverse words : \"I love to play\" becomes \"play to love I\".\rHe wanted it to be done in place."}
+{"i": "14214758", "t": "A 2d matrix is given filled with 1's and 0's. It is given that all 1's in a row come before all\rthe 0's. Design an algorithm for finding the maximum number of 1's in a row."}
+{"i": "14241695", "t": "Given an array which contains the parent  of the ith element in the n-ary tree.Parent[i] = -1 for root.\rFind the height of the tree.\rGave O(n2) ,space O(1).\rExpected Complexity- Linear\rYou can use extra space if you want.\rExample-\r{-1 0 1 6 6 0 0 2 7}\r  0  1 2 3 4 5 6 7 8\r0 is the root here.\r0 is the parent of 1 5 6 \r1 is parnt of 2\r6 is parent of 3 4 \r2 is of 7 which is parent of 8."}

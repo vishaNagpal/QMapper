@@ -100,10 +100,6 @@ const UploaderComponent: React.FunctionComponent = function () {
 
     return (<>
         <section className='flex-box'>
-            <article>
-                {/* <img ref={previewRef} id="preview" width="200" alt='' src='file:///Users/vishakha.nagpal/development/my_workspace/QMapper/src/uploads/6.docx' /> */}
-                {/* <iframe src="http://127.0.0.1:5000/get-files/6.docx" title="W3Schools Free Online Web Tutorials"></iframe> */}
-            </article>
             <article style={{ position: 'relative', borderRight: '1px solid #e1e1e1', margin: '0 50px', padding: '0 50px' }}>
                 <p className='uploadButton button'
                     onClick={() => { uploadRef.current?.click() }}

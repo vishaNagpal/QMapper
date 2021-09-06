@@ -1,0 +1,30 @@
+{"i": "14807769", "t": "Given an unsorted array. \rWith each number, we can associated a sum which is equal to the sum of all the numbers, less than the current number.    \rWe've to find the total sum of all those numbers. \re.g. unsorted array :1, 5, 3, 6, 4.\rfor a[0]=1, sum[0]=0\rfor a[1]=5, sum[1]=1  \rfor a[2]=3, sum[2]=1\rfor a[3]=6, sum[3]=1+5+3\rfor a[4]=4, sum[4]=1+3\rtotal sum =sum[0]+sum[1]+sum[2]+sum[3]+sum[4] = 15"}
+{"i": "14809764", "t": "Write the recursive implementation of DFS and BFS for an n-ary tree. Tree node has an int data item, and a linked list \"children\" of nodes."}
+{"i": "14803752", "t": "Write a program to traverse and return all nodes of an n-ary tree(note: not a binary tree)."}
+{"i": "14800756", "t": "Given an array of integers,which is sorted and then rotated,\rFind the index where the rotation happens"}
+{"i": "14807748", "t": "Given a binary tree,Sum all the values of leaves ."}
+{"i": "14826679", "t": "Find the first common ancestor of two nodes in a binary tree (note not a BST)."}
+{"i": "14826678", "t": "In Excel sheet rows are marked using integer numbers like 1,2,3 but the columns are marked using characters. Like A, B and C.\r so here column 0 = A (assuming column starting with 0)\rcolumn 1 = B\rcolumn 25 = Z\rcolumn 26 = AA\rcolumn 100 = CW\r Q. Write a program to give the string representation of column for given integer."}
+{"i": "14796749", "t": "Given a sum find(print) all 2 numbers and their index positions from an un-ordered array that add up the sum value. 1 4 4 3 7 5 8 as array and sum =8 . \rSo here the code should print 1 (index 0) + 7(index 4)\r4(index 1)+ 4(index2), and so on.."}
+{"i": "14801737", "t": "How do you test a Calendar? (eg. An outlook calendar or google calendar)"}
+{"i": "14809750", "t": "Rotating K times a Linked List\rGiven: k=3\rLinkedList:  10->20->30->40->50->60->70->80\r Output:\rSry, I dont remember the exact output as the list was almost zigzag sorted like:\r30->40->10->20->60->50->70->80 \r any possibles hunches for a valid qn...?"}
+{"i": "14805734", "t": "Sort the Arrays without using extra spaces.\r Input:\rArray1 = {5,4,6};\rArray2 = {13,2,1,18,[] ,[] ,[]};\r Output:\rArray2 = {1,2,4,5,6,13,18}"}
+{"i": "14806737", "t": "Print a rectangle on screen only if it doen't intersect with other rectangles which are already drawn on screen.Minimise number of comparisons\rNote :- the rectangles are axis-aligned"}
+{"i": "14813689", "t": "Write a code to generate Pascals triangle of any level."}
+{"i": "14800717", "t": "If there are two threads in your app - T1 and T2. T2 has high priority. However, for some reason the priority decreases automatically. What could be the reason? How will you debug it? How will you fix it so that pririty stays the same, no matter what."}
+{"i": "14815676", "t": "how to find second shortest path in graph?"}
+{"i": "14803706", "t": "Generate all possible combinations (of r elements) inside an array of size N\rE.g. arr [] = {2,8,14} All possible combinations of r=2 will be {2,8}, {8,14}, {14,2}"}
+{"i": "14807708", "t": "Print an order of all the knight moves such that it fills up an 8 by 8 chess board. The moves should be such that no block that has been stepped on is visited again."}
+{"i": "14804702", "t": "I have a list of N teams T1, T2, T3 \u2026 Tn. Each of these teams has played a match against every other team. I have a function displayResult(Team T1, Team T2), it returns the team which won the match between any two given teams T1 and T2.\rI have to write the teams in an order such the (n-1)th team (in the order) had lost to the nth team which in turn had lost to (n+1)th team..Write Code"}
+{"i": "14797701", "t": "Find the mean and median of the elements which are dynamically added at runtime."}
+{"i": "14805703", "t": "Given a sorted but rotated array. Search an element inside it without finding the pivot. Complexity of the solution should still remain O(Log n)"}
+{"i": "14815667", "t": "Given a sorted but rotated array. Find the pivot."}
+{"i": "14800705", "t": "How will you implement a stack using a priority queue. Push and pop should be in O(1)."}
+{"i": "14801694", "t": "What data structures will you use to implement a text editor. Size of editor can be changed and you also need to save the styling information for all the text like italic, bold etc."}
+{"i": "14801686", "t": "Generate a random 4 letter word from /usr/share/dict/words"}
+{"i": "14804692", "t": "A file contains a billion integers, try to find any one integer that is not in the file."}
+{"i": "14813666", "t": "How would you implement hash table on your own? Write the code for implementing your own hash table?"}
+{"i": "14804690", "t": "If you wanted to make a highly concurrent cache with a least recently used replacement policy, what data structures would you use? How would this scale per number of threads?"}
+{"i": "14795684", "t": "Given an array { -2 3 5 0 -3 7 -1}. Sort the array in such a way that array should contain -ve numbers first and then zero and then all +ve numbers. (Note: order of +ve number and order of -ve numbers  should be same after sorting). For ex: the o/p of above array is {-2 -3 -1 0 3 5 7}"}
+{"i": "14805690", "t": "Given 3 sorted arrays. Find(x,y,z), (where x is from 1st array, y is from 2nd array, and z is from 3rd array),  such that Max(x,y,z) - Min(x,y,z) is minimum."}
+{"i": "14797683", "t": "write an efficient algorithm to find whether a given number is a perfect square.\reg: 4 is a perfect square of 2. 5 is not a perfect square.\rnote : the input number can be very high."}

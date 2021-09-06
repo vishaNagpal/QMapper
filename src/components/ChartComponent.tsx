@@ -5,7 +5,7 @@ import { categoryList } from '../helper/Constants';
 
 interface IProps {
     pieDataList: IPieData[]
-    similarityObject: Record<string, ISimilarityItem | null> | null
+    similarityObject?: Record<string, ISimilarityItem | null> | null
 }
 
 const ChartComponent: React.FunctionComponent<IProps> = function ({ similarityObject, pieDataList }: IProps) {
@@ -25,7 +25,7 @@ const ChartComponent: React.FunctionComponent<IProps> = function ({ similarityOb
             paddingAngle={0}
             startAngle={0}
             data={pieDataList}
-            label={({ dataEntry }) => `${dataEntry.title} (${Math.round(dataEntry.percentage)})%`}
+            label={({ dataEntry }) => dataEntry.percentage ? `${dataEntry.title} (${Math.round(dataEntry.percentage)})%` : ''}
             labelPosition={50}
             labelStyle={{
                 fontSize: "5px",

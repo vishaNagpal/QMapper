@@ -1,0 +1,30 @@
+{"i": "14422680", "t": "How to find a place to insert new element effictively in a max heap implemented using tree and we dont know the index or no of element in tree."}
+{"i": "14428676", "t": "Given a boolean matrix where 0 represent the blank and 1 represent the dot.So,dots form a image.Find the number of images.i.e.\rYou have to find the number of blocks having continuous 1s.\r11000\r01001\r10011\r00000\r10101\rhere,it is 5 images."}
+{"i": "14430677", "t": "Delete the tree completely.Tree need not be a binary tree.\rWrite clean code."}
+{"i": "14428674", "t": "Given a1a2a3a4...anb1b2b3b4..bnc1c2c3..cn.\rConvert this array to\ra1b1c1a2b2c2...anbncn."}
+{"i": "14419675", "t": "Given a Binary tree,find the level at which the tree is complete.Complete Binary tree-All leaves should be at same level and every internal node should have two children.\rAsked to write both Recursive and iterative code."}
+{"i": "14418678", "t": "What are references in C++? Why do you need them when you have pointers?"}
+{"i": "14412847", "t": "Given any five random points on a integer grid, prove that the mid-point of at least one pair lies on the grid."}
+{"i": "14190916", "t": "You are given a graph-tree kind of Data structure such that it has no cylces( can also think of it as a n-ary tree). It is a undirected graph. You have to find out the node which, if taken as root, would result in making height of every node as min.( Or you can say it will be balanced)"}
+{"i": "14411827", "t": "Print first 'n' numbers of this series. \r2, 3,4,5,6,8,9,10,12,15,16,18,20...(Note: Each number of this series has prime divisors as only 2, 3  or 5)"}
+{"i": "14218842", "t": "You are blindfolded and placed in front a table with two jars. One jar has 50 red balls and other has 50 blue balls. What should be your strategy so that you pick up the red ball with more than 50% probability."}
+{"i": "14400861", "t": "write a program to  search by name or phone number(mobile or PNT)  in database(phonebook,directory..etc. ) for e.g query 'ry'\r its should display the all possible name which contain these word or letters .arya,surya,Marya,tarry,marry....etc.\r  some for phone numbers....."}
+{"i": "14400858", "t": "After creating Huffman tree, how to print the huffman code for each character which are the leaf nodes?\rleaf nodes contain:  character (ex:'a') and its frequency\rother nodes contain:  character '*' and sum of the frequency of the child nodes."}
+{"i": "14407823", "t": "Design the Class diagram for vending machine for Tea & Coffee. This machine can generate the diff type of tea like Cardemom, Elichi, Ginger. Same way 3 type of coffee. The thing is when you make the tea or coffee user can add n number of flavors like sugar, honey or etc."}
+{"i": "14090875", "t": "In your application, why is JAVA preferred over C++?"}
+{"i": "14414732", "t": "In your application, why database (story history) is used at client side and not on server side ?"}
+{"i": "14405845", "t": "how map is implemented? how insert and delete works?"}
+{"i": "14405844", "t": "Can we use \"char *\"  in map as a key?(note that he is not asking stl::string )"}
+{"i": "14413747", "t": "difference between deque and vectors. where deque can be preferred over vector? how deque is insert element works?"}
+{"i": "14413744", "t": "Give the output of the following code:#include<iostream>\r\nusing namespace std;\r\n\r\nint main()\r\n{\r\nint a=10,b=2;\r\nb=a+++a;\r\ncout<<b<<\" \"<<a\"\\n\";\r\nreturn 0;\r\n}"}
+{"i": "14410815", "t": "How to replace the m to m+5th bit of an int32 number in java?"}
+{"i": "14412819", "t": "How to create a Fiveton pattern in Java. But the twist is that the interviewer expected to keep track of the 5 objects , and once and object is gced, we should decrement the count and be able to create a new 5th object."}
+{"i": "14105956", "t": "Is it possible to find all permutations of given string in time O(n) ?"}
+{"i": "14090859", "t": "A table composed of N*M cells,each having a certain quantity of apples, is given. you start from the upper-left corner. At each step you can go down or right one cell.Design an algorithm to find the maximum number of apples you can collect ,if you are moving from upper-left corner to bottom-right corner."}
+{"i": "14407803", "t": "Write the code to trace a sum in  in BST from root node to leaf node(linked list implimentation) . Function takes 2 parameters,root node and the sum. If sum of elements  (any root->leaf) equal to the required sum function returns 1 else it should return 0."}
+{"i": "14410806", "t": "Write a code to compress a string- \rex  aaabbccd compress it to a3b2c2d1 .\r         aabbcc to a2b2c2\r  char*  functioncompress( char * a)\r{\r}"}
+{"i": "14105942", "t": "When one or many process try to access the queue and update it at same time, which IPC is used to avoid mutual exclusion..MUTEX or Semaphores"}
+{"i": "14190865", "t": "You are given a number of points on the XY-plane, [(x0,y0),(x1,y1),(x2,y2),...].\rA point (xi,yi) is dominant to another point (xj,yj) iff xi>xj and yi>yj.\rCalculate all pairs of points such that one dominates the other.\r A time complexity less then O(n*n) was required."}
+{"i": "14352788", "t": "what is the difference between IN , ANY and ALL in oracle?\r can anyone explain with an example?"}
+{"i": "14410775", "t": "how to manage memory in linux kernel?"}
+{"i": "14412766", "t": "How to stop recursion stack as soon as we find a result.\re.g. in a Tree recurion where the Order of the algo is O(n) and suppose we find the result just after 4 calls, can we empty the recursion stack and stop the ececution right away..."}

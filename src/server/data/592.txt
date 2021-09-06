@@ -1,0 +1,30 @@
+{"i": "58178", "t": "write a macro to give offset of particular field in structure.Like struct abc { int a,int b,char c}. Write a macro like offset(abc , c) to find offset of c from top."}
+{"i": "58177", "t": "reverse binary representation of number."}
+{"i": "58176", "t": "I have a number in float like 2.5. Store this number in int in such a way that store 2 in bits \r31-16 and 5 in 15-0.write a function to do that to convert it and vice versa."}
+{"i": "58175", "t": "print any tree without using recursion (difficult)"}
+{"i": "57964", "t": "What is \"group by\"?"}
+{"i": "57963", "t": "Difference between inner join & outer join"}
+{"i": "57962", "t": "Difference between final & finally"}
+{"i": "57961", "t": "What is the significance of virtual destructor?"}
+{"i": "57960", "t": "Discussion on virtual inheritance"}
+{"i": "57959", "t": "Different ways to pass parameters to a function (by value, by reference, by pointer). for the following cases.\r6.1 Basic data type (int, char etc)\r6.2 Array of integers\r6.3 an object of Structure\r6.4 an object of a class\r Discussed about possiblities of passing constant argument values (by reference, by pointer etc) & their syntax"}
+{"i": "57958", "t": "What is the effect by keeping a constructor private? (in terms of inheritance)"}
+{"i": "58174", "t": "Diference between deep copy & shallow copy"}
+{"i": "58173", "t": "What are local static variables? Its usage & comparison with global static variables & class level static data members"}
+{"i": "58172", "t": "Difference between Malloc vs Realloc"}
+{"i": "58171", "t": "Given a regular expression and a text, find the min no of replacements to be done."}
+{"i": "58170", "t": "Check if there is a common node in 2 linked lists."}
+{"i": "58169", "t": "How to find min element in a stack in O(1), where the only operations are Push and Pop."}
+{"i": "58168", "t": "Write code in any language to check if a string is a palindrome"}
+{"i": "57957", "t": "What happens if you write an integer to disk on one OS and read it on another OS? I said endianess and explained why it matters."}
+{"i": "57956", "t": "When asked to code fibonacci, I asked iteratively or recursively? He asked what's the trade-off between the two? Then I coded both. He said, there's a bug in your iterative solution. I looked and it and said, int's can be negative. He said, bingo. Then I said, \"but I made a precondition that the input is positive.\" He was like, oh okay and how would you check the condition? I said partitioned equivalence testing for <0,==0,>0."}
+{"i": "57955", "t": "What VTBL is and why it's useful?"}
+{"i": "57945", "t": "Print a binary tree in zig zag way... that is:\r......a.........\r....b....c.......\r..d...e...f...g..\r.h.i.j.k.l.m.n.o.\r should be printed as a-c-b-d-e-f-g-o-n-m-l-k-j-i-h\r what data structure will u use for that?"}
+{"i": "57944", "t": "Convert a binary tree to a binary search tree... inplace..."}
+{"i": "57938", "t": "Amazon uses a fixed price delivery from city A to city B.  How would you save this price info?"}
+{"i": "57937", "t": "Given an array of integers, partition the array into odd one side and even numbers other side."}
+{"i": "57936", "t": "Given an ancestor matrix for an n-ary tree where a[i][j]=1 if \"i\" is parent to \"j\", create the n-ary tree."}
+{"i": "57935", "t": "Create a balanced binary tree from a given link list"}
+{"i": "57934", "t": "Given a series of alphabetic letters, find the letter occurring second most."}
+{"i": "57933", "t": "Design a function to find whether a given tree is a mirror of another other tree."}
+{"i": "57929", "t": "This question was asked at a career fair. There is a string where each and every word is separated by one or more spaces. The string has to be modified in such a way that half of the spaces are put in the first half and the other half of the spaces in the next half with the characters in between. For example, if my initial string is \"This  is  test\"(there are totally four spaces), then the output should be\r\"  thisisatest  \"."}

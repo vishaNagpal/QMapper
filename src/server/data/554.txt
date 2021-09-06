@@ -1,0 +1,30 @@
+{"i": "260670", "t": "Find minimum number of characters that need to be inserted into a string (anywhere in the string) to make it a palindrome..(Hint: Interviewer expected a Dynamic Programming kind of solution)"}
+{"i": "254713", "t": "n teams having different number of members, how will you seat them around a round table such that two person from the same team cannot sit next to each other."}
+{"i": "254702", "t": "Write an algorithm to find the number of six digit numbers where the sum of the first three digits is equal to the sum of the last three digits."}
+{"i": "254667", "t": "Given a variation of a binary tree(not BST) in which each node has a parent, left and right pointer. The nodes do not have any key elements or any other data to identify itself. The root is the node that has a null parent pointer. You are given the pointers to two random nodes in the tree which may or may not be at the same level. Find the first common ancestor to the two random nodes given in the tree."}
+{"i": "254663", "t": "given a string and mapping for each character (\"abc\", a->A1, A2\retc.) find all combinations possible, like A1bc, A2bc, A1B1c etc."}
+{"i": "252727", "t": "what is the difference between sysfs and /dev and when would each be useful"}
+{"i": "251729", "t": "does declaring a global variable as a static have any affect on it from the point of view od accesibility"}
+{"i": "252706", "t": "There is puzzle about finding the celebrity among the group of people. I was given the matrix NxN mentioning people who know each and who dont.a b c d e\r\na 1 0 1 0 1\r\nb 0 1 1 1 0\r\nc 1 0 1 1 0\r\nd 1 1 1 1 1\r\ne 0 1 1 0 0Now in this case C is the celebrity. Need to find the algorithm for it O(N) and code it"}
+{"i": "251706", "t": "BFS a binary tree but print the last row in reverse order."}
+{"i": "251705", "t": "Given set of data-points on a number line and their classification, find the best split point."}
+{"i": "251699", "t": "Find if a given integer is a power of 2.Optimize it."}
+{"i": "252667", "t": "in this function for inserting the link list why do u check for head==null and why not *head==null and whats the diff\r insert(Node * head)\r{\rif(head==NULL)\rreturn ;\r...\r}"}
+{"i": "250700", "t": "Given 2 nodes in a binary tree, find their lowest common ancestor."}
+{"i": "251661", "t": "given an array of integers ( negative and positive ), how to you find the median ?"}
+{"i": "250694", "t": "Write a function that takes an array of five integers, each of which is between 1 and 10, and returns the number of combinations of those integers that sum to 15.  For example, calling the function with the array [1, 2, 3, 4, 5] should return 1, while calling it with [5, 5, 10, 2, 3] should return 4 (5 + 10, 5 + 10, 5 + 5 + 2 + 3, 10 + 2 + 3).  You may assume that the input has already been validated.  Show how you would test this function\r Asking help to provide both recursive and non-recursive solution."}
+{"i": "250692", "t": "Give an algorithm to find whether 2 given strings are ANAGRAMS or not. Write test cases."}
+{"i": "249693", "t": "Have you ever called any device's function?"}
+{"i": "250669", "t": "How would you reverse bits of an integer in an optimized way suitable for an embedded system?"}
+{"i": "249692", "t": "How would you implement a mutex?"}
+{"i": "249672", "t": "Write a function to shuffle cards"}
+{"i": "248715", "t": "Design an on line poker room?"}
+{"i": "249671", "t": "We have a stream of incoming numbers (say order#). how will you output the fist n smallest numbers. how will you store them?\r ans:-here we will be taking a array of n size and in that we will be storing the first N number's.after that we will be checking every new number in array for wheather any greater t number present in array .if we get we will keep that in the position of the replaced number else we will skip that new number as this won't be in the list of small number's..."}
+{"i": "248694", "t": "What are the disadvantages of using pointer?"}
+{"i": "246752", "t": "how to count no of occurrence of a particular word in a given file of text. [c/c++] And if file is very large hw will u go about it."}
+{"i": "248673", "t": "Given a document and a query of K words, how do u find the smallest window that covers all the words at least once in that document? (given you know the inverted lists of all K words, that is, for each word, you have a list of all its occurrrences). This one is really hard. Could someone propose an algorithm in O(n)?"}
+{"i": "246706", "t": "Given a character string, find out all the English words contained in the string. Optimize the solution."}
+{"i": "246692", "t": "I have a box full of red, blue and yellow balls. The probability of picking a red ball = probability of picking a blue ball = probability of picking a yellow ball = 1/3. The number of balls is large enough that picking one ball doesnt effect the probabilities. If I pick 3 balls at random from the bag, what is the probability that\ra) I get all 3 red balls?\rb) I get 1 red, 1 blue and 1 yellow ball?"}
+{"i": "247697", "t": "A man has 3 kids. The product of the ages of the three kids is 36. How will you systematically list out the possible combination s for the ages of the kids, without repetition?"}
+{"i": "246685", "t": "I had google interview today and i was asked to write my own vector class and implement functions like push_back and retrieve using index.. I did a very very bad job :-("}
+{"i": "244743", "t": "Find the median of 2 sorted arrays"}

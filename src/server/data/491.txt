@@ -1,0 +1,30 @@
+{"i": "4302051", "t": "Given two lists. Write a function to check whether both the lists are equivalent or not.\r(Two lists are said two be equivalent if both of them contain same elements with same frequencies in both the lists)."}
+{"i": "4344046", "t": "Convert a doubly linked list to BST in place"}
+{"i": "4280057", "t": "After writing the code I was asked to turn over the paper and create/draw ten test cases to test my program."}
+{"i": "4354077", "t": "Write a function that takes in two rectangles and returns true if the overlap and false if they do not."}
+{"i": "4356911", "t": "Write code to find the power set of a given set. for example if S={a,b} the power set is P={{},{a},{b},{a,b}}"}
+{"i": "4297048", "t": "Write code in C,C++ or java to find whether a given binary tree is mirror image of itself??"}
+{"i": "4307031", "t": "This is my biggest doubt, i feel people keep different ideas. The question is:\rDoes constructor return anything? Yes/No. Justify.\rAny person who has really done some research on that, let me know it. Some technical people think..YES(returns object of same type). some say NO......I feel NO and I have done some research. Please help me."}
+{"i": "4356905", "t": "Find kth smallest element from an unsorted array in linear time. worst case complexity should be O(n+k)\rwhere n is array size."}
+{"i": "4345015", "t": "Given an unsorted array provide two indices n1 and n2 such that if we only sort the elements between n1 and n2,then the whole array will become sorted.\rn1-n2 should be as minimum as possible."}
+{"i": "4281033", "t": "Delete duplicates from a sorted array in O(log n) time and O(1) space."}
+{"i": "4380761", "t": "Write an O(n) algo for finding two elemnts in an unsorted array which sum to a given element x.\rI told hashing.Then he told me to do without it because space complexity becomes high in case of hashing.\rI took around 30 minutes and was not able to find any other O(n) solution :("}
+{"i": "4327056", "t": "Explain me how would you solve the 8 queens problem .\r(Thank god he did not ask for the code)"}
+{"i": "4316023", "t": "Reverse a singly linked list under following restrictions.\r1) Cannot use additional n memory to create temporary list.\r2) List is immutable."}
+{"i": "4332014", "t": "Write an efficient recursive function for finding Fibonacci series .\r(Use backtracking to avoid finding the terms which are already been calculated)."}
+{"i": "4277042", "t": "Suppose i am using quick sort to sort an array using its middle element as pivot\ri.e. pivot=low+(high-low)/2.\rExplain with example the case when it will become O(n^2) instead of O(n log n)."}
+{"i": "4373744", "t": "How to do conditional compilation of a c program in unix"}
+{"i": "4280049", "t": "Convert a min heap to BST without changing its structure and of course no extra space ."}
+{"i": "4281027", "t": "Convert a BST to max heap without using extra memory and in as optimum time as possible"}
+{"i": "4361795", "t": "What are NP-complete and NP-hard problems \rexplain with examples"}
+{"i": "4322049", "t": "I was explaining the solution of a question by using hash table.\rThen he grilled me on that\rWhat is a hash table ......\rDesign your own hash table and write code for it \rProvide test cases \rFrom here the disaster started :(\rSo be careful before uttering any term, u should have enough confidence on that."}
+{"i": "4310998", "t": "Explain how to find the time complexity of a recursive function .....\rDerive time complexity of recursive postorder binary tree traversal .......\rI was screwed up by the derivation :'("}
+{"i": "4364748", "t": "Find all permutations of a string.\rI gave the following function .\r public static ArrayList<String> perm(String s)\r\t{\r\t\tif(s==null)\r\t\treturn null;\r\t\tif(s.length()<=1)\r\t\t{\r\t\t\tArrayList<String> a=new ArrayList<String>();\r\t\t\ta.add(s);\r\t\t\treturn a;\r\t\t}\r\t\tchar c=s.charAt(0);\r\t\tArrayList<String> a2=perm(s.substring(1,s.length()));\r\t\tfor(String s2:a2)\r\t\t{\r\t\t\tfor(int i=0;i<s2.length()+1;i++)\r\t\t\t{\r\t\t\t\tString s3=insert(s2,i,c);\r\t\t\t\ta.add(s3);\r\t\t\t}\r\t\t}\r\t\treturn a;\r\t}\r\tpublic static String insert(String s,int i,char c)\r\t{\r\t\tString s1=s.substring(0,i);\r\t\tString s2=s.substring(i);\r\t\tString s3=s1+c+s2;\r\t\treturn s3;\r\t}\r Then he asked me to find its time and space complexity in terms of n where n is the length of input string and also asked me to give test cases."}
+{"i": "4381704", "t": "What's the problem with this code ?\rclass A\r{ \r      public :\r      int x,y;\r      A(int i=0,int j=3):x(i),y(j) { }\r};\rint main()\r{\r    A a();\r    cout<<a.x<<a.y;\r}"}
+{"i": "4376689", "t": "given eight 8s: 8 8 8 8 8 8 8 8, add any number of \"+\"s between the 8's to make the sum equals 1000."}
+{"i": "4321967", "t": "given 5/2=3, what will be the output of 10/3?"}
+{"i": "4346961", "t": "two sorted arrays  e.g. A[1,3,5,7,9], B[2,4,8,10,11,15, null, null, null, null, null], merge A into B and get a sorted B as output.\rint[] doAction(int[] a, int[] b){\r}"}
+{"i": "4287968", "t": "input a binary tree, check if this is a binary search tree\rbool isBinarySearchTree(Node * root){\r}"}
+{"i": "4286920", "t": "You have a set of points across the globe as longitudes and latitudes. How would you find all the points that are within n miles?"}
+{"i": "4311927", "t": "how to read a pdf,doc... file in c o java"}
+{"i": "4304912", "t": "Given a string having 2n charecters as c1 c3 c5 c7...c2n-1 c2 c4 c6 .....c2n\rwrite an algorithm to rearrange the charecters so that the string will become as\rc1 c2 c3 c4 c5 ......c2n\rMax complexity of algo should be O(n)\rDo it without using extra storage"}

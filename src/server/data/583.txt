@@ -1,0 +1,30 @@
+{"i": "65071", "t": "find a duplicate number in an array"}
+{"i": "65070", "t": "write a string compression algorithm that takes strings like \"kitten\" and returns \"k4n\""}
+{"i": "65069", "t": "if you had an array of numbers from 0 to 1 million, how would you figure out the missing number"}
+{"i": "64878", "t": "write syntactically correct code for a power function that takes two arguments, x and y, and computers x^y"}
+{"i": "64863", "t": "Implement enqueue and dequeue for a stack.  \rclass stack\r{ \r  push(int i)\r  pop()\r  count() : count the number of elements in stack \r} is given."}
+{"i": "64256", "t": "Explain how memory leaks occur in java.  How would you check for them?"}
+{"i": "64255", "t": "Write a method to print all valid anagrams of a string"}
+{"i": "64254", "t": "Write a method to check if a number is power of 2"}
+{"i": "64253", "t": "Explain how polymorphism works."}
+{"i": "64252", "t": "Design spam filter"}
+{"i": "64251", "t": "How would you save a graph to a database?"}
+{"i": "64420", "t": "Compare and contrast SAX and DOM"}
+{"i": "64247", "t": "A semi-connected graph is a graph that for each pair of vertices u,v, there is either a path from u to v or a path from v to u. Give an algorithm to test if a graph is semi-connected."}
+{"i": "64183", "t": "Serialize a binary tree to a linked list."}
+{"i": "64372", "t": "Detect a cycle in graph(DFS)\rCount number of bits and asked me later to do it in O(1)"}
+{"i": "64177", "t": "Virtual functions and vtable...\rWhat happens when a Constructor gives a call to a virtual functions\rWhat if it is a pure virtual function"}
+{"i": "64152", "t": "In an unending stream of numbers, pick a number with equal probability."}
+{"i": "64338", "t": "Write code and test cases for traversing a linked list."}
+{"i": "64336", "t": "Imagine you are writing a webcrawler.  Write an algorithm to find the page most linked-to page on each website."}
+{"i": "64319", "t": "Design a stack of elevators."}
+{"i": "64116", "t": "Write code and test cases for reversing a C-style string."}
+{"i": "64115", "t": "In MS Excel, the column numbers are named as A, B, C, ......, Z. If you go beyond this 'Z' column you will encounter AA-->AZ, BA-->BZ, .... ZA-->ZZ then AAA-->AAZ, ABA-->ABZ, ........ and you can imagine how long this sequence can go! The question was to write a function which takes in a positive integer and \rreturns the character set at that column. For example: if column number is 26 my function must return 'AA' (0-based index). I basically started looking for any specific pattern if I can find for how many columns names are 1 letter, 2 letter, etc. fortunately there's a pattern involved. I couldn't solve the question completely as we ran out of time but interviewer seemed satisfied as I started by looking for a pattern and not sat down to code without giving a thought."}
+{"i": "64114", "t": "Write a function int Compare_Strings(char* str1, char* str2){...} such that the function returns +1, -1 or 0 based on whether str1 is LEXICOGRAPHICALLY greater, smaller or equal to\rstr2; the comparison should be case-insensitive. For example: \"abc\" is smaller than \"mno\" as 'a's ASCII value is less than 'm's. However, \"ABC\" and \"abc\" are equal.\rAlso discuss the test-cases."}
+{"i": "64279", "t": "How many oranges/spheres (each of diameter 10 units) can you fit into a box with a size = 100 X 100 X 100 units."}
+{"i": "64268", "t": "There are hundred prisoners each standing in a column. Each one is given a hat and there are two possible colors of hat which are red and white. The 100th person can see the hats of 99 people in front of him and the 99th person can see 98 people in front of him but can't see his own and the previous hat. The number of hats aren't known and the hats are placed in random order. Starting with the 100th person, each person is asked what color hat they have.  If they guess wrong, they die.  Come up with a strategy such that maximum people are alive. How many people are alive? (Do not use probability constraint given)"}
+{"i": "64063", "t": "given a directory tree, how can you find a subdirectory whose capacity is 100% full."}
+{"i": "64062", "t": "how can you periodically print the cpu usage of a given process id in Linux"}
+{"i": "63646", "t": "Given a finite set of SSNs or ZIP code, what data structure do you use for storage."}
+{"i": "64061", "t": "How can you serialize a binary tree"}
+{"i": "63460", "t": "Find intersection of two arrays"}
